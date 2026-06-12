@@ -27,4 +27,4 @@ Pensar que el AEBS sustituye la atención del conductor. No es así: ayuda en ca
 
 - [[sistemas-adas]]
 - [[../seguridad-vial/index|Seguridad vial]]
-- [[../prioridad/prioridad-de-paso|Prioridad de paso]]
+- [[index|Vehículo]]
