@@ -1,39 +1,61 @@
-<img src="attachments/foam-icon.png" width=100 align="left">
+# Teoría Permiso B
 
-# Foam
+Base de estudio en Foam para preparar el examen teórico del Permiso B en España.
 
-**👋 Welcome to your new Foam Knowledge Base!**
+El objetivo de este repositorio es guardar reglas, dudas, errores de test y resúmenes de forma enlazada, para poder repasar rápido y detectar patrones de fallo.
 
-## Getting started
+## Entrada principal
 
-This documentation assumes that you have a GitHub account and have [Visual Studio Code](https://code.visualstudio.com/) installed on your Linux/macOS/Windows machine.
+Empieza por [[mapa-permiso-b]].
 
-1. If you haven't yet, browse over to the main [Foam documentation](https://foambubble.github.io/foam) to get an idea of what Foam is and how to use it.
-2. Press "Use this template" button at [foam-template](https://github.com/foambubble/foam-template/generate) (that's this repository!) to fork it to your own GitHub account. If you want to keep your thoughts to yourself, remember to set the repository private.
-3. [Clone the repository to your local machine](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) and open it in VS Code.
+Desde ahí puedes navegar por los temas principales:
 
-    *Open the repository as a folder using the `File > Open...` menu item.*
+- [[senales/index|Señales]]
+- [[prioridad/index|Prioridad de paso]]
+- [[alumbrado/index|Alumbrado y señalización luminosa]]
+- [[maniobras/index|Maniobras]]
+- [[seguridad-vial/index|Seguridad vial]]
+- [[vehiculo/index|Vehículo]]
+- [[test-errores/index|Errores de test]]
+- [[resumenes/index|Resúmenes]]
 
-4. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one)
+## Flujo de trabajo
 
-After setting up the repository, head to [getting started](./getting-started.md) to get familiar with your new knowledge base!
+1. Apunta dudas rápidas en [[inbox]].
+2. Convierte cada duda importante en una nota temática.
+3. Guarda las preguntas falladas en [[test-errores/index]].
+4. Enlaza cada error con la regla correspondiente.
+5. Resume patrones repetidos en [[resumenes/index]].
 
-To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/user/recipes/recipes) bubbles of the Foam documentation workspace.
+## Formato recomendado para una regla
 
-And remember that you can always join our [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
+```md
+# Título de la regla
 
-## Using Foam
+Tags: #permiso-b #tema
 
-We've created a few Bubbles (Markdown documents) to get you started.
+## Regla
 
-- [inbox](./inbox.md) - a place to write down quick notes to be categorized later
-- [getting-started](./getting-started.md) - learn how to use your Foam workspace
-- [todo](./todo.md) - a place to keep track of things to do
+...
 
-In the `docs` directory you can find everything you need to learn the basics of Foam.
+## En mis palabras
 
-## Submitting Issues
+...
 
-As you may have noticed, issues are disabled. With the goal to keep the project fairly easy to maintain, please file your issues in the main Foam repository:
+## Idea clave para el examen
 
-> <https://github.com/foambubble/foam>
+...
+
+## Trampa habitual
+
+...
+
+## Relacionado
+
+- [[otra-nota]]
+```
+
+## Notas recientes
+
+- [[alumbrado/luces-amarillas-intermitentes]]
+- [[vehiculo/sistemas-adas]]
