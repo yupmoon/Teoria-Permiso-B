@@ -4,4 +4,4 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 
 ## Notas
 
-- Añadir aquí las reglas que aparezcan en los test.
+- [[sistemas-adas]]
