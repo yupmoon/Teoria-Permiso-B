@@ -4,4 +4,4 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 
 ## Notas
 
-- Añadir aquí las reglas que aparezcan en los test.
+- [Cuándo no se considera adelantar](./no-se-considera-adelantar.md)
