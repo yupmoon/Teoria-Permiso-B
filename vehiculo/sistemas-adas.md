@@ -23,6 +23,7 @@ Pensar que los ADAS permiten conducir sin atención. Es falso: son sistemas de a
 ## Ejemplos
 
 - [[aebs-frenado-emergencia]].
+- [[aviso-de-fatiga]].
 - [[rcta-alerta-trafico-cruzado]].
 - [[ldw-aviso-salida-carril]].
 - Aviso de cambio involuntario de carril.
@@ -33,12 +34,14 @@ Pensar que los ADAS permiten conducir sin atención. Es falso: son sistemas de a
 ## Relacionado
 
 - [[aebs-frenado-emergencia]]
+- [[aviso-de-fatiga]]
 - [[rcta-alerta-trafico-cruzado]]
 - [[ldw-aviso-salida-carril]]
 - [[seguridad-vial]]
 - [[vehiculo]]
 
 [aebs-frenado-emergencia]: aebs-frenado-emergencia.md "AEBS: frenado de emergencia"
+[aviso-de-fatiga]: aviso-de-fatiga.md "Aviso de fatiga"
 [rcta-alerta-trafico-cruzado]: rcta-alerta-trafico-cruzado.md "RCTA: alerta de tráfico cruzado"
 [ldw-aviso-salida-carril]: ldw-aviso-salida-carril.md "LDW: aviso de salida de carril"
 [seguridad-vial]: ../seguridad-vial/index.md "Seguridad vial"

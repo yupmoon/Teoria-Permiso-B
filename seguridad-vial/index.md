@@ -6,6 +6,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 
 - [[aebs-frenado-emergencia]]
 - [[apoyacabezas]]
+- [[aviso-de-fatiga]]
 - [[conduccion-con-hielo]]
 - [[distancia-de-detencion]]
 - [[distancia-de-frenado]]
@@ -16,6 +17,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 
 [aebs-frenado-emergencia]: ../vehiculo/aebs-frenado-emergencia.md "AEBS: frenado de emergencia"
 [apoyacabezas]: apoyacabezas.md "Apoyacabezas"
+[aviso-de-fatiga]: ../vehiculo/aviso-de-fatiga.md "Aviso de fatiga"
 [conduccion-con-hielo]: conduccion-con-hielo.md "Conducción con hielo"
 [distancia-de-detencion]: distancia-de-detencion.md "Distancia de detención"
 [distancia-de-frenado]: distancia-de-frenado.md "Distancia de frenado"
