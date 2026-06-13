@@ -1,0 +1,38 @@
+# Adelantamiento en poblado a ciclos y ciclomotores
+
+Tags: #permiso-b #maniobras #adelantamiento #poblado #ciclos #ciclomotores
+
+## Regla
+
+Cuando se adelante a un ciclo o ciclomotor en poblado, se debe dejar una [[separacion-lateral-adelantamiento]] <ins>no inferior a 1,50 metros</ins>.
+
+Esta regla es una excepción importante dentro de poblado: para otros vehículos, si no son ciclos o ciclomotores, se aplica un margen lateral de seguridad proporcional a la velocidad y a la anchura y características de la calzada.
+
+## En mis palabras
+
+En poblado, no todos los adelantamientos tienen una distancia fija. Pero si adelanto a un ciclo o a un ciclomotor, sí debo dejar 1,50 m, igual que en los casos importantes de [[adelantamiento-fuera-poblado-usuarios-vulnerables]].
+
+## Idea clave para el examen
+
+En poblado, ciclo o ciclomotor = <ins>1,50 m de separación lateral</ins>. Otros vehículos = margen proporcional.
+
+## Trampa habitual
+
+Pensar que los 1,50 m solo se aplican fuera de poblado. También se aplican en poblado al adelantar a ciclos o ciclomotores.
+
+## Base legal
+
+- Artículo 85.4 del Reglamento General de Circulación.
+- Artículo 35.4 del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.
+
+## Relacionado
+
+- [[separacion-lateral-adelantamiento]]
+- [[adelantamiento-fuera-poblado-usuarios-vulnerables]]
+- [[adelantar-usuarios-vulnerables-linea-continua]]
+- [[permiso-b-ciclomotores-y-movilidad-reducida]]
+
+[separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
+[adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
+[adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
+[permiso-b-ciclomotores-y-movilidad-reducida]: ../autorizaciones/permiso-b-ciclomotores-y-movilidad-reducida.md "Permiso B: ciclomotores y movilidad reducida"
