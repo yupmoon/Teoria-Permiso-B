@@ -6,7 +6,7 @@ Tags: #permiso-b #seguridad-vial #peatones #atropellos #velocidad
 
 En las ciudades es donde los peatones sufren más accidentes.
 
-Sin embargo, en las carreteras convencionales la probabilidad de resultar muerto en caso de atropello es <span class="exam-red">entre 2 y 3 veces mayor</span>, debido a la mayor velocidad de los vehículos.
+Sin embargo, en las carreteras convencionales la probabilidad de resultar muerto en caso de atropello es <mark>entre 2 y 3 veces mayor</mark>, debido a la mayor velocidad de los vehículos.
 
 ## En mis palabras
 

@@ -10,7 +10,7 @@ Si detecta un vehículo aproximándose, emite un aviso sonoro y/o visual.
 
 ## Intervención en los frenos
 
-Algunos fabricantes, si el conductor no reacciona ante el aviso, pueden llegar a intervenir en los frenos con la máxima fuerza en caso de colisión inminente, siempre que se circule a una velocidad <span class="exam-red">inferior a 15 km/h</span>.
+Algunos fabricantes, si el conductor no reacciona ante el aviso, pueden llegar a intervenir en los frenos con la máxima fuerza en caso de colisión inminente, siempre que se circule a una velocidad <mark>inferior a 15 km/h</mark>.
 
 ## En mis palabras
 

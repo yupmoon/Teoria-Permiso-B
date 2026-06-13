@@ -3,7 +3,8 @@
   background-color: #000000;
 }
 
-.exam-red {
+mark {
   color: #d00;
   font-weight: 700;
+  background: transparent;
 }
