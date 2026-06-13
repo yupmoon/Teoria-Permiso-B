@@ -16,7 +16,7 @@ El pictograma de autopista o autovía permite al conductor identificar rápidame
 
 ## Diferencia con la preseñalización
 
-A diferencia de las señales de preseñalización, los carteles de salida inmediata <span style="color: red; font-weight: bold;">no incluyen la distancia</span>.
+A diferencia de las señales de preseñalización, los carteles de salida inmediata <span class="exam-red">no incluyen la distancia</span>.
 
 Los carteles de salida inmediata adoptan el [[color-carteles-salida#Idea clave para el examen]].
 

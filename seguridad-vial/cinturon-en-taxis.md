@@ -13,11 +13,11 @@ En poblado, los conductores de taxi estarán exentos de utilizar el cinturón cu
 - Estén de servicio.
 - Circulen en tráfico urbano o áreas urbanas de grandes ciudades.
 
-La exención no se aplica en <font color="red"><strong>autopistas, autovías o carreteras convencionales que atraviesen la población</strong></font>.
+La exención no se aplica en <span class="exam-red">autopistas, autovías o carreteras convencionales que atraviesen la población</span>.
 
 ## Personas de menos de 135 cm
 
-Los taxis podrán transportar a personas con estatura inferior a <font color="red"><strong>135 centímetros</strong></font> sin utilizar un dispositivo de retención homologado, siempre que ocupen un asiento trasero.
+Los taxis podrán transportar a personas con estatura inferior a <span class="exam-red">135 centímetros</span> sin utilizar un dispositivo de retención homologado, siempre que ocupen un asiento trasero.
 
 ## En mis palabras
 
@@ -25,7 +25,7 @@ Los pasajeros sí deben usar cinturón. La excepción es para el conductor de ta
 
 ## Idea clave para el examen
 
-Pasajeros de taxi: cinturón obligatorio dentro y fuera de poblado. Conductor de taxi en servicio: exento en tráfico urbano, salvo <font color="red"><strong>autopistas, autovías o carreteras convencionales que atraviesen población</strong></font>.
+Pasajeros de taxi: cinturón obligatorio dentro y fuera de poblado. Conductor de taxi en servicio: exento en tráfico urbano, salvo <span class="exam-red">autopistas, autovías o carreteras convencionales que atraviesen población</span>.
 
 ## Trampa habitual
 
