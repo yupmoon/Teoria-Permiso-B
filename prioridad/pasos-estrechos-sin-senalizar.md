@@ -1,0 +1,33 @@
+# Pasos estrechos sin señalizar
+
+Tags: #permiso-b #prioridad-de-paso #pasos-estrechos #marcha-atras
+
+## Regla
+
+En un tramo de vía muy estrecho en el que no exista señalización de prioridad, tendrá preferencia de paso el vehículo que haya entrado primero.
+
+## En caso de duda
+
+Si hay duda sobre quién ha entrado primero, tendrá preferencia el vehículo con mayores dificultades de maniobra.
+
+Cuando uno de los vehículos tenga que dar marcha atrás, se aplica el [[orden-preferencia-pasos-estrechos]].
+
+## En mis palabras
+
+Primero se mira quién entró antes en el tramo estrecho. Si no se sabe, pasa el vehículo al que le resulte más difícil maniobrar o retroceder.
+
+## Idea clave para el examen
+
+Paso estrecho sin señal: primero el que entró antes; si hay duda, el de mayores dificultades de maniobra.
+
+## Trampa habitual
+
+Pensar que siempre pasa el vehículo más grande. Primero importa quién entró antes. El tamaño o dificultad de maniobra se usa si hay duda.
+
+## Relacionado
+
+- [[orden-preferencia-pasos-estrechos]]
+- [[prioridad-de-paso]]
+
+[orden-preferencia-pasos-estrechos]: orden-preferencia-pasos-estrechos.md "Orden de preferencia en pasos estrechos"
+[prioridad-de-paso]: prioridad-de-paso.md "Prioridad de paso"

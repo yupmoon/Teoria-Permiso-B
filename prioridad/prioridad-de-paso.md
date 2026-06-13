@@ -12,6 +12,14 @@ Cuando varias señales aparecen juntas, hay que respetar la más restrictiva si 
 
 ## Relacionado
 
-- [Luces amarillas intermitentes](../alumbrado/luces-amarillas-intermitentes.md)
-- [Señal de stop](../senales/senal-de-stop.md)
-- [Señales que obligan a detenerse](../senales/senales-que-obligan-a-detenerse.md)
+- [[luces-amarillas-intermitentes]]
+- [[orden-preferencia-pasos-estrechos]]
+- [[pasos-estrechos-sin-senalizar]]
+- [[senal-de-stop]]
+- [[senales-que-obligan-a-detenerse]]
+
+[luces-amarillas-intermitentes]: ../alumbrado/luces-amarillas-intermitentes.md "Luces amarillas intermitentes"
+[orden-preferencia-pasos-estrechos]: orden-preferencia-pasos-estrechos.md "Orden de preferencia en pasos estrechos"
+[pasos-estrechos-sin-senalizar]: pasos-estrechos-sin-senalizar.md "Pasos estrechos sin señalizar"
+[senal-de-stop]: ../senales/senal-de-stop.md "Señal de stop"
+[senales-que-obligan-a-detenerse]: ../senales/senales-que-obligan-a-detenerse.md "Señales que obligan a detenerse"
