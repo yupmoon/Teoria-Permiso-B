@@ -16,5 +16,16 @@ Link to a specific block:
 
 [permiso-b-vehiculos-especiales#En mis palabras]: <autorizaciones/permiso-b-vehiculos-especiales.md#En mis palabras> "Permiso B: vehículos especiales"
 
+Alias link test:
+[[permiso-b-vehiculos-especiales|vehículos especiales]]
+
+
+[permiso-b-vehiculos-especiales|vehículos especiales]: autorizaciones/permiso-b-vehiculos-especiales.md "Permiso B: vehículos especiales"
+
+Alias heading link test:
+[[permiso-b-vehiculos-especiales#En mis palabras|explicación de vehículos especiales]]
+
+
+[permiso-b-vehiculos-especiales#En mis palabras|explicación de vehículos especiales]: <autorizaciones/permiso-b-vehiculos-especiales.md#En mis palabras> "Permiso B: vehículos especiales"
 
 
