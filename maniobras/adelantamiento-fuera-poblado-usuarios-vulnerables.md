@@ -14,7 +14,7 @@ En todo caso, la separación lateral no será inferior a [[separacion-lateral-ad
 
 ## En mis palabras
 
-Fuera de poblado hay que abrir mucho espacio al adelantar a usuarios vulnerables o vehículos inmovilizados/de auxilio. Si hay otro carril para tu sentido, debes cambiarte entero. Con ciclos y ciclomotores, esta idea conecta con [[adelantamiento-en-poblado-ciclos-ciclomotores]], porque también exigen 1,50 m en poblado.
+Fuera de poblado hay que abrir mucho espacio al adelantar a usuarios vulnerables o vehículos inmovilizados/de auxilio. Si hay otro carril para tu sentido, debes cambiarte entero. Con ciclos y ciclomotores, esta idea conecta con [[adelantamiento-en-poblado-ciclos-ciclomotores]], porque también exigen 1,50 m en poblado. Otra regla separada afecta a [[adelantamiento-vehiculos-obligados-arcen]].
 
 ## Idea clave para el examen
 
@@ -28,11 +28,13 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 
 - [[separacion-lateral-adelantamiento]]
 - [[adelantamiento-en-poblado-ciclos-ciclomotores]]
+- [[adelantamiento-vehiculos-obligados-arcen]]
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [separacion-lateral-adelantamiento#Idea clave para el examen]: <separacion-lateral-adelantamiento.md#Idea clave para el examen> "Separación lateral en adelantamiento"
 [adelantamiento-en-poblado-ciclos-ciclomotores]: adelantamiento-en-poblado-ciclos-ciclomotores.md "Adelantamiento en poblado a ciclos y ciclomotores"
+[adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

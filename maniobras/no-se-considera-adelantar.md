@@ -24,7 +24,7 @@ No todo sobrepaso es un adelantamiento. Si el tráfico va muy denso y cada carri
 
 ## Idea clave para el examen
 
-Sobrepasar no siempre equivale a adelantar. Hay situaciones en las que la vía o la densidad del tráfico hacen que el sobrepaso no se considere adelantamiento.
+Sobrepasar no siempre equivale a adelantar. Hay situaciones en las que la vía o la densidad del tráfico hacen que el sobrepaso no se considere adelantamiento. Otra regla distinta es la de [[adelantamiento-vehiculos-obligados-arcen]], donde sí se habla de adelantar, pero con límites de marcha en paralelo.
 
 ## Trampa habitual
 
@@ -33,9 +33,11 @@ Pensar que cualquier vehículo que queda atrás ha sido adelantado. En el examen
 ## Relacionado
 
 - [[adelantar-usuarios-vulnerables-linea-continua]]
+- [[adelantamiento-vehiculos-obligados-arcen]]
 - [[separacion-lateral-adelantamiento]]
 - [[maniobras]]
 
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
+[adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [maniobras]: index.md "Maniobras"
