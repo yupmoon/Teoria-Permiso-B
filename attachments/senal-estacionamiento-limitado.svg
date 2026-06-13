@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-labelledby="title">
+  <title id="title">Senal de zona de estacionamiento limitado</title>
+  <rect x="18" y="18" width="184" height="184" rx="18" fill="#fff" stroke="#202020" stroke-width="8"/>
+  <circle cx="110" cy="100" r="62" fill="#0b5fa5" stroke="#e11d2e" stroke-width="18"/>
+  <line x1="68" y1="58" x2="152" y2="142" stroke="#e11d2e" stroke-width="14" stroke-linecap="round"/>
+  <text x="110" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#202020">LIMITADO</text>
+</svg>

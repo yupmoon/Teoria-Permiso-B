@@ -10,10 +10,21 @@ Algunas señales obligan a detener el vehículo. Una señal luminosa de precauci
 
 - Señal de stop.
 - Semáforo rojo.
-- Señales de agentes que ordenen detenerse.
+- [[agente-brazo-o-brazos-extendidos]].
+- [[agente-brazo-levantado-verticalmente]].
 
 ## Relacionado
 
-- [Señal de stop](./senal-de-stop.md)
-- [Luces amarillas intermitentes](../alumbrado/luces-amarillas-intermitentes.md)
-- [Prioridad de paso](../prioridad/prioridad-de-paso.md)
+- [[agente-brazo-o-brazos-extendidos]]
+- [[agente-brazo-levantado-verticalmente]]
+- [[luces-amarillas-intermitentes]]
+- [[prioridad-de-paso]]
+- [[senal-de-stop]]
+- [[senales-de-agentes]]
+
+[agente-brazo-o-brazos-extendidos]: agente-brazo-o-brazos-extendidos.md "Agente con brazo o brazos extendidos"
+[agente-brazo-levantado-verticalmente]: agente-brazo-levantado-verticalmente.md "Agente con brazo levantado verticalmente"
+[luces-amarillas-intermitentes]: ../alumbrado/luces-amarillas-intermitentes.md "Luces amarillas intermitentes"
+[prioridad-de-paso]: ../prioridad/prioridad-de-paso.md "Prioridad de paso"
+[senal-de-stop]: senal-de-stop.md "Señal de stop"
+[senales-de-agentes]: senales-de-agentes.md "Señales de agentes"

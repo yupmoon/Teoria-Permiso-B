@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-labelledby="title">
+  <title id="title">Senal de estacionamiento prohibido</title>
+  <circle cx="110" cy="110" r="78" fill="#0b4f86" stroke="#d71920" stroke-width="22"/>
+  <line x1="60" y1="60" x2="160" y2="160" stroke="#d71920" stroke-width="18" stroke-linecap="round"/>
+</svg>

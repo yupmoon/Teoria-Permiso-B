@@ -1,0 +1,29 @@
+# Agente con brazo extendido de arriba abajo
+
+Tags: #permiso-b #señales #agentes #velocidad
+
+## Regla
+
+El agente con el brazo extendido moviéndolo alternativamente de arriba abajo obliga a disminuir la velocidad a los conductores que se acerquen al agente por el lado correspondiente al brazo que ejecuta la señal y perpendicularmente a dicho brazo.
+
+## En mis palabras
+
+Esta señal no ordena detenerse directamente. Ordena reducir la velocidad a los conductores que se aproximan por el lado del brazo que se mueve.
+
+## Idea clave para el examen
+
+Brazo extendido moviéndose de arriba abajo: disminuir la velocidad.
+
+## Trampa habitual
+
+Confundirla con las señales de detención del agente. Esta señal obliga a reducir la velocidad, no necesariamente a detenerse.
+
+## Relacionado
+
+- [[senales-de-agentes]]
+- [[velocidad-moderada-segun-circunstancias]]
+- [[agente-brazo-levantado-verticalmente]]
+
+[senales-de-agentes]: senales-de-agentes.md "Señales de agentes"
+[velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
+[agente-brazo-levantado-verticalmente]: agente-brazo-levantado-verticalmente.md "Agente con brazo levantado verticalmente"
