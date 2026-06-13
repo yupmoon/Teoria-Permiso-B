@@ -5,8 +5,13 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 ## Notas
 
 - [[aebs-frenado-emergencia]]
+- [[adas-permitidos-examen]]
+- [[activacion-automatica-alumbrado-limpiaparabrisas]]
 - [[aviso-de-fatiga]]
+- [[camara-marcha-atras-sensores-aparcamiento]]
 - [[e-call-aviso-emergencia]]
+- [[ebd-aviso-frenada-emergencia]]
+- [[hill-holder]]
 - [[itv]]
 - [[itv-caravanas-remolcadas]]
 - [[itv-ciclomotores-dos-ruedas]]
@@ -16,10 +21,16 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 - [[ldw-aviso-salida-carril]]
 - [[rcta-alerta-trafico-cruzado]]
 - [[sistemas-adas]]
+- [[start-stop]]
 
 [aebs-frenado-emergencia]: aebs-frenado-emergencia.md "AEBS: frenado de emergencia"
+[adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
+[activacion-automatica-alumbrado-limpiaparabrisas]: activacion-automatica-alumbrado-limpiaparabrisas.md "Activación automática de alumbrado y limpiaparabrisas"
 [aviso-de-fatiga]: aviso-de-fatiga.md "Aviso de fatiga"
+[camara-marcha-atras-sensores-aparcamiento]: camara-marcha-atras-sensores-aparcamiento.md "Cámara de marcha atrás y sensores de aparcamiento"
 [e-call-aviso-emergencia]: e-call-aviso-emergencia.md "e-Call: aviso de emergencia"
+[ebd-aviso-frenada-emergencia]: ebd-aviso-frenada-emergencia.md "EBD: aviso de frenada de emergencia"
+[hill-holder]: hill-holder.md "Hill Holder"
 [itv]: itv.md "ITV"
 [itv-caravanas-remolcadas]: itv-caravanas-remolcadas.md "ITV: caravanas remolcadas"
 [itv-ciclomotores-dos-ruedas]: itv-ciclomotores-dos-ruedas.md "ITV: ciclomotores de dos ruedas"
@@ -29,3 +40,4 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 [ldw-aviso-salida-carril]: ldw-aviso-salida-carril.md "LDW: aviso de salida de carril"
 [rcta-alerta-trafico-cruzado]: rcta-alerta-trafico-cruzado.md "RCTA: alerta de tráfico cruzado"
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
+[start-stop]: start-stop.md "Start-Stop"

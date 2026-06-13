@@ -22,6 +22,8 @@ Pensar que solo los conductores de vehículos a motor están obligados. Los cicl
 
 ## Relacionado
 
+- [[tasa-de-alcoholemia]]
 - [[seguridad-vial]]
 
+[tasa-de-alcoholemia]: tasa-de-alcoholemia.md "Tasa de alcoholemia"
 [seguridad-vial]: index.md "Seguridad vial"

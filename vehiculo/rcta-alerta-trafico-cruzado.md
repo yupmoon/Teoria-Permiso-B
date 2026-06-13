@@ -8,17 +8,21 @@ El sistema RCTA, o alerta de tráfico cruzado, supervisa el tráfico trasero en 
 
 Si detecta un vehículo aproximándose, emite un aviso sonoro y/o visual.
 
+## Intervención en los frenos
+
+Algunos fabricantes, si el conductor no reacciona ante el aviso, pueden llegar a intervenir en los frenos con la máxima fuerza en caso de colisión inminente, siempre que se circule a una velocidad <span style="color: red; font-weight: bold;">inferior a 15 km/h</span>.
+
 ## En mis palabras
 
-El RCTA ayuda cuando salgo marcha atrás de un aparcamiento en batería y no veo bien los vehículos que vienen por detrás en sentido transversal.
+El RCTA ayuda cuando salgo marcha atrás de un aparcamiento en batería y no veo bien los vehículos que vienen por detrás en sentido transversal. Primero avisa; en algunos sistemas más avanzados puede llegar a frenar si el conductor no reacciona.
 
 ## Idea clave para el examen
 
-El RCTA es un [[sistemas-adas]] que avisa al conductor de tráfico cruzado al maniobrar marcha atrás.
+El RCTA es un [[sistemas-adas]] que avisa al conductor de tráfico cruzado al maniobrar marcha atrás. Algunos sistemas pueden intervenir en los frenos a baja velocidad.
 
 ## Trampa habitual
 
-Pensar que el sistema aparca o frena siempre por el conductor. La definición importante aquí es que supervisa y avisa del tráfico cruzado.
+Pensar que el sistema siempre frena por el conductor. La definición general es que supervisa y avisa; la frenada depende del sistema y se menciona para algunos fabricantes.
 
 ## Relacionado
 

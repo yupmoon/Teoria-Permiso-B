@@ -26,6 +26,8 @@ Confundir "aconsejable" con "obligatorio". En esta regla, los guantes se recomie
 
 ## Relacionado
 
+- [[traje-motocicleta]]
 - [[seguridad-vial]]
 
+[traje-motocicleta]: traje-motocicleta.md "Traje de motocicleta"
 [seguridad-vial]: index.md "Seguridad vial"
