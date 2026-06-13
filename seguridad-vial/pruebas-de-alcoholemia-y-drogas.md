@@ -1,0 +1,27 @@
+# Pruebas de alcoholemia y drogas
+
+Tags: #permiso-b #seguridad-vial #alcohol #drogas #alcoholemia
+
+## Regla
+
+Todos los conductores de vehículos y bicicletas están obligados a someterse a las pruebas que se establezcan para el control de alcoholemia y estupefacientes.
+
+También están obligados los demás usuarios de la vía cuando estén implicados en algún accidente de circulación.
+
+## En mis palabras
+
+La obligación no afecta solo a conductores de coches. También incluye a ciclistas y, si hay un accidente, puede afectar a otros usuarios de la vía implicados.
+
+## Idea clave para el examen
+
+Conductores de vehículos y bicicletas: obligados a someterse a las pruebas. Otros usuarios de la vía: obligados si están implicados en un accidente.
+
+## Trampa habitual
+
+Pensar que solo los conductores de vehículos a motor están obligados. Los ciclistas también lo están.
+
+## Relacionado
+
+- [[seguridad-vial]]
+
+[seguridad-vial]: index.md "Seguridad vial"

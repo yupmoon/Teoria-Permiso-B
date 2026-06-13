@@ -22,8 +22,12 @@ Pensar que solo mide el tiempo de conducción. Algunos sistemas también observa
 
 ## Relacionado
 
+- [[evitar-fatiga-conduciendo]]
 - [[sistemas-adas]]
 - [[seguridad-vial]]
+- [[sintomas-de-fatiga]]
 
+[evitar-fatiga-conduciendo]: ../seguridad-vial/evitar-fatiga-conduciendo.md "Evitar la fatiga conduciendo"
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
 [seguridad-vial]: ../seguridad-vial/index.md "Seguridad vial"
+[sintomas-de-fatiga]: ../seguridad-vial/sintomas-de-fatiga.md "Síntomas de fatiga"
