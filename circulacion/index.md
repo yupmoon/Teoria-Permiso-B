@@ -9,6 +9,7 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 - [[carril-bus-vao-vehiculos-prohibidos]]
 - [[carril-bus-vao-excepciones-un-ocupante]]
 - [[carril-bus-vao-distintivos-ambientales]]
+- [[incorporacion-carril-aceleracion]]
 - [[velocidad-moderada-segun-circunstancias]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 
@@ -17,5 +18,6 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 [carril-bus-vao-vehiculos-prohibidos]: carril-bus-vao-vehiculos-prohibidos.md "Carril BUS-VAO: vehículos prohibidos"
 [carril-bus-vao-excepciones-un-ocupante]: carril-bus-vao-excepciones-un-ocupante.md "Carril BUS-VAO: excepciones con un solo ocupante"
 [carril-bus-vao-distintivos-ambientales]: carril-bus-vao-distintivos-ambientales.md "Carril BUS-VAO: distintivos ambientales"
+[incorporacion-carril-aceleracion]: incorporacion-carril-aceleracion.md "Incorporación por carril de aceleración"
 [velocidad-moderada-segun-circunstancias]: velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [vehiculos-inmovilizados-o-estacionados]: vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
