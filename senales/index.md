@@ -7,6 +7,8 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 - [[agente-brazo-extendido-arriba-abajo]]
 - [[agente-brazo-levantado-verticalmente]]
 - [[agente-brazo-o-brazos-extendidos]]
+- [[cartel-salida-inmediata]]
+- [[color-carteles-salida]]
 - [[estacionamiento-prohibido]]
 - [[luces-amarillas-intermitentes]]
 - [[senal-de-stop]]
@@ -21,6 +23,8 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 [agente-brazo-extendido-arriba-abajo]: agente-brazo-extendido-arriba-abajo.md "Agente con brazo extendido de arriba abajo"
 [agente-brazo-levantado-verticalmente]: agente-brazo-levantado-verticalmente.md "Agente con brazo levantado verticalmente"
 [agente-brazo-o-brazos-extendidos]: agente-brazo-o-brazos-extendidos.md "Agente con brazo o brazos extendidos"
+[cartel-salida-inmediata]: cartel-salida-inmediata.md "Cartel de salida inmediata"
+[color-carteles-salida]: color-carteles-salida.md "Color de los carteles de salida"
 [estacionamiento-prohibido]: estacionamiento-prohibido.md "Estacionamiento prohibido"
 [luces-amarillas-intermitentes]: ../alumbrado/luces-amarillas-intermitentes.md "Luces amarillas intermitentes"
 [senal-de-stop]: senal-de-stop.md "Señal de stop"
