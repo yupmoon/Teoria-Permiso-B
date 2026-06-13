@@ -6,6 +6,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 
 - [[aebs-frenado-emergencia]]
 - [[apoyacabezas]]
+- [[atropellos-peatones-ciudad-carretera]]
 - [[aviso-de-fatiga]]
 - [[cinturon-de-seguridad]]
 - [[conduccion-con-hielo]]
@@ -17,6 +18,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 - [[exencion-casco-por-autoproteccion]]
 - [[guantes-en-motocicleta]]
 - [[ldw-aviso-salida-carril]]
+- [[pie-preparado-sobre-el-freno]]
 - [[pruebas-de-alcoholemia-y-drogas]]
 - [[rcta-alerta-trafico-cruzado]]
 - [[sistemas-adas]]
@@ -24,6 +26,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 
 [aebs-frenado-emergencia]: ../vehiculo/aebs-frenado-emergencia.md "AEBS: frenado de emergencia"
 [apoyacabezas]: apoyacabezas.md "Apoyacabezas"
+[atropellos-peatones-ciudad-carretera]: atropellos-peatones-ciudad-carretera.md "Atropellos de peatones en ciudad y carretera"
 [aviso-de-fatiga]: ../vehiculo/aviso-de-fatiga.md "Aviso de fatiga"
 [cinturon-de-seguridad]: cinturon-de-seguridad.md "Cinturón de seguridad"
 [conduccion-con-hielo]: conduccion-con-hielo.md "Conducción con hielo"
@@ -35,6 +38,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 [exencion-casco-por-autoproteccion]: exencion-casco-por-autoproteccion.md "Exención de casco por autoprotección"
 [guantes-en-motocicleta]: guantes-en-motocicleta.md "Guantes en motocicleta"
 [ldw-aviso-salida-carril]: ../vehiculo/ldw-aviso-salida-carril.md "LDW: aviso de salida de carril"
+[pie-preparado-sobre-el-freno]: pie-preparado-sobre-el-freno.md "Pie preparado sobre el freno"
 [pruebas-de-alcoholemia-y-drogas]: pruebas-de-alcoholemia-y-drogas.md "Pruebas de alcoholemia y drogas"
 [rcta-alerta-trafico-cruzado]: ../vehiculo/rcta-alerta-trafico-cruzado.md "RCTA: alerta de tráfico cruzado"
 [sistemas-adas]: ../vehiculo/sistemas-adas.md "Sistemas ADAS"

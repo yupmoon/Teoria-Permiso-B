@@ -10,6 +10,14 @@ Si el coche está saliendo del carril sin que el conductor haya puesto el interm
 
 El conductor es el encargado de corregir la trayectoria, devolver el vehículo dentro del carril y proseguir la marcha con seguridad. Hay sistemas más avanzados que incluso corrigen la variación de trayectoria del vehículo.
 
+## Cómo detecta el carril
+
+El sistema LDW, del inglés *Lane Departure Warning*, también se conoce en español como alerta de cambio involuntario de carril.
+
+Su misión es detectar continuamente las marcas viales de la carretera mediante sensores orientados hacia el suelo, como sensores infrarrojos.
+
+Puede leer marcas viales <span style="color: red; font-weight: bold;">continuas o discontinuas</span> en las vías de circulación.
+
 ## Cuándo permanece desactivado
 
 El sistema LDW permanece desactivado si:
@@ -19,7 +27,7 @@ El sistema LDW permanece desactivado si:
 
 ## En mis palabras
 
-El LDW avisa si el vehículo se sale del carril de forma involuntaria. Normalmente advierte al conductor, aunque algunos sistemas avanzados pueden corregir la trayectoria.
+El LDW lee las marcas viales y avisa si el vehículo se sale del carril de forma involuntaria. Normalmente advierte al conductor, aunque algunos sistemas avanzados pueden corregir la trayectoria.
 
 ## Idea clave para el examen
 
