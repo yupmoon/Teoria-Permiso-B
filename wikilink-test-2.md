@@ -17,8 +17,4 @@ Link to a specific block:
 [permiso-b-vehiculos-especiales#En mis palabras]: <autorizaciones/permiso-b-vehiculos-especiales.md#En mis palabras> "Permiso B: vehículos especiales"
 
 
-Link with alias:
-[[permiso-b-vehiculos-especiales|vehiculos especiales]]
 
-
-[permiso-b-vehiculos-especiales|]: autorizaciones/permiso-b-vehiculos-especiales.md "Permiso B: vehículos especiales"
