@@ -26,6 +26,8 @@ Pensar que durante el embarazo es mejor no usar cinturón. Es falso: sigue siend
 
 ## Relacionado
 
+- [[exencion-casco-por-autoproteccion]]
 - [[seguridad-vial]]
 
+[exencion-casco-por-autoproteccion]: exencion-casco-por-autoproteccion.md "Exención de casco por autoprotección"
 [seguridad-vial]: index.md "Seguridad vial"

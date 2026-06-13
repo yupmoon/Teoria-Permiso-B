@@ -13,9 +13,11 @@ Desde ahí puedes navegar por los temas principales:
 - [Señales](./senales/index.md)
 - [Prioridad de paso](./prioridad/index.md)
 - [Alumbrado y señalización luminosa](./alumbrado/index.md)
+- [Circulación](./circulacion/index.md)
 - [Maniobras](./maniobras/index.md)
 - [Seguridad vial](./seguridad-vial/index.md)
 - [Vehículo](./vehiculo/index.md)
+- [Autorizaciones del permiso B](./autorizaciones/index.md)
 - [Errores de test](./test-errores/index.md)
 - [Resúmenes](./resumenes/index.md)
 
