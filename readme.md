@@ -6,26 +6,26 @@ El objetivo de este repositorio es guardar reglas, dudas, errores de test y res�
 
 ## Entrada principal
 
-Empieza por [[mapa-permiso-b]].
+Empieza por [Mapa Permiso B](./mapa-permiso-b.md).
 
 Desde ahí puedes navegar por los temas principales:
 
-- [[senales/index|Señales]]
-- [[prioridad/index|Prioridad de paso]]
-- [[alumbrado/index|Alumbrado y señalización luminosa]]
-- [[maniobras/index|Maniobras]]
-- [[seguridad-vial/index|Seguridad vial]]
-- [[vehiculo/index|Vehículo]]
-- [[test-errores/index|Errores de test]]
-- [[resumenes/index|Resúmenes]]
+- [Señales](./senales/index.md)
+- [Prioridad de paso](./prioridad/index.md)
+- [Alumbrado y señalización luminosa](./alumbrado/index.md)
+- [Maniobras](./maniobras/index.md)
+- [Seguridad vial](./seguridad-vial/index.md)
+- [Vehículo](./vehiculo/index.md)
+- [Errores de test](./test-errores/index.md)
+- [Resúmenes](./resumenes/index.md)
 
 ## Flujo de trabajo
 
-1. Apunta dudas rápidas en [[inbox]].
+1. Apunta dudas rápidas en [Inbox](./inbox.md).
 2. Convierte cada duda importante en una nota temática.
-3. Guarda las preguntas falladas en [[test-errores/index]].
+3. Guarda las preguntas falladas en [Errores de test](./test-errores/index.md).
 4. Enlaza cada error con la regla correspondiente.
-5. Resume patrones repetidos en [[resumenes/index]].
+5. Resume patrones repetidos en [Resúmenes](./resumenes/index.md).
 
 ## Formato recomendado para una regla
 
@@ -52,10 +52,10 @@ Tags: #permiso-b #tema
 
 ## Relacionado
 
-- [[otra-nota]]
+- [Otra nota](./otra-nota.md)
 ```
 
 ## Notas recientes
 
-- [[alumbrado/luces-amarillas-intermitentes]]
-- [[vehiculo/sistemas-adas]]
+- [Luces amarillas intermitentes](./alumbrado/luces-amarillas-intermitentes.md)
+- [Sistemas ADAS](./vehiculo/sistemas-adas.md)

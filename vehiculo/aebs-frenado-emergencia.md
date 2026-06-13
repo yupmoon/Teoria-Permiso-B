@@ -17,7 +17,7 @@ El AEBS es un sistema de ayuda a la conducción que intenta evitar una colisión
 
 ## Idea clave para el examen
 
-El AEBS es un tipo de [[sistemas-adas|sistema ADAS]] que puede intervenir en los frenos para evitar una colisión o reducir sus consecuencias.
+El AEBS es un tipo de [sistema ADAS](./sistemas-adas.md) que puede intervenir en los frenos para evitar una colisión o reducir sus consecuencias.
 
 ## Trampa habitual
 
@@ -25,6 +25,6 @@ Pensar que el AEBS sustituye la atención del conductor. No es así: ayuda en ca
 
 ## Relacionado
 
-- [[sistemas-adas]]
-- [[../seguridad-vial/index|Seguridad vial]]
-- [[index|Vehículo]]
+- [Sistemas ADAS](./sistemas-adas.md)
+- [Seguridad vial](../seguridad-vial/index.md)
+- [Vehículo](./index.md)

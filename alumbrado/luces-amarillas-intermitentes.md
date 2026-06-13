@@ -12,7 +12,7 @@ Además, no eximen del cumplimiento de otras señales que obliguen a detenerse, 
 
 La luz amarilla intermitente no significa que pueda pasar sin más. Significa que debo circular con especial precaución y ceder el paso si la situación lo exige.
 
-Si junto a esa luz hay otra señal más restrictiva, como un [[senal-de-stop]], debo cumplirla igualmente.
+Si junto a esa luz hay otra señal más restrictiva, como una [señal de stop](../senales/senal-de-stop.md), debo cumplirla igualmente.
 
 ## Idea clave para el examen
 
@@ -24,6 +24,6 @@ Pensar que la luz amarilla intermitente sustituye al stop. Es falso: si hay stop
 
 ## Relacionado
 
-- [[senal-de-stop]]
-- [[prioridad-de-paso]]
-- [[senales-que-obligan-a-detenerse]]
+- [Señal de stop](../senales/senal-de-stop.md)
+- [Prioridad de paso](../prioridad/prioridad-de-paso.md)
+- [Señales que obligan a detenerse](../senales/senales-que-obligan-a-detenerse.md)

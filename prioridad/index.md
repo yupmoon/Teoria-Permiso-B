@@ -4,5 +4,5 @@ Reglas sobre quién pasa primero, cuándo hay que ceder el paso y cómo resolver
 
 ## Notas relacionadas
 
-- [[../alumbrado/luces-amarillas-intermitentes|Luces amarillas intermitentes]]
-- [[prioridad-de-paso]]
+- [Luces amarillas intermitentes](../alumbrado/luces-amarillas-intermitentes.md)
+- [Prioridad de paso](./prioridad-de-paso.md)

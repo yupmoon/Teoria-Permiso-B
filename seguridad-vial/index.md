@@ -4,5 +4,5 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 
 ## Notas
 
-- [[../vehiculo/aebs-frenado-emergencia|AEBS: frenado de emergencia]]
-- [[../vehiculo/sistemas-adas|Sistemas ADAS]]
+- [AEBS: frenado de emergencia](../vehiculo/aebs-frenado-emergencia.md)
+- [Sistemas ADAS](../vehiculo/sistemas-adas.md)

@@ -22,7 +22,7 @@ Pensar que los ADAS permiten conducir sin atención. Es falso: son sistemas de a
 
 ## Ejemplos
 
-- [[aebs-frenado-emergencia|AEBS o frenado de emergencia]].
+- [AEBS o frenado de emergencia](./aebs-frenado-emergencia.md).
 - Aviso de cambio involuntario de carril.
 - Control de crucero adaptativo.
 - Detector de ángulo muerto.
@@ -30,6 +30,6 @@ Pensar que los ADAS permiten conducir sin atención. Es falso: son sistemas de a
 
 ## Relacionado
 
-- [[aebs-frenado-emergencia]]
-- [[../seguridad-vial/index|Seguridad vial]]
-- [[index|Vehículo]]
+- [AEBS: frenado de emergencia](./aebs-frenado-emergencia.md)
+- [Seguridad vial](../seguridad-vial/index.md)
+- [Vehículo](./index.md)

@@ -27,5 +27,5 @@ Tags: #error-test #permiso-b
 
 ## Regla relacionada
 
-- [[nota-relacionada]]
+- [Nota relacionada](../ruta/a/la/nota.md)
 ```

@@ -4,5 +4,5 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 
 ## Notas
 
-- [[aebs-frenado-emergencia]]
-- [[sistemas-adas]]
+- [AEBS: frenado de emergencia](./aebs-frenado-emergencia.md)
+- [Sistemas ADAS](./sistemas-adas.md)

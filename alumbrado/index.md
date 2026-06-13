@@ -4,4 +4,4 @@ Notas sobre luces del vehículo, semáforos, luces intermitentes y señales lumi
 
 ## Notas
 
-- [[luces-amarillas-intermitentes]]
+- [Luces amarillas intermitentes](./luces-amarillas-intermitentes.md)
