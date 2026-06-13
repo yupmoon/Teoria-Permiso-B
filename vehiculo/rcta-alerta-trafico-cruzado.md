@@ -4,17 +4,17 @@ Tags: #permiso-b #vehiculo #seguridad-vial #adas #rcta
 
 ## Regla
 
-El sistema RCTA, o alerta de tráfico cruzado, supervisa el tráfico trasero en sentido transversal al salir marcha atrás de un hueco de aparcamiento en batería.
+El sistema RCTA, o alerta de tráfico cruzado, es un [[sistemas-adas]] que supervisa el tráfico trasero en sentido transversal al salir marcha atrás de un hueco de aparcamiento en batería.
 
 Si detecta un vehículo aproximándose, emite un aviso sonoro y/o visual.
 
 ## Intervención en los frenos
 
-Algunos fabricantes, si el conductor no reacciona ante el aviso, pueden llegar a intervenir en los frenos con la máxima fuerza en caso de colisión inminente, siempre que se circule a una velocidad <ins>inferior a 15 km/h</ins>.
+Algunos fabricantes, si el conductor no reacciona ante el aviso, pueden llegar a intervenir en los frenos con la máxima fuerza en caso de colisión inminente, de forma parecida a la lógica de [[aebs-frenado-emergencia]], siempre que se circule a una velocidad <ins>inferior a 15 km/h</ins>.
 
 ## En mis palabras
 
-El RCTA ayuda cuando salgo marcha atrás de un aparcamiento en batería y no veo bien los vehículos que vienen por detrás en sentido transversal. Primero avisa; en algunos sistemas más avanzados puede llegar a frenar si el conductor no reacciona.
+El RCTA ayuda cuando salgo marcha atrás de un aparcamiento en batería y no veo bien los vehículos que vienen por detrás en sentido transversal. Primero avisa; en algunos sistemas más avanzados puede llegar a frenar si el conductor no reacciona. Se relaciona con [[camara-marcha-atras-sensores-aparcamiento]] porque ambos ayudan en maniobras marcha atrás.
 
 ## Idea clave para el examen
 
@@ -27,9 +27,15 @@ Pensar que el sistema siempre frena por el conductor. La definición general es 
 ## Relacionado
 
 - [[sistemas-adas]]
+- [[adas-permitidos-examen]]
+- [[aebs-frenado-emergencia]]
+- [[camara-marcha-atras-sensores-aparcamiento]]
 - [[seguridad-vial]]
 - [[vehiculo]]
 
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
+[adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
+[aebs-frenado-emergencia]: aebs-frenado-emergencia.md "AEBS: frenado de emergencia"
+[camara-marcha-atras-sensores-aparcamiento]: camara-marcha-atras-sensores-aparcamiento.md "Cámara de marcha atrás y sensores de aparcamiento"
 [seguridad-vial]: ../seguridad-vial/index.md "Seguridad vial"
 [vehiculo]: index.md "Vehículo"

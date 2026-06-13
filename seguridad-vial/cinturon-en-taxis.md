@@ -8,7 +8,7 @@ Los pasajeros de un taxi están obligados a utilizar el [[cinturon-de-seguridad]
 
 ## Conductores de taxi
 
-En poblado, los conductores de taxi estarán exentos de utilizar el cinturón cuando:
+En poblado, los conductores de taxi estarán exentos de utilizar el [[cinturon-de-seguridad]] cuando:
 
 - Estén de servicio.
 - Circulen en tráfico urbano o áreas urbanas de grandes ciudades.
@@ -21,7 +21,7 @@ Los taxis podrán transportar a personas con estatura inferior a <ins>135 centí
 
 ## En mis palabras
 
-Los pasajeros sí deben usar cinturón. La excepción es para el conductor de taxi en servicio dentro de poblado urbano, y también hay una excepción para menores de 135 cm si van en asiento trasero.
+Los pasajeros sí deben usar [[cinturon-de-seguridad]]. La excepción es para el conductor de taxi en servicio dentro de poblado urbano, y también hay una excepción para menores de 135 cm si van en asiento trasero. Los taxis también aparecen en [[carril-bus-vao-excepciones-un-ocupante]].
 
 ## Idea clave para el examen
 

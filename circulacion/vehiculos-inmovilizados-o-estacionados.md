@@ -4,7 +4,7 @@ Tags: #permiso-b #circulacion #velocidad #poblado
 
 ## Regla fuera de poblado
 
-Fuera de poblado, al acercarse a vehículos inmovilizados en la calzada, los conductores deben circular a [[velocidad-moderada-segun-circunstancias]] y, si fuera preciso, detenerse.
+Fuera de poblado, al acercarse a vehículos inmovilizados en la calzada, los conductores deben circular a [[velocidad-moderada-segun-circunstancias]] y, si fuera preciso, detenerse. Si el vehículo inmovilizado supone una emergencia, debe señalizarse con [[senal-de-emergencia]].
 
 ## Regla dentro de poblado
 
@@ -14,7 +14,7 @@ Sí se debe reducir la velocidad si se percibe una situación peligrosa, por eje
 
 ## En mis palabras
 
-Fuera de poblado, un vehículo inmovilizado en la calzada es una situación de riesgo clara. Dentro de poblado, los coches estacionados son normales, pero hay que reaccionar si aparece un peligro concreto.
+Fuera de poblado, un vehículo inmovilizado en la calzada es una situación de riesgo clara. Dentro de poblado, los coches estacionados son normales, pero hay que reaccionar si aparece un peligro concreto. Esta regla se relaciona con [[adelantar-usuarios-vulnerables-linea-continua]] cuando se trata de obstáculos o vehículos inmovilizados ajenos a la circulación.
 
 ## Idea clave para el examen
 
@@ -27,7 +27,11 @@ Responder que siempre hay que reducir al pasar junto a vehículos estacionados d
 ## Relacionado
 
 - [[velocidad-moderada-segun-circunstancias]]
+- [[senal-de-emergencia]]
+- [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[circulacion]]
 
 [velocidad-moderada-segun-circunstancias]: velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
+[senal-de-emergencia]: ../alumbrado/senal-de-emergencia.md "Señal de emergencia"
+[adelantar-usuarios-vulnerables-linea-continua]: ../maniobras/adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [circulacion]: index.md "Circulación"

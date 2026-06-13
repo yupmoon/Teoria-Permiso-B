@@ -17,11 +17,11 @@ Los sistemas ADAS permitidos en los exámenes del permiso de conducción son:
 
 ## En mis palabras
 
-Estos sistemas pueden estar presentes y utilizarse durante el examen. Son ayudas a la conducción, pero no eliminan la responsabilidad del conductor.
+Estos sistemas pueden estar presentes y utilizarse durante el examen. Son [[sistemas-adas]] y ayudas a la conducción, pero no eliminan la responsabilidad del conductor.
 
 ## Idea clave para el examen
 
-ADAS permitidos en examen: <ins>Start-Stop, Hill Holder, luces/limpiaparabrisas automáticos, AEBS, RCTA, cámara/sensores de aparcamiento, aviso de fatiga y EBD</ins>.
+ADAS permitidos en examen: <ins>[[start-stop]], [[hill-holder]], [[activacion-automatica-alumbrado-limpiaparabrisas]], [[aebs-frenado-emergencia]], [[rcta-alerta-trafico-cruzado]], [[camara-marcha-atras-sensores-aparcamiento]], [[aviso-de-fatiga]] y [[ebd-aviso-frenada-emergencia]]</ins>.
 
 ## Trampa habitual
 

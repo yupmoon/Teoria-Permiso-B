@@ -7,16 +7,16 @@ Tags: #permiso-b #circulacion #carriles #bus-vao #excepciones
 También pueden utilizar el carril BUS-VAO, aunque solo los ocupe su conductor:
 
 - Los tipos de vehículos autorizados si ostentan la señal V-15, distintivo de movilidad reducida.
-- Motocicletas de dos o tres ruedas.
+- Motocicletas de dos o tres ruedas, relacionadas con [[permiso-b-motocicletas-a1]].
 - Autobuses con MMA superior a 3.500 kg.
 - Autobuses articulados.
-- Taxis con módulo luminoso exterior y licencia de taxi en vigor.
+- Taxis con módulo luminoso exterior y licencia de taxi en vigor, relacionados con [[cinturon-en-taxis]].
 - Vehículos de policía, extinción de incendios, protección civil, salvamento y asistencia sanitaria en servicio de urgencia.
 - Equipos de mantenimiento de las instalaciones y de la infraestructura de la vía.
 
 ## En mis palabras
 
-Algunos vehículos no necesitan llevar el número mínimo de ocupantes para usar el BUS-VAO. La norma los deja pasar incluso cuando solo va el conductor.
+Algunos vehículos no necesitan llevar el número mínimo de ocupantes para usar el [[carril-bus-vao]]. La norma los deja pasar incluso cuando solo va el conductor.
 
 ## Idea clave para el examen
 
@@ -31,7 +31,11 @@ Olvidar que el taxi necesita módulo luminoso exterior y licencia en vigor para 
 - [[carril-bus-vao]]
 - [[carril-bus-vao-vehiculos-permitidos]]
 - [[carril-bus-vao-distintivos-ambientales]]
+- [[permiso-b-motocicletas-a1]]
+- [[cinturon-en-taxis]]
 
 [carril-bus-vao]: carril-bus-vao.md "Carril BUS-VAO"
 [carril-bus-vao-vehiculos-permitidos]: carril-bus-vao-vehiculos-permitidos.md "Carril BUS-VAO: vehículos permitidos"
 [carril-bus-vao-distintivos-ambientales]: carril-bus-vao-distintivos-ambientales.md "Carril BUS-VAO: distintivos ambientales"
+[permiso-b-motocicletas-a1]: ../autorizaciones/permiso-b-motocicletas-a1.md "Permiso B y motocicletas A1"
+[cinturon-en-taxis]: ../seguridad-vial/cinturon-en-taxis.md "Cinturón en taxis"

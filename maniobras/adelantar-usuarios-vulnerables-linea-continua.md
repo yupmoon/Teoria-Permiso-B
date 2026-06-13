@@ -4,14 +4,14 @@ Tags: #permiso-b #maniobras #adelantamiento #linea-continua #usuarios-vulnerable
 
 ## Regla
 
-Los conductores pueden invadir el sentido contrario, <ins>pisando o atravesando incluso una línea continua</ins>, para adelantar a usuarios lentos y frágiles, obstáculos o vehículos inmovilizados ajenos a la circulación.
+Los conductores pueden invadir el sentido contrario, <ins>pisando o atravesando incluso una línea continua</ins>, para adelantar a usuarios lentos y frágiles, obstáculos o [[vehiculos-inmovilizados-o-estacionados]] ajenos a la circulación.
 
 ## Usuarios incluidos
 
 Esta regla puede aplicarse al adelantar a:
 
 - Bicicletas.
-- Ciclomotores.
+- [[permiso-b-ciclomotores-y-movilidad-reducida]].
 - Peatones.
 - Animales.
 - Vehículos de tracción animal.
@@ -20,7 +20,7 @@ Esta regla puede aplicarse al adelantar a:
 
 ## Condición
 
-La maniobra solo debe realizarse cuando pueda hacerse <ins>sin peligro</ins> y dejando la debida [[separacion-lateral-adelantamiento]].
+La maniobra solo debe realizarse cuando pueda hacerse <ins>sin peligro</ins> y dejando la debida [[separacion-lateral-adelantamiento]]. Fuera de poblado conecta con [[adelantamiento-fuera-poblado-usuarios-vulnerables]].
 
 ## En mis palabras
 
@@ -45,3 +45,4 @@ Pensar que una línea continua nunca se puede pisar. En esta situación concreta
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"
+[permiso-b-ciclomotores-y-movilidad-reducida]: ../autorizaciones/permiso-b-ciclomotores-y-movilidad-reducida.md "Permiso B: ciclomotores y movilidad reducida"

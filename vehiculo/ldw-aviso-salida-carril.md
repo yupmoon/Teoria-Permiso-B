@@ -4,7 +4,7 @@ Tags: #permiso-b #vehiculo #seguridad-vial #adas #ldw
 
 ## Regla
 
-El sistema LDW, o aviso de salida de carril, es un sistema de seguridad activa que detecta la variación de trayectoria del vehículo sobre el carril e interpreta cuándo esta es involuntaria.
+El sistema LDW, o aviso de salida de carril, es un [[sistemas-adas]] de seguridad activa que detecta la variación de trayectoria del vehículo sobre el carril e interpreta cuándo esta es involuntaria.
 
 Si el coche está saliendo del carril <ins>sin que el conductor haya puesto el intermitente</ins> en esa dirección, el sistema avisa al conductor de forma acústica o luminosa para evitar colisiones con otros vehículos o salidas de vía.
 
@@ -12,7 +12,7 @@ El conductor es el encargado de corregir la trayectoria, devolver el vehículo d
 
 ## Cómo detecta el carril
 
-El sistema LDW, del inglés *Lane Departure Warning*, también se conoce en español como alerta de cambio involuntario de carril.
+El sistema LDW, del inglés *Lane Departure Warning*, también se conoce en español como alerta de cambio involuntario de carril y se relaciona con otros [[adas-permitidos-examen]].
 
 Su misión es detectar continuamente las marcas viales de la carretera mediante sensores orientados hacia el suelo, como sensores infrarrojos.
 
@@ -40,9 +40,11 @@ Olvidar que el sistema no actúa igual si el conductor ha puesto el intermitente
 ## Relacionado
 
 - [[sistemas-adas]]
+- [[adas-permitidos-examen]]
 - [[seguridad-vial]]
 - [[vehiculo]]
 
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
+[adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
 [seguridad-vial]: ../seguridad-vial/index.md "Seguridad vial"
 [vehiculo]: index.md "Vehículo"

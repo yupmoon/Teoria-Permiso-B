@@ -4,13 +4,13 @@ Tags: #permiso-b #maniobras #adelantamiento #seguridad-lateral
 
 ## Regla
 
-Al adelantar a usuarios vulnerables, vehículos inmovilizados o vehículos de auxilio, se debe dejar una separación lateral suficiente.
+Al adelantar a usuarios vulnerables, [[vehiculos-inmovilizados-o-estacionados]] o vehículos de auxilio, se debe dejar una separación lateral suficiente.
 
 Fuera de poblado, la separación lateral <ins>no será inferior a 1,50 metros</ins>.
 
 ## En mis palabras
 
-La maniobra no consiste solo en pasar al otro usuario: hay que dejar espacio lateral para evitar ponerlo en peligro.
+La maniobra no consiste solo en pasar al otro usuario: hay que dejar espacio lateral para evitar ponerlo en peligro. Esta distancia se aplica especialmente en [[adelantamiento-fuera-poblado-usuarios-vulnerables]].
 
 ## Idea clave para el examen
 
@@ -24,6 +24,8 @@ Recordar que se puede invadir el sentido contrario, pero olvidar la distancia la
 
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[adelantamiento-fuera-poblado-usuarios-vulnerables]]
+- [[vehiculos-inmovilizados-o-estacionados]]
 
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
+[vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

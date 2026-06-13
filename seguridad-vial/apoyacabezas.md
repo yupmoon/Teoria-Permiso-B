@@ -4,7 +4,7 @@ Tags: #permiso-b #seguridad-vial #seguridad-pasiva #lesiones-cervicales
 
 ## Regla
 
-El apoyacabezas es un elemento importante de seguridad pasiva que puede reducir significativamente la probabilidad de sufrir lesiones cervicales.
+El apoyacabezas es un elemento importante de seguridad pasiva, igual que el [[cinturon-de-seguridad]], que puede reducir significativamente la probabilidad de sufrir lesiones cervicales.
 
 Su regulación adecuada es vital tanto en los asientos delanteros como en los traseros.
 
@@ -31,5 +31,7 @@ Pensar que solo importa en los asientos delanteros. También debe regularse corr
 ## Relacionado
 
 - [[seguridad-vial]]
+- [[cinturon-de-seguridad]]
 
 [seguridad-vial]: index.md "Seguridad vial"
+[cinturon-de-seguridad]: cinturon-de-seguridad.md "Cinturón de seguridad"

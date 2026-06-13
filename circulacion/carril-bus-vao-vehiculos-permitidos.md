@@ -6,7 +6,7 @@ Tags: #permiso-b #circulacion #carriles #bus-vao
 
 Con carácter general, pueden circular por el carril BUS-VAO, con el número de ocupantes que se fije por tramo:
 
-- Motocicletas de dos o tres ruedas.
+- Motocicletas de dos o tres ruedas, relacionadas con [[permiso-b-motocicletas-a1]].
 - Turismos.
 - Autobuses con MMA <ins>superior a 3.500 kg</ins>.
 - Autobuses articulados.
@@ -14,7 +14,7 @@ Con carácter general, pueden circular por el carril BUS-VAO, con el número de 
 
 ## En mis palabras
 
-La autorización general depende del tipo de vehículo y de los ocupantes exigidos en ese tramo del carril.
+La autorización general depende del tipo de vehículo y de los ocupantes exigidos en ese tramo del carril. Para excepciones con un solo ocupante, ver [[carril-bus-vao-excepciones-un-ocupante]].
 
 ## Idea clave para el examen
 
@@ -29,7 +29,9 @@ Olvidar que el número de ocupantes puede variar según el tramo.
 - [[carril-bus-vao]]
 - [[carril-bus-vao-excepciones-un-ocupante]]
 - [[carril-bus-vao-vehiculos-prohibidos]]
+- [[permiso-b-motocicletas-a1]]
 
 [carril-bus-vao]: carril-bus-vao.md "Carril BUS-VAO"
 [carril-bus-vao-excepciones-un-ocupante]: carril-bus-vao-excepciones-un-ocupante.md "Carril BUS-VAO: excepciones con un solo ocupante"
 [carril-bus-vao-vehiculos-prohibidos]: carril-bus-vao-vehiculos-prohibidos.md "Carril BUS-VAO: vehículos prohibidos"
+[permiso-b-motocicletas-a1]: ../autorizaciones/permiso-b-motocicletas-a1.md "Permiso B y motocicletas A1"

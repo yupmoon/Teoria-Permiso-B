@@ -6,11 +6,11 @@ Tags: #permiso-b #vehiculo #seguridad-vial #adas
 
 Los sistemas ADAS, del inglés *Advanced Driver Assistance Systems*, son un conjunto de sistemas instalados en el vehículo que prestan asistencia al conductor para aumentar la seguridad y facilitar la conducción.
 
-Estos sistemas pueden alertar de una situación de peligro e incluso intervenir en la dirección y/o en los frenos del vehículo para evitar una colisión o mitigar sus consecuencias.
+Estos sistemas pueden alertar de una situación de peligro e incluso intervenir en la dirección y/o en los frenos del vehículo para evitar una colisión o mitigar sus consecuencias, como ocurre en [[aebs-frenado-emergencia]] o en algunos casos de [[rcta-alerta-trafico-cruzado]].
 
 ## En mis palabras
 
-Los ADAS ayudan al conductor, pero no lo sustituyen. Sirven para mejorar la seguridad, avisar de riesgos y, en algunos casos, actuar sobre el vehículo si detectan peligro.
+Los ADAS ayudan al conductor, pero no lo sustituyen. Sirven para mejorar la seguridad, avisar de riesgos y, en algunos casos, actuar sobre el vehículo si detectan peligro. En el examen conviene distinguirlos de la lista concreta de [[adas-permitidos-examen]].
 
 ## Idea clave para el examen
 
