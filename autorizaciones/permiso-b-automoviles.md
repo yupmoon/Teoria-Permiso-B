@@ -24,8 +24,10 @@ Olvidar que las 9 plazas incluyen la del conductor.
 
 ## Relacionado
 
+- [[permiso-b-combustibles-alternativos-mercancias]]
 - [[permiso-b-remolques]]
 - [[autorizaciones]]
 
+[permiso-b-combustibles-alternativos-mercancias]: permiso-b-combustibles-alternativos-mercancias.md "Permiso B: mercancías con combustibles alternativos"
 [permiso-b-remolques]: permiso-b-remolques.md "Permiso B: remolques"
 [autorizaciones]: index.md "Autorizaciones del permiso B"
