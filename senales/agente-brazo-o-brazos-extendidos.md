@@ -8,7 +8,7 @@ La señal del agente con el brazo o los brazos extendidos obliga a detenerse a l
 
 ## Vigencia
 
-La señal permanece en vigor aunque el agente baje el brazo o los brazos, siempre que no cambie de posición o efectúe otra señal.
+La señal permanece en vigor aunque el agente baje el brazo o los brazos, **siempre que no cambie de posición o efectúe otra señal**.
 
 ## En mis palabras
 
@@ -16,7 +16,7 @@ El brazo extendido del agente corta determinadas trayectorias. Los usuarios que 
 
 ## Idea clave para el examen
 
-Brazo o brazos extendidos: detención para quienes se acerquen desde direcciones que corten la indicada por el brazo. Sigue vigente aunque baje el brazo si no cambia de posición ni hace otra señal.
+Brazo o brazos extendidos: detención para quienes se acerquen desde direcciones que corten la indicada por el brazo. Sigue vigente aunque baje el brazo **si no cambia de posición ni hace otra señal**.
 
 ## Trampa habitual
 
