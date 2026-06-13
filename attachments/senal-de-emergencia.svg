@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Senal de emergencia</title>
+  <desc id="desc">Resumen visual de la senal de emergencia, uso e instalacion.</desc>
+  <rect width="900" height="560" fill="#ffffff"/>
+  <g transform="translate(80 50)">
+    <path d="M90 0 L180 155 H0 Z" fill="#ef4444"/>
+    <path d="M90 30 L150 135 H30 Z" fill="#fef3c7"/>
+    <rect x="82" y="55" width="16" height="52" rx="8" fill="#ef4444"/>
+    <circle cx="90" cy="124" r="10" fill="#ef4444"/>
+    <text x="90" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">SENAL DE</text>
+    <text x="90" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">EMERGENCIA</text>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#111827">
+    <text x="380" y="75" font-size="24" font-weight="700">Funcionamiento</text>
+    <text x="380" y="110" font-size="19">Encendido simultaneo de todas</text>
+    <text x="380" y="135" font-size="19">las luces indicadoras de direccion</text>
+    <path d="M340 105 C300 105 285 155 245 160" stroke="#111827" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+
+    <text x="380" y="230" font-size="24" font-weight="700">Utilizacion</text>
+    <text x="380" y="265" font-size="19">Cualquier situacion de emergencia</text>
+    <text x="380" y="292" font-size="19">en vias urbanas e interurbanas</text>
+    <text x="380" y="319" font-size="19">de dia o de noche</text>
+    <text x="380" y="346" font-size="19">vehiculo detenido o en movimiento</text>
+    <path d="M340 245 C295 255 280 250 245 235" stroke="#111827" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+
+    <text x="90" y="380" font-size="24" font-weight="700">Instalacion</text>
+    <text x="90" y="415" font-size="19">Obligatoria: automoviles y remolques</text>
+    <text x="90" y="442" font-size="19">Opcional: motocicletas</text>
+    <path d="M170 350 C185 315 190 275 170 245" stroke="#111827" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+
+    <text x="610" y="225" font-size="24" font-weight="700">Advierte peligro</text>
+    <text x="610" y="260" font-size="19">Averia, accidente, caida de carga</text>
+    <text x="610" y="287" font-size="19">u otra emergencia temporal</text>
+
+    <rect x="635" y="355" width="125" height="70" rx="14" fill="#111827"/>
+    <rect x="650" y="368" width="34" height="24" rx="5" fill="#e5e7eb"/>
+    <rect x="710" y="368" width="34" height="24" rx="5" fill="#e5e7eb"/>
+    <circle cx="660" cy="435" r="14" fill="#111827" stroke="#fbbf24" stroke-width="7"/>
+    <circle cx="735" cy="435" r="14" fill="#111827" stroke="#fbbf24" stroke-width="7"/>
+    <path d="M625 348 l-30 -18 M625 376 l-35 0 M770 348 l30 -18 M770 376 l35 0" stroke="#facc15" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L7,3 z" fill="#111827"/>
+    </marker>
+  </defs>
+</svg>
