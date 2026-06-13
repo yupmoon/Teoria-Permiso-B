@@ -16,7 +16,7 @@ El sistema LDW, del inglés *Lane Departure Warning*, también se conoce en espa
 
 Su misión es detectar continuamente las marcas viales de la carretera mediante sensores orientados hacia el suelo, como sensores infrarrojos.
 
-Puede leer marcas viales <mark>continuas o discontinuas</mark> en las vías de circulación.
+Puede leer marcas viales <u>continuas o discontinuas</u> en las vías de circulación.
 
 ## Cuándo permanece desactivado
 

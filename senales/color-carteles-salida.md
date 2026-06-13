@@ -8,8 +8,8 @@ Los carteles de salida inmediata adoptan el color de la vía hacia la que nos di
 
 ## Colores
 
-- <mark>Blanco</mark>: si la salida conduce a una carretera convencional o multicarril.
-- <mark>Azul</mark>: si la salida conduce a una autopista o autovía.
+- <u>Blanco</u>: si la salida conduce a una carretera convencional o multicarril.
+- <u>Azul</u>: si la salida conduce a una autopista o autovía.
 
 ## En mis palabras
 

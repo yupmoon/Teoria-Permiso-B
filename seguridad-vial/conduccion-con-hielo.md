@@ -12,7 +12,7 @@ Si hay hielo en la calzada, lo aconsejable es:
 - Arrancar y circular en marchas largas.
 - Frenar muy suavemente.
 - Actuar sobre el volante y los pedales con suavidad.
-- <mark>Si el vehículo no tiene ABS</mark>, frenar con el motor siempre que sea posible.
+- <u>Si el vehículo no tiene ABS</u>, frenar con el motor siempre que sea posible.
 
 Se debe actuar de forma similar a la conducción con nieve.
 
