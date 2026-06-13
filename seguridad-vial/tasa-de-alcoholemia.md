@@ -4,15 +4,15 @@ Tags: #permiso-b #seguridad-vial #alcohol #alcoholemia
 
 ## Regla
 
-La tasa de alcoholemia se detecta en la sangre a los <u>5 minutos</u>.
+La tasa de alcoholemia se detecta en la sangre a los <ins>5 minutos</ins>.
 
-El pico máximo de alcoholemia se alcanza entre <u>30 y 90 minutos</u> después de beber.
+El pico máximo de alcoholemia se alcanza entre <ins>30 y 90 minutos</ins> después de beber.
 
 ## Evolución
 
 El alcohol tarda un tiempo en recorrer el organismo y ser metabolizado por el hígado.
 
-A partir del pico máximo, la tasa de alcoholemia comienza a descender lentamente y necesita <u>varias horas</u> para su eliminación total.
+A partir del pico máximo, la tasa de alcoholemia comienza a descender lentamente y necesita <ins>varias horas</ins> para su eliminación total.
 
 ## En mis palabras
 
