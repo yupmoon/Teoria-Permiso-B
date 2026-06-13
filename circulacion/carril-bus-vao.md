@@ -4,7 +4,7 @@ Tags: #permiso-b #circulacion #carriles #bus-vao
 
 ## Regla
 
-El carril BUS-VAO está reservado, con carácter general, para determinados vehículos y con el número de ocupantes que se fije por tramo.
+El carril BUS-VAO está reservado, con carácter general, para determinados vehículos y con <ins>el número de ocupantes que se fije por tramo</ins>.
 
 ## En mis palabras
 
@@ -12,7 +12,7 @@ No todos los vehículos pueden usar un carril BUS-VAO. Hay que mirar dos cosas: 
 
 ## Idea clave para el examen
 
-BUS-VAO = carril reservado. Hay vehículos permitidos, vehículos prohibidos y excepciones que pueden circular aunque solo viaje el conductor.
+BUS-VAO = carril reservado. Hay vehículos permitidos, vehículos prohibidos y excepciones que pueden circular <ins>aunque solo viaje el conductor</ins>.
 
 ## Trampa habitual
 

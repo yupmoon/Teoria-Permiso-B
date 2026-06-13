@@ -10,11 +10,11 @@ Su regulación adecuada es vital tanto en los asientos delanteros como en los tr
 
 ## Altura correcta
 
-El borde superior del apoyacabezas debe quedar situado entre el límite superior de la cabeza y la altura de los ojos.
+El borde superior del apoyacabezas debe quedar situado <ins>entre el límite superior de la cabeza y la altura de los ojos</ins>.
 
 ## Distancia correcta
 
-No debe existir espacio entre la cabeza del conductor y el apoyacabezas, o debe ser el menor posible. Nunca debe ser superior a 4 cm.
+No debe existir espacio entre la cabeza del conductor y el apoyacabezas, o debe ser el menor posible. Nunca debe ser <ins>superior a 4 cm</ins>.
 
 ## En mis palabras
 
@@ -22,7 +22,7 @@ El apoyacabezas debe quedar alto y cerca de la cabeza. Si está bajo o demasiado
 
 ## Idea clave para el examen
 
-El apoyacabezas protege frente a lesiones cervicales si está bien regulado: borde superior entre la parte alta de la cabeza y los ojos, y separación máxima de 4 cm.
+El apoyacabezas protege frente a lesiones cervicales si está bien regulado: borde superior <ins>entre la parte alta de la cabeza y los ojos</ins>, y separación máxima de <ins>4 cm</ins>.
 
 ## Trampa habitual
 

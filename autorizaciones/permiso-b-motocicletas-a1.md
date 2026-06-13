@@ -4,9 +4,9 @@ Tags: #permiso-b #autorizaciones #motocicletas #a1
 
 ## Regla
 
-El permiso B no autoriza por sí solo a conducir motocicletas.
+El permiso B <ins>no autoriza por sí solo</ins> a conducir motocicletas.
 
-Sin embargo, los conductores con permiso B y antigüedad superior a 3 años pueden conducir, dentro del territorio nacional, las motocicletas que permite el permiso A1.
+Sin embargo, los conductores con permiso B y <ins>antigüedad superior a 3 años</ins> pueden conducir, <ins>dentro del territorio nacional</ins>, las motocicletas que permite el permiso A1.
 
 ## En mis palabras
 
@@ -14,7 +14,7 @@ Con el permiso B recién obtenido no se pueden conducir motos. La excepción apa
 
 ## Idea clave para el examen
 
-Permiso B + antigüedad superior a 3 años + territorio nacional = motocicletas del A1.
+Permiso B + <ins>antigüedad superior a 3 años</ins> + <ins>territorio nacional</ins> = motocicletas del A1.
 
 ## Trampa habitual
 

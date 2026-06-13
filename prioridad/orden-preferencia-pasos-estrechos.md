@@ -23,8 +23,8 @@ Cuando en un tramo estrecho sin señalización uno de los vehículos tenga que d
 
 Cuando se trate de vehículos del mismo tipo, o de tipo diferente no incluido en la lista anterior, la preferencia será:
 
-1. El que tenga que dar marcha atrás mayor distancia.
-2. En caso de igualdad, el de mayor anchura, longitud o MMA.
+1. El que tenga que dar marcha atrás <ins>mayor distancia</ins>.
+2. En caso de igualdad, el de <ins>mayor anchura, longitud o MMA</ins>.
 
 ## En mis palabras
 
@@ -32,7 +32,7 @@ La lista favorece al vehículo que tendría más dificultad para maniobrar o ret
 
 ## Idea clave para el examen
 
-Si no se sabe quién entró primero en un paso estrecho, tiene preferencia el vehículo con más dificultad de maniobra. Si son del mismo tipo: mayor distancia marcha atrás; si empatan: mayor anchura, longitud o MMA.
+Si no se sabe quién entró primero en un paso estrecho, tiene preferencia el vehículo con más dificultad de maniobra. Si son del mismo tipo: <ins>mayor distancia marcha atrás</ins>; si empatan: <ins>mayor anchura, longitud o MMA</ins>.
 
 ## Trampa habitual
 

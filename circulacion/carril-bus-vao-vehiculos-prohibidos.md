@@ -8,9 +8,9 @@ Tienen prohibida la circulación por el carril BUS-VAO el resto de vehículos y 
 
 Entre ellos están incluidos:
 
-- Turismos con remolque.
-- Ciclos.
-- Ciclomotores.
+- <ins>Turismos con remolque</ins>.
+- <ins>Ciclos</ins>.
+- <ins>Ciclomotores</ins>.
 
 ## En mis palabras
 
@@ -18,7 +18,7 @@ Aunque un turismo pueda estar permitido en algunos casos, un turismo con remolqu
 
 ## Idea clave para el examen
 
-Prohibidos en BUS-VAO: turismos con remolque, ciclos y ciclomotores, salvo que una señalización específica disponga otra cosa.
+Prohibidos en BUS-VAO: <ins>turismos con remolque, ciclos y ciclomotores</ins>, salvo que una señalización específica disponga otra cosa.
 
 ## Trampa habitual
 

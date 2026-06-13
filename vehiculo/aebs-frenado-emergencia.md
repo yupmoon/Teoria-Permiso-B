@@ -9,7 +9,7 @@ El sistema AEBS, o frenado de emergencia urbano e interurbano, del inglés *Adva
 El sistema es capaz de detectar un peligro inminente y actuar de dos formas:
 
 - Avisando al conductor.
-- Si el conductor no atiende la advertencia, tomando el control del vehículo para detenerlo mediante una frenada de emergencia.
+- Si el conductor <ins>no atiende la advertencia</ins>, tomando el control del vehículo para detenerlo mediante una frenada de emergencia.
 
 ## En mis palabras
 
@@ -17,7 +17,7 @@ El AEBS es un sistema de ayuda a la conducción que intenta evitar una colisión
 
 ## Idea clave para el examen
 
-El AEBS es un tipo de [sistema ADAS](./sistemas-adas.md) que puede intervenir en los frenos para evitar una colisión o reducir sus consecuencias.
+El AEBS es un tipo de [sistema ADAS](./sistemas-adas.md) que puede <ins>intervenir en los frenos</ins> para evitar una colisión o reducir sus consecuencias.
 
 ## Trampa habitual
 

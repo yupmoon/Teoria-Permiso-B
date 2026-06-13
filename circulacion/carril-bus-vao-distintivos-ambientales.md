@@ -4,7 +4,7 @@ Tags: #permiso-b #circulacion #carriles #bus-vao #distintivos-ambientales
 
 ## Regla
 
-Los vehículos con distintivos ambientales CERO, ECO, B y C podrán acceder al carril BUS-VAO únicamente cuando así se indique mediante la señalización en carretera.
+Los vehículos con distintivos ambientales CERO, ECO, B y C podrán acceder al carril BUS-VAO <ins>únicamente cuando así se indique mediante la señalización en carretera</ins>.
 
 ## En mis palabras
 
@@ -12,7 +12,7 @@ Tener etiqueta ambiental no da permiso automático para usar el BUS-VAO. Solo pe
 
 ## Idea clave para el examen
 
-Distintivo ambiental CERO, ECO, B o C: acceso al BUS-VAO solo si lo permite la señalización.
+Distintivo ambiental CERO, ECO, B o C: acceso al BUS-VAO <ins>solo si lo permite la señalización</ins>.
 
 ## Trampa habitual
 

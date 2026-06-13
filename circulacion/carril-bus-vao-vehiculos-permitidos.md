@@ -8,7 +8,7 @@ Con carácter general, pueden circular por el carril BUS-VAO, con el número de 
 
 - Motocicletas de dos o tres ruedas.
 - Turismos.
-- Autobuses con MMA superior a 3.500 kg.
+- Autobuses con MMA <ins>superior a 3.500 kg</ins>.
 - Autobuses articulados.
 - Vehículos mixtos adaptables.
 
@@ -18,7 +18,7 @@ La autorización general depende del tipo de vehículo y de los ocupantes exigid
 
 ## Idea clave para el examen
 
-No basta con que el vehículo esté en la lista general: también hay que cumplir el número de ocupantes fijado para el tramo, salvo excepciones.
+No basta con que el vehículo esté en la lista general: también hay que cumplir <ins>el número de ocupantes fijado para el tramo</ins>, salvo excepciones.
 
 ## Trampa habitual
 

@@ -10,7 +10,7 @@ Si el conductor de una motocicleta cae al suelo, es mejor que tenga todas las pa
 
 ## Obligatoriedad
 
-La utilización de guantes no es obligatoria, pero sí aconsejable.
+La utilización de guantes <ins>no es obligatoria, pero sí aconsejable</ins>.
 
 ## En mis palabras
 
@@ -18,7 +18,7 @@ En una caída de moto, las manos suelen tocar el suelo y el asfalto puede causar
 
 ## Idea clave para el examen
 
-Los guantes en motocicleta son recomendables como seguridad pasiva, pero no obligatorios.
+Los guantes en motocicleta son recomendables como seguridad pasiva, pero <ins>no obligatorios</ins>.
 
 ## Trampa habitual
 

@@ -4,9 +4,9 @@ Tags: #permiso-b #señales #marcas-viales #velocidad #carriles
 
 ## Regla
 
-Si una señal de velocidad máxima pintada en el suelo está en un carril delimitado, esa velocidad máxima solo se aplica a dicho carril.
+Si una señal de velocidad máxima pintada en el suelo está en un carril delimitado, esa velocidad máxima <ins>solo se aplica a dicho carril</ins>.
 
-Si los carriles no están delimitados, se aplica a toda la calzada.
+Si los carriles <ins>no están delimitados</ins>, se aplica a <ins>toda la calzada</ins>.
 
 ## En mis palabras
 
@@ -14,7 +14,7 @@ Cuando la velocidad está pintada en un carril marcado, afecta solo a ese carril
 
 ## Idea clave para el examen
 
-Velocidad pintada en carril delimitado = solo ese carril. Sin carriles delimitados = toda la calzada.
+Velocidad pintada en carril delimitado = <ins>solo ese carril</ins>. Sin carriles delimitados = <ins>toda la calzada</ins>.
 
 ## Trampa habitual
 

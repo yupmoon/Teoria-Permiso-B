@@ -6,7 +6,7 @@ Tags: #permiso-b #autorizaciones #triciclos #cuadriciclos
 
 El permiso B autoriza a conducir vehículos de tres ruedas y cuatriciclos pesados.
 
-Para conducir triciclos de motor cuya potencia exceda de 15 kW, se exige tener al menos 21 años.
+Para conducir triciclos de motor cuya potencia <ins>exceda de 15 kW</ins>, se exige tener al menos <ins>21 años</ins>.
 
 ## En mis palabras
 
@@ -14,7 +14,7 @@ El permiso B incluye vehículos de tres ruedas y cuatriciclos pesados, pero si e
 
 ## Idea clave para el examen
 
-Permiso B autoriza vehículos de tres ruedas y cuatriciclos pesados. Triciclos de más de 15 kW: mínimo 21 años.
+Permiso B autoriza vehículos de tres ruedas y cuatriciclos pesados. Triciclos de <ins>más de 15 kW</ins>: mínimo <ins>21 años</ins>.
 
 ## Trampa habitual
 

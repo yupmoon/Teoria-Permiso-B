@@ -6,9 +6,9 @@ Tags: #permiso-b #vehiculo #itv #inspeccion-tecnica
 
 Los vehículos de uso privado dedicados al transporte de personas, excluidas motocicletas y ciclomotores, con capacidad de hasta 9 plazas incluido el conductor, deben pasar la inspección técnica periódica con esta frecuencia:
 
-- Hasta 4 años: exentos.
-- De 4 a 10 años: cada 2 años.
-- A partir de 10 años: cada año.
+- <ins>Hasta 4 años</ins>: exentos.
+- <ins>De 4 a 10 años</ins>: cada 2 años.
+- <ins>A partir de 10 años</ins>: cada año.
 
 ## En mis palabras
 
@@ -16,7 +16,7 @@ Para turismos privados de hasta 9 plazas, la ITV depende de la antigüedad del v
 
 ## Idea clave para el examen
 
-ITV en vehículo privado hasta 9 plazas: 0-4 exento, 4-10 cada 2 años, más de 10 anual.
+ITV en vehículo privado hasta 9 plazas: <ins>0-4 exento</ins>, <ins>4-10 cada 2 años</ins>, <ins>más de 10 anual</ins>.
 
 ## Trampa habitual
 

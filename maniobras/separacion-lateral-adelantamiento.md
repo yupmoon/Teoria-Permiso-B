@@ -6,7 +6,7 @@ Tags: #permiso-b #maniobras #adelantamiento #seguridad-lateral
 
 Al adelantar a usuarios vulnerables, vehículos inmovilizados o vehículos de auxilio, se debe dejar una separación lateral suficiente.
 
-Fuera de poblado, la separación lateral no será inferior a 1,50 metros.
+Fuera de poblado, la separación lateral <ins>no será inferior a 1,50 metros</ins>.
 
 ## En mis palabras
 
@@ -14,7 +14,7 @@ La maniobra no consiste solo en pasar al otro usuario: hay que dejar espacio lat
 
 ## Idea clave para el examen
 
-Separación lateral mínima fuera de poblado: 1,50 m.
+Separación lateral mínima fuera de poblado: <ins>1,50 m</ins>.
 
 ## Trampa habitual
 

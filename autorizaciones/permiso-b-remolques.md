@@ -4,11 +4,11 @@ Tags: #permiso-b #autorizaciones #remolques #mma
 
 ## Regla
 
-Los automóviles que autoriza el permiso B pueden llevar enganchado un remolque cuya masa máxima autorizada no exceda de 750 kg.
+Los automóviles que autoriza el permiso B pueden llevar enganchado un remolque cuya masa máxima autorizada <ins>no exceda de 750 kg</ins>.
 
-También pueden llevar remolques que superen los 750 kg, siempre que la MMA del conjunto no supere los 3.500 kg.
+También pueden llevar remolques que <ins>superen los 750 kg</ins>, siempre que la MMA del conjunto <ins>no supere los 3.500 kg</ins>.
 
-También se pueden conducir conjuntos compuestos por un vehículo tractor de los que autoriza el permiso B y un remolque o semirremolque cuya MMA exceda de 750 kg, siempre que la MMA del conjunto no exceda de 4.250 kg. Si el conjunto excede de 3.500 kg, será necesario superar una prueba de control de aptitudes y comportamientos.
+También se pueden conducir conjuntos compuestos por un vehículo tractor de los que autoriza el permiso B y un remolque o semirremolque cuya MMA exceda de 750 kg, siempre que la MMA del conjunto <ins>no exceda de 4.250 kg</ins>. Si el conjunto <ins>excede de 3.500 kg</ins>, será necesario superar una prueba de control de aptitudes y comportamientos.
 
 ## En mis palabras
 
@@ -18,9 +18,9 @@ Con el permiso B hay tres ideas importantes: remolque ligero hasta 750 kg, remol
 
 Permiso B con remolque:
 
-- Remolque hasta 750 kg.
-- Remolque de más de 750 kg si el conjunto no supera 3.500 kg.
-- Conjunto de más de 3.500 kg y hasta 4.250 kg: exige prueba de aptitudes y comportamientos.
+- Remolque <ins>hasta 750 kg</ins>.
+- Remolque de <ins>más de 750 kg</ins> si el conjunto <ins>no supera 3.500 kg</ins>.
+- Conjunto de <ins>más de 3.500 kg y hasta 4.250 kg</ins>: exige prueba de aptitudes y comportamientos.
 
 ## Trampa habitual
 

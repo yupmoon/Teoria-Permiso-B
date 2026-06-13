@@ -4,13 +4,13 @@ Tags: #permiso-b #seguridad-vial #casco #cinturon #ciclomotor
 
 ## Regla
 
-Cuando los vehículos cuenten con estructura de autoprotección y estén dotados de cinturones de seguridad, sus conductores y pasajeros estarán exentos de utilizar el casco de protección.
+Cuando los vehículos cuenten con <ins>estructura de autoprotección</ins> y estén dotados de <ins>cinturones de seguridad</ins>, sus conductores y pasajeros estarán exentos de utilizar el casco de protección.
 
-Para que exista esta exención, debe constar en la tarjeta de inspección técnica correspondiente o en el certificado de características del ciclomotor.
+Para que exista esta exención, debe constar en la <ins>tarjeta de inspección técnica</ins> correspondiente o en el <ins>certificado de características del ciclomotor</ins>.
 
 ## Obligación en este caso
 
-Si se aplica la exención de casco, los ocupantes están obligados a usar el [[cinturon-de-seguridad]].
+Si se aplica la exención de casco, los ocupantes están <ins>obligados a usar</ins> el [[cinturon-de-seguridad]].
 
 ## En mis palabras
 
@@ -18,7 +18,7 @@ Si el vehículo tiene una estructura que protege a los ocupantes y lleva cinturo
 
 ## Idea clave para el examen
 
-Estructura de autoprotección + cinturones + constancia en la documentación = exención de casco, pero obligación de usar cinturón.
+Estructura de autoprotección + cinturones + <ins>constancia en la documentación</ins> = exención de casco, pero <ins>obligación de usar cinturón</ins>.
 
 ## Trampa habitual
 

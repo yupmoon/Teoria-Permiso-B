@@ -8,21 +8,21 @@ Adaptar la conducción a las condiciones ambientales adversas es vital para circ
 
 Si hay hielo en la calzada, lo aconsejable es:
 
-- Disminuir la velocidad.
-- Arrancar y circular en marchas largas.
-- Frenar muy suavemente.
-- Actuar sobre el volante y los pedales con suavidad.
+- <ins>Disminuir la velocidad</ins>.
+- Arrancar y circular en <ins>marchas largas</ins>.
+- Frenar <ins>muy suavemente</ins>.
+- Actuar sobre el volante y los pedales <ins>con suavidad</ins>.
 - <ins>Si el vehículo no tiene ABS</ins>, frenar con el motor siempre que sea posible.
 
 Se debe actuar de forma similar a la conducción con nieve.
 
 ## Adherencia
 
-Con hielo, la adherencia es prácticamente nula. Las ruedas no responden bien al giro del volante y se puede notar la dirección muy suave.
+Con hielo, la adherencia es <ins>prácticamente nula</ins>. Las ruedas no responden bien al giro del volante y se puede notar la dirección muy suave.
 
 ## Distancia de frenado
 
-Con hielo, la [[distancia-de-frenado]] puede aumentar hasta 10 veces más.
+Con hielo, la [[distancia-de-frenado]] puede aumentar <ins>hasta 10 veces más</ins>.
 
 ## En mis palabras
 
@@ -30,7 +30,7 @@ Con hielo, el vehículo pierde mucho agarre. Hay que conducir con suavidad: poca
 
 ## Idea clave para el examen
 
-Hielo = adherencia casi nula. La respuesta correcta suele ir hacia reducir velocidad, usar marchas largas, actuar con suavidad y, si no hay ABS, frenar con el motor cuando sea posible.
+Hielo = <ins>adherencia casi nula</ins>. La respuesta correcta suele ir hacia reducir velocidad, usar marchas largas, actuar con suavidad y, si no hay ABS, frenar con el motor cuando sea posible.
 
 ## Trampa habitual
 

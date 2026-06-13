@@ -4,15 +4,15 @@ Tags: #permiso-b #señales #agentes #detencion
 
 ## Regla
 
-El brazo levantado verticalmente obliga a detenerse a todos los usuarios de la vía que se acerquen al agente, salvo a los conductores que no puedan hacerlo en condiciones de seguridad.
+El brazo levantado verticalmente obliga a detenerse a todos los usuarios de la vía que se acerquen al agente, <ins>salvo a los conductores que no puedan hacerlo en condiciones de seguridad</ins>.
 
 ## Lugar de detención
 
 La detención debe realizarse:
 
 - Ante la línea de detención más cercana.
-- Si no existe línea, inmediatamente antes del agente.
-- En una intersección, antes de entrar en ella.
+- Si no existe línea, <ins>inmediatamente antes del agente</ins>.
+- En una intersección, <ins>antes de entrar en ella</ins>.
 
 Después de esta señal, el agente puede indicar el lugar donde debe efectuarse la detención.
 
@@ -22,7 +22,7 @@ Brazo vertical del agente significa parar para todos los que se aproximan, excep
 
 ## Idea clave para el examen
 
-Brazo levantado verticalmente: detención para todos los usuarios que se acerquen, salvo imposibilidad de hacerlo con seguridad.
+Brazo levantado verticalmente: detención para todos los usuarios que se acerquen, <ins>salvo imposibilidad de hacerlo con seguridad</ins>.
 
 ## Trampa habitual
 

@@ -6,7 +6,7 @@ Tags: #permiso-b #señales #estacionamiento #zona-limitada
 
 ## Regla
 
-La señal indica una zona de estacionamiento de duración limitada y la obligación del conductor de indicar, de forma reglamentaria, la hora de comienzo del estacionamiento.
+La señal indica una zona de estacionamiento de duración limitada y la obligación del conductor de indicar, de forma reglamentaria, <ins>la hora de comienzo del estacionamiento</ins>.
 
 ## Información que puede incluir
 
@@ -22,7 +22,7 @@ Se puede estacionar, pero no libremente: hay límite de tiempo y puede haber obl
 
 ## Idea clave para el examen
 
-Zona de estacionamiento limitado = indicar hora de comienzo y respetar tiempo, horario y posible pago si la señal lo establece.
+Zona de estacionamiento limitado = <ins>indicar hora de comienzo</ins> y respetar tiempo, horario y posible pago si la señal lo establece.
 
 ## Trampa habitual
 

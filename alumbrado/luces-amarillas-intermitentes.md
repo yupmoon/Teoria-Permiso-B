@@ -4,9 +4,9 @@ Tags: #permiso-b #señales #prioridad-de-paso #alumbrado
 
 ## Regla
 
-Una luz amarilla, o dos luces amarillas alternativamente intermitentes, obligan a los conductores a extremar la precaución y, en su caso, a ceder el paso.
+Una luz amarilla, o dos luces amarillas alternativamente intermitentes, obligan a los conductores a <ins>extremar la precaución</ins> y, en su caso, a <ins>ceder el paso</ins>.
 
-Además, no eximen del cumplimiento de otras señales que obliguen a detenerse, como una señal de stop, que obliga a detener el vehículo.
+Además, <ins>no eximen del cumplimiento de otras señales que obliguen a detenerse</ins>, como una señal de stop, que obliga a detener el vehículo.
 
 ## En mis palabras
 
@@ -16,7 +16,7 @@ Si junto a esa luz hay otra señal más restrictiva, como una [señal de stop](.
 
 ## Idea clave para el examen
 
-Una luz amarilla intermitente advierte y exige precaución, pero no anula otras señales.
+Una luz amarilla intermitente advierte y exige precaución, pero <ins>no anula otras señales</ins>.
 
 ## Trampa habitual
 

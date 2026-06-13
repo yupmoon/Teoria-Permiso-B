@@ -4,19 +4,19 @@ Tags: #permiso-b #autorizaciones #combustibles-alternativos #mercancias #mma
 
 ## Regla
 
-Con el permiso B se pueden conducir dentro del territorio nacional, con una antigüedad superior a 2 años, automóviles sin remolque impulsados por combustibles alternativos destinados al transporte de mercancías con MMA superior a 3.500 kg pero que no exceda de 4.250 kg.
+Con el permiso B se pueden conducir <ins>dentro del territorio nacional</ins>, con una <ins>antigüedad superior a 2 años</ins>, automóviles <ins>sin remolque</ins> impulsados por combustibles alternativos destinados al transporte de mercancías con MMA <ins>superior a 3.500 kg pero que no exceda de 4.250 kg</ins>.
 
 ## Condiciones
 
 Para aplicar esta autorización:
 
-- El conductor debe tener permiso B con antigüedad superior a 2 años.
-- El vehículo debe circular dentro del territorio nacional.
-- El automóvil no debe llevar remolque.
+- El conductor debe tener permiso B con <ins>antigüedad superior a 2 años</ins>.
+- El vehículo debe circular <ins>dentro del territorio nacional</ins>.
+- El automóvil <ins>no debe llevar remolque</ins>.
 - Debe estar destinado al transporte de mercancías.
-- La MMA debe ser superior a 3.500 kg y no exceder de 4.250 kg.
-- La masa que supere los 3.500 kg debe proceder exclusivamente del exceso de masa del sistema de propulsión.
-- No debe incrementarse la capacidad de carga respecto al mismo vehículo.
+- La MMA debe ser <ins>superior a 3.500 kg y no exceder de 4.250 kg</ins>.
+- La masa que supere los 3.500 kg debe proceder <ins>exclusivamente del exceso de masa del sistema de propulsión</ins>.
+- <ins>No debe incrementarse la capacidad de carga</ins> respecto al mismo vehículo.
 
 ## Combustibles alternativos
 
@@ -33,7 +33,7 @@ Esta regla permite al permiso B conducir ciertos vehículos de mercancías algo 
 
 ## Idea clave para el examen
 
-Permiso B + más de 2 años + territorio nacional + mercancías sin remolque + combustible alternativo = hasta 4.250 kg si el exceso de masa viene solo del sistema de propulsión.
+Permiso B + <ins>más de 2 años</ins> + <ins>territorio nacional</ins> + mercancías <ins>sin remolque</ins> + combustible alternativo = <ins>hasta 4.250 kg</ins> si el exceso de masa viene solo del sistema de propulsión.
 
 ## Trampa habitual
 

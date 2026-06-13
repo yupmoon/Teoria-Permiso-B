@@ -12,9 +12,9 @@ También autoriza vehículos especiales agrícolas autopropulsados o conjuntos d
 
 Para vehículos especiales no agrícolas, el permiso B autoriza cuando:
 
-- No exceden de 40 km/h.
-- La MMA no supera 3.500 kg.
-- No exceden de 9 plazas, incluido el conductor.
+- <ins>No exceden de 40 km/h</ins>.
+- La MMA <ins>no supera 3.500 kg</ins>.
+- <ins>No exceden de 9 plazas, incluido el conductor</ins>.
 
 ## En mis palabras
 
@@ -22,7 +22,7 @@ Los vehículos especiales entran en el permiso B. Los agrícolas autopropulsados
 
 ## Idea clave para el examen
 
-Vehículo especial agrícola autopropulsado: autorizado. Vehículo especial no agrícola: máximo 40 km/h, MMA hasta 3.500 kg y máximo 9 plazas incluido el conductor.
+Vehículo especial agrícola autopropulsado: autorizado. Vehículo especial no agrícola: <ins>máximo 40 km/h</ins>, MMA <ins>hasta 3.500 kg</ins> y <ins>máximo 9 plazas incluido el conductor</ins>.
 
 ## Trampa habitual
 

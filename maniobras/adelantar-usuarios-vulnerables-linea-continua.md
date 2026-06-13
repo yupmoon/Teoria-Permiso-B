@@ -4,7 +4,7 @@ Tags: #permiso-b #maniobras #adelantamiento #linea-continua #usuarios-vulnerable
 
 ## Regla
 
-Los conductores pueden invadir el sentido contrario, pisando o atravesando incluso una línea continua, para adelantar a usuarios lentos y frágiles, obstáculos o vehículos inmovilizados ajenos a la circulación.
+Los conductores pueden invadir el sentido contrario, <ins>pisando o atravesando incluso una línea continua</ins>, para adelantar a usuarios lentos y frágiles, obstáculos o vehículos inmovilizados ajenos a la circulación.
 
 ## Usuarios incluidos
 
@@ -20,7 +20,7 @@ Esta regla puede aplicarse al adelantar a:
 
 ## Condición
 
-La maniobra solo debe realizarse cuando pueda hacerse sin peligro y dejando la debida [[separacion-lateral-adelantamiento]].
+La maniobra solo debe realizarse cuando pueda hacerse <ins>sin peligro</ins> y dejando la debida [[separacion-lateral-adelantamiento]].
 
 ## En mis palabras
 
@@ -28,7 +28,7 @@ Aunque haya línea continua, se puede invadir el sentido contrario para pasar a 
 
 ## Idea clave para el examen
 
-Línea continua no impide adelantar a ciertos usuarios vulnerables u obstáculos si la maniobra es segura y se respeta la separación lateral.
+Línea continua <ins>no impide adelantar</ins> a ciertos usuarios vulnerables u obstáculos si la maniobra es segura y se respeta la separación lateral.
 
 ## Trampa habitual
 

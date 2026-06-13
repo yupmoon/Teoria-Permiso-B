@@ -4,11 +4,11 @@ Tags: #permiso-b #autorizaciones #automoviles
 
 ## Regla
 
-El permiso de la clase B autoriza a conducir automóviles cuya masa máxima autorizada no exceda de 3.500 kg y cuyo número de asientos, incluido el del conductor, no exceda de 9.
+El permiso de la clase B autoriza a conducir automóviles cuya masa máxima autorizada <ins>no exceda de 3.500 kg</ins> y cuyo número de asientos, <ins>incluido el del conductor</ins>, <ins>no exceda de 9</ins>.
 
 ## Edad mínima
 
-Para obtener el permiso B se exige una edad mínima de 18 años.
+Para obtener el permiso B se exige una edad mínima de <ins>18 años</ins>.
 
 ## En mis palabras
 
@@ -16,7 +16,7 @@ Con el permiso B se pueden conducir automóviles de hasta 3.500 kg de MMA y hast
 
 ## Idea clave para el examen
 
-Permiso B = automóviles de MMA hasta 3.500 kg y máximo 9 plazas incluido el conductor.
+Permiso B = automóviles de MMA <ins>hasta 3.500 kg</ins> y <ins>máximo 9 plazas incluido el conductor</ins>.
 
 ## Trampa habitual
 

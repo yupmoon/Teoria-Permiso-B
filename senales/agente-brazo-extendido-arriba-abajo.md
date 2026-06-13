@@ -8,11 +8,11 @@ El agente con el brazo extendido moviéndolo alternativamente de arriba abajo ob
 
 ## En mis palabras
 
-Esta señal no ordena detenerse directamente. Ordena reducir la velocidad a los conductores que se aproximan por el lado del brazo que se mueve.
+Esta señal <ins>no ordena detenerse directamente</ins>. Ordena reducir la velocidad a los conductores que se aproximan por el lado del brazo que se mueve.
 
 ## Idea clave para el examen
 
-Brazo extendido moviéndose de arriba abajo: disminuir la velocidad.
+Brazo extendido moviéndose de arriba abajo: <ins>disminuir la velocidad</ins>.
 
 ## Trampa habitual
 

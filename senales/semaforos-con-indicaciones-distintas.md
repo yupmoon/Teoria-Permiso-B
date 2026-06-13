@@ -8,11 +8,11 @@ Cuando existan semáforos con indicaciones distintas a la derecha y a la izquier
 
 ## Girar a la izquierda o seguir de frente
 
-Si el conductor pretende girar a la izquierda o seguir de frente, solo debe obedecer las luces de los semáforos situados inmediatamente a su izquierda.
+Si el conductor pretende girar a la izquierda o seguir de frente, <ins>solo debe obedecer las luces de los semáforos situados inmediatamente a su izquierda</ins>.
 
 ## Girar a la derecha
 
-Si el conductor pretende girar a la derecha, debe hacer caso al semáforo de la derecha.
+Si el conductor pretende girar a la derecha, debe hacer caso al <ins>semáforo de la derecha</ins>.
 
 ## En mis palabras
 
@@ -20,7 +20,7 @@ Cuando hay semáforos diferentes a ambos lados, no se elige cualquiera: se mira 
 
 ## Idea clave para el examen
 
-Semáforo izquierdo para girar a la izquierda o seguir de frente. Semáforo derecho para girar a la derecha.
+<ins>Semáforo izquierdo</ins> para girar a la izquierda o seguir de frente. <ins>Semáforo derecho</ins> para girar a la derecha.
 
 ## Trampa habitual
 

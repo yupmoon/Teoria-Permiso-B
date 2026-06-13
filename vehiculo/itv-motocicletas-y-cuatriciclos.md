@@ -6,8 +6,8 @@ Tags: #permiso-b #vehiculo #itv #motocicletas #cuatriciclos #ciclomotores
 
 Las motocicletas, vehículos de tres ruedas, cuatriciclos, quads, ciclomotores de tres ruedas y cuatriciclos ligeros deben pasar la ITV con esta frecuencia:
 
-- Hasta 4 años: exentos.
-- A partir de 4 años: cada 2 años.
+- <ins>Hasta 4 años</ins>: exentos.
+- <ins>A partir de 4 años</ins>: cada 2 años.
 
 ## En mis palabras
 
@@ -15,7 +15,7 @@ Estos vehículos no pasan ITV durante los primeros 4 años. Después, la revisi�
 
 ## Idea clave para el examen
 
-Motocicletas, vehículos de tres ruedas, cuatriciclos, quads, ciclomotores de tres ruedas y cuatriciclos ligeros: 0-4 exentos, más de 4 cada 2 años.
+Motocicletas, vehículos de tres ruedas, cuatriciclos, quads, ciclomotores de tres ruedas y cuatriciclos ligeros: <ins>0-4 exentos</ins>, <ins>más de 4 cada 2 años</ins>.
 
 ## Trampa habitual
 

@@ -21,11 +21,11 @@ Estos sistemas pueden estar presentes y utilizarse durante el examen. Son ayudas
 
 ## Idea clave para el examen
 
-ADAS permitidos en examen: Start-Stop, Hill Holder, luces/limpiaparabrisas automáticos, AEBS, RCTA, cámara/sensores de aparcamiento, aviso de fatiga y EBD.
+ADAS permitidos en examen: <ins>Start-Stop, Hill Holder, luces/limpiaparabrisas automáticos, AEBS, RCTA, cámara/sensores de aparcamiento, aviso de fatiga y EBD</ins>.
 
 ## Trampa habitual
 
-Pensar que cualquier ADAS está permitido. La lista de permitidos para el examen es concreta.
+Pensar que cualquier ADAS está permitido. <ins>La lista de permitidos para el examen es concreta</ins>.
 
 ## Relacionado
 

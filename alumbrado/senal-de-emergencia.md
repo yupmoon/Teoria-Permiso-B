@@ -15,9 +15,9 @@ La luz o señal de emergencia se utiliza para señalizar y advertir el peligro q
 
 ## Dónde y cuándo se utiliza
 
-Debe utilizarse en vías urbanas e interurbanas, tanto de día como de noche.
+Debe utilizarse en <ins>vías urbanas e interurbanas</ins>, <ins>tanto de día como de noche</ins>.
 
-Puede utilizarse tanto si el vehículo está inmovilizado como si está en movimiento.
+Puede utilizarse tanto si el vehículo está <ins>inmovilizado</ins> como si está <ins>en movimiento</ins>.
 
 ## Funcionamiento
 
@@ -27,8 +27,8 @@ La señal de emergencia consiste en el funcionamiento simultáneo de todas las l
 
 La instalación de la señal de emergencia es:
 
-- Obligatoria en automóviles y sus remolques.
-- Opcional en motocicletas.
+- <ins>Obligatoria</ins> en automóviles y sus remolques.
+- <ins>Opcional</ins> en motocicletas.
 
 ## En mis palabras
 
@@ -36,7 +36,7 @@ La señal de emergencia sirve para avisar a los demás usuarios de que el vehíc
 
 ## Idea clave para el examen
 
-Se usa en vías urbanas e interurbanas, de día y de noche, con el vehículo detenido o en movimiento, para advertir una emergencia.
+Se usa en <ins>vías urbanas e interurbanas</ins>, <ins>de día y de noche</ins>, con el vehículo detenido o en movimiento, para advertir una emergencia.
 
 ## Trampa habitual
 

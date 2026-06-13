@@ -4,7 +4,7 @@ Tags: #permiso-b #vehiculo #seguridad-vial #emergencia
 
 ## Regla
 
-El sistema e-Call, o aviso de emergencia, envía de inmediato una llamada al servicio de emergencias cuando los sensores del vehículo interpretan que se ha producido un accidente.
+El sistema e-Call, o aviso de emergencia, <ins>envía de inmediato una llamada al servicio de emergencias</ins> cuando los sensores del vehículo interpretan que se ha producido un accidente.
 
 ## En mis palabras
 
@@ -12,7 +12,7 @@ Si el vehículo detecta un accidente, el sistema puede avisar automáticamente a
 
 ## Idea clave para el examen
 
-El e-Call sirve para avisar rápidamente a los servicios de emergencia tras un accidente detectado por los sensores del vehículo.
+El e-Call sirve para avisar rápidamente a los servicios de emergencia <ins>tras un accidente detectado por los sensores del vehículo</ins>.
 
 ## Trampa habitual
 

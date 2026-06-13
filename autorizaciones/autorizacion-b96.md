@@ -4,7 +4,7 @@ Tags: #permiso-b #autorizaciones #b96 #remolques #mma
 
 ## Regla
 
-Cuando el conjunto de vehículo y remolque supera los 3.500 kg, puede llegar hasta 4.250 kg si se supera una prueba de control de aptitudes y comportamientos. Esta autorización se conoce como B96.
+Cuando el conjunto de vehículo y remolque <ins>supera los 3.500 kg</ins>, puede llegar <ins>hasta 4.250 kg</ins> si se supera una prueba de control de aptitudes y comportamientos. Esta autorización se conoce como B96.
 
 ## En mis palabras
 
@@ -12,7 +12,7 @@ La B96 amplía el límite del conjunto para llevar ciertos remolques: permite pa
 
 ## Idea clave para el examen
 
-Conjunto superior a 3.500 kg y hasta 4.250 kg = prueba de aptitudes y comportamientos, autorización B96.
+Conjunto <ins>superior a 3.500 kg y hasta 4.250 kg</ins> = prueba de aptitudes y comportamientos, autorización B96.
 
 ## Trampa habitual
 

@@ -16,7 +16,7 @@ La obligación empieza desde el lugar en que está situada la señal y permanece
 
 ## Vía sin prioridad
 
-Si la señal está situada en una vía sin prioridad, deja de tener vigencia al salir de una intersección con una vía con prioridad.
+Si la señal está situada en una vía sin prioridad, <ins>deja de tener vigencia al salir de una intersección con una vía con prioridad</ins>.
 
 ## En mis palabras
 
@@ -24,7 +24,7 @@ Esta señal marca el límite máximo desde donde aparece. Se mantiene hasta que 
 
 ## Idea clave para el examen
 
-Velocidad máxima = no superar la velocidad indicada. Termina con fin de limitación, fin de prohibiciones u otra velocidad máxima.
+Velocidad máxima = <ins>no superar la velocidad indicada</ins>. Termina con fin de limitación, fin de prohibiciones u otra velocidad máxima.
 
 ## Trampa habitual
 

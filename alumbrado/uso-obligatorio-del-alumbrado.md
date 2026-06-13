@@ -6,9 +6,9 @@ Tags: #permiso-b #alumbrado #visibilidad #tuneles
 
 Todos los vehículos deberán llevar encendido el alumbrado que corresponda en estos casos:
 
-- Entre el ocaso y la salida del sol.
-- A cualquier hora del día en túneles, pasos inferiores y tramos de vía afectados por la señal "Túnel".
-- A cualquier hora del día cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad.
+- Entre el <ins>ocaso y la salida del sol</ins>.
+- <ins>A cualquier hora del día</ins> en túneles, pasos inferiores y tramos de vía afectados por la señal "Túnel".
+- <ins>A cualquier hora del día</ins> cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad.
 
 ## En mis palabras
 
@@ -16,7 +16,7 @@ Hay que encender las luces no solo de noche. También son obligatorias en túnel
 
 ## Idea clave para el examen
 
-Alumbrado obligatorio: de noche, en túneles/pasos inferiores/señal túnel, y con visibilidad sensiblemente reducida.
+Alumbrado obligatorio: de noche, en túneles/pasos inferiores/señal túnel, y con <ins>visibilidad sensiblemente reducida</ins>.
 
 ## Trampa habitual
 
