@@ -4,21 +4,30 @@ Tags: #permiso-b #vehiculo #seguridad-vial #adas #ldw
 
 ## Regla
 
-El sistema LDW, o aviso de salida de carril, está preparado para emitir un aviso si el coche está saliendo del carril sin que el conductor haya puesto el intermitente en esa dirección.
+El sistema LDW, o aviso de salida de carril, es un sistema de seguridad activa que detecta la variación de trayectoria del vehículo sobre el carril e interpreta cuándo esta es involuntaria.
 
-El conductor es el encargado de corregir la trayectoria, devolver el vehículo dentro del carril y proseguir la marcha con seguridad.
+Si el coche está saliendo del carril sin que el conductor haya puesto el intermitente en esa dirección, el sistema avisa al conductor de forma acústica o luminosa para evitar colisiones con otros vehículos o salidas de vía.
+
+El conductor es el encargado de corregir la trayectoria, devolver el vehículo dentro del carril y proseguir la marcha con seguridad. Hay sistemas más avanzados que incluso corrigen la variación de trayectoria del vehículo.
+
+## Cuándo permanece desactivado
+
+El sistema LDW permanece desactivado si:
+
+- Se realiza una maniobra de dirección evasiva.
+- El indicador de dirección, o intermitente, está conectado.
 
 ## En mis palabras
 
-El LDW avisa si el vehículo se sale del carril de forma involuntaria. No corrige por sí mismo la trayectoria: el conductor debe reaccionar.
+El LDW avisa si el vehículo se sale del carril de forma involuntaria. Normalmente advierte al conductor, aunque algunos sistemas avanzados pueden corregir la trayectoria.
 
 ## Idea clave para el examen
 
-El LDW es un [[sistemas-adas]] de aviso. Advierte al conductor, pero no sustituye su responsabilidad de controlar la dirección.
+El LDW es un [[sistemas-adas]] de seguridad activa. Detecta salidas involuntarias de carril y avisa al conductor; si el intermitente está conectado, entiende que la maniobra es voluntaria.
 
 ## Trampa habitual
 
-Confundir LDW con sistemas que actúan sobre la dirección. En esta regla, lo importante es que el LDW emite un aviso y el conductor corrige.
+Olvidar que el sistema no actúa igual si el conductor ha puesto el intermitente. Con el intermitente conectado, el sistema permanece desactivado.
 
 ## Relacionado
 
