@@ -8,6 +8,8 @@ Queda prohibido estacionar en todos los casos en los que esté prohibida la para
 
 Además, cuando la parada o el estacionamiento constituyen peligro u obstaculizan gravemente la circulación, se aplica [[parada-estacionamiento-peligroso-obstaculiza]].
 
+La parada y el estacionamiento están prohibidos en pasos a nivel, sobre los raíles del tranvía o en lugares que entorpezcan su circulación.
+
 También está prohibido estacionar:
 
 - En [[zona-estacionamiento-limitado]] sin colocar el distintivo que lo autoriza, como el ticket, o cuando se supere el tiempo máximo permitido.
@@ -25,7 +27,7 @@ No basta con mirar si aparece una señal de [[estacionamiento-prohibido]]. Hay l
 
 ## Idea clave para el examen
 
-Estacionar prohibido: donde esté prohibida la parada, zona limitada sin ticket o fuera de tiempo, carga y descarga, movilidad reducida, aceras/paseos, vados señalizados y doble fila.
+Estacionar prohibido: donde esté prohibida la parada, pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación, zona limitada sin ticket o fuera de tiempo, carga y descarga, movilidad reducida, aceras/paseos, vados señalizados y doble fila.
 
 ## Trampa habitual
 

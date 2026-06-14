@@ -19,6 +19,8 @@ Si el vehículo queda en una pendiente sensible y es de más de 3.500 kg de MMA,
 
 Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación cuando:
 
+- Se realicen en pasos a nivel.
+- Se realicen sobre los raíles del tranvía o en lugares que entorpezcan su circulación.
 - La distancia entre el vehículo y el borde opuesto de la calzada, o una marca longitudinal que prohíba atravesarla, sea <ins>inferior a 3 metros</ins>.
 - No se permita el paso de otros vehículos.
 - Se impida incorporarse a la circulación a otro vehículo debidamente parado o estacionado.
@@ -45,7 +47,7 @@ Hay dos niveles: primero, la regla general de no crear peligro ni obstáculo; se
 
 ## Idea clave para el examen
 
-Número crítico: <ins>menos de 3 metros</ins> entre el vehículo y el borde opuesto o una marca longitudinal que no se puede atravesar. Distinción crítica: carga y descarga, doble fila sin conductor, parada de transporte público, servicios de urgencia, vía de atención preferente y medio de la calzada son casos de <ins>estacionamiento</ins>.
+Número crítico: <ins>menos de 3 metros</ins> entre el vehículo y el borde opuesto o una marca longitudinal que no se puede atravesar. Parada y estacionamiento prohibidos en pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación. Distinción crítica: carga y descarga, doble fila sin conductor, parada de transporte público, servicios de urgencia, vía de atención preferente y medio de la calzada son casos de <ins>estacionamiento</ins>.
 
 ## Trampa habitual
 
@@ -59,6 +61,7 @@ Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y es
 - [[estacionamiento-perturba-gravemente-circulacion]]
 - [[vado]]
 - [[zona-estacionamiento-limitado]]
+- [[adelantamiento-por-la-derecha]]
 - [[velocidad-moderada-segun-circunstancias]]
 - [[maniobras]]
 
@@ -73,5 +76,6 @@ Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y es
 [vado]: ../senales/vado.md "Vado"
 [carga-y-descarga]: estacionamiento-perturba-gravemente-circulacion.md "Carga y descarga"
 [zona-estacionamiento-limitado]: ../senales/zona-estacionamiento-limitado.md "Zona de estacionamiento limitado"
+[adelantamiento-por-la-derecha]: adelantamiento-por-la-derecha.md "Adelantamiento por la derecha"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [maniobras]: index.md "Maniobras"
