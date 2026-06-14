@@ -23,6 +23,10 @@ En autopistas y autovías: [[marcha-atras]] <ins>prohibida</ins>; [[cambio-de-se
 - [[color-carteles-salida]]
 - [[circulacion]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 72, 78, 79, 80 y 81](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a72): contienen las reglas citadas en esta nota sobre incorporación, cambio de sentido y marcha atrás en autopistas y autovías.
+
 [marcha-atras]: ../maniobras/marcha-atras.md "Marcha atrás"
 [cambio-de-sentido-prohibido]: ../maniobras/cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [incorporacion-carril-aceleracion]: incorporacion-carril-aceleracion.md "Incorporación por carril de aceleración"

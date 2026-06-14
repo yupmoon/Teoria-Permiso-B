@@ -32,6 +32,10 @@ Responder que siempre hay que reducir al pasar junto a vehículos estacionados d
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[circulacion]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 46](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a46): regula la moderación de velocidad y, en su caso, detención ante determinadas circunstancias.
+
 [velocidad-moderada-segun-circunstancias]: velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [senal-de-emergencia]: ../alumbrado/senal-de-emergencia.md "Señal de emergencia"
 [inmovilizacion-en-tunel]: ../alumbrado/inmovilizacion-en-tunel.md "Inmovilización en túnel"

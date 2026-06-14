@@ -32,6 +32,10 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 85.4](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a85): regula el adelantamiento fuera de poblado a peatones, animales, vehículos de dos ruedas, vehículos de tracción animal, vehículos inmovilizados y vehículos de auxilio.
+
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [separacion-lateral-adelantamiento#Idea clave para el examen]: <separacion-lateral-adelantamiento.md#Idea clave para el examen> "Separación lateral en adelantamiento"
 [adelantamiento-en-poblado-ciclos-ciclomotores]: adelantamiento-en-poblado-ciclos-ciclomotores.md "Adelantamiento en poblado a ciclos y ciclomotores"

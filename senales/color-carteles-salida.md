@@ -28,5 +28,9 @@ Pensar que el cartel mantiene siempre el color de la autopista o autovía por la
 - [[cartel-salida-inmediata]]
 - [[senales]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, anexo I](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#ani): recoge las señales de orientación y los carteles de salida.
+
 [cartel-salida-inmediata]: cartel-salida-inmediata.md "Cartel de salida inmediata"
 [senales]: index.md "Señales"

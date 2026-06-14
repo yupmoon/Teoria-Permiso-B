@@ -21,6 +21,10 @@ Cámara de marcha atrás, cámara 360 grados y sensores de aparcamiento: permiti
 - [[rcta-alerta-trafico-cruzado]]
 - [[marcha-atras]]
 
+## Fuente
+
+- [Sistemas avanzados de asistencia al conductor, Wikipedia](https://es.wikipedia.org/wiki/Sistemas_avanzados_de_asistencia_al_conductor): incluye asistentes de aparcamiento dentro de los sistemas ADAS.
+
 [adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
 [rcta-alerta-trafico-cruzado]: rcta-alerta-trafico-cruzado.md "RCTA: alerta de tráfico cruzado"

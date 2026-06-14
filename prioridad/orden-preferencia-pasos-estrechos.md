@@ -49,6 +49,10 @@ Olvidar que las motocicletas, ciclomotores de dos ruedas y bicicletas aparecen a
 - [[permiso-b-ciclomotores-y-movilidad-reducida]]
 - [[permiso-b-motocicletas-a1]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 62](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a62): regula el orden de preferencia en tramos estrechos sin señalización.
+
 [pasos-estrechos-sin-senalizar]: pasos-estrechos-sin-senalizar.md "Pasos estrechos sin señalizar"
 [prioridad-de-paso]: prioridad-de-paso.md "Prioridad de paso"
 [permiso-b-remolques]: ../autorizaciones/permiso-b-remolques.md "Permiso B: remolques"

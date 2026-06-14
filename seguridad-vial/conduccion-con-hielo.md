@@ -41,5 +41,9 @@ Pensar que basta con girar más el volante o frenar más fuerte. Con hielo, esas
 - [[distancia-de-frenado]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [Cadena SER, información basada en recomendaciones de la DGT sobre placas de hielo](https://cadenaser.com/nacional/2024/12/08/la-dgt-dice-que-debes-hacer-si-encuentras-placas-de-hielo-en-la-carretera-ojo-porque-no-se-ven-facilmente-y-pierdes-el-control-cadena-ser/): recoge la reducción de velocidad, uso de marchas largas y frenado suave ante hielo.
+
 [distancia-de-frenado]: distancia-de-frenado.md "Distancia de frenado"
 [seguridad-vial]: index.md "Seguridad vial"

@@ -26,6 +26,10 @@ Pensar que cualquier turismo puede circular por el BUS-VAO siempre. Solo puede h
 - [[carril-bus-vao-distintivos-ambientales]]
 - [[circulacion]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 35](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a35): regula los carriles reservados a determinados vehículos y los carriles VAO.
+
 [carril-bus-vao-vehiculos-permitidos]: carril-bus-vao-vehiculos-permitidos.md "Carril BUS-VAO: vehículos permitidos"
 [carril-bus-vao-vehiculos-prohibidos]: carril-bus-vao-vehiculos-prohibidos.md "Carril BUS-VAO: vehículos prohibidos"
 [carril-bus-vao-excepciones-un-ocupante]: carril-bus-vao-excepciones-un-ocupante.md "Carril BUS-VAO: excepciones con un solo ocupante"

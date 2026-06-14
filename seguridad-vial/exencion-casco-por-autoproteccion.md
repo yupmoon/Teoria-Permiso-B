@@ -29,5 +29,9 @@ Pensar que la exención de casco significa no usar ningún sistema de retención
 - [[cinturon-de-seguridad]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 118](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a118): regula el uso del casco de protección y sus exenciones.
+
 [cinturon-de-seguridad]: cinturon-de-seguridad.md "Cinturón de seguridad"
 [seguridad-vial]: index.md "Seguridad vial"

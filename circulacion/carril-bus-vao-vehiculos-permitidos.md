@@ -31,6 +31,10 @@ Olvidar que el número de ocupantes puede variar según el tramo.
 - [[carril-bus-vao-vehiculos-prohibidos]]
 - [[permiso-b-motocicletas-a1]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 35.2](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a35): regula los vehículos que pueden utilizar los carriles VAO.
+
 [carril-bus-vao]: carril-bus-vao.md "Carril BUS-VAO"
 [carril-bus-vao-excepciones-un-ocupante]: carril-bus-vao-excepciones-un-ocupante.md "Carril BUS-VAO: excepciones con un solo ocupante"
 [carril-bus-vao-vehiculos-prohibidos]: carril-bus-vao-vehiculos-prohibidos.md "Carril BUS-VAO: vehículos prohibidos"

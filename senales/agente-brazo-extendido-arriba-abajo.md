@@ -25,6 +25,10 @@ Confundirla con las señales de detención del agente. Esta señal obliga a redu
 - [[senales-con-el-brazo]]
 - [[agente-brazo-levantado-verticalmente]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 143](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a143): regula las señales de los agentes.
+
 [senales-de-agentes]: senales-de-agentes.md "Señales de agentes"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [senales-con-el-brazo]: ../maniobras/senales-con-el-brazo.md "Señales con el brazo"

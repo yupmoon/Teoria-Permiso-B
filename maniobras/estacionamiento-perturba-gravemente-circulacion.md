@@ -38,6 +38,10 @@ Olvidar el número: si queda una distancia <ins>inferior a 3 metros</ins>, el es
 - [[velocidad-moderada-segun-circunstancias]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 91 y 94](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a91): regulan paradas y estacionamientos que obstaculizan gravemente la circulación y los lugares prohibidos.
+
 [estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"
 [prohibiciones-de-estacionamiento]: prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [parada-estacionamiento-peligroso-obstaculiza]: parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"

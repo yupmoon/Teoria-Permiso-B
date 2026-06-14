@@ -46,6 +46,10 @@ Pensar que se puede aumentar la carga útil. No: el exceso sobre 3.500 kg debe v
 - [[autorizacion-b96]]
 - [[autorizaciones]]
 
+## Fuente
+
+- [Real Decreto 818/2009, Reglamento General de Conductores, artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481#a4): regula la autorización del permiso B para determinados vehículos de mercancías impulsados por combustibles alternativos.
+
 [permiso-b-automoviles]: permiso-b-automoviles.md "Permiso B: automóviles"
 [permiso-b-remolques]: permiso-b-remolques.md "Permiso B: remolques"
 [autorizacion-b96]: autorizacion-b96.md "Autorización B96"

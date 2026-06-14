@@ -29,5 +29,9 @@ Pensar que siempre pasa el vehículo más grande. Primero importa quién entró 
 - [[orden-preferencia-pasos-estrechos]]
 - [[prioridad-de-paso]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 62](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a62): regula la preferencia en pasos estrechos sin señalización.
+
 [orden-preferencia-pasos-estrechos]: orden-preferencia-pasos-estrechos.md "Orden de preferencia en pasos estrechos"
 [prioridad-de-paso]: prioridad-de-paso.md "Prioridad de paso"

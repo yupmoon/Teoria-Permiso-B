@@ -34,6 +34,10 @@ Pensar que solo hay fatiga cuando el conductor se duerme. Los síntomas previos 
 - [[aviso-de-fatiga]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [AS, consejos de la DGT para evitar la fatiga al conducir](https://as.com/diarioas/2021/07/05/actualidad/1625476248_612109.html): recoge consejos de la DGT sobre fatiga y pausas durante la conducción.
+
 [evitar-fatiga-conduciendo]: evitar-fatiga-conduciendo.md "Evitar la fatiga conduciendo"
 [aviso-de-fatiga]: ../vehiculo/aviso-de-fatiga.md "Aviso de fatiga"
 [seguridad-vial]: index.md "Seguridad vial"

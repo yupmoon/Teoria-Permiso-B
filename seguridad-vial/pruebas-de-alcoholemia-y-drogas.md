@@ -25,5 +25,9 @@ Pensar que solo los conductores de vehículos a motor están obligados. Los cicl
 - [[tasa-de-alcoholemia]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 21 y 28](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a21): regulan la obligación de someterse a pruebas de alcoholemia y drogas.
+
 [tasa-de-alcoholemia]: tasa-de-alcoholemia.md "Tasa de alcoholemia"
 [seguridad-vial]: index.md "Seguridad vial"

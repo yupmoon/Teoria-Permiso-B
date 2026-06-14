@@ -26,5 +26,9 @@ Confundir una caravana remolcada con un turismo o con un vehículo de mercancía
 - [[itv]]
 - [[permiso-b-remolques]]
 
+## Fuente
+
+- [Real Decreto 920/2017, artículo 6](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12841#a6): regula la frecuencia de ITV de caravanas remolcadas O2.
+
 [itv]: itv.md "ITV"
 [permiso-b-remolques]: ../autorizaciones/permiso-b-remolques.md "Permiso B: remolques"

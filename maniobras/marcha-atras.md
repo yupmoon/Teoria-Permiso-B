@@ -46,6 +46,10 @@ Otra trampa: pensar que puedo usar marcha atrás para completar un [[cambio-sent
 - [[orden-preferencia-pasos-estrechos]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 80 y 81](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a80): regulan los supuestos permitidos y la ejecución de la marcha atrás.
+
 [cambio-sentido-maniobra]: cambio-sentido-maniobra.md "Cambio de sentido: realización de la maniobra"
 [cambio-de-sentido-prohibido]: cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [autopistas-y-autovias]: ../circulacion/autopistas-y-autovias.md "Autopistas y autovías"

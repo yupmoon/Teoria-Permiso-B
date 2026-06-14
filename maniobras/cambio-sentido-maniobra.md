@@ -44,6 +44,10 @@ Pensar que puedo hacer varias maniobras, usando [[marcha-atras]], para completar
 - [[velocidad-moderada-segun-circunstancias]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 78](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a78): regula la ejecución de la maniobra de cambio de sentido.
+
 [cambio-de-sentido-prohibido]: cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [marcha-atras]: marcha-atras.md "Marcha atrás"
 [senales-con-el-brazo]: senales-con-el-brazo.md "Señales con el brazo"

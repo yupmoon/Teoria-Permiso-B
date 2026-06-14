@@ -30,6 +30,10 @@ Pensar que la prioridad la tiene quien se incorpora porque está en un carril de
 - [[cartel-salida-inmediata]]
 - [[circulacion]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 72](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a72): regula la obligación de incorporarse a la circulación sin peligro para los demás usuarios.
+
 [velocidad-moderada-segun-circunstancias]: velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [autopistas-y-autovias]: autopistas-y-autovias.md "Autopistas y autovías"
 [no-se-considera-adelantar]: ../maniobras/no-se-considera-adelantar.md "Cuándo no se considera adelantar"

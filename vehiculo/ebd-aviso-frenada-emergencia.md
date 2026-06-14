@@ -20,6 +20,10 @@ EBD: aviso de frenada de emergencia permitido en el examen.
 - [[sistemas-adas]]
 - [[aebs-frenado-emergencia]]
 
+## Fuente
+
+- [Sistemas avanzados de asistencia al conductor, Wikipedia](https://es.wikipedia.org/wiki/Sistemas_avanzados_de_asistencia_al_conductor): fuente general sobre sistemas de asistencia al conductor.
+
 [adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
 [aebs-frenado-emergencia]: aebs-frenado-emergencia.md "AEBS: frenado de emergencia"

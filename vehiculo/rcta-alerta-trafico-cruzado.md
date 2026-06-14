@@ -34,6 +34,10 @@ Pensar que el sistema siempre frena por el conductor. La definición general es 
 - [[seguridad-vial]]
 - [[vehiculo]]
 
+## Fuente
+
+- [Sistemas avanzados de asistencia al conductor, Wikipedia](https://es.wikipedia.org/wiki/Sistemas_avanzados_de_asistencia_al_conductor): define el marco general de los sistemas ADAS, al que pertenece la alerta de tráfico cruzado.
+
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
 [adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
 [aebs-frenado-emergencia]: aebs-frenado-emergencia.md "AEBS: frenado de emergencia"

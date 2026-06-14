@@ -30,6 +30,10 @@ Olvidar que las 9 plazas incluyen la del conductor, o aplicar esta frecuencia a 
 - [[itv-motocicletas-y-cuatriciclos]]
 - [[itv-ciclomotores-dos-ruedas]]
 
+## Fuente
+
+- [Real Decreto 920/2017, artículo 6](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12841#a6): regula la frecuencia de ITV de vehículos M1 de uso privado.
+
 [itv]: itv.md "ITV"
 [vehiculo]: index.md "Vehículo"
 [permiso-b-automoviles]: ../autorizaciones/permiso-b-automoviles.md "Permiso B: automóviles"

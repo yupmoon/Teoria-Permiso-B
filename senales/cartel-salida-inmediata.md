@@ -37,6 +37,10 @@ Confundirla con una señal de preseñalización. La preseñalización anuncia co
 - [[color-carteles-salida]]
 - [[senales]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, anexo I](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#ani): recoge las señales de indicación y orientación en la vía.
+
 [color-carteles-salida]: color-carteles-salida.md "Color de los carteles de salida"
 [color-carteles-salida#Idea clave para el examen]: <color-carteles-salida.md#Idea clave para el examen> "Color de los carteles de salida"
 [senales]: index.md "Señales"

@@ -31,5 +31,9 @@ Pensar que la tasa empieza a bajar inmediatamente después de beber. Antes puede
 - [[pruebas-de-alcoholemia-y-drogas]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 20 a 26](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a20): regulan tasas, normas y pruebas de alcoholemia.
+
 [pruebas-de-alcoholemia-y-drogas]: pruebas-de-alcoholemia-y-drogas.md "Pruebas de alcoholemia y drogas"
 [seguridad-vial]: index.md "Seguridad vial"

@@ -35,6 +35,11 @@ Confundir aglomeración con emergencia. En aglomeración se conecta la señal de
 - [[cambio-de-sentido-prohibido]]
 - [[alumbrado]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 95](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a95): regula la inmovilización por emergencia o necesidades de circulación dentro de túneles y pasos inferiores.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 100](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a100): regula el apagado del motor en inmovilizaciones superiores a dos minutos y el alumbrado de posición.
+
 [uso-obligatorio-del-alumbrado]: uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
 [senal-de-emergencia]: senal-de-emergencia.md "Señal de emergencia"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

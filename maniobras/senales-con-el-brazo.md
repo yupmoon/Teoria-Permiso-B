@@ -33,6 +33,10 @@ Confundir la señal manual de girar a la derecha con sacar el brazo derecho. La 
 - [[ldw-aviso-salida-carril]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 109](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a109): regula las advertencias ópticas mediante indicadores de dirección o brazo.
+
 [cambio-direccion-izquierda-visibilidad]: cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"
 [semaforos-con-indicaciones-distintas]: ../senales/semaforos-con-indicaciones-distintas.md "Semáforos con indicaciones distintas"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"

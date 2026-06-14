@@ -31,6 +31,10 @@ Pensar que el AEBS sustituye la atención del conductor. No es así: ayuda en ca
 - [[seguridad-vial]]
 - [[vehiculo]]
 
+## Fuente
+
+- [Sistema de frenado de emergencia, Wikipedia](https://es.wikipedia.org/wiki/Sistema_de_frenado_de_emergencia): describe sistemas que advierten al conductor y pueden activar los frenos ante riesgo de colisión.
+
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
 [adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
 [rcta-alerta-trafico-cruzado]: rcta-alerta-trafico-cruzado.md "RCTA: alerta de tráfico cruzado"

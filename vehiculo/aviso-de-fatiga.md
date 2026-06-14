@@ -27,6 +27,10 @@ Pensar que solo mide el tiempo de conducción. Algunos sistemas también observa
 - [[seguridad-vial]]
 - [[sintomas-de-fatiga]]
 
+## Fuente
+
+- [Sistemas avanzados de asistencia al conductor, Wikipedia](https://es.wikipedia.org/wiki/Sistemas_avanzados_de_asistencia_al_conductor): incluye sistemas de asistencia al conductor relacionados con seguridad y monitorización.
+
 [evitar-fatiga-conduciendo]: ../seguridad-vial/evitar-fatiga-conduciendo.md "Evitar la fatiga conduciendo"
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
 [seguridad-vial]: ../seguridad-vial/index.md "Seguridad vial"

@@ -32,6 +32,10 @@ Obedecer el semáforo del lado contrario a la maniobra. La posición del semáfo
 - [[alumbrado]]
 - [[cambio-direccion-izquierda-visibilidad]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 146](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a146): regula las indicaciones de los semáforos circulares para vehículos.
+
 [senales]: index.md "Señales"
 [alumbrado]: ../alumbrado/index.md "Alumbrado y señalización luminosa"
 [cambio-direccion-izquierda-visibilidad]: ../maniobras/cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"

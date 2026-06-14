@@ -34,6 +34,10 @@ Olvidar que el taxi necesita módulo luminoso exterior y licencia en vigor para 
 - [[permiso-b-motocicletas-a1]]
 - [[cinturon-en-taxis]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 35.2](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a35): regula los supuestos de uso del carril VAO por determinados vehículos aunque solo viaje el conductor.
+
 [carril-bus-vao]: carril-bus-vao.md "Carril BUS-VAO"
 [carril-bus-vao-vehiculos-permitidos]: carril-bus-vao-vehiculos-permitidos.md "Carril BUS-VAO: vehículos permitidos"
 [carril-bus-vao-distintivos-ambientales]: carril-bus-vao-distintivos-ambientales.md "Carril BUS-VAO: distintivos ambientales"

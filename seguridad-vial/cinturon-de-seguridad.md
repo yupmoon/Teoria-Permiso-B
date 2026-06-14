@@ -30,6 +30,11 @@ Pensar que durante el embarazo es mejor no usar cinturón. Es falso: sigue siend
 - [[exencion-casco-por-autoproteccion]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 117](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a117): regula el uso obligatorio del cinturón de seguridad.
+- [Cinturón de seguridad, Wikipedia](https://es.wikipedia.org/wiki/Cintur%C3%B3n_de_seguridad): recoge la colocación de la banda abdominal sobre las caderas y no sobre el abdomen.
+
 [cinturon-en-taxis]: cinturon-en-taxis.md "Cinturón en taxis"
 [exencion-casco-por-autoproteccion]: exencion-casco-por-autoproteccion.md "Exención de casco por autoprotección"
 [seguridad-vial]: index.md "Seguridad vial"

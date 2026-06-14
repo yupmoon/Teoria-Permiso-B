@@ -24,6 +24,10 @@ Pensar que el permiso B normal permite siempre llegar hasta 4.250 kg. No: para e
 - [[permiso-b-automoviles]]
 - [[autorizaciones]]
 
+## Fuente
+
+- [Real Decreto 818/2009, Reglamento General de Conductores, artículo 5 y anexo V](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481#a5): regulan la autorización para conjuntos con permiso B que exceden de 3.500 kg sin superar 4.250 kg.
+
 [permiso-b-remolques]: permiso-b-remolques.md "Permiso B: remolques"
 [permiso-b-automoviles]: permiso-b-automoviles.md "Permiso B: automóviles"
 [autorizaciones]: index.md "Autorizaciones del permiso B"

@@ -22,6 +22,10 @@ Algunas señales obligan a detener el vehículo. Una señal luminosa de precauci
 - [[senal-de-stop]]
 - [[senales-de-agentes]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 143, 146 y 151](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a143): regulan señales de agentes, semáforos y señales verticales que pueden obligar a detenerse.
+
 [agente-brazo-o-brazos-extendidos]: agente-brazo-o-brazos-extendidos.md "Agente con brazo o brazos extendidos"
 [agente-brazo-levantado-verticalmente]: agente-brazo-levantado-verticalmente.md "Agente con brazo levantado verticalmente"
 [luces-amarillas-intermitentes]: ../alumbrado/luces-amarillas-intermitentes.md "Luces amarillas intermitentes"

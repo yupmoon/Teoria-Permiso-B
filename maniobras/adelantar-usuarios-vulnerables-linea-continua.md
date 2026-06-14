@@ -41,6 +41,10 @@ Pensar que una línea continua nunca se puede pisar. En esta situación concreta
 - [[vehiculos-inmovilizados-o-estacionados]]
 - [[no-se-considera-adelantar]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 88](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a88): regula supuestos excepcionales de adelantamiento o rebasamiento aun existiendo prohibición.
+
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

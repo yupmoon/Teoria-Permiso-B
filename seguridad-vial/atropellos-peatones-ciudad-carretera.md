@@ -27,6 +27,10 @@ Confundir frecuencia con gravedad. Ciudad = más atropellos. Carretera convencio
 - [[distancia-de-detencion]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [AS, aviso de la DGT sobre peatones y atropellos](https://as.com/diarioas/2021/08/23/actualidad/1629699367_280862.html): recoge que los peatones son usuarios vulnerables y que los atropellos tienen consecuencias graves, especialmente ligadas a la velocidad.
+
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [senal-velocidad-maxima]: ../senales/senal-velocidad-maxima.md "Señal de velocidad máxima"
 [distancia-de-detencion]: distancia-de-detencion.md "Distancia de detención"

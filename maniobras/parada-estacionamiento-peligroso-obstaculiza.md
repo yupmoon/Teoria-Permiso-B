@@ -59,6 +59,10 @@ Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y es
 - [[velocidad-moderada-segun-circunstancias]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 91 y 94](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a91): regulan el modo de ejecución y los supuestos de parada o estacionamiento peligrosos o que obstaculizan gravemente.
+
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [prohibiciones-de-estacionamiento]: prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [estacionamiento-perturba-gravemente-circulacion]: estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"

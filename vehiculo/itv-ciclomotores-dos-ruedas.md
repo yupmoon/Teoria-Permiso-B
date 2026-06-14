@@ -26,5 +26,9 @@ Aplicarles la regla de 4 años de las motocicletas. Para ciclomotores de dos rue
 - [[itv]]
 - [[itv-motocicletas-y-cuatriciclos]]
 
+## Fuente
+
+- [Real Decreto 920/2017, artículo 6](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12841#a6): regula la frecuencia de ITV de los ciclomotores de dos ruedas.
+
 [itv]: itv.md "ITV"
 [itv-motocicletas-y-cuatriciclos]: itv-motocicletas-y-cuatriciclos.md "ITV: motocicletas y cuatriciclos"

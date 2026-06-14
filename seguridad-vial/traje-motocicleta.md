@@ -29,5 +29,9 @@ Pensar solo en el casco. En motocicleta también es importante proteger el cuerp
 - [[guantes-en-motocicleta]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [El País, campaña DGT/Guardia Civil sobre motoristas](https://elpais.com/espana/2026-06-04/la-guardia-civil-intensifica-hasta-octubre-la-vigilancia-a-los-motoristas-durante-los-fines-de-semana.html): recoge que la ropa con protectores reduce lesiones y abrasiones en motoristas.
+
 [guantes-en-motocicleta]: guantes-en-motocicleta.md "Guantes en motocicleta"
 [seguridad-vial]: index.md "Seguridad vial"

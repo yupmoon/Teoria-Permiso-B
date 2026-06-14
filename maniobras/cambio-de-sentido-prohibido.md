@@ -56,6 +56,10 @@ Otra trampa: olvidar que los pasos para peatones señalizados y sus proximidades
 - [[no-se-considera-adelantar]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 79](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a79): regula las prohibiciones de cambio de sentido.
+
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [autopistas-y-autovias]: ../circulacion/autopistas-y-autovias.md "Autopistas y autovías"
 [cambio-sentido-maniobra]: cambio-sentido-maniobra.md "Cambio de sentido: realización de la maniobra"

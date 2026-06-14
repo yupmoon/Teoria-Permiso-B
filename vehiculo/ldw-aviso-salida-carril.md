@@ -45,6 +45,10 @@ Olvidar que el sistema no actúa igual si el conductor ha puesto el intermitente
 - [[seguridad-vial]]
 - [[vehiculo]]
 
+## Fuente
+
+- [Sistemas avanzados de asistencia al conductor, Wikipedia](https://es.wikipedia.org/wiki/Sistemas_avanzados_de_asistencia_al_conductor): incluye sistemas de asistencia y mantenimiento de carril dentro de los ADAS.
+
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
 [adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
 [senales-con-el-brazo]: ../maniobras/senales-con-el-brazo.md "Señales con el brazo"

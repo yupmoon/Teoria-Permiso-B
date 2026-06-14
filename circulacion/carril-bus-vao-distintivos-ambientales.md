@@ -23,5 +23,9 @@ Pensar que la etiqueta ambiental autoriza siempre. La clave es "únicamente cuan
 - [[carril-bus-vao]]
 - [[carril-bus-vao-excepciones-un-ocupante]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 35.2](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a35): remite a las condiciones de utilización fijadas para cada tramo de carril VAO.
+
 [carril-bus-vao]: carril-bus-vao.md "Carril BUS-VAO"
 [carril-bus-vao-excepciones-un-ocupante]: carril-bus-vao-excepciones-un-ocupante.md "Carril BUS-VAO: excepciones con un solo ocupante"

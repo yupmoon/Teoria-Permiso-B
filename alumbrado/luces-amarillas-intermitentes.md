@@ -27,3 +27,7 @@ Pensar que la luz amarilla intermitente sustituye al stop. Es falso: si hay stop
 - [Señal de stop](../senales/senal-de-stop.md)
 - [Prioridad de paso](../prioridad/prioridad-de-paso.md)
 - [Señales que obligan a detenerse](../senales/senales-que-obligan-a-detenerse.md)
+
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 146](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a146): regula el significado de las luces amarillas intermitentes y su relación con otras señales.

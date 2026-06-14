@@ -28,6 +28,10 @@ Pensar que la orden termina cuando el agente baja el brazo. No termina si mantie
 - [[senales-que-obligan-a-detenerse]]
 - [[agente-brazo-levantado-verticalmente]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 143](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a143): regula las señales de los agentes.
+
 [senales-de-agentes]: senales-de-agentes.md "Señales de agentes"
 [senales-que-obligan-a-detenerse]: senales-que-obligan-a-detenerse.md "Señales que obligan a detenerse"
 [agente-brazo-levantado-verticalmente]: agente-brazo-levantado-verticalmente.md "Agente con brazo levantado verticalmente"

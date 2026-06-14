@@ -26,5 +26,9 @@ Confundir esta frecuencia con la de ciclomotores de dos ruedas, que tienen una a
 - [[itv]]
 - [[itv-ciclomotores-dos-ruedas]]
 
+## Fuente
+
+- [Real Decreto 920/2017, artículo 6](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12841#a6): regula la frecuencia de ITV de motocicletas, vehículos de tres ruedas, cuatriciclos, quads y ciclomotores de tres ruedas.
+
 [itv]: itv.md "ITV"
 [itv-ciclomotores-dos-ruedas]: itv-ciclomotores-dos-ruedas.md "ITV: ciclomotores de dos ruedas"

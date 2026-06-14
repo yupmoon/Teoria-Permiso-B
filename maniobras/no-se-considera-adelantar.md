@@ -38,6 +38,10 @@ Pensar que cualquier vehículo que queda atrás ha sido adelantado. En el examen
 - [[separacion-lateral-adelantamiento]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 83](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a83): regula supuestos de circulación paralela y casos que no se consideran adelantamiento.
+
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [incorporacion-carril-aceleracion]: ../circulacion/incorporacion-carril-aceleracion.md "Incorporación por carril de aceleración"

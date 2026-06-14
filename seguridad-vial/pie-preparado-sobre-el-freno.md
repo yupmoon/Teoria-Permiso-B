@@ -33,6 +33,10 @@ Confundir preparar el pie con frenar. La técnica consiste en colocar el pie fre
 - [[prioridad-de-paso]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [Distancia de detención, Wikipedia](https://es.wikipedia.org/wiki/Distancia_de_detenci%C3%B3n): explica la distancia de reacción como parte de la distancia de detención; la nota aplica esa idea a la preparación ante una situación incierta.
+
 [distancia-de-reaccion]: distancia-de-reaccion.md "Distancia de reacción"
 [distancia-de-detencion]: distancia-de-detencion.md "Distancia de detención"
 [prioridad-de-paso]: ../prioridad/prioridad-de-paso.md "Prioridad de paso"

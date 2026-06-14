@@ -34,6 +34,11 @@ Recordar que la señal de prohibido girar a la izquierda también prohíbe el [[
 - [[adelantamiento-prohibido-pasos-peatones]]
 - [[senales]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 154](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a154): regula las señales de prohibición o restricción.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 79](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a79): regula las prohibiciones de cambio de sentido.
+
 [cambio-direccion-izquierda-visibilidad]: ../maniobras/cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"
 [cambio-de-sentido-prohibido]: ../maniobras/cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [adelantamiento-prohibido-pasos-peatones]: ../maniobras/adelantamiento-prohibido-pasos-peatones.md "Adelantamiento prohibido en pasos para peatones"

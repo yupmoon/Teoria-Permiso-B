@@ -51,6 +51,10 @@ Pensar que los ADAS permiten conducir sin atención. Es falso: son sistemas de a
 - [[seguridad-vial]]
 - [[vehiculo]]
 
+## Fuente
+
+- [Sistemas avanzados de asistencia al conductor, Wikipedia](https://es.wikipedia.org/wiki/Sistemas_avanzados_de_asistencia_al_conductor): define los sistemas ADAS como sistemas de apoyo al conductor.
+
 [aebs-frenado-emergencia]: aebs-frenado-emergencia.md "AEBS: frenado de emergencia"
 [adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
 [activacion-automatica-alumbrado-limpiaparabrisas]: activacion-automatica-alumbrado-limpiaparabrisas.md "Activación automática de alumbrado y limpiaparabrisas"

@@ -28,6 +28,10 @@ Olvidar la excepción de las bicicletas o confundir los dos límites. Basta con 
 - [[adelantamiento-fuera-poblado-usuarios-vulnerables]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 36.3](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a36): regula la prohibición de adelantar para vehículos obligados a circular por el arcén cuando se superan 15 segundos o 200 metros en paralelo.
+
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"

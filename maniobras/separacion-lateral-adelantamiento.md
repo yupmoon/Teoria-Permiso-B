@@ -31,6 +31,10 @@ Recordar que se puede invadir el sentido contrario, pero olvidar la distancia la
 - [[adelantamiento-en-poblado-ciclos-ciclomotores]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 85](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a85): regula la separación lateral durante el adelantamiento.
+
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
 [adelantamiento-en-poblado-ciclos-ciclomotores]: adelantamiento-en-poblado-ciclos-ciclomotores.md "Adelantamiento en poblado a ciclos y ciclomotores"

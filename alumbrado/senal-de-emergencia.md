@@ -51,6 +51,10 @@ Pensar que solo se usa cuando el vehículo está parado por avería. También pu
 - [[vehiculos-inmovilizados-o-estacionados]]
 - [[alumbrado]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 109](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a109): regula las advertencias ópticas y la señal de emergencia.
+
 [uso-obligatorio-del-alumbrado]: uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
 [inmovilizacion-en-tunel]: inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [e-call-aviso-emergencia]: ../vehiculo/e-call-aviso-emergencia.md "e-Call: aviso de emergencia"

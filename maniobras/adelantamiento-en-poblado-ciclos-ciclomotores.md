@@ -32,6 +32,10 @@ Pensar que los 1,50 m solo se aplican fuera de poblado. También se aplican en p
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[permiso-b-ciclomotores-y-movilidad-reducida]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 85](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a85): regula la separación lateral durante el adelantamiento.
+
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"

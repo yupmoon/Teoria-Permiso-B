@@ -29,5 +29,9 @@ Confundir "aconsejable" con "obligatorio". En esta regla, los guantes se recomie
 - [[traje-motocicleta]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [El País, campaña DGT/Guardia Civil sobre motoristas](https://elpais.com/espana/2026-06-04/la-guardia-civil-intensifica-hasta-octubre-la-vigilancia-a-los-motoristas-durante-los-fines-de-semana.html): recoge recomendaciones de protección para motoristas y datos sobre reducción de lesiones en manos con guantes.
+
 [traje-motocicleta]: traje-motocicleta.md "Traje de motocicleta"
 [seguridad-vial]: index.md "Seguridad vial"

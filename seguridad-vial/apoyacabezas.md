@@ -33,5 +33,9 @@ Pensar que solo importa en los asientos delanteros. También debe regularse corr
 - [[seguridad-vial]]
 - [[cinturon-de-seguridad]]
 
+## Fuente
+
+- [Reposacabezas, Wikipedia](https://es.wikipedia.org/wiki/Reposacabezas): describe el reposacabezas como elemento destinado a reducir lesiones cervicales, especialmente por alcance.
+
 [seguridad-vial]: index.md "Seguridad vial"
 [cinturon-de-seguridad]: cinturon-de-seguridad.md "Cinturón de seguridad"

@@ -28,6 +28,10 @@ Elegir respuestas como abrir la ventanilla, subir la música o beber café como 
 - [[aviso-de-fatiga]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [AS, consejos de la DGT para evitar la fatiga al conducir](https://as.com/diarioas/2021/07/05/actualidad/1625476248_612109.html): recoge la recomendación de parar cada 2 horas o cada 200 km.
+
 [sintomas-de-fatiga]: sintomas-de-fatiga.md "Síntomas de fatiga"
 [aviso-de-fatiga]: ../vehiculo/aviso-de-fatiga.md "Aviso de fatiga"
 [seguridad-vial]: index.md "Seguridad vial"

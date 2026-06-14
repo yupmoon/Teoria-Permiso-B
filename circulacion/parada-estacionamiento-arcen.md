@@ -49,6 +49,10 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 - [[permiso-b-ciclomotores-y-movilidad-reducida]]
 - [[circulacion]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 90 a 92](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a90): regulan los lugares y forma de parada y estacionamiento.
+
 [adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [parada-estacionamiento-peligroso-obstaculiza]: ../maniobras/parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
 [estacionamiento-perturba-gravemente-circulacion]: ../maniobras/estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"

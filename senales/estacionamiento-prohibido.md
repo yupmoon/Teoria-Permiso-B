@@ -29,6 +29,10 @@ Confundir estacionamiento prohibido con parada prohibida. Esta nota se refiere a
 - [[parada-estacionamiento-arcen]]
 - [[senales]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 154](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a154): regula las señales de prohibición o restricción, incluida la señal de estacionamiento prohibido.
+
 [vado]: vado.md "Vado"
 [zona-estacionamiento-limitado]: zona-estacionamiento-limitado.md "Zona de estacionamiento limitado"
 [prohibiciones-de-estacionamiento]: ../maniobras/prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"

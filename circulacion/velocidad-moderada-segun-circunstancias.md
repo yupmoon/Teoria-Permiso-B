@@ -34,6 +34,10 @@ Pensar solo en el límite de velocidad de la vía. En el examen, muchas pregunta
 - [[cambio-de-sentido-prohibido]]
 - [[circulacion]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 45 y 46](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a45): regulan la adecuación de la velocidad a las circunstancias y los supuestos de moderación.
+
 [vehiculos-inmovilizados-o-estacionados]: vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
 [incorporacion-carril-aceleracion]: incorporacion-carril-aceleracion.md "Incorporación por carril de aceleración"
 [senales-con-el-brazo]: ../maniobras/senales-con-el-brazo.md "Señales con el brazo"

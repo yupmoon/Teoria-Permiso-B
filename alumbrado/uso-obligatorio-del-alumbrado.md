@@ -29,6 +29,10 @@ Pensar que durante el día no hace falta alumbrado. En túneles o con baja visib
 - [[conduccion-con-hielo]]
 - [[cambio-de-sentido-prohibido]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 99 a 106](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a99): regulan el uso obligatorio del alumbrado, incluidos túneles, pasos inferiores y condiciones de visibilidad reducida.
+
 [alumbrado]: index.md "Alumbrado y señalización luminosa"
 [inmovilizacion-en-tunel]: inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [conduccion-con-hielo]: ../seguridad-vial/conduccion-con-hielo.md "Conducción con hielo"

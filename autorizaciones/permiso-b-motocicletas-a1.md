@@ -25,5 +25,9 @@ Pensar que el permiso B autoriza siempre a conducir motos. No es así: hace falt
 - [[autorizaciones]]
 - [[permiso-b-ciclomotores-y-movilidad-reducida]]
 
+## Fuente
+
+- [Real Decreto 818/2009, Reglamento General de Conductores, artículo 5.7](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481#a5): regula la conducción de motocicletas A1 con permiso B y antigüedad superior a tres años.
+
 [autorizaciones]: index.md "Autorizaciones del permiso B"
 [permiso-b-ciclomotores-y-movilidad-reducida]: permiso-b-ciclomotores-y-movilidad-reducida.md "Permiso B: ciclomotores y movilidad reducida"

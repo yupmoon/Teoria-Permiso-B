@@ -36,6 +36,10 @@ Confundirla con [[estacionamiento-prohibido]]. En la zona limitada se permite es
 - [[vado]]
 - [[senales]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 94](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a94): regula las prohibiciones de estacionamiento y las zonas de estacionamiento con limitación horaria.
+
 [estacionamiento-prohibido]: estacionamiento-prohibido.md "Estacionamiento prohibido"
 [prohibiciones-de-estacionamiento]: ../maniobras/prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [estacionamiento-perturba-gravemente-circulacion]: ../maniobras/estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"

@@ -36,6 +36,10 @@ Olvidar que en una vía sin prioridad la señal puede dejar de tener vigencia al
 - [[velocidad-moderada-segun-circunstancias]]
 - [[senales]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 154](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a154): regula las señales de prohibición o restricción, incluida la velocidad máxima.
+
 [velocidad-maxima-pintada-en-carril]: velocidad-maxima-pintada-en-carril.md "Velocidad máxima pintada en carril"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [senales]: index.md "Señales"

@@ -27,6 +27,10 @@ Pensar que el vehículo empieza a reducir velocidad justo cuando aparece el peli
 - [[pie-preparado-sobre-el-freno]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [Distancia de detención, Wikipedia](https://es.wikipedia.org/wiki/Distancia_de_detenci%C3%B3n): explica el tiempo/distancia de reacción como parte de la distancia total de detención.
+
 [distancia-de-detencion]: distancia-de-detencion.md "Distancia de detención"
 [distancia-de-frenado]: distancia-de-frenado.md "Distancia de frenado"
 [pie-preparado-sobre-el-freno]: pie-preparado-sobre-el-freno.md "Pie preparado sobre el freno"

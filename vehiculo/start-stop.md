@@ -19,5 +19,9 @@ Start-Stop: ADAS permitido en el examen.
 - [[adas-permitidos-examen]]
 - [[sistemas-adas]]
 
+## Fuente
+
+- [Sistemas avanzados de asistencia al conductor, Wikipedia](https://es.wikipedia.org/wiki/Sistemas_avanzados_de_asistencia_al_conductor): fuente general sobre sistemas de asistencia instalados en vehículos.
+
 [adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"

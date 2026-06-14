@@ -37,6 +37,10 @@ Pensar que la exención del conductor se aplica también a los pasajeros. No: lo
 - [[carril-bus-vao-excepciones-un-ocupante]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 117 y 119](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a117): regulan el uso del cinturón y sus exenciones.
+
 [cinturon-de-seguridad]: cinturon-de-seguridad.md "Cinturón de seguridad"
 [carril-bus-vao-excepciones-un-ocupante]: ../circulacion/carril-bus-vao-excepciones-un-ocupante.md "Carril BUS-VAO: excepciones con un solo ocupante"
 [seguridad-vial]: index.md "Seguridad vial"

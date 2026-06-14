@@ -28,5 +28,9 @@ Confundir esta frecuencia con la de turismos privados. En mercancías, a partir 
 - [[itv]]
 - [[itv-vehiculos-privados-hasta-nueve-plazas]]
 
+## Fuente
+
+- [Real Decreto 920/2017, artículo 6](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12841#a6): regula la frecuencia de ITV de vehículos N1 destinados al transporte de mercancías.
+
 [itv]: itv.md "ITV"
 [itv-vehiculos-privados-hasta-nueve-plazas]: itv-vehiculos-privados-hasta-nueve-plazas.md "ITV: vehículos privados hasta nueve plazas"

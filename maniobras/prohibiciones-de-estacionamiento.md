@@ -41,6 +41,10 @@ Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre. Se permit
 - [[parada-estacionamiento-arcen]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 94](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a94): regula los lugares en los que queda prohibido parar o estacionar.
+
 [estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"
 [zona-estacionamiento-limitado]: ../senales/zona-estacionamiento-limitado.md "Zona de estacionamiento limitado"
 [carga-y-descarga]: estacionamiento-perturba-gravemente-circulacion.md "Carga y descarga"

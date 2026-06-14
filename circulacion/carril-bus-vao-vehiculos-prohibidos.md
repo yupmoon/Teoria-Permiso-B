@@ -31,6 +31,10 @@ Pensar que una motocicleta y un ciclomotor reciben el mismo trato. En esta regla
 - [[permiso-b-remolques]]
 - [[permiso-b-ciclomotores-y-movilidad-reducida]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 35.2.a](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a35): regula los vehículos excluidos de los carriles VAO.
+
 [carril-bus-vao]: carril-bus-vao.md "Carril BUS-VAO"
 [carril-bus-vao-vehiculos-permitidos]: carril-bus-vao-vehiculos-permitidos.md "Carril BUS-VAO: vehículos permitidos"
 [permiso-b-remolques]: ../autorizaciones/permiso-b-remolques.md "Permiso B: remolques"

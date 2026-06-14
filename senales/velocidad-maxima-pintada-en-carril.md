@@ -25,5 +25,9 @@ Aplicar siempre la velocidad pintada a toda la calzada. Hay que mirar si el carr
 - [[senal-velocidad-maxima]]
 - [[senales]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, anexo I](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#ani): regula marcas viales y señales relacionadas con la limitación de velocidad.
+
 [senal-velocidad-maxima]: senal-velocidad-maxima.md "Señal de velocidad máxima"
 [senales]: index.md "Señales"

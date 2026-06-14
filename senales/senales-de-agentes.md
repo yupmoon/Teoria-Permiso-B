@@ -18,6 +18,10 @@ Las señales realizadas por agentes regulan la circulación y pueden obligar a d
 - [[senales-con-el-brazo]]
 - [[prioridad-de-paso]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 143](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a143): regula las señales de los agentes de circulación.
+
 [agente-brazo-o-brazos-extendidos]: agente-brazo-o-brazos-extendidos.md "Agente con brazo o brazos extendidos"
 [agente-brazo-levantado-verticalmente]: agente-brazo-levantado-verticalmente.md "Agente con brazo levantado verticalmente"
 [agente-brazo-extendido-arriba-abajo]: agente-brazo-extendido-arriba-abajo.md "Agente con brazo extendido de arriba abajo"

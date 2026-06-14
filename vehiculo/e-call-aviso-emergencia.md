@@ -24,6 +24,10 @@ Confundir e-Call con un sistema que evita el accidente. No lo evita: avisa a eme
 - [[seguridad-vial]]
 - [[vehiculo]]
 
+## Fuente
+
+- [eCall, Wikipedia](https://es.wikipedia.org/wiki/ECall): describe el sistema eCall como llamada de emergencia automática o manual desde el vehículo.
+
 [senal-de-emergencia]: ../alumbrado/senal-de-emergencia.md "Señal de emergencia"
 [seguridad-vial]: ../seguridad-vial/index.md "Seguridad vial"
 [vehiculo]: index.md "Vehículo"

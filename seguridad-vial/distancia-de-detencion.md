@@ -24,6 +24,10 @@ Confundir distancia de frenado con distancia de detención. La distancia de fren
 - [[distancia-de-frenado]]
 - [[seguridad-vial]]
 
+## Fuente
+
+- [Distancia de detención, Wikipedia](https://es.wikipedia.org/wiki/Distancia_de_detenci%C3%B3n): define la distancia de detención como la suma de la distancia de reacción y la distancia de frenado.
+
 [distancia-de-reaccion]: distancia-de-reaccion.md "Distancia de reacción"
 [distancia-de-frenado]: distancia-de-frenado.md "Distancia de frenado"
 [seguridad-vial]: index.md "Seguridad vial"
