@@ -15,7 +15,7 @@ También está prohibido estacionar:
 - En [[zona-estacionamiento-limitado]] sin colocar el distintivo que lo autoriza, como ticket o tarjeta, junto al parabrisas y en lugar visible, o cuando se supere el tiempo máximo permitido.
 - En zonas señalizadas para [[carga-y-descarga]].
 - En zonas señalizadas para uso exclusivo de personas con movilidad reducida.
-- Sobre aceras, paseos y demás zonas destinadas al paso de peatones.
+- Sobre aceras, paseos y demás zonas destinadas al paso de peatones: <ins>prohibido</ins>.
 - Delante de [[vado]] señalizado correctamente.
 - En doble fila: <ins>prohibido siempre</ins>.
 
@@ -27,19 +27,22 @@ No basta con mirar si aparece una señal de [[estacionamiento-prohibido]]. Hay l
 
 No debe confundirse estacionar en doble fila con la [[carga-descarga-y-parada-doble-fila]], que solo se permite como parada si se cumplen sus condiciones: menos de 2 minutos, sin abandonar el vehículo, sin hueco próximo y sin obstrucción grave.
 
+Estacionar sobre una acera ocupa la zona destinada a la circulación de peatones. Si los peatones deben bajar a la calzada para seguir caminando, aumenta el riesgo de [[atropellos-peatones-ciudad-carretera]].
+
 ## Idea clave para el examen
 
-Estacionar prohibido: donde esté prohibida la parada, pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación, zona limitada sin ticket o fuera de tiempo, carga y descarga, movilidad reducida, aceras/paseos, vados señalizados y <ins>doble fila siempre</ins>.
+Estacionar prohibido: donde esté prohibida la parada, pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación, zona limitada sin ticket o fuera de tiempo, carga y descarga, movilidad reducida, <ins>aceras/paseos y zonas de peatones</ins>, vados señalizados y <ins>doble fila siempre</ins>.
 
 ## Trampa habitual
 
-Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre, o confundir parada en doble fila con estacionamiento en doble fila. La parada exige <ins>menos de 2 minutos</ins> y <ins>no abandonar el vehículo</ins>; si falla una de esas condiciones, es estacionamiento.
+Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre, o confundir parada con estacionamiento. La parada exige <ins>menos de 2 minutos</ins> y <ins>no abandonar el vehículo</ins>; si falla una de esas condiciones, es estacionamiento. En acera, estacionar está prohibido porque ocupa el espacio de los peatones.
 
 ## Relacionado
 
 - [[estacionamiento-prohibido]]
 - [[zona-estacionamiento-limitado]]
 - [[vado]]
+- [[atropellos-peatones-ciudad-carretera]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
 - [[carga-descarga-y-parada-doble-fila]]
 - [[parada-estacionamiento-peligroso-obstaculiza]]
@@ -54,6 +57,7 @@ Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre, o confund
 [zona-estacionamiento-limitado]: ../senales/zona-estacionamiento-limitado.md "Zona de estacionamiento limitado"
 [carga-y-descarga]: estacionamiento-perturba-gravemente-circulacion.md "Carga y descarga"
 [vado]: ../senales/vado.md "Vado"
+[atropellos-peatones-ciudad-carretera]: ../seguridad-vial/atropellos-peatones-ciudad-carretera.md "Atropellos de peatones en ciudad y carretera"
 [estacionamiento-perturba-gravemente-circulacion]: estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
 [carga-descarga-y-parada-doble-fila]: carga-descarga-y-parada-doble-fila.md "Carga y descarga y parada en doble fila"
 [parada-estacionamiento-peligroso-obstaculiza]: parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
