@@ -35,16 +35,16 @@ La prohibición en intersecciones y proximidades no se aplica cuando:
 
 - Se trate de una plaza de circulación giratoria o glorieta.
 - El adelantamiento deba efectuarse por la derecha, según [[adelantamiento-por-la-derecha]].
-- La calzada en que se realice goce de prioridad en la intersección y haya señal expresa que lo indique.
+- La calzada en que se realice goce de prioridad en la intersección y haya señal expresa que lo indique, por ejemplo un semáforo con luz verde.
 - El adelantamiento se realice a vehículos de dos ruedas.
 
 ## En mis palabras
 
-El adelantamiento se prohíbe cuando falta visibilidad para hacerlo o para desistir de la maniobra una vez iniciada. La excepción exige dos cosas a la vez: sentidos claramente delimitados y no invadir la zona reservada al sentido contrario. También se prohíbe en zonas especialmente delicadas: pasos para peatones, vías ciclistas, pasos a nivel, intersecciones y túneles de un solo carril por sentido. Algunas excepciones existen, pero dependen de visibilidad, baja velocidad, señalización o del tipo de vehículo adelantado.
+El adelantamiento se prohíbe cuando falta visibilidad para hacerlo o para desistir de la maniobra una vez iniciada. La excepción exige dos cosas a la vez: sentidos claramente delimitados y no invadir la zona reservada al sentido contrario. También se prohíbe en zonas especialmente delicadas: pasos para peatones, vías ciclistas, pasos a nivel, intersecciones y túneles de un solo carril por sentido. Algunas excepciones existen, pero dependen de visibilidad, baja velocidad, señalización, prioridad señalizada o del tipo de vehículo adelantado.
 
 ## Idea clave para el examen
 
-Adelantar prohibido si no hay visibilidad suficiente para hacerlo o <ins>desistir una vez iniciado</ins>. Excepción en curvas/rasantes de visibilidad reducida: <ins>sentidos claramente delimitados</ins> y <ins>sin invadir el sentido contrario</ins>. También prohibido detrás de un vehículo grande que tapa la vista, en pasos para peatones/vías ciclistas/pasos a nivel, en intersecciones y en túneles con un solo carril por sentido.
+Adelantar prohibido si no hay visibilidad suficiente para hacerlo o <ins>desistir una vez iniciado</ins>. Excepción en curvas/rasantes de visibilidad reducida: <ins>sentidos claramente delimitados</ins> y <ins>sin invadir el sentido contrario</ins>. En intersecciones: permitido si hay <ins>prioridad señalizada</ins>, como semáforo verde, o si es glorieta/plaza giratoria.
 
 ## Relacionado
 

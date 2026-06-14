@@ -26,21 +26,27 @@ También está prohibido el cambio de sentido en:
 - Todos los tramos de la vía en que esté prohibido el adelantamiento, según [[prohibiciones-de-adelantamiento]], <ins>salvo que el cambio de sentido esté expresamente autorizado</ins>.
 - [[adelantamiento-prohibido-pasos-peatones]], porque en los pasos para peatones señalizados y sus proximidades está prohibido adelantar.
 
+En las intersecciones y proximidades está prohibido adelantar salvo que se disponga de prioridad y esté debidamente señalizada. Si la prioridad está señalizada, por ejemplo mediante semáforo con luz verde, se podrá adelantar o cambiar el sentido de la marcha, siempre con precaución y sin poner en peligro a ningún usuario.
+
+En las glorietas y plazas de circulación giratoria, aunque son intersecciones especiales, está permitido cambiar el sentido de la marcha.
+
 ## En mis palabras
 
-El cambio de sentido solo se puede hacer si se ve bien y no se crea peligro ni obstáculo. Además, hay lugares donde está prohibido aunque parezca que hay espacio, como túneles, pasos inferiores, sentido único o tramos donde no se puede adelantar. Si el vehículo queda detenido en un túnel, se aplica [[inmovilizacion-en-tunel]].
+El cambio de sentido solo se puede hacer si se ve bien y no se crea peligro ni obstáculo. Además, hay lugares donde está prohibido aunque parezca que hay espacio, como túneles, pasos inferiores, sentido único o tramos donde no se puede adelantar. Si en una intersección hay prioridad señalizada, como semáforo verde, puede permitirse la maniobra; en glorietas y plazas giratorias también está permitido cambiar el sentido. Si el vehículo queda detenido en un túnel, se aplica [[inmovilizacion-en-tunel]].
 
 No debe confundirse con el [[cambio-direccion-izquierda-visibilidad]] ni con las [[senales-prohibicion-giro-izquierda-cambio-sentido]].
 
 ## Idea clave para el examen
 
-Cambio de sentido prohibido si no se puede comprobar la seguridad, en pasos a nivel, túneles/pasos inferiores/señal túnel, autopistas/autovías salvo lugar habilitado, sentido único, tramos con adelantamiento prohibido salvo autorización expresa y pasos para peatones señalizados con sus proximidades.
+Cambio de sentido prohibido si no se puede comprobar la seguridad, en pasos a nivel, túneles/pasos inferiores/señal túnel, autopistas/autovías salvo lugar habilitado, sentido único, tramos con adelantamiento prohibido salvo autorización expresa y pasos para peatones señalizados con sus proximidades. En intersecciones con <ins>prioridad señalizada</ins>, como semáforo verde, puede permitirse. En <ins>glorietas y plazas giratorias</ins>, está permitido.
 
 ## Trampa habitual
 
 Pensar que está prohibido en las proximidades de pasos a nivel. La prohibición es en los pasos a nivel, <ins>no en sus proximidades</ins>.
 
 Otra trampa: olvidar que los pasos para peatones señalizados y sus proximidades prohíben adelantar; por tanto, también prohíben el cambio de sentido salvo autorización expresa.
+
+También puede confundirse una intersección normal con una glorieta. En glorietas y plazas de circulación giratoria se permite cambiar el sentido de la marcha.
 
 ## Relacionado
 
