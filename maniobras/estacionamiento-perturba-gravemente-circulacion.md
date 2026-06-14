@@ -14,7 +14,7 @@ Un estacionamiento perturba gravemente la circulación, entre otros casos, cuand
 
 ## En mis palabras
 
-No se trata solo de si está permitido estacionar por señal. También hay estacionamientos que son especialmente graves porque bloquean la circulación, ocupan zonas de organización del tráfico o dejan demasiado poco espacio para pasar.
+No se trata solo de si está permitido estacionar por señal. También hay estacionamientos que son especialmente graves porque bloquean la circulación, ocupan zonas de organización del tráfico o dejan demasiado poco espacio para pasar. En vías interurbanas, estacionar en el arcén transitable puede entorpecer a los usuarios que deben circular por él; ver [[parada-estacionamiento-arcen]].
 
 ## Idea clave para el examen
 
@@ -28,12 +28,14 @@ Olvidar el número: si queda una distancia <ins>inferior a 3 metros</ins>, el es
 
 - [[estacionamiento-prohibido]]
 - [[zona-estacionamiento-limitado]]
+- [[parada-estacionamiento-arcen]]
 - [[vado]]
 - [[velocidad-moderada-segun-circunstancias]]
 - [[maniobras]]
 
 [estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"
 [zona-estacionamiento-limitado]: ../senales/zona-estacionamiento-limitado.md "Zona de estacionamiento limitado"
+[parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [vado]: ../senales/vado.md "Vado"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [maniobras]: index.md "Maniobras"

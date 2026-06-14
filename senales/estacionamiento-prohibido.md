@@ -6,7 +6,7 @@ Tags: #permiso-b #señales #estacionamiento #prohibicion
 
 ## Regla
 
-La señal de estacionamiento prohibido indica que no está permitido estacionar en la zona afectada por la señal. Aunque no exista esta señal, algunos estacionamientos pueden [[estacionamiento-perturba-gravemente-circulacion]].
+La señal de estacionamiento prohibido indica que no está permitido estacionar en la zona afectada por la señal. Aunque no exista esta señal, algunos estacionamientos pueden [[estacionamiento-perturba-gravemente-circulacion]], y la parada o estacionamiento en el arcén tiene reglas propias en [[parada-estacionamiento-arcen]].
 
 ## En mis palabras
 
@@ -25,9 +25,11 @@ Confundir estacionamiento prohibido con parada prohibida. Esta nota se refiere a
 - [[vado]]
 - [[zona-estacionamiento-limitado]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
+- [[parada-estacionamiento-arcen]]
 - [[senales]]
 
 [vado]: vado.md "Vado"
 [zona-estacionamiento-limitado]: zona-estacionamiento-limitado.md "Zona de estacionamiento limitado"
 [estacionamiento-perturba-gravemente-circulacion]: ../maniobras/estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
+[parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [senales]: index.md "Señales"

@@ -1,0 +1,54 @@
+# Parada y estacionamiento en el arcén
+
+Tags: #permiso-b #circulacion #arcen #parada #estacionamiento #vias-interurbanas #vias-urbanas
+
+## Vías interurbanas
+
+En vías interurbanas, el arcén es el lugar destinado a la circulación de algunos vehículos, como [[permiso-b-ciclomotores-y-movilidad-reducida]], ciclos o vehículos para personas de movilidad reducida.
+
+Por eso, si se para o estaciona en el arcén transitable, se entorpece su circulación.
+
+En estas vías, la parada o estacionamiento debe hacerse:
+
+- <ins>Fuera de la calzada</ins>.
+- <ins>Fuera de la parte transitable del arcén</ins>.
+- Siempre en el <ins>lado derecho</ins>, independientemente de los sentidos de circulación.
+
+Se permite parar o estacionar en el arcén si <ins>no es transitable</ins>.
+
+## Vías urbanas
+
+En vías urbanas, normalmente los arcenes se utilizan para estacionar, por lo que se puede parar y estacionar en ellos aunque sean transitables.
+
+La colocación depende del sentido de circulación:
+
+- Vía urbana de sentido único: se puede parar o estacionar a la derecha o a la izquierda.
+- Vía urbana de doble sentido: se debe parar o estacionar en el <ins>lado derecho</ins>.
+
+## En mis palabras
+
+En carretera interurbana, el arcén transitable no es un aparcamiento: lo usan ciclomotores, ciclos y vehículos de movilidad reducida. En ciudad, en cambio, el arcén suele usarse para estacionar. La clave es distinguir vía interurbana/urbana y arcén transitable/no transitable.
+
+## Idea clave para el examen
+
+Vía interurbana: parar o estacionar fuera de la calzada y fuera del arcén transitable; si el arcén no es transitable, se puede usar. Siempre al lado derecho. Vía urbana: puede usarse el arcén; sentido único permite derecha o izquierda, doble sentido solo derecha.
+
+## Trampa habitual
+
+Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el arcén transitable está reservado para la circulación de ciertos usuarios.
+
+## Relacionado
+
+- [[adelantamiento-vehiculos-obligados-arcen]]
+- [[estacionamiento-perturba-gravemente-circulacion]]
+- [[estacionamiento-prohibido]]
+- [[vehiculos-inmovilizados-o-estacionados]]
+- [[permiso-b-ciclomotores-y-movilidad-reducida]]
+- [[circulacion]]
+
+[adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
+[estacionamiento-perturba-gravemente-circulacion]: ../maniobras/estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
+[estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"
+[vehiculos-inmovilizados-o-estacionados]: vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
+[permiso-b-ciclomotores-y-movilidad-reducida]: ../autorizaciones/permiso-b-ciclomotores-y-movilidad-reducida.md "Permiso B: ciclomotores y movilidad reducida"
+[circulacion]: index.md "Circulación"
