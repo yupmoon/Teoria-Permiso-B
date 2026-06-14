@@ -4,7 +4,7 @@ Tags: #permiso-b #circulacion #velocidad #poblado
 
 ## Regla fuera de poblado
 
-Fuera de poblado, al acercarse a vehículos inmovilizados en la calzada, los conductores deben circular a [[velocidad-moderada-segun-circunstancias]] y, si fuera preciso, detenerse. Si el vehículo inmovilizado supone una emergencia, debe señalizarse con [[senal-de-emergencia]].
+Fuera de poblado, al acercarse a vehículos inmovilizados en la calzada, los conductores deben circular a [[velocidad-moderada-segun-circunstancias]] y, si fuera preciso, detenerse. Si el vehículo inmovilizado supone una emergencia, debe señalizarse con [[senal-de-emergencia]]. En túneles se aplica además [[inmovilizacion-en-tunel]].
 
 ## Regla dentro de poblado
 
@@ -28,10 +28,12 @@ Responder que siempre hay que reducir al pasar junto a vehículos estacionados d
 
 - [[velocidad-moderada-segun-circunstancias]]
 - [[senal-de-emergencia]]
+- [[inmovilizacion-en-tunel]]
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[circulacion]]
 
 [velocidad-moderada-segun-circunstancias]: velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [senal-de-emergencia]: ../alumbrado/senal-de-emergencia.md "Señal de emergencia"
+[inmovilizacion-en-tunel]: ../alumbrado/inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [adelantar-usuarios-vulnerables-linea-continua]: ../maniobras/adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [circulacion]: index.md "Circulación"

@@ -12,7 +12,7 @@ Todos los vehículos deberán llevar encendido el alumbrado que corresponda en e
 
 ## En mis palabras
 
-Hay que encender las luces no solo de noche. También son obligatorias en túneles y cuando la visibilidad baja mucho por condiciones meteorológicas o ambientales. En esos entornos también puede estar prohibido el [[cambio-de-sentido-prohibido]].
+Hay que encender las luces no solo de noche. También son obligatorias en túneles y cuando la visibilidad baja mucho por condiciones meteorológicas o ambientales. En esos entornos también puede estar prohibido el [[cambio-de-sentido-prohibido]], y si el vehículo queda detenido dentro de un túnel se aplica [[inmovilizacion-en-tunel]].
 
 ## Idea clave para el examen
 
@@ -25,9 +25,11 @@ Pensar que durante el día no hace falta alumbrado. En túneles o con baja visib
 ## Relacionado
 
 - [[alumbrado]]
+- [[inmovilizacion-en-tunel]]
 - [[conduccion-con-hielo]]
 - [[cambio-de-sentido-prohibido]]
 
 [alumbrado]: index.md "Alumbrado y señalización luminosa"
+[inmovilizacion-en-tunel]: inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [conduccion-con-hielo]: ../seguridad-vial/conduccion-con-hielo.md "Conducción con hielo"
 [cambio-de-sentido-prohibido]: ../maniobras/cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"

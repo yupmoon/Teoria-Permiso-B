@@ -17,7 +17,7 @@ La luz o señal de emergencia se utiliza para señalizar y advertir el peligro q
 
 Debe utilizarse en <ins>vías urbanas e interurbanas</ins>, <ins>tanto de día como de noche</ins>.
 
-Puede utilizarse tanto si el vehículo está <ins>inmovilizado</ins> como si está <ins>en movimiento</ins>.
+Puede utilizarse tanto si el vehículo está <ins>inmovilizado</ins> como si está <ins>en movimiento</ins>. En túneles hay reglas específicas en [[inmovilizacion-en-tunel]].
 
 ## Funcionamiento
 
@@ -40,16 +40,18 @@ Se usa en <ins>vías urbanas e interurbanas</ins>, <ins>de día y de noche</ins>
 
 ## Trampa habitual
 
-Pensar que solo se usa cuando el vehículo está parado por avería. También puede utilizarse en movimiento si existe una emergencia, por ejemplo si no se puede alcanzar la velocidad mínima y hay peligro de alcance; en ese caso otros conductores deben aplicar [[velocidad-moderada-segun-circunstancias]].
+Pensar que solo se usa cuando el vehículo está parado por avería. También puede utilizarse en movimiento si existe una emergencia, por ejemplo si no se puede alcanzar la velocidad mínima y hay peligro de alcance; en ese caso otros conductores deben aplicar [[velocidad-moderada-segun-circunstancias]]. En [[inmovilizacion-en-tunel]], la señal cambia según sea aglomeración o emergencia.
 
 ## Relacionado
 
 - [[uso-obligatorio-del-alumbrado]]
+- [[inmovilizacion-en-tunel]]
 - [[velocidad-moderada-segun-circunstancias]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 - [[alumbrado]]
 
 [uso-obligatorio-del-alumbrado]: uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
+[inmovilizacion-en-tunel]: inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
 [alumbrado]: index.md "Alumbrado y señalización luminosa"
