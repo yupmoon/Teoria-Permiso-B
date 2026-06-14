@@ -21,6 +21,8 @@ Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculiza
 
 - Se realicen en pasos a nivel.
 - Se realicen sobre los raíles del tranvía o en lugares que entorpezcan su circulación.
+- Se realicen en intersecciones y en sus proximidades <ins>si se dificulta el giro a otros vehículos</ins>.
+- Se realicen en intersecciones y en sus proximidades en vías interurbanas <ins>si se genera peligro por falta de visibilidad</ins>.
 - La distancia entre el vehículo y el borde opuesto de la calzada, o una marca longitudinal que prohíba atravesarla, sea <ins>inferior a 3 metros</ins>.
 - No se permita el paso de otros vehículos.
 - Se impida incorporarse a la circulación a otro vehículo debidamente parado o estacionado.
@@ -47,11 +49,11 @@ Hay dos niveles: primero, la regla general de no crear peligro ni obstáculo; se
 
 ## Idea clave para el examen
 
-Número crítico: <ins>menos de 3 metros</ins> entre el vehículo y el borde opuesto o una marca longitudinal que no se puede atravesar. Parada y estacionamiento prohibidos en pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación. Distinción crítica: carga y descarga, doble fila sin conductor, parada de transporte público, servicios de urgencia, vía de atención preferente y medio de la calzada son casos de <ins>estacionamiento</ins>.
+Número crítico: <ins>menos de 3 metros</ins> entre el vehículo y el borde opuesto o una marca longitudinal que no se puede atravesar. Parada y estacionamiento prohibidos en pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación. En intersecciones y proximidades, atención al condicional: prohibido <ins>si dificulta el giro</ins> o, en vías interurbanas, <ins>si genera peligro por falta de visibilidad</ins>. Distinción crítica: carga y descarga, doble fila sin conductor, parada de transporte público, servicios de urgencia, vía de atención preferente y medio de la calzada son casos de <ins>estacionamiento</ins>.
 
 ## Trampa habitual
 
-Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y estacionamiento: algunos son solo estacionamientos peligrosos u obstaculizadores.
+Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y estacionamiento: algunos son solo estacionamientos peligrosos u obstaculizadores. En intersecciones, no olvidar los <ins>si</ins>: dificultar el giro o peligro por falta de visibilidad en vía interurbana.
 
 ## Relacionado
 
