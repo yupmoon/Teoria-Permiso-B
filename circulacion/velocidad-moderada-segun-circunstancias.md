@@ -13,7 +13,7 @@ Los conductores están obligados a circular con sus vehículos a velocidad moder
 
 ## En mis palabras
 
-No basta con respetar el límite máximo de velocidad de [[senal-velocidad-maxima]]. Hay situaciones en las que se debe reducir la velocidad, e incluso detenerse, aunque la señal permita circular más rápido. En una [[incorporacion-carril-aceleracion]], la velocidad debe adaptarse para entrar sin peligro.
+No basta con respetar el límite máximo de velocidad de [[senal-velocidad-maxima]]. Hay situaciones en las que se debe reducir la velocidad, e incluso detenerse, aunque la señal permita circular más rápido. En una [[incorporacion-carril-aceleracion]], la velocidad debe adaptarse para entrar sin peligro. Si se carece de intermitentes, la reducción o detención puede advertirse con [[senales-con-el-brazo]].
 
 ## Idea clave para el examen
 
@@ -27,6 +27,7 @@ Pensar solo en el límite de velocidad de la vía. En el examen, muchas pregunta
 
 - [[vehiculos-inmovilizados-o-estacionados]]
 - [[incorporacion-carril-aceleracion]]
+- [[senales-con-el-brazo]]
 - [[conduccion-con-hielo]]
 - [[senal-velocidad-maxima]]
 - [[atropellos-peatones-ciudad-carretera]]
@@ -35,6 +36,7 @@ Pensar solo en el límite de velocidad de la vía. En el examen, muchas pregunta
 
 [vehiculos-inmovilizados-o-estacionados]: vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
 [incorporacion-carril-aceleracion]: incorporacion-carril-aceleracion.md "Incorporación por carril de aceleración"
+[senales-con-el-brazo]: ../maniobras/senales-con-el-brazo.md "Señales con el brazo"
 [conduccion-con-hielo]: ../seguridad-vial/conduccion-con-hielo.md "Conducción con hielo"
 [senal-velocidad-maxima]: ../senales/senal-velocidad-maxima.md "Señal de velocidad máxima"
 [atropellos-peatones-ciudad-carretera]: ../seguridad-vial/atropellos-peatones-ciudad-carretera.md "Atropellos de peatones en ciudad y carretera"

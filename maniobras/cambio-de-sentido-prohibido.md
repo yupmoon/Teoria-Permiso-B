@@ -29,6 +29,8 @@ También está prohibido el cambio de sentido en:
 
 El cambio de sentido solo se puede hacer si se ve bien y no se crea peligro ni obstáculo. Además, hay lugares donde está prohibido aunque parezca que hay espacio, como túneles, pasos inferiores, sentido único o tramos donde no se puede adelantar.
 
+No debe confundirse con el [[cambio-direccion-izquierda-visibilidad]] ni con las [[senales-prohibicion-giro-izquierda-cambio-sentido]].
+
 ## Idea clave para el examen
 
 Cambio de sentido prohibido si no se puede comprobar la seguridad, en pasos a nivel, túneles/pasos inferiores/señal túnel, autopistas/autovías salvo lugar habilitado, sentido único y tramos con adelantamiento prohibido salvo autorización expresa.
@@ -41,10 +43,14 @@ Pensar que está prohibido en las proximidades de pasos a nivel. La prohibición
 
 - [[velocidad-moderada-segun-circunstancias]]
 - [[uso-obligatorio-del-alumbrado]]
+- [[cambio-direccion-izquierda-visibilidad]]
+- [[senales-prohibicion-giro-izquierda-cambio-sentido]]
 - [[no-se-considera-adelantar]]
 - [[maniobras]]
 
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [uso-obligatorio-del-alumbrado]: ../alumbrado/uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
+[cambio-direccion-izquierda-visibilidad]: cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"
+[senales-prohibicion-giro-izquierda-cambio-sentido]: ../senales/senales-prohibicion-giro-izquierda-cambio-sentido.md "Señales de prohibición: giro a la izquierda y cambio de sentido"
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"
 [maniobras]: index.md "Maniobras"
