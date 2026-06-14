@@ -4,14 +4,14 @@ Tags: #permiso-b #maniobras #cambio-de-sentido #visibilidad #tuneles
 
 ## Regla general
 
-Realizar un cambio de sentido está prohibido en toda situación que impida comprobar que no vamos a poner en peligro u obstaculizar a otros usuarios de la vía. La forma correcta de realizarlo se recoge en [[cambio-sentido-maniobra]].
+Realizar un cambio de sentido está prohibido en toda situación que impida comprobar que no vamos a <ins>poner en peligro u obstaculizar</ins> a otros usuarios de la vía. La forma correcta de realizarlo se recoge en [[cambio-sentido-maniobra]].
 
 Ejemplos:
 
-- Curvas de visibilidad reducida.
-- Cambios de rasante de visibilidad reducida.
-- Niebla.
-- Lluvia intensa.
+- Curvas de <ins>visibilidad reducida</ins>.
+- Cambios de rasante de <ins>visibilidad reducida</ins>.
+- <ins>Niebla</ins>.
+- <ins>Lluvia intensa</ins>.
 
 Esta regla se relaciona con [[velocidad-moderada-segun-circunstancias]] porque ambas dependen de adaptar la conducción a la visibilidad y al riesgo real.
 
