@@ -8,11 +8,11 @@ En vías interurbanas, el arcén es el lugar destinado a la circulación de algu
 
 Por eso, si se para o estaciona en el arcén transitable, se entorpece su circulación.
 
-En estas vías, la parada o estacionamiento debe hacerse:
+Como norma general, en vías interurbanas la parada o estacionamiento debe hacerse:
 
 - <ins>Fuera de la calzada</ins>.
-- <ins>Fuera de la parte transitable del arcén</ins>.
-- Siempre en el <ins>lado derecho</ins>, independientemente de los sentidos de circulación.
+- En el <ins>lado derecho</ins> de la vía.
+- Dejando libre la <ins>parte transitable del arcén</ins>.
 
 Se permite parar o estacionar en el arcén si <ins>no es transitable</ins>.
 
@@ -43,6 +43,7 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 
 - [[adelantamiento-vehiculos-obligados-arcen]]
 - [[parada-estacionamiento-peligroso-obstaculiza]]
+- [[calzos-en-parada-estacionamiento-pendiente]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
 - [[estacionamiento-prohibido]]
 - [[vehiculos-inmovilizados-o-estacionados]]
@@ -55,6 +56,7 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 
 [adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [parada-estacionamiento-peligroso-obstaculiza]: ../maniobras/parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
+[calzos-en-parada-estacionamiento-pendiente]: ../maniobras/calzos-en-parada-estacionamiento-pendiente.md "Calzos en parada o estacionamiento con pendiente"
 [estacionamiento-perturba-gravemente-circulacion]: ../maniobras/estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
 [estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"
 [vehiculos-inmovilizados-o-estacionados]: vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

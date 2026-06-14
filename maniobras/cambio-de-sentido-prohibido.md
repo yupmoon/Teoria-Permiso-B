@@ -23,7 +23,7 @@ También está prohibido el cambio de sentido en:
 - [[uso-obligatorio-del-alumbrado]], pasos inferiores y tramos de vía afectados por la señal "Túnel".
 - [[autopistas-y-autovias]], <ins>salvo en los lugares habilitados</ins>.
 - Calzadas y tramos de vía de sentido único.
-- Todos los tramos de la vía en que esté prohibido el adelantamiento, <ins>salvo que el cambio de sentido esté expresamente autorizado</ins>.
+- Todos los tramos de la vía en que esté prohibido el adelantamiento, según [[prohibiciones-de-adelantamiento]], <ins>salvo que el cambio de sentido esté expresamente autorizado</ins>.
 - [[adelantamiento-prohibido-pasos-peatones]], porque en los pasos para peatones señalizados y sus proximidades está prohibido adelantar.
 
 ## En mis palabras
@@ -53,6 +53,7 @@ Otra trampa: olvidar que los pasos para peatones señalizados y sus proximidades
 - [[cambio-direccion-izquierda-visibilidad]]
 - [[senales-prohibicion-giro-izquierda-cambio-sentido]]
 - [[adelantamiento-prohibido-pasos-peatones]]
+- [[prohibiciones-de-adelantamiento]]
 - [[no-se-considera-adelantar]]
 - [[maniobras]]
 
@@ -69,5 +70,6 @@ Otra trampa: olvidar que los pasos para peatones señalizados y sus proximidades
 [cambio-direccion-izquierda-visibilidad]: cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"
 [senales-prohibicion-giro-izquierda-cambio-sentido]: ../senales/senales-prohibicion-giro-izquierda-cambio-sentido.md "Señales de prohibición: giro a la izquierda y cambio de sentido"
 [adelantamiento-prohibido-pasos-peatones]: adelantamiento-prohibido-pasos-peatones.md "Adelantamiento prohibido en pasos para peatones"
+[prohibiciones-de-adelantamiento]: prohibiciones-de-adelantamiento.md "Prohibiciones de adelantamiento"
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"
 [maniobras]: index.md "Maniobras"

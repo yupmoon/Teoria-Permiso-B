@@ -13,6 +13,8 @@ La parada y el estacionamiento deben hacerse de forma que el vehículo:
 
 Esta regla se conecta con [[parada-estacionamiento-arcen]] porque la posición cambia según sea vía urbana o interurbana.
 
+Si el vehículo queda en una pendiente sensible y es de más de 3.500 kg de MMA, autobús o conjunto de vehículos, se aplica [[calzos-en-parada-estacionamiento-pendiente]].
+
 ## Parada o estacionamiento peligrosos
 
 Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación cuando:
@@ -52,6 +54,7 @@ Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y es
 ## Relacionado
 
 - [[parada-estacionamiento-arcen]]
+- [[calzos-en-parada-estacionamiento-pendiente]]
 - [[prohibiciones-de-estacionamiento]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
 - [[vado]]
@@ -64,6 +67,7 @@ Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y es
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 91 y 94](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a91): regulan el modo de ejecución y los supuestos de parada o estacionamiento peligrosos o que obstaculizan gravemente.
 
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
+[calzos-en-parada-estacionamiento-pendiente]: calzos-en-parada-estacionamiento-pendiente.md "Calzos en parada o estacionamiento con pendiente"
 [prohibiciones-de-estacionamiento]: prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [estacionamiento-perturba-gravemente-circulacion]: estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
 [vado]: ../senales/vado.md "Vado"
