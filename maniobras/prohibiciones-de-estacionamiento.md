@@ -25,6 +25,8 @@ En las zonas de estacionamiento con limitación horaria, los agentes pueden <ins
 
 No basta con mirar si aparece una señal de [[estacionamiento-prohibido]]. Hay lugares donde estacionar está prohibido por el uso reservado del espacio: peatones, vados, carga y descarga, plazas para movilidad reducida, doble fila o zonas reguladas sin cumplir las condiciones.
 
+No debe confundirse estacionar en doble fila con la [[carga-descarga-y-parada-doble-fila]], que solo se permite como parada si se cumplen sus condiciones.
+
 ## Idea clave para el examen
 
 Estacionar prohibido: donde esté prohibida la parada, pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación, zona limitada sin ticket o fuera de tiempo, carga y descarga, movilidad reducida, aceras/paseos, vados señalizados y doble fila.
@@ -39,6 +41,7 @@ Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre. Se permit
 - [[zona-estacionamiento-limitado]]
 - [[vado]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
+- [[carga-descarga-y-parada-doble-fila]]
 - [[parada-estacionamiento-peligroso-obstaculiza]]
 - [[parada-estacionamiento-arcen]]
 - [[maniobras]]
@@ -52,6 +55,7 @@ Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre. Se permit
 [carga-y-descarga]: estacionamiento-perturba-gravemente-circulacion.md "Carga y descarga"
 [vado]: ../senales/vado.md "Vado"
 [estacionamiento-perturba-gravemente-circulacion]: estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
+[carga-descarga-y-parada-doble-fila]: carga-descarga-y-parada-doble-fila.md "Carga y descarga y parada en doble fila"
 [parada-estacionamiento-peligroso-obstaculiza]: parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [maniobras]: index.md "Maniobras"

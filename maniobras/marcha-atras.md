@@ -6,28 +6,28 @@ Tags: #permiso-b #maniobras #marcha-atras #seguridad
 
 Como norma general, está prohibido circular marcha atrás.
 
-Solo se permite en estos casos:
+Solo se permite de manera excepcional y siempre con el <ins>recorrido mínimo indispensable</ins> en estos casos:
 
-1. Cuando no sea posible marchar hacia delante ni cambiar de dirección o sentido de marcha.
-
-En este caso <ins>no existe limitación de recorrido marcha atrás</ins> e incluso se puede invadir un cruce de vías si fuera necesario.
-
-2. Como maniobra complementaria de la parada, el estacionamiento o la incorporación a la circulación.
+1. Como maniobra complementaria de la parada, el estacionamiento o la incorporación a la circulación.
 
 En este caso:
 
 - El recorrido marcha atrás <ins>no puede ser superior a 15 metros</ins>.
 - No se puede invadir un cruce de vías.
 
+2. Cuando no sea posible marchar hacia delante ni cambiar de dirección o sentido de marcha.
+
+En este caso <ins>no existe limitación de recorrido marcha atrás</ins> e incluso se puede invadir un cruce de vías si fuera necesario.
+
 La maniobra de marcha atrás está <ins>prohibida en autopistas y autovías</ins>.
 
 ## En mis palabras
 
-La marcha atrás no es una maniobra normal para circular. Puede ser un recurso excepcional cuando no hay otra forma de continuar, o una maniobra complementaria para parar, estacionar o incorporarse. La regla de los 15 metros solo pertenece a la maniobra complementaria.
+La marcha atrás no es una maniobra normal para circular. Puede ser una maniobra complementaria para parar, estacionar o incorporarse, o un recurso excepcional cuando no hay otra forma de continuar. En ambos casos debe hacerse con el recorrido mínimo indispensable. La regla de los 15 metros solo pertenece a la maniobra complementaria.
 
 ## Idea clave para el examen
 
-Marcha atrás: norma general prohibida. Si no se puede avanzar ni cambiar dirección/sentido, puede hacerse sin límite concreto de recorrido. Si es complementaria de parada, estacionamiento o incorporación: <ins>máximo 15 metros y sin invadir cruces</ins>. En [[autopistas-y-autovias]], está prohibida.
+Marcha atrás: norma general prohibida. Siempre recorrido <ins>mínimo indispensable</ins>. Complementaria de parada, estacionamiento o incorporación: <ins>máximo 15 metros y sin invadir cruces</ins>. Si no se puede avanzar ni cambiar dirección/sentido: sin límite concreto de recorrido e incluso puede invadir un cruce si es necesario. En [[autopistas-y-autovias]], está prohibida.
 
 ## Trampa habitual
 

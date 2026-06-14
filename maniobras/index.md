@@ -11,6 +11,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 - [[adelantamiento-por-la-derecha]]
 - [[adelantamiento-vehiculos-obligados-arcen]]
 - [[calzos-en-parada-estacionamiento-pendiente]]
+- [[carga-descarga-y-parada-doble-fila]]
 - [[cambio-de-sentido-prohibido]]
 - [[cambio-sentido-maniobra]]
 - [[cambio-direccion-izquierda-visibilidad]]
@@ -33,6 +34,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 [adelantamiento-por-la-derecha]: adelantamiento-por-la-derecha.md "Adelantamiento por la derecha"
 [adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [calzos-en-parada-estacionamiento-pendiente]: calzos-en-parada-estacionamiento-pendiente.md "Calzos en parada o estacionamiento con pendiente"
+[carga-descarga-y-parada-doble-fila]: carga-descarga-y-parada-doble-fila.md "Carga y descarga y parada en doble fila"
 [cambio-de-sentido-prohibido]: cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [cambio-sentido-maniobra]: cambio-sentido-maniobra.md "Cambio de sentido: realización de la maniobra"
 [cambio-direccion-izquierda-visibilidad]: cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"

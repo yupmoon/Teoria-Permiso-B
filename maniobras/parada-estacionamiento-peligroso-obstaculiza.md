@@ -15,6 +15,8 @@ Esta regla se conecta con [[parada-estacionamiento-arcen]] porque la posición c
 
 Si el vehículo queda en una pendiente sensible y es de más de 3.500 kg de MMA, autobús o conjunto de vehículos, se aplica [[calzos-en-parada-estacionamiento-pendiente]].
 
+Para carga y descarga, definición de parada y parada en doble fila, ver [[carga-descarga-y-parada-doble-fila]].
+
 ## Parada o estacionamiento peligrosos
 
 Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación cuando:
@@ -58,6 +60,7 @@ Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y es
 ## Relacionado
 
 - [[parada-estacionamiento-arcen]]
+- [[carga-descarga-y-parada-doble-fila]]
 - [[calzos-en-parada-estacionamiento-pendiente]]
 - [[prohibiciones-de-estacionamiento]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
@@ -72,6 +75,7 @@ Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y es
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 91 y 94](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a91): regulan el modo de ejecución y los supuestos de parada o estacionamiento peligrosos o que obstaculizan gravemente.
 
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
+[carga-descarga-y-parada-doble-fila]: carga-descarga-y-parada-doble-fila.md "Carga y descarga y parada en doble fila"
 [calzos-en-parada-estacionamiento-pendiente]: calzos-en-parada-estacionamiento-pendiente.md "Calzos en parada o estacionamiento con pendiente"
 [prohibiciones-de-estacionamiento]: prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [estacionamiento-perturba-gravemente-circulacion]: estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"

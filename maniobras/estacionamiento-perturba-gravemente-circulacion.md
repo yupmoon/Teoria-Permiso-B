@@ -31,6 +31,7 @@ Olvidar el número: si queda una distancia <ins>inferior a 3 metros</ins>, el es
 
 - [[estacionamiento-prohibido]]
 - [[prohibiciones-de-estacionamiento]]
+- [[carga-descarga-y-parada-doble-fila]]
 - [[parada-estacionamiento-peligroso-obstaculiza]]
 - [[zona-estacionamiento-limitado]]
 - [[parada-estacionamiento-arcen]]
@@ -44,6 +45,7 @@ Olvidar el número: si queda una distancia <ins>inferior a 3 metros</ins>, el es
 
 [estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"
 [prohibiciones-de-estacionamiento]: prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
+[carga-descarga-y-parada-doble-fila]: carga-descarga-y-parada-doble-fila.md "Carga y descarga y parada en doble fila"
 [parada-estacionamiento-peligroso-obstaculiza]: parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
 [zona-estacionamiento-limitado]: ../senales/zona-estacionamiento-limitado.md "Zona de estacionamiento limitado"
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"

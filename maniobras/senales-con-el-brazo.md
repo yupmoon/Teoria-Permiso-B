@@ -10,13 +10,18 @@ Si se carece de intermitentes, se pueden indicar las maniobras con el brazo izqu
 - Para desplazarse hacia la derecha o girar a la derecha: brazo izquierdo doblado hacia arriba, con la palma de la mano hacia delante.
 - Para disminuir la velocidad o detenerse: mover el brazo de arriba abajo con movimientos cortos.
 
+Si fuera necesario frenar la marcha del vehículo de modo considerable, deberá advertirse mediante:
+
+- El empleo reiterado de las luces de frenado.
+- El brazo, moviéndolo alternativamente de arriba hacia abajo con movimientos <ins>cortos y rápidos</ins>.
+
 ## En mis palabras
 
-Si no puedo usar los intermitentes, el brazo izquierdo sustituye la señal luminosa. Horizontal indica izquierda; doblado hacia arriba indica derecha; movimiento corto de arriba abajo indica reducir velocidad o detenerse. No debe confundirse con las [[senales-de-agentes]], donde el brazo lo usa un agente para ordenar la circulación.
+Si no puedo usar los intermitentes, el brazo izquierdo sustituye la señal luminosa. Horizontal indica izquierda; doblado hacia arriba indica derecha; movimiento corto de arriba abajo indica reducir velocidad o detenerse. Si la frenada es considerable, también se puede advertir con luces de frenado reiteradas. No debe confundirse con las [[senales-de-agentes]], donde el brazo lo usa un agente para ordenar la circulación.
 
 ## Idea clave para el examen
 
-Sin intermitentes: izquierda = <ins>brazo izquierdo horizontal y palma hacia abajo</ins>; derecha = <ins>brazo izquierdo doblado hacia arriba y palma hacia delante</ins>; reducir/detenerse = <ins>brazo de arriba abajo con movimientos cortos</ins>.
+Sin intermitentes: izquierda = <ins>brazo izquierdo horizontal y palma hacia abajo</ins>; derecha = <ins>brazo izquierdo doblado hacia arriba y palma hacia delante</ins>; reducir/detenerse = <ins>brazo de arriba abajo con movimientos cortos</ins>. Frenada considerable = <ins>luces de frenado reiteradas</ins> o brazo con movimientos <ins>cortos y rápidos</ins>.
 
 ## Trampa habitual
 
@@ -28,6 +33,7 @@ Confundir la señal manual de girar a la derecha con sacar el brazo derecho. La 
 - [[semaforos-con-indicaciones-distintas]]
 - [[velocidad-moderada-segun-circunstancias]]
 - [[senal-de-emergencia]]
+- [[ebd-aviso-frenada-emergencia]]
 - [[senales-de-agentes]]
 - [[agente-brazo-extendido-arriba-abajo]]
 - [[ldw-aviso-salida-carril]]
@@ -41,6 +47,7 @@ Confundir la señal manual de girar a la derecha con sacar el brazo derecho. La 
 [semaforos-con-indicaciones-distintas]: ../senales/semaforos-con-indicaciones-distintas.md "Semáforos con indicaciones distintas"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [senal-de-emergencia]: ../alumbrado/senal-de-emergencia.md "Señal de emergencia"
+[ebd-aviso-frenada-emergencia]: ../vehiculo/ebd-aviso-frenada-emergencia.md "EBD: aviso de frenada de emergencia"
 [senales-de-agentes]: ../senales/senales-de-agentes.md "Señales de agentes"
 [agente-brazo-extendido-arriba-abajo]: ../senales/agente-brazo-extendido-arriba-abajo.md "Agente con brazo extendido de arriba abajo"
 [ldw-aviso-salida-carril]: ../vehiculo/ldw-aviso-salida-carril.md "LDW: aviso de salida de carril"
