@@ -7,6 +7,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[adelantamiento-en-poblado-ciclos-ciclomotores]]
 - [[adelantamiento-fuera-poblado-usuarios-vulnerables]]
+- [[adelantamiento-prohibido-pasos-peatones]]
 - [[adelantamiento-vehiculos-obligados-arcen]]
 - [[cambio-de-sentido-prohibido]]
 - [[cambio-sentido-maniobra]]
@@ -25,6 +26,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [adelantamiento-en-poblado-ciclos-ciclomotores]: adelantamiento-en-poblado-ciclos-ciclomotores.md "Adelantamiento en poblado a ciclos y ciclomotores"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
+[adelantamiento-prohibido-pasos-peatones]: adelantamiento-prohibido-pasos-peatones.md "Adelantamiento prohibido en pasos para peatones"
 [adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [cambio-de-sentido-prohibido]: cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [cambio-sentido-maniobra]: cambio-sentido-maniobra.md "Cambio de sentido: realización de la maniobra"

@@ -25,12 +25,16 @@ Prohibido girar a la izquierda = no giro y no cambio de sentido. Prohibido cambi
 
 Confundir ambas señales. La de cambio de sentido prohibido no prohíbe por sí sola girar a la izquierda.
 
+Recordar que la señal de prohibido girar a la izquierda también prohíbe el [[cambio-de-sentido-prohibido]].
+
 ## Relacionado
 
 - [[cambio-direccion-izquierda-visibilidad]]
 - [[cambio-de-sentido-prohibido]]
+- [[adelantamiento-prohibido-pasos-peatones]]
 - [[senales]]
 
 [cambio-direccion-izquierda-visibilidad]: ../maniobras/cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"
 [cambio-de-sentido-prohibido]: ../maniobras/cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
+[adelantamiento-prohibido-pasos-peatones]: ../maniobras/adelantamiento-prohibido-pasos-peatones.md "Adelantamiento prohibido en pasos para peatones"
 [senales]: index.md "Señales"
