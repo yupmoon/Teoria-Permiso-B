@@ -23,6 +23,11 @@ Pasos para peatones señalizados y proximidades: <ins>prohibido adelantar</ins>;
 - [[atropellos-peatones-ciudad-carretera]]
 - [[maniobras]]
 
+## Fuente
+
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 79](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a79): prohíbe el cambio de sentido en los tramos donde esté prohibido el adelantamiento, salvo autorización expresa.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 87.1.b](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a87): prohíbe adelantar en los pasos para peatones señalizados.
+
 [cambio-de-sentido-prohibido]: cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [senales-prohibicion-giro-izquierda-cambio-sentido]: ../senales/senales-prohibicion-giro-izquierda-cambio-sentido.md "Señales de prohibición: giro a la izquierda y cambio de sentido"
 [atropellos-peatones-ciudad-carretera]: ../seguridad-vial/atropellos-peatones-ciudad-carretera.md "Atropellos de peatones en ciudad y carretera"
