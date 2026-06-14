@@ -21,6 +21,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 - [[parada-estacionamiento-peligroso-obstaculiza]]
 - [[prohibiciones-de-estacionamiento]]
 - [[prohibiciones-de-adelantamiento]]
+- [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
 - [[marcha-atras]]
 - [[separacion-lateral-adelantamiento]]
 - [[senales-con-el-brazo]]
@@ -44,6 +45,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 [parada-estacionamiento-peligroso-obstaculiza]: parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
 [prohibiciones-de-estacionamiento]: prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [prohibiciones-de-adelantamiento]: prohibiciones-de-adelantamiento.md "Prohibiciones de adelantamiento"
+[rebasamiento-obstaculo-vehiculo-inmovilizado]: rebasamiento-obstaculo-vehiculo-inmovilizado.md "Rebasamiento de obstáculo o vehículo inmovilizado"
 [marcha-atras]: marcha-atras.md "Marcha atrás"
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [senales-con-el-brazo]: senales-con-el-brazo.md "Señales con el brazo"

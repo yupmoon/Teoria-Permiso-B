@@ -26,6 +26,8 @@ No todo sobrepaso es un adelantamiento. Si el tráfico va muy denso y cada carri
 
 Sobrepasar no siempre equivale a adelantar. Hay situaciones en las que la vía o la densidad del tráfico hacen que el sobrepaso no se considere adelantamiento. Otra regla distinta es la de [[adelantamiento-vehiculos-obligados-arcen]], donde sí se habla de adelantar, pero con límites de marcha en paralelo.
 
+También debe distinguirse el [[rebasamiento-obstaculo-vehiculo-inmovilizado]]: sobrepasar un obstáculo o un vehículo inmovilizado por razones ajenas al tráfico no se considera adelantamiento.
+
 ## Trampa habitual
 
 Pensar que cualquier vehículo que queda atrás ha sido adelantado. En el examen suelen preguntar por casos de tráfico denso o carriles especiales.
@@ -34,6 +36,7 @@ Pensar que cualquier vehículo que queda atrás ha sido adelantado. En el examen
 
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[adelantamiento-vehiculos-obligados-arcen]]
+- [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
 - [[incorporacion-carril-aceleracion]]
 - [[separacion-lateral-adelantamiento]]
 - [[maniobras]]
@@ -44,6 +47,7 @@ Pensar que cualquier vehículo que queda atrás ha sido adelantado. En el examen
 
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
+[rebasamiento-obstaculo-vehiculo-inmovilizado]: rebasamiento-obstaculo-vehiculo-inmovilizado.md "Rebasamiento de obstáculo o vehículo inmovilizado"
 [incorporacion-carril-aceleracion]: ../circulacion/incorporacion-carril-aceleracion.md "Incorporación por carril de aceleración"
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [maniobras]: index.md "Maniobras"

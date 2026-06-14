@@ -10,17 +10,19 @@ Esta regla aparece con frecuencia junto a [[autopistas-y-autovias]], porque en e
 
 Debe cerciorarse, <ins>al principio del carril de aceleración</ins>, de que puede incorporarse <ins>sin peligro</ins> para los demás conductores y usuarios que transiten por la calzada.
 
+Si la incorporación no pudiera efectuarse sin peligro, deberá <ins>detener el vehículo al principio del carril de aceleración</ins>. Cuando llegue el momento oportuno, reanudará la marcha acelerando hasta alcanzar la <ins>velocidad adecuada al final del carril de aceleración</ins> para incorporarse a la circulación.
+
 ## En mis palabras
 
-No se entra al carril de aceleración para mirar al final si hay hueco. La comprobación empieza desde el principio del carril: miro el tráfico, adapto la velocidad y solo me incorporo si no obligo a otros usuarios a frenar o esquivar.
+No se entra al carril de aceleración para mirar al final si hay hueco. La comprobación empieza desde el principio del carril: miro el tráfico, si no hay incorporación segura me detengo al principio, y cuando haya hueco acelero para llegar al final con una velocidad adecuada.
 
 ## Idea clave para el examen
 
-Carril de aceleración: observar el tráfico y comprobar <ins>al principio del carril</ins> que la incorporación puede hacerse <ins>sin peligro</ins>.
+Carril de aceleración: observar el tráfico y comprobar <ins>al principio del carril</ins> que la incorporación puede hacerse <ins>sin peligro</ins>. Si no se puede, detenerse al principio; cuando sea oportuno, acelerar hasta la <ins>velocidad adecuada al final del carril</ins>.
 
 ## Trampa habitual
 
-Pensar que la prioridad la tiene quien se incorpora porque está en un carril de aceleración. No: debe cerciorarse de que puede incorporarse sin peligro para quienes ya circulan por la calzada.
+Pensar que la prioridad la tiene quien se incorpora porque está en un carril de aceleración. No: debe cerciorarse de que puede incorporarse sin peligro para quienes ya circulan por la calzada, y puede tener que <ins>detenerse al principio</ins> si aún no hay hueco seguro.
 
 ## Relacionado
 
@@ -32,7 +34,7 @@ Pensar que la prioridad la tiene quien se incorpora porque está en un carril de
 
 ## Fuente
 
-- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 72](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a72): regula la obligación de incorporarse a la circulación sin peligro para los demás usuarios.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 72](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a72): regula la incorporación a la circulación, incluido el uso del carril de aceleración.
 
 [velocidad-moderada-segun-circunstancias]: velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [autopistas-y-autovias]: autopistas-y-autovias.md "Autopistas y autovías"

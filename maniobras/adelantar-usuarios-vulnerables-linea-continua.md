@@ -6,6 +6,8 @@ Tags: #permiso-b #maniobras #adelantamiento #linea-continua #usuarios-vulnerable
 
 Los conductores pueden invadir el sentido contrario, <ins>pisando o atravesando incluso una línea continua</ins>, para adelantar a usuarios lentos y frágiles, obstáculos o [[vehiculos-inmovilizados-o-estacionados]] ajenos a la circulación.
 
+Cuando se trata de un obstáculo o vehículo inmovilizado por avería, accidente u otra emergencia que ocupa el carril, la maniobra es un [[rebasamiento-obstaculo-vehiculo-inmovilizado]], no un adelantamiento.
+
 En el caso de adelantar a bicicletas, ciclomotores, peatones, animales y vehículos de tracción animal, aunque esté prohibido el adelantamiento, se puede realizar la maniobra asegurándose en todo momento de que <ins>no va a suponer ningún peligro</ins>.
 
 ## Usuarios incluidos
@@ -41,6 +43,7 @@ Pensar que una línea continua nunca se puede pisar. En esta situación concreta
 - [[separacion-lateral-adelantamiento]]
 - [[adelantamiento-fuera-poblado-usuarios-vulnerables]]
 - [[prohibiciones-de-adelantamiento]]
+- [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 - [[no-se-considera-adelantar]]
 
@@ -51,5 +54,6 @@ Pensar que una línea continua nunca se puede pisar. En esta situación concreta
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
 [prohibiciones-de-adelantamiento]: prohibiciones-de-adelantamiento.md "Prohibiciones de adelantamiento"
+[rebasamiento-obstaculo-vehiculo-inmovilizado]: rebasamiento-obstaculo-vehiculo-inmovilizado.md "Rebasamiento de obstáculo o vehículo inmovilizado"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"

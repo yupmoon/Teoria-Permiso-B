@@ -8,6 +8,15 @@ Tags: #permiso-b #señales #estacionamiento #zona-limitada
 
 La señal indica una zona de estacionamiento de duración limitada y la obligación del conductor de indicar, de forma reglamentaria, <ins>la hora de comienzo del estacionamiento</ins>.
 
+Para estacionar en estos lugares es obligatorio colocar en el interior del vehículo, junto al parabrisas y en un lugar bien visible, el justificante correspondiente mediante ticket, tarjeta, etc.
+
+En ese justificante figura:
+
+- La hora en que comienza el estacionamiento.
+- La hora en que debe finalizar.
+
+Pasada la hora de finalización, se considera <ins>prohibido el estacionamiento</ins>. Si no se coloca el justificante correspondiente, pueden sancionar e <ins>inmovilizar el vehículo</ins>.
+
 ## Información que puede incluir
 
 La señal puede incluir:
@@ -18,15 +27,15 @@ La señal puede incluir:
 
 ## En mis palabras
 
-Se puede estacionar, pero no libremente: hay límite de tiempo y puede haber obligación de indicar la hora de inicio o pagar. Si no se coloca el distintivo autorizado o se supera el tiempo máximo, entra en las [[prohibiciones-de-estacionamiento]]. Si el estacionamiento bloquea o molesta gravemente al tráfico, conecta con [[estacionamiento-perturba-gravemente-circulacion]].
+Se puede estacionar, pero no libremente: hay límite de tiempo y puede haber obligación de colocar ticket, tarjeta u otro justificante visible junto al parabrisas. Si no se coloca el distintivo autorizado o se supera el tiempo máximo, entra en las [[prohibiciones-de-estacionamiento]]. Si el estacionamiento bloquea o molesta gravemente al tráfico, conecta con [[estacionamiento-perturba-gravemente-circulacion]].
 
 ## Idea clave para el examen
 
-Zona de estacionamiento limitado = <ins>indicar hora de comienzo</ins> y respetar tiempo, horario y posible pago si la señal lo establece.
+Zona de estacionamiento limitado = justificante visible junto al parabrisas, <ins>hora de comienzo</ins>, hora de finalización y respeto del tiempo máximo. Sin justificante o pasado el tiempo: posible sanción e <ins>inmovilización</ins>.
 
 ## Trampa habitual
 
-Confundirla con [[estacionamiento-prohibido]]. En la zona limitada se permite estacionar si se cumplen las condiciones.
+Confundirla con [[estacionamiento-prohibido]]. En la zona limitada se permite estacionar si se cumplen las condiciones; pasada la hora de finalización, el estacionamiento pasa a considerarse prohibido.
 
 ## Relacionado
 

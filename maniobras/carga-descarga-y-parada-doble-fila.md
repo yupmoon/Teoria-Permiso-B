@@ -15,22 +15,24 @@ Si excepcionalmente fuera necesario realizar la carga y descarga en la vía, deb
 
 ## Parada en doble fila
 
-La parada está permitida en doble fila siempre que:
+En vías urbanas, la parada está permitida en doble fila siempre que:
 
 - <ins>No haya un hueco en las proximidades</ins>.
-- <ins>No se obstruya la circulación</ins>.
+- <ins>No se obstruya gravemente la circulación</ins>.
 
 ## Qué es parada
 
 La parada es por un tiempo inferior a <ins>2 minutos</ins> y el conductor <ins>no puede abandonar el vehículo</ins>.
 
+Si no se cumple alguna de estas dos restricciones, ya no es parada: es [[prohibiciones-de-estacionamiento]], y en doble fila está prohibido.
+
 ## En mis palabras
 
-La carga y descarga debe hacerse fuera de la vía y sin molestar. Si no queda más remedio que hacerla en la vía, debe ser rápida y sin peligro, ruidos ni molestias innecesarias. La parada en doble fila solo se permite si no hay hueco cerca y no bloquea la circulación.
+La carga y descarga debe hacerse fuera de la vía y sin molestar. Si no queda más remedio que hacerla en la vía, debe ser rápida y sin peligro, ruidos ni molestias innecesarias. La parada en doble fila solo se permite en vías urbanas si no hay hueco cerca y no se obstruye gravemente la circulación.
 
 ## Idea clave para el examen
 
-Carga y descarga: vehículo y motor parados, fuera de la vía y sin ausentarse salvo entrega. Parada: <ins>menos de 2 minutos</ins> y conductor sin abandonar el vehículo. Doble fila: solo si <ins>no hay hueco próximo</ins> y <ins>no obstruye</ins>.
+Carga y descarga: vehículo y motor parados, fuera de la vía y sin ausentarse salvo entrega. Parada: <ins>menos de 2 minutos</ins> y conductor sin abandonar el vehículo. Doble fila: parada solo en vías urbanas si <ins>no hay hueco próximo</ins> y <ins>no obstruye gravemente</ins>; estacionamiento en doble fila, <ins>prohibido siempre</ins>.
 
 ## Relacionado
 

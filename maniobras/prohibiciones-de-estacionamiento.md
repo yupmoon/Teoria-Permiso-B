@@ -12,12 +12,12 @@ La parada y el estacionamiento están prohibidos en pasos a nivel, sobre los ra�
 
 También está prohibido estacionar:
 
-- En [[zona-estacionamiento-limitado]] sin colocar el distintivo que lo autoriza, como el ticket, o cuando se supere el tiempo máximo permitido.
+- En [[zona-estacionamiento-limitado]] sin colocar el distintivo que lo autoriza, como ticket o tarjeta, junto al parabrisas y en lugar visible, o cuando se supere el tiempo máximo permitido.
 - En zonas señalizadas para [[carga-y-descarga]].
 - En zonas señalizadas para uso exclusivo de personas con movilidad reducida.
 - Sobre aceras, paseos y demás zonas destinadas al paso de peatones.
 - Delante de [[vado]] señalizado correctamente.
-- En doble fila.
+- En doble fila: <ins>prohibido siempre</ins>.
 
 En las zonas de estacionamiento con limitación horaria, los agentes pueden <ins>inmovilizar o retirar el vehículo</ins> si no se coloca el distintivo autorizado o se supera el tiempo máximo.
 
@@ -25,15 +25,15 @@ En las zonas de estacionamiento con limitación horaria, los agentes pueden <ins
 
 No basta con mirar si aparece una señal de [[estacionamiento-prohibido]]. Hay lugares donde estacionar está prohibido por el uso reservado del espacio: peatones, vados, carga y descarga, plazas para movilidad reducida, doble fila o zonas reguladas sin cumplir las condiciones.
 
-No debe confundirse estacionar en doble fila con la [[carga-descarga-y-parada-doble-fila]], que solo se permite como parada si se cumplen sus condiciones.
+No debe confundirse estacionar en doble fila con la [[carga-descarga-y-parada-doble-fila]], que solo se permite como parada si se cumplen sus condiciones: menos de 2 minutos, sin abandonar el vehículo, sin hueco próximo y sin obstrucción grave.
 
 ## Idea clave para el examen
 
-Estacionar prohibido: donde esté prohibida la parada, pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación, zona limitada sin ticket o fuera de tiempo, carga y descarga, movilidad reducida, aceras/paseos, vados señalizados y doble fila.
+Estacionar prohibido: donde esté prohibida la parada, pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación, zona limitada sin ticket o fuera de tiempo, carga y descarga, movilidad reducida, aceras/paseos, vados señalizados y <ins>doble fila siempre</ins>.
 
 ## Trampa habitual
 
-Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre. Se permite estacionar solo si se cumplen las condiciones: distintivo/ticket, horario y tiempo máximo.
+Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre, o confundir parada en doble fila con estacionamiento en doble fila. La parada exige <ins>menos de 2 minutos</ins> y <ins>no abandonar el vehículo</ins>; si falla una de esas condiciones, es estacionamiento.
 
 ## Relacionado
 
