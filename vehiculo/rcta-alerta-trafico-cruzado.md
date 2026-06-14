@@ -14,7 +14,7 @@ Algunos fabricantes, si el conductor no reacciona ante el aviso, pueden llegar a
 
 ## En mis palabras
 
-El RCTA ayuda cuando salgo marcha atrás de un aparcamiento en batería y no veo bien los vehículos que vienen por detrás en sentido transversal. Primero avisa; en algunos sistemas más avanzados puede llegar a frenar si el conductor no reacciona. Se relaciona con [[camara-marcha-atras-sensores-aparcamiento]] porque ambos ayudan en maniobras marcha atrás.
+El RCTA ayuda cuando salgo [[marcha-atras]] de un aparcamiento en batería y no veo bien los vehículos que vienen por detrás en sentido transversal. Primero avisa; en algunos sistemas más avanzados puede llegar a frenar si el conductor no reacciona. Se relaciona con [[camara-marcha-atras-sensores-aparcamiento]] porque ambos ayudan en maniobras marcha atrás.
 
 ## Idea clave para el examen
 
@@ -30,6 +30,7 @@ Pensar que el sistema siempre frena por el conductor. La definición general es 
 - [[adas-permitidos-examen]]
 - [[aebs-frenado-emergencia]]
 - [[camara-marcha-atras-sensores-aparcamiento]]
+- [[marcha-atras]]
 - [[seguridad-vial]]
 - [[vehiculo]]
 
@@ -37,5 +38,6 @@ Pensar que el sistema siempre frena por el conductor. La definición general es 
 [adas-permitidos-examen]: adas-permitidos-examen.md "ADAS permitidos en el examen"
 [aebs-frenado-emergencia]: aebs-frenado-emergencia.md "AEBS: frenado de emergencia"
 [camara-marcha-atras-sensores-aparcamiento]: camara-marcha-atras-sensores-aparcamiento.md "Cámara de marcha atrás y sensores de aparcamiento"
+[marcha-atras]: ../maniobras/marcha-atras.md "Marcha atrás"
 [seguridad-vial]: ../seguridad-vial/index.md "Seguridad vial"
 [vehiculo]: index.md "Vehículo"

@@ -18,7 +18,7 @@ La señal puede incluir:
 
 ## En mis palabras
 
-Se puede estacionar, pero no libremente: hay límite de tiempo y puede haber obligación de indicar la hora de inicio o pagar. Si el estacionamiento bloquea o molesta gravemente al tráfico, conecta con [[estacionamiento-perturba-gravemente-circulacion]].
+Se puede estacionar, pero no libremente: hay límite de tiempo y puede haber obligación de indicar la hora de inicio o pagar. Si no se coloca el distintivo autorizado o se supera el tiempo máximo, entra en las [[prohibiciones-de-estacionamiento]]. Si el estacionamiento bloquea o molesta gravemente al tráfico, conecta con [[estacionamiento-perturba-gravemente-circulacion]].
 
 ## Idea clave para el examen
 
@@ -31,11 +31,13 @@ Confundirla con [[estacionamiento-prohibido]]. En la zona limitada se permite es
 ## Relacionado
 
 - [[estacionamiento-prohibido]]
+- [[prohibiciones-de-estacionamiento]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
 - [[vado]]
 - [[senales]]
 
 [estacionamiento-prohibido]: estacionamiento-prohibido.md "Estacionamiento prohibido"
+[prohibiciones-de-estacionamiento]: ../maniobras/prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [estacionamiento-perturba-gravemente-circulacion]: ../maniobras/estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
 [vado]: vado.md "Vado"
 [senales]: index.md "Señales"

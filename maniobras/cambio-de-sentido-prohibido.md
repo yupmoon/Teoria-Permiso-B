@@ -4,7 +4,7 @@ Tags: #permiso-b #maniobras #cambio-de-sentido #visibilidad #tuneles
 
 ## Regla general
 
-Realizar un cambio de sentido está prohibido en toda situación que impida comprobar que no vamos a poner en peligro u obstaculizar a otros usuarios de la vía.
+Realizar un cambio de sentido está prohibido en toda situación que impida comprobar que no vamos a poner en peligro u obstaculizar a otros usuarios de la vía. La forma correcta de realizarlo se recoge en [[cambio-sentido-maniobra]].
 
 Ejemplos:
 
@@ -21,13 +21,13 @@ También está prohibido el cambio de sentido en:
 
 - Pasos a nivel, pero <ins>no está prohibido en sus proximidades</ins>.
 - [[uso-obligatorio-del-alumbrado]], pasos inferiores y tramos de vía afectados por la señal "Túnel".
-- Autopistas y autovías, <ins>salvo en los lugares habilitados</ins>.
+- [[autopistas-y-autovias]], <ins>salvo en los lugares habilitados</ins>.
 - Calzadas y tramos de vía de sentido único.
 - Todos los tramos de la vía en que esté prohibido el adelantamiento, <ins>salvo que el cambio de sentido esté expresamente autorizado</ins>.
 
 ## En mis palabras
 
-El cambio de sentido solo se puede hacer si se ve bien y no se crea peligro ni obstáculo. Además, hay lugares donde está prohibido aunque parezca que hay espacio, como túneles, pasos inferiores, sentido único o tramos donde no se puede adelantar.
+El cambio de sentido solo se puede hacer si se ve bien y no se crea peligro ni obstáculo. Además, hay lugares donde está prohibido aunque parezca que hay espacio, como túneles, pasos inferiores, sentido único o tramos donde no se puede adelantar. Si el vehículo queda detenido en un túnel, se aplica [[inmovilizacion-en-tunel]].
 
 No debe confundirse con el [[cambio-direccion-izquierda-visibilidad]] ni con las [[senales-prohibicion-giro-izquierda-cambio-sentido]].
 
@@ -42,14 +42,22 @@ Pensar que está prohibido en las proximidades de pasos a nivel. La prohibición
 ## Relacionado
 
 - [[velocidad-moderada-segun-circunstancias]]
+- [[autopistas-y-autovias]]
+- [[cambio-sentido-maniobra]]
+- [[marcha-atras]]
 - [[uso-obligatorio-del-alumbrado]]
+- [[inmovilizacion-en-tunel]]
 - [[cambio-direccion-izquierda-visibilidad]]
 - [[senales-prohibicion-giro-izquierda-cambio-sentido]]
 - [[no-se-considera-adelantar]]
 - [[maniobras]]
 
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
+[autopistas-y-autovias]: ../circulacion/autopistas-y-autovias.md "Autopistas y autovías"
+[cambio-sentido-maniobra]: cambio-sentido-maniobra.md "Cambio de sentido: realización de la maniobra"
+[marcha-atras]: marcha-atras.md "Marcha atrás"
 [uso-obligatorio-del-alumbrado]: ../alumbrado/uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
+[inmovilizacion-en-tunel]: ../alumbrado/inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [cambio-direccion-izquierda-visibilidad]: cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"
 [senales-prohibicion-giro-izquierda-cambio-sentido]: ../senales/senales-prohibicion-giro-izquierda-cambio-sentido.md "Señales de prohibición: giro a la izquierda y cambio de sentido"
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"

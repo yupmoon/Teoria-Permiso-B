@@ -20,6 +20,8 @@ Se permite parar o estacionar en el arcén si <ins>no es transitable</ins>.
 
 En vías urbanas, normalmente los arcenes se utilizan para estacionar, por lo que se puede parar y estacionar en ellos aunque sean transitables.
 
+En vías urbanas, la parada o estacionamiento puede realizarse dentro de la calzada y del arcén, aunque sea transitable, siempre que se deje un espacio libre de <ins>al menos 3 metros</ins>.
+
 La colocación depende del sentido de circulación:
 
 - Vía urbana de sentido único: se puede parar o estacionar a la derecha o a la izquierda.
@@ -27,11 +29,11 @@ La colocación depende del sentido de circulación:
 
 ## En mis palabras
 
-En carretera interurbana, el arcén transitable no es un aparcamiento: lo usan ciclomotores, ciclos y vehículos de movilidad reducida. En ciudad, en cambio, el arcén suele usarse para estacionar. La clave es distinguir vía interurbana/urbana y arcén transitable/no transitable.
+En carretera interurbana, el arcén transitable no es un aparcamiento: lo usan ciclomotores, ciclos y vehículos de movilidad reducida. En ciudad, en cambio, el arcén suele usarse para estacionar. La clave es distinguir vía interurbana/urbana, arcén transitable/no transitable y el espacio libre mínimo de 3 metros.
 
 ## Idea clave para el examen
 
-Vía interurbana: parar o estacionar fuera de la calzada y fuera del arcén transitable; si el arcén no es transitable, se puede usar. Siempre al lado derecho. Vía urbana: puede usarse el arcén; sentido único permite derecha o izquierda, doble sentido solo derecha.
+Vía interurbana: parar o estacionar fuera de la calzada y fuera del arcén transitable; si el arcén no es transitable, se puede usar. Siempre al lado derecho. Vía urbana: puede usarse calzada y arcén, aunque sea transitable, dejando <ins>al menos 3 metros</ins>; sentido único permite derecha o izquierda, doble sentido solo derecha.
 
 ## Trampa habitual
 
@@ -40,6 +42,7 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 ## Relacionado
 
 - [[adelantamiento-vehiculos-obligados-arcen]]
+- [[parada-estacionamiento-peligroso-obstaculiza]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
 - [[estacionamiento-prohibido]]
 - [[vehiculos-inmovilizados-o-estacionados]]
@@ -47,6 +50,7 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 - [[circulacion]]
 
 [adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
+[parada-estacionamiento-peligroso-obstaculiza]: ../maniobras/parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
 [estacionamiento-perturba-gravemente-circulacion]: ../maniobras/estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
 [estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"
 [vehiculos-inmovilizados-o-estacionados]: vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

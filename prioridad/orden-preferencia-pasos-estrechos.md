@@ -8,16 +8,16 @@ Cuando en un tramo estrecho sin señalización uno de los vehículos tenga que d
 
 ## Orden de preferencia
 
-1. Vehículos y transportes especiales que excedan de las masas o dimensiones establecidas.
-2. Conjunto de vehículos, excepto los turismos con remolque de hasta 750 kg y autocaravanas.
+1. [[permiso-b-vehiculos-especiales]] y transportes especiales que excedan de las masas o dimensiones establecidas.
+2. [[permiso-b-remolques]], excepto los turismos con remolque de hasta 750 kg y autocaravanas.
 3. Vehículos de tracción animal.
-4. Turismos que arrastren remolques de hasta 750 kg de MMA y autocaravanas.
+4. Turismos que arrastren [[permiso-b-remolques]] de hasta 750 kg de MMA y autocaravanas.
 5. Vehículos destinados al transporte colectivo de viajeros, como autobuses.
 6. Camiones, tractocamiones y furgonetas.
-7. Turismos y derivados de turismo.
-8. Vehículos especiales que no excedan de las masas o dimensiones establecidas, cuatriciclos y cuatriciclos ligeros.
-9. Vehículos de tres ruedas, motocicletas con sidecar y ciclomotores de tres ruedas.
-10. Motocicletas, ciclomotores de dos ruedas y bicicletas.
+7. [[permiso-b-automoviles]] y derivados de turismo.
+8. [[permiso-b-vehiculos-especiales]] que no excedan de las masas o dimensiones establecidas, [[permiso-b-triciclos-y-cuadriciclos]] y cuatriciclos ligeros.
+9. Vehículos de tres ruedas, motocicletas con sidecar y [[permiso-b-ciclomotores-y-movilidad-reducida]].
+10. [[permiso-b-motocicletas-a1]], ciclomotores de dos ruedas y bicicletas.
 
 ## Si son del mismo tipo
 
@@ -44,8 +44,16 @@ Olvidar que las motocicletas, ciclomotores de dos ruedas y bicicletas aparecen a
 - [[prioridad-de-paso]]
 - [[permiso-b-remolques]]
 - [[permiso-b-vehiculos-especiales]]
+- [[permiso-b-automoviles]]
+- [[permiso-b-triciclos-y-cuadriciclos]]
+- [[permiso-b-ciclomotores-y-movilidad-reducida]]
+- [[permiso-b-motocicletas-a1]]
 
 [pasos-estrechos-sin-senalizar]: pasos-estrechos-sin-senalizar.md "Pasos estrechos sin señalizar"
 [prioridad-de-paso]: prioridad-de-paso.md "Prioridad de paso"
 [permiso-b-remolques]: ../autorizaciones/permiso-b-remolques.md "Permiso B: remolques"
 [permiso-b-vehiculos-especiales]: ../autorizaciones/permiso-b-vehiculos-especiales.md "Permiso B: vehículos especiales"
+[permiso-b-automoviles]: ../autorizaciones/permiso-b-automoviles.md "Permiso B: automóviles"
+[permiso-b-triciclos-y-cuadriciclos]: ../autorizaciones/permiso-b-triciclos-y-cuadriciclos.md "Permiso B: triciclos y cuadriciclos"
+[permiso-b-ciclomotores-y-movilidad-reducida]: ../autorizaciones/permiso-b-ciclomotores-y-movilidad-reducida.md "Permiso B: ciclomotores y movilidad reducida"
+[permiso-b-motocicletas-a1]: ../autorizaciones/permiso-b-motocicletas-a1.md "Permiso B y motocicletas A1"

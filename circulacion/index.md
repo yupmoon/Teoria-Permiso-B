@@ -4,6 +4,7 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 
 ## Notas
 
+- [[autopistas-y-autovias]]
 - [[carril-bus-vao]]
 - [[carril-bus-vao-vehiculos-permitidos]]
 - [[carril-bus-vao-vehiculos-prohibidos]]
@@ -23,3 +24,4 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 [parada-estacionamiento-arcen]: parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [velocidad-moderada-segun-circunstancias]: velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [vehiculos-inmovilizados-o-estacionados]: vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
+[autopistas-y-autovias]: autopistas-y-autovias.md "Autopistas y autovías"

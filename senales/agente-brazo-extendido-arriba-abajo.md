@@ -8,7 +8,7 @@ El agente con el brazo extendido moviéndolo alternativamente de arriba abajo ob
 
 ## En mis palabras
 
-Esta señal <ins>no ordena detenerse directamente</ins>. Ordena reducir la velocidad a los conductores que se aproximan por el lado del brazo que se mueve.
+Esta señal <ins>no ordena detenerse directamente</ins>. Ordena reducir la velocidad a los conductores que se aproximan por el lado del brazo que se mueve. No debe confundirse con las [[senales-con-el-brazo]] realizadas por el conductor.
 
 ## Idea clave para el examen
 
@@ -16,14 +16,16 @@ Brazo extendido moviéndose de arriba abajo: <ins>disminuir la velocidad</ins>.
 
 ## Trampa habitual
 
-Confundirla con las señales de detención del agente. Esta señal obliga a reducir la velocidad, no necesariamente a detenerse.
+Confundirla con las señales de detención del agente. Esta señal obliga a reducir la velocidad, no necesariamente a detenerse. También puede confundirse con la señal manual del conductor para disminuir la velocidad en [[senales-con-el-brazo]].
 
 ## Relacionado
 
 - [[senales-de-agentes]]
 - [[velocidad-moderada-segun-circunstancias]]
+- [[senales-con-el-brazo]]
 - [[agente-brazo-levantado-verticalmente]]
 
 [senales-de-agentes]: senales-de-agentes.md "Señales de agentes"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
+[senales-con-el-brazo]: ../maniobras/senales-con-el-brazo.md "Señales con el brazo"
 [agente-brazo-levantado-verticalmente]: agente-brazo-levantado-verticalmente.md "Agente con brazo levantado verticalmente"
