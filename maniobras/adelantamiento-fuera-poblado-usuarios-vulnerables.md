@@ -12,13 +12,15 @@ Al adelantar a ciclos, ciclomotores o conjuntos de ellos, el cambio completo de 
 
 En todo caso, la separación lateral no será inferior a [[separacion-lateral-adelantamiento#Idea clave para el examen]].
 
+Aunque exista una prohibición de adelantamiento, como una línea continua, algunos usuarios vulnerables pueden adelantarse si se cumple la regla de [[adelantar-usuarios-vulnerables-linea-continua]].
+
 ## En mis palabras
 
-Fuera de poblado hay que abrir mucho espacio al adelantar a usuarios vulnerables o vehículos inmovilizados/de auxilio. Si hay otro carril para tu sentido, debes cambiarte entero. Con ciclos y ciclomotores, esta idea conecta con [[adelantamiento-en-poblado-ciclos-ciclomotores]], porque también exigen 1,50 m en poblado. Otra regla separada afecta a [[adelantamiento-vehiculos-obligados-arcen]].
+Fuera de poblado hay que abrir mucho espacio al adelantar a usuarios vulnerables o vehículos inmovilizados/de auxilio. Si hay otro carril para tu sentido, debes cambiarte entero. Con ciclos y ciclomotores, esta idea conecta con [[adelantamiento-en-poblado-ciclos-ciclomotores]], porque también exigen 1,50 m en poblado. Si hay una línea continua, se revisa además [[adelantar-usuarios-vulnerables-linea-continua]].
 
 ## Idea clave para el examen
 
-Fuera de poblado: ocupar parte o todo el carril contiguo; si hay más de un carril para tu sentido, cambiar completamente de carril; separación mínima [[separacion-lateral-adelantamiento#Idea clave para el examen]].
+Fuera de poblado: ocupar parte o todo el carril contiguo; si hay más de un carril para tu sentido, cambiar completamente de carril; separación mínima [[separacion-lateral-adelantamiento#Idea clave para el examen]]. Línea continua: ver [[adelantar-usuarios-vulnerables-linea-continua]].
 
 ## Trampa habitual
 
