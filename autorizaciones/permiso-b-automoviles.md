@@ -24,6 +24,7 @@ Olvidar que las 9 plazas incluyen la del conductor.
 
 ## Relacionado
 
+- [[permiso-b-vehiculos-autorizados]]
 - [[permiso-b-combustibles-alternativos-mercancias]]
 - [[permiso-b-remolques]]
 - [[itv-vehiculos-privados-hasta-nueve-plazas]]
@@ -34,6 +35,7 @@ Olvidar que las 9 plazas incluyen la del conductor.
 - [Real Decreto 818/2009, Reglamento General de Conductores, artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481#a4): regula las clases de permiso de conducción y los vehículos autorizados por el permiso B.
 
 [permiso-b-combustibles-alternativos-mercancias]: permiso-b-combustibles-alternativos-mercancias.md "Permiso B: mercancías con combustibles alternativos"
+[permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [permiso-b-remolques]: permiso-b-remolques.md "Permiso B: remolques"
 [itv-vehiculos-privados-hasta-nueve-plazas]: ../vehiculo/itv-vehiculos-privados-hasta-nueve-plazas.md "ITV: vehículos privados hasta nueve plazas"
 [autorizaciones]: index.md "Autorizaciones del permiso B"

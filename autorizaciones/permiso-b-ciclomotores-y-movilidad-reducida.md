@@ -25,6 +25,7 @@ Confundir ciclomotor con motocicleta. Para motocicletas del A1 hace falta antig�
 
 ## Relacionado
 
+- [[permiso-b-vehiculos-autorizados]]
 - [[permiso-b-motocicletas-a1]]
 - [[permiso-b-triciclos-y-cuadriciclos]]
 - [[parada-estacionamiento-arcen]]
@@ -35,6 +36,7 @@ Confundir ciclomotor con motocicleta. Para motocicletas del A1 hace falta antig�
 - [Real Decreto 818/2009, Reglamento General de Conductores, artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481#a4): regula las clases de permiso de conducción y las autorizaciones vinculadas al permiso B.
 
 [permiso-b-motocicletas-a1]: permiso-b-motocicletas-a1.md "Permiso B y motocicletas A1"
+[permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [permiso-b-triciclos-y-cuadriciclos]: permiso-b-triciclos-y-cuadriciclos.md "Permiso B: triciclos y cuadriciclos"
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [autorizaciones]: index.md "Autorizaciones del permiso B"

@@ -23,6 +23,7 @@ Olvidar que el límite de 21 años se asocia a triciclos de motor de potencia su
 ## Relacionado
 
 - [[autorizaciones]]
+- [[permiso-b-vehiculos-autorizados]]
 - [[permiso-b-ciclomotores-y-movilidad-reducida]]
 
 ## Fuente
@@ -30,4 +31,5 @@ Olvidar que el límite de 21 años se asocia a triciclos de motor de potencia su
 - [Real Decreto 818/2009, Reglamento General de Conductores, artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481#a4): regula los vehículos autorizados por las clases de permiso, incluidos triciclos y cuadriciclos.
 
 [autorizaciones]: index.md "Autorizaciones del permiso B"
+[permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [permiso-b-ciclomotores-y-movilidad-reducida]: permiso-b-ciclomotores-y-movilidad-reducida.md "Permiso B: ciclomotores y movilidad reducida"

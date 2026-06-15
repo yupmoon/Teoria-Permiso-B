@@ -30,6 +30,7 @@ Aplicar solo el límite de 3.500 kg y olvidar el límite de velocidad de 40 km/h
 
 ## Relacionado
 
+- [[permiso-b-vehiculos-autorizados]]
 - [[permiso-b-automoviles]]
 - [[autorizaciones]]
 
@@ -38,4 +39,5 @@ Aplicar solo el límite de 3.500 kg y olvidar el límite de velocidad de 40 km/h
 - [Real Decreto 818/2009, Reglamento General de Conductores, artículo 5.8 y 5.9](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481#a5): regula los vehículos especiales agrícolas y no agrícolas que pueden conducirse con permiso B.
 
 [permiso-b-automoviles]: permiso-b-automoviles.md "Permiso B: automóviles"
+[permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [autorizaciones]: index.md "Autorizaciones del permiso B"

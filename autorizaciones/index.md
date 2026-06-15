@@ -4,6 +4,7 @@ Notas sobre qué vehículos permite conducir el permiso B, sus límites y sus au
 
 ## Notas
 
+- [[permiso-b-vehiculos-autorizados]]
 - [[permiso-b-automoviles]]
 - [[permiso-b-ciclomotores-y-movilidad-reducida]]
 - [[permiso-b-combustibles-alternativos-mercancias]]
@@ -15,6 +16,7 @@ Notas sobre qué vehículos permite conducir el permiso B, sus límites y sus au
 - [[permiso-b-vehiculos-especiales]]
 
 [permiso-b-automoviles]: permiso-b-automoviles.md "Permiso B: automóviles"
+[permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [permiso-b-ciclomotores-y-movilidad-reducida]: permiso-b-ciclomotores-y-movilidad-reducida.md "Permiso B: ciclomotores y movilidad reducida"
 [permiso-b-combustibles-alternativos-mercancias]: permiso-b-combustibles-alternativos-mercancias.md "Permiso B: mercancías con combustibles alternativos"
 [permiso-b-remolques]: permiso-b-remolques.md "Permiso B: remolques"

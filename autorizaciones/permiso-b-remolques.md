@@ -28,6 +28,7 @@ Pensar que todo remolque de más de 750 kg queda prohibido con el permiso B. Pue
 
 ## Relacionado
 
+- [[permiso-b-vehiculos-autorizados]]
 - [[permiso-b-automoviles]]
 - [[autorizacion-b96]]
 - [[permiso-b-combustibles-alternativos-mercancias]]
@@ -38,6 +39,7 @@ Pensar que todo remolque de más de 750 kg queda prohibido con el permiso B. Pue
 - [Real Decreto 818/2009, Reglamento General de Conductores, artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2009-9481#a4): regula los conjuntos de vehículos autorizados por el permiso B.
 
 [permiso-b-automoviles]: permiso-b-automoviles.md "Permiso B: automóviles"
+[permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [autorizacion-b96]: autorizacion-b96.md "Autorización B96"
 [permiso-b-combustibles-alternativos-mercancias]: permiso-b-combustibles-alternativos-mercancias.md "Permiso B: mercancías con combustibles alternativos"
 [autorizaciones]: index.md "Autorizaciones del permiso B"
