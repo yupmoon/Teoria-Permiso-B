@@ -2,7 +2,7 @@
 
 Base de estudio en Foam para preparar el examen teórico del Permiso B en España.
 
-El objetivo de este repositorio es guardar reglas, dudas, errores de test y resúmenes de forma enlazada, para poder repasar rápido y detectar patrones de fallo.
+El objetivo de este repositorio es guardar reglas, dudas, errores de test y resúmenes de forma enlazada, para poder repasar rápido, detectar patrones de fallo y contrastar las reglas con fuentes oficiales.
 
 ## Entrada principal
 
@@ -21,13 +21,32 @@ Desde ahí puedes navegar por los temas principales:
 - [Errores de test](./test-errores/index.md)
 - [Resúmenes](./resumenes/index.md)
 
+## Clusters de estudio
+
+- [Adelantamientos y separación lateral](./maniobras/separacion-lateral-adelantamiento.md)
+- [Distancias de seguridad](./seguridad-vial/distancia-entre-vehiculos.md)
+- [Autopistas y autovías](./circulacion/autopistas-y-autovias.md)
+- [Cinturón de seguridad y exenciones](./seguridad-vial/exenciones-cinturon-seguridad.md)
+- [Permiso B: vehículos autorizados](./autorizaciones/permiso-b-vehiculos-autorizados.md)
+- [Sistemas ADAS](./vehiculo/sistemas-adas.md)
+- [Errores de test](./test-errores/index.md)
+
+## Criterios de calidad
+
+- Las reglas legales deben citar una fuente oficial, preferiblemente BOE con artículo exacto.
+- Si una idea viene de apuntes o memoria y no se puede trazar a una norma, debe quedar marcada como recomendación práctica o texto de apuntes.
+- Las notas se dividen por conceptos pequeños y se enlazan de forma agresiva con `[[wikilinks]]`.
+- Las trampas de examen se resaltan con `<ins>...</ins>`.
+- Los errores de test deben enlazar con la regla que los corrige.
+
 ## Flujo de trabajo
 
 1. Apunta dudas rápidas en [Inbox](./inbox.md).
-2. Convierte cada duda importante en una nota temática.
-3. Guarda las preguntas falladas en [Errores de test](./test-errores/index.md).
-4. Enlaza cada error con la regla correspondiente.
-5. Resume patrones repetidos en [Resúmenes](./resumenes/index.md).
+2. Contrasta las reglas con BOE u otra fuente fiable antes de consolidarlas.
+3. Convierte cada duda importante en una nota temática.
+4. Guarda las preguntas falladas en [Errores de test](./test-errores/index.md).
+5. Enlaza cada error con la regla correspondiente.
+6. Resume patrones repetidos en [Resúmenes](./resumenes/index.md).
 
 ## Formato recomendado para una regla
 
@@ -54,10 +73,17 @@ Tags: #permiso-b #tema
 
 ## Relacionado
 
-- [Otra nota](./otra-nota.md)
+- [[otra-nota]]
+
+## Fuente
+
+- [BOE, artículo exacto](https://www.boe.es/)
 ```
 
-## Notas recientes
+## Notas clave recientes
 
-- [Luces amarillas intermitentes](./alumbrado/luces-amarillas-intermitentes.md)
-- [Sistemas ADAS](./vehiculo/sistemas-adas.md)
+- [Señal V-2: vehículo-obstáculo](./vehiculo/senal-v2-vehiculo-obstaculo.md)
+- [Exenciones del cinturón de seguridad](./seguridad-vial/exenciones-cinturon-seguridad.md)
+- [Distancia entre vehículos](./seguridad-vial/distancia-entre-vehiculos.md)
+- [Prioridad de paso de ciclistas](./circulacion/prioridad-paso-ciclistas.md)
+- [Adelantar a un ciclista e invadir el sentido contrario](./test-errores/adelantar-ciclista-invadir-sentido-contrario.md)
