@@ -5,6 +5,7 @@ Aquí van las preguntas falladas o dudosas.
 ## Notas
 
 - [[adelantamiento-curva-sin-visibilidad-sentidos-delimitados]]
+- [[adelantar-ciclista-invadir-sentido-contrario]]
 - [[antiniebla-trasera-solamente-niebla-densa]]
 - [[consumo-combustible-marchas-largas-motor-poco-revolucionado]]
 - [[estacionamiento-en-medio-calzada]]
@@ -39,6 +40,7 @@ Tags: #error-test #permiso-b
 ```
 
 [adelantamiento-curva-sin-visibilidad-sentidos-delimitados]: adelantamiento-curva-sin-visibilidad-sentidos-delimitados.md "Error: adelantamiento en curva sin visibilidad con sentidos delimitados"
+[adelantar-ciclista-invadir-sentido-contrario]: adelantar-ciclista-invadir-sentido-contrario.md "Error: adelantar a un ciclista e invadir el sentido contrario"
 [antiniebla-trasera-solamente-niebla-densa]: antiniebla-trasera-solamente-niebla-densa.md "Error: antiniebla trasera solamente con niebla densa"
 [consumo-combustible-marchas-largas-motor-poco-revolucionado]: consumo-combustible-marchas-largas-motor-poco-revolucionado.md "Error: consumo con marchas largas y motor poco revolucionado"
 [estacionamiento-en-medio-calzada]: estacionamiento-en-medio-calzada.md "Error: estacionamiento en medio de la calzada"
