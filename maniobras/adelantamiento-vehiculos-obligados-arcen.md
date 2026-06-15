@@ -6,7 +6,7 @@ Tags: #permiso-b #maniobras #adelantamiento #arcen #bicicletas
 
 Los vehículos obligados a circular por el arcén tienen prohibido adelantar cuando la duración de la marcha en paralelo supere <ins>15 segundos</ins> o el recorrido supere <ins>200 metros</ins>. El uso del arcén también se relaciona con [[parada-estacionamiento-arcen]].
 
-Esta prohibición no se aplica a las bicicletas.
+Esta prohibición <ins>no se aplica a las bicicletas</ins>.
 
 ## En mis palabras
 
@@ -24,6 +24,7 @@ Olvidar la excepción de las bicicletas o confundir los dos límites. Basta con 
 
 - [[no-se-considera-adelantar]]
 - [[parada-estacionamiento-arcen]]
+- [[autopistas-autovias-vehiculos-prohibidos]]
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[adelantamiento-fuera-poblado-usuarios-vulnerables]]
 - [[maniobras]]
@@ -34,6 +35,7 @@ Olvidar la excepción de las bicicletas o confundir los dos límites. Basta con 
 
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
+[autopistas-autovias-vehiculos-prohibidos]: ../circulacion/autopistas-autovias-vehiculos-prohibidos.md "Autopistas y autovías: vehículos prohibidos"
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
 [maniobras]: index.md "Maniobras"
