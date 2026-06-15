@@ -8,13 +8,14 @@ Los conductores pueden invadir el sentido contrario, <ins>pisando o atravesando 
 
 Cuando se trata de un obstáculo o vehículo inmovilizado por avería, accidente u otra emergencia que ocupa el carril, la maniobra es un [[rebasamiento-obstaculo-vehiculo-inmovilizado]], no un adelantamiento.
 
-En el caso de adelantar a bicicletas, ciclomotores, peatones, animales y vehículos de tracción animal, aunque esté prohibido el adelantamiento, se puede realizar la maniobra asegurándose en todo momento de que <ins>no va a suponer ningún peligro</ins>.
+En el caso de adelantar a bicicletas, ciclos, ciclomotores, peatones, animales y vehículos de tracción animal, aunque esté prohibido el adelantamiento, se puede realizar la maniobra cuando, por la velocidad a que circulen, puedan ser adelantados <ins>sin riesgo para ellos ni para la circulación en general</ins>.
 
 ## Usuarios incluidos
 
 Esta regla puede aplicarse al adelantar a:
 
 - Bicicletas.
+- Ciclos.
 - Ciclomotores.
 - Peatones.
 - Animales.
@@ -24,19 +25,31 @@ Esta regla puede aplicarse al adelantar a:
 
 ## Condición
 
-La maniobra solo debe realizarse cuando pueda hacerse <ins>sin peligro en todo momento</ins> y dejando la debida [[separacion-lateral-adelantamiento]]. Fuera de poblado conecta con [[adelantamiento-fuera-poblado-usuarios-vulnerables]] porque puede exigir ocupar parte o la totalidad del carril contiguo.
+La maniobra solo debe realizarse cuando pueda hacerse <ins>sin riesgo para ellos ni para la circulación en general</ins> y dejando la debida [[separacion-lateral-adelantamiento]]. Fuera de poblado conecta con [[adelantamiento-fuera-poblado-usuarios-vulnerables]] porque puede exigir ocupar parte o la totalidad del carril contiguo.
+
+## Cuándo la respuesta puede ser no
+
+No basta con que el vehículo adelantado sea una bicicleta. Si para adelantar hay que ocupar el sentido contrario y <ins>no existen condiciones precisas de seguridad</ins>, no se puede realizar la maniobra.
+
+También queda prohibido adelantar si se pone en peligro o se entorpece a ciclistas que circulen en sentido contrario.
 
 ## En mis palabras
 
-Aunque haya línea continua, se puede invadir el sentido contrario para pasar a usuarios lentos o frágiles, o a obstáculos y vehículos inmovilizados, porque ocupan poco espacio o circulan muy despacio. Pero no es una autorización automática: hay que hacerlo con seguridad.
+Aunque haya línea continua, se puede invadir el sentido contrario para pasar a usuarios lentos o frágiles, o a obstáculos y vehículos inmovilizados, porque ocupan poco espacio o circulan muy despacio. Pero no es una autorización automática: hay que hacerlo sin riesgo.
+
+Ojo con el vocabulario: según el BOE, sobrepasar un vehículo inmovilizado u obstáculo es [[rebasamiento-obstaculo-vehiculo-inmovilizado]]. En cambio, con bicicletas, ciclos, ciclomotores, peatones, animales y vehículos de tracción animal, el artículo 88 habla de que <ins>se podrá adelantar</ins> con esos requisitos.
 
 ## Idea clave para el examen
 
-Línea continua <ins>no impide adelantar</ins> a bicicletas, ciclomotores, peatones, animales o vehículos de tracción animal si la maniobra <ins>no supone peligro en ningún momento</ins> y se respeta la [[separacion-lateral-adelantamiento]].
+Línea continua <ins>no impide adelantar</ins> a bicicletas, ciclos, ciclomotores, peatones, animales o vehículos de tracción animal si la maniobra puede hacerse <ins>sin riesgo para ellos ni para la circulación en general</ins> y se respeta la [[separacion-lateral-adelantamiento]].
 
 ## Trampa habitual
 
-Pensar que una línea continua nunca se puede pisar. En esta situación concreta sí puede atravesarse, pero solo para adelantar a estos usuarios u obstáculos y con seguridad.
+Pensar que una línea continua nunca se puede pisar. En esta situación concreta sí puede atravesarse, pero solo para adelantar a estos usuarios o rebasar obstáculos/vehículos inmovilizados y con seguridad.
+
+Otra trampa: decir que adelantar a bicicletas no es adelantamiento. El artículo 88 distingue: vehículo inmovilizado/obstáculo = rebasamiento; bicicletas, ciclos, ciclomotores, peatones, animales y tracción animal = adelantamiento excepcional permitido.
+
+Y otra: responder siempre "sí" por ser una bicicleta. La respuesta es "sí" solo si la maniobra puede hacerse con seguridad y sin poner en peligro ni entorpecer a ciclistas que circulen en sentido contrario.
 
 ## Relacionado
 
@@ -49,7 +62,9 @@ Pensar que una línea continua nunca se puede pisar. En esta situación concreta
 
 ## Fuente
 
-- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 88](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a88): regula supuestos excepcionales de adelantamiento o rebasamiento aun existiendo prohibición.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 85.4](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a85): exige, al adelantar fuera de poblado a usuarios vulnerables, ocupar parte o la totalidad del carril contiguo solo si existen las condiciones precisas, y prohíbe poner en peligro o entorpecer a ciclistas que circulen en sentido contrario.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 88](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a88): regula el rebasamiento de vehículos inmovilizados y el adelantamiento excepcional a bicicletas, ciclos, ciclomotores, peatones, animales y vehículos de tracción animal aun existiendo prohibición, cuando puedan ser adelantados sin riesgo.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 89](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a89): regula el rebasamiento de obstáculos.
 
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"

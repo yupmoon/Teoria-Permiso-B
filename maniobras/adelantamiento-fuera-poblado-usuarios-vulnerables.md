@@ -12,7 +12,7 @@ Al adelantar a ciclos, ciclomotores o conjuntos de ellos, el cambio completo de 
 
 En todo caso, la separación lateral no será inferior a [1,50 metros][separacion-lateral-adelantamiento#Idea clave para el examen].
 
-Aunque exista una prohibición de adelantamiento, como una línea continua, algunos usuarios vulnerables pueden adelantarse si se cumple la regla de [[adelantar-usuarios-vulnerables-linea-continua]].
+Aunque exista una prohibición de adelantamiento, como una línea continua, algunos usuarios vulnerables pueden adelantarse si se cumple la regla de [[adelantar-usuarios-vulnerables-linea-continua]]. No debe confundirse con el [[rebasamiento-obstaculo-vehiculo-inmovilizado]]: bicicletas, ciclos, ciclomotores, peatones, animales y vehículos de tracción animal son un adelantamiento excepcional permitido; obstáculos y vehículos inmovilizados son rebasamiento.
 
 ## En mis palabras
 
@@ -35,6 +35,7 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 - [[adelantamiento-vehiculos-obligados-arcen]]
 - [[automoviles-circulacion-arcen]]
 - [[adelantar-usuarios-vulnerables-linea-continua]]
+- [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 
 ## Fuente
@@ -47,4 +48,5 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 [adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [automoviles-circulacion-arcen]: ../circulacion/automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
+[rebasamiento-obstaculo-vehiculo-inmovilizado]: rebasamiento-obstaculo-vehiculo-inmovilizado.md "Rebasamiento de obstáculo o vehículo inmovilizado"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
