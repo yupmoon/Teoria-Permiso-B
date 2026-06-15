@@ -6,18 +6,30 @@ Tags: #permiso-b #vehiculo #adas #examen
 
 Los sistemas ADAS permitidos en los exámenes del permiso de conducción son:
 
-- [[start-stop]]
-- [[hill-holder]]
-- [[activacion-automatica-alumbrado-limpiaparabrisas]]
-- [[aebs-frenado-emergencia]]
-- [[rcta-alerta-trafico-cruzado]]
-- [[camara-marcha-atras-sensores-aparcamiento]]
-- [[aviso-de-fatiga]]
-- [[ebd-aviso-frenada-emergencia]]
+- [[start-stop]].
+- [[hill-holder]], sistema de ayuda de salida en pendiente.
+- [[activacion-automatica-alumbrado-limpiaparabrisas]].
+- [[aebs-frenado-emergencia]], frenado de emergencia urbano e interurbano.
+- [[rcta-alerta-trafico-cruzado]].
+- [[camara-marcha-atras-sensores-aparcamiento]], cámara 360 grados y sensores de aparcamiento.
+- [[aviso-de-fatiga]], sistema de detección de fatiga.
+- [[ebd-aviso-frenada-emergencia]].
 
 ## En mis palabras
 
 Estos sistemas pueden estar presentes y utilizarse durante el examen. Son [[sistemas-adas]] y ayudas a la conducción, pero no eliminan la responsabilidad del conductor.
+
+## Cómo memorizarlo
+
+La lista se entiende mejor por función:
+
+- Ayudan a iniciar o mover el vehículo con suavidad: [[start-stop]] y [[hill-holder]].
+- Automatizan acciones rutinarias de visibilidad: [[activacion-automatica-alumbrado-limpiaparabrisas]].
+- Avisan de riesgos: [[rcta-alerta-trafico-cruzado]], [[aviso-de-fatiga]] y [[ebd-aviso-frenada-emergencia]].
+- Ayudan a evitar o mitigar una colisión: [[aebs-frenado-emergencia]].
+- Ayudan en marcha atrás y aparcamiento: [[camara-marcha-atras-sensores-aparcamiento]].
+
+Mnemotecnia: <ins>Arrancar, Pendiente, Ver, Frenar, Cruzado, Aparcar, Fatiga, Avisar</ins>.
 
 ## Idea clave para el examen
 
@@ -31,6 +43,10 @@ Pensar que cualquier ADAS está permitido. <ins>La lista de permitidos para el e
 
 - [[sistemas-adas]]
 - [[vehiculo]]
+
+## Fuente
+
+- Texto proporcionado en los apuntes del usuario. Pendiente de localizar una fuente oficial exacta para esta lista concreta de ADAS permitidos en examen.
 
 [start-stop]: start-stop.md "Start-Stop"
 [hill-holder]: hill-holder.md "Hill Holder"
