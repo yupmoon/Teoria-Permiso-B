@@ -27,6 +27,7 @@ Pensar que durante el embarazo es mejor no usar cinturón. Es falso: sigue siend
 ## Relacionado
 
 - [[cinturon-en-taxis]]
+- [[exenciones-cinturon-seguridad]]
 - [[exencion-casco-por-autoproteccion]]
 - [[seguridad-vial]]
 
@@ -36,5 +37,6 @@ Pensar que durante el embarazo es mejor no usar cinturón. Es falso: sigue siend
 - [Cinturón de seguridad, Wikipedia](https://es.wikipedia.org/wiki/Cintur%C3%B3n_de_seguridad): recoge la colocación de la banda abdominal sobre las caderas y no sobre el abdomen.
 
 [cinturon-en-taxis]: cinturon-en-taxis.md "Cinturón en taxis"
+[exenciones-cinturon-seguridad]: exenciones-cinturon-seguridad.md "Exenciones del cinturón de seguridad"
 [exencion-casco-por-autoproteccion]: exencion-casco-por-autoproteccion.md "Exención de casco por autoprotección"
 [seguridad-vial]: index.md "Seguridad vial"

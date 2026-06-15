@@ -15,6 +15,8 @@ En poblado, los conductores de taxi estarán exentos de utilizar el [[cinturon-d
 
 La exención no se aplica en <ins>autopistas, autovías o carreteras convencionales que atraviesen la población</ins>.
 
+Esta exención forma parte de las [[exenciones-cinturon-seguridad]].
+
 ## Personas de menos de 135 cm
 
 Los taxis podrán transportar a personas con estatura inferior a <ins>135 centímetros</ins> sin utilizar un dispositivo de retención homologado, siempre que ocupen <ins>un asiento trasero</ins>.
@@ -34,6 +36,7 @@ Pensar que la exención del conductor se aplica también a los pasajeros. No: lo
 ## Relacionado
 
 - [[cinturon-de-seguridad]]
+- [[exenciones-cinturon-seguridad]]
 - [[carril-bus-vao-excepciones-un-ocupante]]
 - [[seguridad-vial]]
 
@@ -42,5 +45,6 @@ Pensar que la exención del conductor se aplica también a los pasajeros. No: lo
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 117 y 119](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a117): regulan el uso del cinturón y sus exenciones.
 
 [cinturon-de-seguridad]: cinturon-de-seguridad.md "Cinturón de seguridad"
+[exenciones-cinturon-seguridad]: exenciones-cinturon-seguridad.md "Exenciones del cinturón de seguridad"
 [carril-bus-vao-excepciones-un-ocupante]: ../circulacion/carril-bus-vao-excepciones-un-ocupante.md "Carril BUS-VAO: excepciones con un solo ocupante"
 [seguridad-vial]: index.md "Seguridad vial"

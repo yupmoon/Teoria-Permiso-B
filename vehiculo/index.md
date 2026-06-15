@@ -20,6 +20,7 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 - [[itv-vehiculos-mercancias-hasta-3500kg]]
 - [[ldw-aviso-salida-carril]]
 - [[rcta-alerta-trafico-cruzado]]
+- [[senal-v2-vehiculo-obstaculo]]
 - [[sistemas-adas]]
 - [[start-stop]]
 
@@ -39,5 +40,6 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 [itv-vehiculos-mercancias-hasta-3500kg]: itv-vehiculos-mercancias-hasta-3500kg.md "ITV: vehículos de mercancías hasta 3.500 kg"
 [ldw-aviso-salida-carril]: ldw-aviso-salida-carril.md "LDW: aviso de salida de carril"
 [rcta-alerta-trafico-cruzado]: rcta-alerta-trafico-cruzado.md "RCTA: alerta de tráfico cruzado"
+[senal-v2-vehiculo-obstaculo]: senal-v2-vehiculo-obstaculo.md "Señal V-2: vehículo-obstáculo"
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
 [start-stop]: start-stop.md "Start-Stop"

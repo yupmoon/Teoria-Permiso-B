@@ -16,9 +16,11 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 - [[distancia-de-frenado]]
 - [[distancia-de-reaccion]]
 - [[distancia-en-atasco]]
+- [[distancia-entre-vehiculos]]
 - [[distancia-seguridad-en-tuneles]]
 - [[e-call-aviso-emergencia]]
 - [[evitar-fatiga-conduciendo]]
+- [[exenciones-cinturon-seguridad]]
 - [[exencion-casco-por-autoproteccion]]
 - [[guantes-en-motocicleta]]
 - [[ldw-aviso-salida-carril]]
@@ -42,9 +44,11 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 [distancia-de-frenado]: distancia-de-frenado.md "Distancia de frenado"
 [distancia-de-reaccion]: distancia-de-reaccion.md "Distancia de reacción"
 [distancia-en-atasco]: distancia-en-atasco.md "Distancia en atasco"
+[distancia-entre-vehiculos]: distancia-entre-vehiculos.md "Distancia entre vehículos"
 [distancia-seguridad-en-tuneles]: distancia-seguridad-en-tuneles.md "Distancia de seguridad en túneles"
 [e-call-aviso-emergencia]: ../vehiculo/e-call-aviso-emergencia.md "e-Call: aviso de emergencia"
 [evitar-fatiga-conduciendo]: evitar-fatiga-conduciendo.md "Evitar la fatiga conduciendo"
+[exenciones-cinturon-seguridad]: exenciones-cinturon-seguridad.md "Exenciones del cinturón de seguridad"
 [exencion-casco-por-autoproteccion]: exencion-casco-por-autoproteccion.md "Exención de casco por autoprotección"
 [guantes-en-motocicleta]: guantes-en-motocicleta.md "Guantes en motocicleta"
 [ldw-aviso-salida-carril]: ../vehiculo/ldw-aviso-salida-carril.md "LDW: aviso de salida de carril"
