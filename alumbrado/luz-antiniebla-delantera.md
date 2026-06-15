@@ -31,11 +31,12 @@ Antiniebla delantera: <ins>opcional</ins>, color blanco o amarillo selectivo, us
 
 ## Trampa habitual
 
-Confundir antiniebla delantera con antiniebla trasera. La delantera no es obligatoria y su uso es voluntario en los supuestos indicados.
+Confundir antiniebla delantera con [[luz-antiniebla-trasera]]. La delantera no es obligatoria y su uso es voluntario en los supuestos indicados.
 
 ## Relacionado
 
 - [[uso-obligatorio-del-alumbrado]]
+- [[luz-antiniebla-trasera]]
 - [[averia-alumbrado-largo-alcance]]
 - [[alumbrado]]
 
@@ -45,5 +46,6 @@ Confundir antiniebla delantera con antiniebla trasera. La delantera no es obliga
 - Texto proporcionado en los apuntes del usuario para instalación, color y combinación de luces durante día/noche.
 
 [uso-obligatorio-del-alumbrado]: uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
+[luz-antiniebla-trasera]: luz-antiniebla-trasera.md "Luz antiniebla trasera"
 [averia-alumbrado-largo-alcance]: averia-alumbrado-largo-alcance.md "Avería del alumbrado de largo alcance"
 [alumbrado]: index.md "Alumbrado y señalización luminosa"
