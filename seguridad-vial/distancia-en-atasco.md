@@ -34,7 +34,8 @@ Pensar que, como se circula muy despacio o se está detenido, no importa la dist
 
 ## Fuente
 
-- Texto proporcionado en los apuntes del usuario sobre distancia aconsejable en atascos.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 54](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a54): regula la distancia entre vehículos y exige dejar un espacio libre que permita detenerse, en caso de frenado brusco, sin colisionar con el vehículo precedente.
+- Texto proporcionado en los apuntes del usuario para la recomendación práctica concreta de <ins>dos o tres metros</ins> en atascos.
 
 [distancia-de-reaccion]: distancia-de-reaccion.md "Distancia de reacción"
 [distancia-de-detencion]: distancia-de-detencion.md "Distancia de detención"
