@@ -17,19 +17,19 @@ La exención no se aplica en <ins>autopistas, autovías o carreteras convenciona
 
 ## Personas de menos de 135 cm
 
-Los taxis podrán transportar a personas con estatura inferior a <ins>135 centímetros</ins> sin utilizar un dispositivo de retención homologado, siempre que ocupen un asiento trasero.
+Los taxis podrán transportar a personas con estatura inferior a <ins>135 centímetros</ins> sin utilizar un dispositivo de retención homologado, siempre que ocupen <ins>un asiento trasero</ins>.
 
 ## En mis palabras
 
-Los pasajeros sí deben usar [[cinturon-de-seguridad]]. La excepción es para el conductor de taxi en servicio dentro de poblado urbano, y también hay una excepción para menores de 135 cm si van en asiento trasero. Los taxis también aparecen en [[carril-bus-vao-excepciones-un-ocupante]].
+Los pasajeros sí deben usar [[cinturon-de-seguridad]]. La excepción es para el conductor de taxi en servicio dentro de poblado urbano, y también hay una excepción para personas de menos de 135 cm solo si van en asiento trasero. Los taxis también aparecen en [[carril-bus-vao-excepciones-un-ocupante]].
 
 ## Idea clave para el examen
 
-Pasajeros de taxi: cinturón obligatorio dentro y fuera de poblado. Conductor de taxi en servicio: exento en tráfico urbano, salvo <ins>autopistas, autovías o carreteras convencionales que atraviesen población</ins>.
+Pasajeros de taxi: cinturón obligatorio dentro y fuera de poblado. Conductor de taxi en servicio: exento en tráfico urbano, salvo <ins>autopistas, autovías o carreteras convencionales que atraviesen población</ins>. Personas de menos de <ins>135 cm</ins>: sin dispositivo de retención homologado solo si van en <ins>asiento trasero</ins>.
 
 ## Trampa habitual
 
-Pensar que la exención del conductor se aplica también a los pasajeros. No: los pasajeros deben usar cinturón.
+Pensar que la exención del conductor se aplica también a los pasajeros. No: los pasajeros deben usar cinturón. Otra trampa es olvidar que la excepción de menos de 135 cm exige asiento trasero.
 
 ## Relacionado
 

@@ -7,6 +7,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 - [[agente-brazo-extendido-arriba-abajo]]
 - [[agente-brazo-levantado-verticalmente]]
 - [[agente-brazo-o-brazos-extendidos]]
+- [[advertencias-acusticas]]
 - [[cartel-salida-inmediata]]
 - [[color-carteles-salida]]
 - [[estacionamiento-prohibido]]
@@ -25,6 +26,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 [agente-brazo-extendido-arriba-abajo]: agente-brazo-extendido-arriba-abajo.md "Agente con brazo extendido de arriba abajo"
 [agente-brazo-levantado-verticalmente]: agente-brazo-levantado-verticalmente.md "Agente con brazo levantado verticalmente"
 [agente-brazo-o-brazos-extendidos]: agente-brazo-o-brazos-extendidos.md "Agente con brazo o brazos extendidos"
+[advertencias-acusticas]: advertencias-acusticas.md "Advertencias acústicas"
 [cartel-salida-inmediata]: cartel-salida-inmediata.md "Cartel de salida inmediata"
 [color-carteles-salida]: color-carteles-salida.md "Color de los carteles de salida"
 [estacionamiento-prohibido]: estacionamiento-prohibido.md "Estacionamiento prohibido"

@@ -21,17 +21,30 @@ Durante el día, el alumbrado antiniebla delantero puede ir encendido:
 
 Durante la noche, se usará como mínimo con el alumbrado de <ins>corto alcance</ins>.
 
+## Si no hay antiniebla delantera
+
+Si no se dispone de luces antiniebla delanteras, se deberá utilizar la luz de corto alcance o de cruce <ins>a cualquier hora del día</ins> en vías con condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad.
+
+Ejemplos:
+
+- Niebla.
+- Lluvia intensa.
+- Nevada.
+- Nubes de humo.
+- Nubes de polvo.
+- Cualquier circunstancia análoga.
+
 ## En mis palabras
 
-La antiniebla delantera no es obligatoria, pero puede ayudar en condiciones de visibilidad reducida. También puede usarse en carreteras estrechas y con muchas curvas, siempre que cumplan la anchura y la señalización indicadas.
+La antiniebla delantera no es obligatoria, pero puede ayudar en condiciones de visibilidad reducida. Si no se dispone de ella, se usa la luz de corto alcance o cruce. También puede usarse en carreteras estrechas y con muchas curvas, siempre que cumplan la anchura y la señalización indicadas.
 
 ## Idea clave para el examen
 
-Antiniebla delantera: <ins>opcional</ins>, color blanco o amarillo selectivo, uso voluntario con niebla/lluvia intensa/nevada/humo/polvo, y también en carretera estrecha con muchas curvas si la calzada mide <ins>6,5 m o menos</ins>.
+Antiniebla delantera: <ins>opcional</ins>, color blanco o amarillo selectivo, uso voluntario con niebla/lluvia intensa/nevada/humo/polvo, y también en carretera estrecha con muchas curvas si la calzada mide <ins>6,5 m o menos</ins>. Si no hay antiniebla delantera, <ins>luz de corto alcance o cruce a cualquier hora del día</ins> con visibilidad sensiblemente reducida.
 
 ## Trampa habitual
 
-Confundir antiniebla delantera con [[luz-antiniebla-trasera]]. La delantera no es obligatoria y su uso es voluntario en los supuestos indicados.
+Confundir antiniebla delantera con [[luz-antiniebla-trasera]]. La delantera no es obligatoria y su uso es voluntario en los supuestos indicados. Pero si no se dispone de ella, no significa circular sin alumbrado: se usa la luz de corto alcance o de cruce cuando la visibilidad disminuye sensiblemente.
 
 ## Relacionado
 

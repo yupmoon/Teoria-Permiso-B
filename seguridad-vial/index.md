@@ -15,6 +15,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 - [[distancia-de-detencion]]
 - [[distancia-de-frenado]]
 - [[distancia-de-reaccion]]
+- [[distancia-en-atasco]]
 - [[distancia-seguridad-en-tuneles]]
 - [[e-call-aviso-emergencia]]
 - [[evitar-fatiga-conduciendo]]
@@ -40,6 +41,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 [distancia-de-detencion]: distancia-de-detencion.md "Distancia de detención"
 [distancia-de-frenado]: distancia-de-frenado.md "Distancia de frenado"
 [distancia-de-reaccion]: distancia-de-reaccion.md "Distancia de reacción"
+[distancia-en-atasco]: distancia-en-atasco.md "Distancia en atasco"
 [distancia-seguridad-en-tuneles]: distancia-seguridad-en-tuneles.md "Distancia de seguridad en túneles"
 [e-call-aviso-emergencia]: ../vehiculo/e-call-aviso-emergencia.md "e-Call: aviso de emergencia"
 [evitar-fatiga-conduciendo]: evitar-fatiga-conduciendo.md "Evitar la fatiga conduciendo"

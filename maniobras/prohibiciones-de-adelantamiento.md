@@ -31,6 +31,8 @@ La prohibición en pasos para peatones, intersecciones con vías para ciclistas,
 - Cuando se adelante a vehículos de dos ruedas que, por sus reducidas dimensiones, no impidan la visibilidad lateral, en un paso a nivel o sus proximidades, previas las oportunas señales acústicas u ópticas.
 - En un paso para peatones señalizado, cuando el adelantamiento a cualquier vehículo se realice a una velocidad tan reducida que permita detenerse a tiempo si surgiera peligro de atropello.
 
+Las señales acústicas para advertir un adelantamiento se estudian en [[advertencias-acusticas]].
+
 La prohibición en intersecciones y proximidades no se aplica cuando:
 
 - Se trate de una plaza de circulación giratoria o glorieta.
@@ -56,6 +58,7 @@ Adelantar prohibido si no hay visibilidad suficiente para hacerlo o <ins>desisti
 - [[cambio-de-sentido-prohibido]]
 - [[distancia-seguridad-en-tuneles]]
 - [[uso-obligatorio-del-alumbrado]]
+- [[advertencias-acusticas]]
 - [[maniobras]]
 
 ## Fuente
@@ -70,4 +73,5 @@ Adelantar prohibido si no hay visibilidad suficiente para hacerlo o <ins>desisti
 [cambio-de-sentido-prohibido]: cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [distancia-seguridad-en-tuneles]: ../seguridad-vial/distancia-seguridad-en-tuneles.md "Distancia de seguridad en túneles"
 [uso-obligatorio-del-alumbrado]: ../alumbrado/uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
+[advertencias-acusticas]: ../senales/advertencias-acusticas.md "Advertencias acústicas"
 [maniobras]: index.md "Maniobras"
