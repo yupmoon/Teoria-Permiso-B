@@ -35,12 +35,14 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 - [[adelantamiento-vehiculos-obligados-arcen]]
 - [[automoviles-circulacion-arcen]]
 - [[adelantar-usuarios-vulnerables-linea-continua]]
+- [[prioridad-paso-ciclistas]]
 - [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 
 ## Fuente
 
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 85.4](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a85): regula el adelantamiento fuera de poblado a peatones, animales, vehículos de dos ruedas, vehículos de tracción animal, vehículos inmovilizados y vehículos de auxilio.
+- [Real Decreto Legislativo 6/2015, texto refundido de la Ley sobre Tráfico, artículo 35.4](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722#a35): regula la obligación de ocupar parte o la totalidad del carril contiguo, el cambio completo de carril cuando se disponga de más de un carril por sentido y la separación mínima de 1,50 metros.
 
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [separacion-lateral-adelantamiento#Idea clave para el examen]: <separacion-lateral-adelantamiento.md#Idea clave para el examen> "Separación lateral en adelantamiento"
@@ -48,5 +50,6 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 [adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [automoviles-circulacion-arcen]: ../circulacion/automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
+[prioridad-paso-ciclistas]: ../circulacion/prioridad-paso-ciclistas.md "Prioridad de paso de ciclistas"
 [rebasamiento-obstaculo-vehiculo-inmovilizado]: rebasamiento-obstaculo-vehiculo-inmovilizado.md "Rebasamiento de obstáculo o vehículo inmovilizado"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

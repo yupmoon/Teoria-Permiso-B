@@ -20,11 +20,6 @@ En poblado, ciclo o ciclomotor = <ins>1,50 m de separación lateral</ins>. Peat�
 
 Pensar que los 1,50 m solo se aplican fuera de poblado. También se aplican en poblado al adelantar a ciclos o ciclomotores.
 
-## Base legal
-
-- Artículo 85.4 del Reglamento General de Circulación.
-- Artículo 35.4 del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.
-
 ## Relacionado
 
 - [[separacion-lateral-adelantamiento]]
@@ -34,7 +29,8 @@ Pensar que los 1,50 m solo se aplican fuera de poblado. También se aplican en p
 
 ## Fuente
 
-- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 85](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a85): regula la separación lateral durante el adelantamiento.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 85.4](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a85): regula la separación lateral durante el adelantamiento, incluido el margen proporcional y la regla de 1,50 metros para ciclos y ciclomotores.
+- [Real Decreto Legislativo 6/2015, texto refundido de la Ley sobre Tráfico, artículo 35.4](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722#a35): regula la separación lateral mínima de 1,50 metros al adelantar a ciclos, ciclomotores o conjuntos de ellos.
 
 [separacion-lateral-adelantamiento]: separacion-lateral-adelantamiento.md "Separación lateral en adelantamiento"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"

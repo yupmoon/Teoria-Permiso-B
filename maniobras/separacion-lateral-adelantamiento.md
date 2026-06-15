@@ -40,7 +40,8 @@ Recordar que se puede invadir el sentido contrario, pero olvidar la distancia la
 
 ## Fuente
 
-- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 85](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a85): regula la separación lateral durante el adelantamiento.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 85.4 y 85.5](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a85): regula la separación lateral durante el adelantamiento, incluida la separación mínima de 1,50 metros y el margen proporcional en los demás casos.
+- [Real Decreto Legislativo 6/2015, texto refundido de la Ley sobre Tráfico, artículo 35.4](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722#a35): establece la ocupación del carril contiguo, el cambio completo de carril cuando proceda y la separación lateral mínima al adelantar a ciclistas y otros usuarios vulnerables.
 
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
