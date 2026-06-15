@@ -8,23 +8,27 @@ Al adelantar a usuarios vulnerables, [[vehiculos-inmovilizados-o-estacionados]] 
 
 Fuera de poblado, al adelantar a peatones, animales, vehículos de dos ruedas, vehículos de tracción animal, vehículos inmovilizados o vehículos de auxilio en operaciones de auxilio y rescate, la separación lateral <ins>no será inferior a 1,50 metros</ins>.
 
-Al adelantar a cualquier vehículo fuera de poblado, las motocicletas deben dejar una separación lateral de <ins>1,50 metros</ins>.
+Cuando un vehículo de dos ruedas adelante a cualquier otro vehículo fuera de poblado, también debe dejar una separación lateral <ins>no inferior a 1,50 metros</ins>. También respetará este margen con peatones, animales y vehículos de tracción animal.
+
+De igual manera, el resto de vehículos deben dejar ese espacio lateral al adelantar a vehículos de dos ruedas.
 
 En poblado, cuando se adelante a un ciclo o ciclomotor, también debe dejarse una separación lateral <ins>no inferior a 1,50 metros</ins>. Ver [[adelantamiento-en-poblado-ciclos-ciclomotores]].
 
 Cuando se adelante a un vehículo distinto de los anteriores, o cuando el adelantamiento tenga lugar en poblado y no sea a un ciclo o ciclomotor, se dejará un margen lateral de seguridad proporcional a la velocidad y a la anchura y características de la calzada.
 
+Al adelantar a un peatón en poblado, se dejará un margen lateral de seguridad proporcional a la velocidad y a la anchura y características de la calzada.
+
 ## En mis palabras
 
-La maniobra no consiste solo en pasar al otro usuario: hay que dejar espacio lateral para evitar ponerlo en peligro. La regla fija 1,50 m para usuarios vulnerables fuera de poblado, para ciclos/ciclomotores también en poblado, y para motocicletas cuando adelantan a cualquier vehículo fuera de poblado. Para los demás adelantamientos se exige un margen proporcional.
+La maniobra no consiste solo en pasar al otro usuario: hay que dejar espacio lateral para evitar ponerlo en peligro. La regla fija 1,50 m para usuarios vulnerables fuera de poblado, para ciclos/ciclomotores también en poblado, y para vehículos de dos ruedas cuando adelantan a cualquier vehículo fuera de poblado. Para los demás adelantamientos en poblado, como peatones, se exige un margen proporcional.
 
 ## Idea clave para el examen
 
-Separación lateral mínima: <ins>1,50 m</ins> fuera de poblado para usuarios vulnerables, inmovilizados o auxilio; también <ins>1,50 m</ins> en poblado al adelantar a ciclos o ciclomotores; y <ins>1,50 m</ins> para motocicletas al adelantar a cualquier vehículo fuera de poblado.
+Separación lateral mínima: <ins>1,50 m</ins> fuera de poblado para usuarios vulnerables, inmovilizados o auxilio; también <ins>1,50 m</ins> en poblado al adelantar a ciclos o ciclomotores; y <ins>1,50 m</ins> para vehículos de dos ruedas al adelantar a cualquier vehículo fuera de poblado.
 
 ## Trampa habitual
 
-Recordar que se puede invadir el sentido contrario, pero olvidar la distancia lateral mínima. Otra trampa: pensar que en poblado siempre basta con margen proporcional; con ciclos o ciclomotores también son <ins>1,50 m</ins>.
+Recordar que se puede invadir el sentido contrario, pero olvidar la distancia lateral mínima. Otra trampa: pensar que en poblado siempre basta con margen proporcional; con ciclos o ciclomotores también son <ins>1,50 m</ins>. Con peatones en poblado, en cambio, se aplica margen proporcional.
 
 ## Relacionado
 

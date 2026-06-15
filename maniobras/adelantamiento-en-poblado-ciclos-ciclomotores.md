@@ -6,15 +6,15 @@ Tags: #permiso-b #maniobras #adelantamiento #poblado #ciclos #ciclomotores
 
 Cuando se adelante a un ciclo o ciclomotor en poblado, se debe dejar una [[separacion-lateral-adelantamiento]] <ins>no inferior a 1,50 metros</ins>.
 
-Esta regla es una excepción importante dentro de poblado: para otros vehículos, si no son ciclos o ciclomotores, se aplica un margen lateral de seguridad proporcional a la velocidad y a la anchura y características de la calzada.
+Esta regla es una excepción importante dentro de poblado: para otros vehículos, si no son ciclos o ciclomotores, se aplica un margen lateral de seguridad proporcional a la velocidad y a la anchura y características de la calzada. Al adelantar a un peatón en poblado también se aplica ese margen proporcional.
 
 ## En mis palabras
 
-En poblado, no todos los adelantamientos tienen una distancia fija. Pero si adelanto a un ciclo o a un ciclomotor, sí debo dejar 1,50 m, igual que en los casos importantes de [[adelantamiento-fuera-poblado-usuarios-vulnerables]].
+En poblado, no todos los adelantamientos tienen una distancia fija. Pero si adelanto a un ciclo o a un ciclomotor, sí debo dejar 1,50 m, igual que en los casos importantes de [[adelantamiento-fuera-poblado-usuarios-vulnerables]]. Si adelanto a un peatón en poblado, dejo margen proporcional.
 
 ## Idea clave para el examen
 
-En poblado, ciclo o ciclomotor = <ins>1,50 m de separación lateral</ins>. Otros vehículos = margen proporcional.
+En poblado, ciclo o ciclomotor = <ins>1,50 m de separación lateral</ins>. Peatón u otros vehículos = margen proporcional.
 
 ## Trampa habitual
 
