@@ -5,6 +5,7 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 ## Notas
 
 - [[autopistas-y-autovias]]
+- [[autopistas-autovias-vehiculos-prohibidos]]
 - [[automoviles-circulacion-arcen]]
 - [[carriles-interurbanos-tres-carriles-remolque]]
 - [[carril-bus-vao]]
@@ -20,6 +21,7 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 - [[vehiculos-inmovilizados-o-estacionados]]
 
 [carril-bus-vao]: carril-bus-vao.md "Carril BUS-VAO"
+[autopistas-autovias-vehiculos-prohibidos]: autopistas-autovias-vehiculos-prohibidos.md "Autopistas y autovías: vehículos prohibidos"
 [automoviles-circulacion-arcen]: automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [carriles-interurbanos-tres-carriles-remolque]: carriles-interurbanos-tres-carriles-remolque.md "Carriles interurbanos con tres carriles y remolque"
 [carril-bus-vao-vehiculos-permitidos]: carril-bus-vao-vehiculos-permitidos.md "Carril BUS-VAO: vehículos permitidos"
