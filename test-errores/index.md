@@ -5,6 +5,7 @@ Aquí van las preguntas falladas o dudosas.
 ## Notas
 
 - [[adelantamiento-curva-sin-visibilidad-sentidos-delimitados]]
+- [[turismo-remolque-carril-izquierdo-tres-carriles]]
 
 ## Formato recomendado
 
@@ -35,3 +36,4 @@ Tags: #error-test #permiso-b
 ```
 
 [adelantamiento-curva-sin-visibilidad-sentidos-delimitados]: adelantamiento-curva-sin-visibilidad-sentidos-delimitados.md "Error: adelantamiento en curva sin visibilidad con sentidos delimitados"
+[turismo-remolque-carril-izquierdo-tres-carriles]: turismo-remolque-carril-izquierdo-tres-carriles.md "Error: turismo con remolque en carril izquierdo con tres carriles"
