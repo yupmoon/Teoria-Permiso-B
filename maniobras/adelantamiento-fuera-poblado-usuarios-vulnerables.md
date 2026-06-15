@@ -18,6 +18,8 @@ Aunque exista una prohibición de adelantamiento, como una línea continua, algu
 
 Fuera de poblado hay que abrir mucho espacio al adelantar a usuarios vulnerables o vehículos inmovilizados/de auxilio. Si hay otro carril para tu sentido, debes cambiarte entero. Con ciclos y ciclomotores, esta idea conecta con [[adelantamiento-en-poblado-ciclos-ciclomotores]], porque también exigen 1,50 m en poblado. Si hay una línea continua, se revisa además [[adelantar-usuarios-vulnerables-linea-continua]].
 
+Si conduzco un turismo, no debo circular por el arcén para facilitar que otro vehículo me adelante; ver [[automoviles-circulacion-arcen]].
+
 ## Idea clave para el examen
 
 Fuera de poblado: ocupar parte o todo el carril contiguo; si hay más de un carril para tu sentido, cambiar completamente de carril; separación mínima [1,50 metros][separacion-lateral-adelantamiento#Idea clave para el examen]. Línea continua: ver [[adelantar-usuarios-vulnerables-linea-continua]].
@@ -31,6 +33,7 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 - [[separacion-lateral-adelantamiento]]
 - [[adelantamiento-en-poblado-ciclos-ciclomotores]]
 - [[adelantamiento-vehiculos-obligados-arcen]]
+- [[automoviles-circulacion-arcen]]
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 
@@ -42,5 +45,6 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 [separacion-lateral-adelantamiento#Idea clave para el examen]: <separacion-lateral-adelantamiento.md#Idea clave para el examen> "Separación lateral en adelantamiento"
 [adelantamiento-en-poblado-ciclos-ciclomotores]: adelantamiento-en-poblado-ciclos-ciclomotores.md "Adelantamiento en poblado a ciclos y ciclomotores"
 [adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
+[automoviles-circulacion-arcen]: ../circulacion/automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

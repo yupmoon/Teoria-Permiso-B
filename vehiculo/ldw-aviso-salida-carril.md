@@ -12,9 +12,9 @@ El conductor es el encargado de corregir la trayectoria, devolver el vehículo d
 
 ## Cómo detecta el carril
 
-El sistema LDW, del inglés *Lane Departure Warning*, también se conoce en español como alerta de cambio involuntario de carril y forma parte de los [[sistemas-adas]].
+El sistema LDW, del inglés *Lane Departure Warning*, también se conoce en español como "Alerta de Cambio Involuntario de Carril" y forma parte de los [[sistemas-adas]].
 
-Su misión es detectar continuamente las marcas viales de la carretera mediante sensores orientados hacia el suelo, como sensores infrarrojos.
+Su misión es detectar continuamente las marcas viales de la carretera mediante <ins>sensores infrarrojos orientados hacia el suelo</ins>.
 
 Puede leer marcas viales <ins>continuas o discontinuas</ins> en las vías de circulación.
 

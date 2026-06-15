@@ -31,6 +31,10 @@ La colocación depende del sentido de circulación:
 
 En carretera interurbana, el arcén transitable no es un aparcamiento: lo usan ciclomotores, ciclos y vehículos de movilidad reducida. En ciudad, en cambio, el arcén suele usarse para estacionar. La clave es distinguir vía interurbana/urbana, arcén transitable/no transitable y el espacio libre mínimo de 3 metros.
 
+Para circular, un turismo debe ir por la calzada y no por el arcén salvo emergencia; ver [[automoviles-circulacion-arcen]].
+
+La [[linea-borde-calzada]] delimita el borde de la calzada, pero no funciona como una marca blanca longitudinal normal.
+
 ## Idea clave para el examen
 
 Vía interurbana: parar o estacionar fuera de la calzada y fuera del arcén transitable; si el arcén no es transitable, se puede usar. Siempre al lado derecho. Vía urbana: puede usarse calzada y arcén, aunque sea transitable, dejando <ins>al menos 3 metros</ins>; sentido único permite derecha o izquierda, doble sentido solo derecha.
@@ -42,6 +46,8 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 ## Relacionado
 
 - [[adelantamiento-vehiculos-obligados-arcen]]
+- [[automoviles-circulacion-arcen]]
+- [[linea-borde-calzada]]
 - [[parada-estacionamiento-peligroso-obstaculiza]]
 - [[calzos-en-parada-estacionamiento-pendiente]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
@@ -55,6 +61,8 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 90 a 92](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a90): regulan los lugares y forma de parada y estacionamiento.
 
 [adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
+[automoviles-circulacion-arcen]: automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
+[linea-borde-calzada]: ../senales/linea-borde-calzada.md "Línea de borde de calzada"
 [parada-estacionamiento-peligroso-obstaculiza]: ../maniobras/parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
 [calzos-en-parada-estacionamiento-pendiente]: ../maniobras/calzos-en-parada-estacionamiento-pendiente.md "Calzos en parada o estacionamiento con pendiente"
 [estacionamiento-perturba-gravemente-circulacion]: ../maniobras/estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"

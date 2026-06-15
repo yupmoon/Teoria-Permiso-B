@@ -10,6 +10,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 - [[cartel-salida-inmediata]]
 - [[color-carteles-salida]]
 - [[estacionamiento-prohibido]]
+- [[linea-borde-calzada]]
 - [[luces-amarillas-intermitentes]]
 - [[senal-de-stop]]
 - [[senal-velocidad-maxima]]
@@ -27,6 +28,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 [cartel-salida-inmediata]: cartel-salida-inmediata.md "Cartel de salida inmediata"
 [color-carteles-salida]: color-carteles-salida.md "Color de los carteles de salida"
 [estacionamiento-prohibido]: estacionamiento-prohibido.md "Estacionamiento prohibido"
+[linea-borde-calzada]: linea-borde-calzada.md "Línea de borde de calzada"
 [luces-amarillas-intermitentes]: ../alumbrado/luces-amarillas-intermitentes.md "Luces amarillas intermitentes"
 [senal-de-stop]: senal-de-stop.md "Señal de stop"
 [senal-velocidad-maxima]: senal-velocidad-maxima.md "Señal de velocidad máxima"
