@@ -23,7 +23,7 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 [carril-bus-vao]: carril-bus-vao.md "Carril BUS-VAO"
 [autopistas-autovias-vehiculos-prohibidos]: autopistas-autovias-vehiculos-prohibidos.md "Autopistas y autovías: vehículos prohibidos"
 [automoviles-circulacion-arcen]: automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
-[carriles-interurbanos-tres-carriles-remolque]: carriles-interurbanos-tres-carriles-remolque.md "Carriles interurbanos con tres carriles y remolque"
+[carriles-interurbanos-tres-carriles-remolque]: carriles-interurbanos-tres-carriles-remolque.md "Carriles interurbanos con tres o más carriles"
 [carril-bus-vao-vehiculos-permitidos]: carril-bus-vao-vehiculos-permitidos.md "Carril BUS-VAO: vehículos permitidos"
 [carril-bus-vao-vehiculos-prohibidos]: carril-bus-vao-vehiculos-prohibidos.md "Carril BUS-VAO: vehículos prohibidos"
 [carril-bus-vao-excepciones-un-ocupante]: carril-bus-vao-excepciones-un-ocupante.md "Carril BUS-VAO: excepciones con un solo ocupante"
