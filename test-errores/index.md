@@ -2,6 +2,10 @@
 
 Aquí van las preguntas falladas o dudosas.
 
+## Notas
+
+- [[adelantamiento-curva-sin-visibilidad-sentidos-delimitados]]
+
 ## Formato recomendado
 
 ```md
@@ -29,3 +33,5 @@ Tags: #error-test #permiso-b
 
 - [Nota relacionada](../ruta/a/la/nota.md)
 ```
+
+[adelantamiento-curva-sin-visibilidad-sentidos-delimitados]: adelantamiento-curva-sin-visibilidad-sentidos-delimitados.md "Error: adelantamiento en curva sin visibilidad con sentidos delimitados"
