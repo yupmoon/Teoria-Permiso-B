@@ -11,6 +11,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 - [[cinturon-en-taxis]]
 - [[cinturon-de-seguridad]]
 - [[conduccion-con-hielo]]
+- [[consumo-combustible-marchas-largas]]
 - [[distancia-de-detencion]]
 - [[distancia-de-frenado]]
 - [[distancia-de-reaccion]]
@@ -35,6 +36,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 [cinturon-en-taxis]: cinturon-en-taxis.md "Cinturón en taxis"
 [cinturon-de-seguridad]: cinturon-de-seguridad.md "Cinturón de seguridad"
 [conduccion-con-hielo]: conduccion-con-hielo.md "Conducción con hielo"
+[consumo-combustible-marchas-largas]: consumo-combustible-marchas-largas.md "Consumo de combustible y marchas largas"
 [distancia-de-detencion]: distancia-de-detencion.md "Distancia de detención"
 [distancia-de-frenado]: distancia-de-frenado.md "Distancia de frenado"
 [distancia-de-reaccion]: distancia-de-reaccion.md "Distancia de reacción"

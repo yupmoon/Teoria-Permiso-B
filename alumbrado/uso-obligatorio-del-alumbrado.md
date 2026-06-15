@@ -14,6 +14,10 @@ Todos los vehículos deberán llevar encendido el alumbrado que corresponda en e
 
 Hay que encender las luces no solo de noche. También son obligatorias en túneles y cuando la visibilidad baja mucho por condiciones meteorológicas o ambientales. En esos entornos también puede estar prohibido el [[cambio-de-sentido-prohibido]], y si el vehículo queda detenido dentro de un túnel se aplica [[inmovilizacion-en-tunel]].
 
+Si hay una [[averia-alumbrado-largo-alcance]] y se circula con alumbrado de intensidad inferior, la velocidad debe permitir detenerse dentro de la zona iluminada.
+
+En condiciones de visibilidad reducida, puede utilizarse la [[luz-antiniebla-delantera]] en los supuestos permitidos.
+
 ## Idea clave para el examen
 
 Alumbrado obligatorio: de noche, en túneles/pasos inferiores/señal túnel, y con <ins>visibilidad sensiblemente reducida</ins>.
@@ -25,6 +29,8 @@ Pensar que durante el día no hace falta alumbrado. En túneles o con baja visib
 ## Relacionado
 
 - [[alumbrado]]
+- [[averia-alumbrado-largo-alcance]]
+- [[luz-antiniebla-delantera]]
 - [[inmovilizacion-en-tunel]]
 - [[conduccion-con-hielo]]
 - [[cambio-de-sentido-prohibido]]
@@ -34,6 +40,8 @@ Pensar que durante el día no hace falta alumbrado. En túneles o con baja visib
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 99 a 106](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a99): regulan el uso obligatorio del alumbrado, incluidos túneles, pasos inferiores y condiciones de visibilidad reducida.
 
 [alumbrado]: index.md "Alumbrado y señalización luminosa"
+[averia-alumbrado-largo-alcance]: averia-alumbrado-largo-alcance.md "Avería del alumbrado de largo alcance"
+[luz-antiniebla-delantera]: luz-antiniebla-delantera.md "Luz antiniebla delantera"
 [inmovilizacion-en-tunel]: inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [conduccion-con-hielo]: ../seguridad-vial/conduccion-con-hielo.md "Conducción con hielo"
 [cambio-de-sentido-prohibido]: ../maniobras/cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
