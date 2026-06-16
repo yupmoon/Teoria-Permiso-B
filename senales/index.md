@@ -19,6 +19,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 - [[senal-velocidad-maxima]]
 - [[senal-velocidad-minima]]
 - [[senal-velocidad-maxima-aconsejada]]
+- [[semaforos-luz-amarilla-verde]]
 - [[semaforos-con-indicaciones-distintas]]
 - [[senales-de-agentes]]
 - [[senales-prohibicion-giro-izquierda-cambio-sentido]]
@@ -43,6 +44,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 [senal-velocidad-maxima]: senal-velocidad-maxima.md "Señal de velocidad máxima"
 [senal-velocidad-minima]: senal-velocidad-minima.md "Señal de velocidad mínima"
 [senal-velocidad-maxima-aconsejada]: senal-velocidad-maxima-aconsejada.md "Señal de velocidad máxima aconsejada"
+[semaforos-luz-amarilla-verde]: semaforos-luz-amarilla-verde.md "Semáforos: luz amarilla fija, amarilla intermitente y verde"
 [semaforos-con-indicaciones-distintas]: semaforos-con-indicaciones-distintas.md "Semáforos con indicaciones distintas"
 [senales-de-agentes]: senales-de-agentes.md "Señales de agentes"
 [senales-prohibicion-giro-izquierda-cambio-sentido]: senales-prohibicion-giro-izquierda-cambio-sentido.md "Señales de prohibición: giro a la izquierda y cambio de sentido"

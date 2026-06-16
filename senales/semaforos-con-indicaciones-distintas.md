@@ -28,6 +28,7 @@ Obedecer el semáforo del lado contrario a la maniobra. La posición del semáfo
 
 ## Relacionado
 
+- [[semaforos-luz-amarilla-verde]]
 - [[senales]]
 - [[alumbrado]]
 - [[cambio-direccion-izquierda-visibilidad]]
@@ -39,3 +40,4 @@ Obedecer el semáforo del lado contrario a la maniobra. La posición del semáfo
 [senales]: index.md "Señales"
 [alumbrado]: ../alumbrado/index.md "Alumbrado y señalización luminosa"
 [cambio-direccion-izquierda-visibilidad]: ../maniobras/cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"
+[semaforos-luz-amarilla-verde]: semaforos-luz-amarilla-verde.md "Semáforos: luz amarilla fija, amarilla intermitente y verde"
