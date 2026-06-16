@@ -23,6 +23,7 @@ Desde ahí puedes navegar por los temas principales:
 
 ## Clusters de estudio
 
+- [Temas confusos](./resumenes/temas-confusos.md)
 - [Adelantamientos y separación lateral](./maniobras/separacion-lateral-adelantamiento.md)
 - [Distancias de seguridad](./seguridad-vial/distancia-entre-vehiculos.md)
 - [Autopistas y autovías](./circulacion/autopistas-y-autovias.md)

@@ -19,6 +19,14 @@ La organización principal es por temas de examen, reglas contrastadas y errores
 
 ## Rutas rápidas
 
+### Temas confusos
+
+- [Temas confusos](./resumenes/temas-confusos.md)
+- [Distancias confusas](./resumenes/distancias-confusas.md)
+- [Separación lateral y adelantamiento confuso](./resumenes/separacion-lateral-y-adelantamiento-confuso.md)
+- [Adelantamiento, rebasamiento y prohibiciones](./resumenes/adelantamiento-rebasamiento-y-prohibiciones.md)
+- [Turismo con remolque y equipamiento confuso](./resumenes/turismo-remolque-equipamiento-confuso.md)
+
 ### Maniobras
 
 - [Separación lateral en adelantamiento](./maniobras/separacion-lateral-adelantamiento.md)
