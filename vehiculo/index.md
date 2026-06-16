@@ -9,6 +9,7 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 - [[activacion-automatica-alumbrado-limpiaparabrisas]]
 - [[aviso-de-fatiga]]
 - [[camara-marcha-atras-sensores-aparcamiento]]
+- [[carga-sobresaliente-vehiculos-anchura-inferior-metro]]
 - [[e-call-aviso-emergencia]]
 - [[ebd-aviso-frenada-emergencia]]
 - [[hill-holder]]
@@ -29,6 +30,7 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 [activacion-automatica-alumbrado-limpiaparabrisas]: activacion-automatica-alumbrado-limpiaparabrisas.md "Activación automática de alumbrado y limpiaparabrisas"
 [aviso-de-fatiga]: aviso-de-fatiga.md "Aviso de fatiga"
 [camara-marcha-atras-sensores-aparcamiento]: camara-marcha-atras-sensores-aparcamiento.md "Cámara de marcha atrás y sensores de aparcamiento"
+[carga-sobresaliente-vehiculos-anchura-inferior-metro]: carga-sobresaliente-vehiculos-anchura-inferior-metro.md "Carga sobresaliente en vehículos de anchura inferior a un metro"
 [e-call-aviso-emergencia]: e-call-aviso-emergencia.md "e-Call: aviso de emergencia"
 [ebd-aviso-frenada-emergencia]: ebd-aviso-frenada-emergencia.md "EBD: aviso de frenada de emergencia"
 [hill-holder]: hill-holder.md "Hill Holder"

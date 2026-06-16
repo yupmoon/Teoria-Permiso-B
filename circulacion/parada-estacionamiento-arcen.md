@@ -4,7 +4,7 @@ Tags: #permiso-b #circulacion #arcen #parada #estacionamiento #vias-interurbanas
 
 ## Vías interurbanas
 
-En vías interurbanas, el arcén es el lugar destinado a la circulación de algunos vehículos, como [[permiso-b-ciclomotores-y-movilidad-reducida]], ciclos o vehículos para personas de movilidad reducida.
+En vías interurbanas, el arcén es el lugar destinado a la circulación de algunos [[vehiculos-obligados-circular-arcen]], como [[permiso-b-ciclomotores-y-movilidad-reducida]], ciclos o vehículos para personas de movilidad reducida.
 
 Por eso, si se para o estaciona en el arcén transitable, se entorpece su circulación.
 
@@ -46,6 +46,7 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 ## Relacionado
 
 - [[adelantamiento-vehiculos-obligados-arcen]]
+- [[vehiculos-obligados-circular-arcen]]
 - [[automoviles-circulacion-arcen]]
 - [[linea-borde-calzada]]
 - [[parada-estacionamiento-peligroso-obstaculiza]]
@@ -61,6 +62,7 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 90 a 92](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a90): regulan los lugares y forma de parada y estacionamiento.
 
 [adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
+[vehiculos-obligados-circular-arcen]: vehiculos-obligados-circular-arcen.md "Vehículos obligados a circular por el arcén"
 [automoviles-circulacion-arcen]: automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [linea-borde-calzada]: ../senales/linea-borde-calzada.md "Línea de borde de calzada"
 [parada-estacionamiento-peligroso-obstaculiza]: ../maniobras/parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"

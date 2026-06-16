@@ -4,7 +4,7 @@ Tags: #permiso-b #maniobras #adelantamiento #arcen #bicicletas
 
 ## Regla
 
-Los vehículos obligados a circular por el arcén tienen prohibido adelantar cuando la duración de la marcha en paralelo supere <ins>15 segundos</ins> o el recorrido supere <ins>200 metros</ins>. El uso del arcén también se relaciona con [[parada-estacionamiento-arcen]].
+Los [[vehiculos-obligados-circular-arcen]] tienen prohibido adelantar cuando la duración de la marcha en paralelo supere <ins>15 segundos</ins> o el recorrido supere <ins>200 metros</ins>. El uso del arcén también se relaciona con [[parada-estacionamiento-arcen]].
 
 Esta prohibición <ins>no se aplica a las bicicletas</ins>.
 
@@ -23,6 +23,7 @@ Olvidar la excepción de las bicicletas o confundir los dos límites. Basta con 
 ## Relacionado
 
 - [[no-se-considera-adelantar]]
+- [[vehiculos-obligados-circular-arcen]]
 - [[parada-estacionamiento-arcen]]
 - [[autopistas-autovias-vehiculos-prohibidos]]
 - [[adelantar-usuarios-vulnerables-linea-continua]]
@@ -34,6 +35,7 @@ Olvidar la excepción de las bicicletas o confundir los dos límites. Basta con 
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 36.3](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a36): regula la prohibición de adelantar para vehículos obligados a circular por el arcén cuando se superan 15 segundos o 200 metros en paralelo.
 
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"
+[vehiculos-obligados-circular-arcen]: ../circulacion/vehiculos-obligados-circular-arcen.md "Vehículos obligados a circular por el arcén"
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [autopistas-autovias-vehiculos-prohibidos]: ../circulacion/autopistas-autovias-vehiculos-prohibidos.md "Autopistas y autovías: vehículos prohibidos"
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
