@@ -10,6 +10,7 @@ Tags: #permiso-b #resumen #adelantamiento #rebasamiento
 | Pasar un obstáculo o vehículo inmovilizado por avería, accidente u otra emergencia | Rebasamiento | [[rebasamiento-obstaculo-vehiculo-inmovilizado]] |
 | Pasar usuarios vulnerables con línea continua cuando se permite por seguridad | Adelantamiento excepcional permitido | [[adelantar-usuarios-vulnerables-linea-continua]] |
 | Pasar por carriles destinados a maniobras o vehículos concretos | No se considera adelantar | [[no-se-considera-adelantar]] |
+| Línea continua normal | Regla general: no atravesarla ni circular sobre ella | [[linea-longitudinal-continua]] |
 
 ## Prohibiciones que se mezclan
 
@@ -42,6 +43,7 @@ Confundir línea continua con prohibición absoluta en todos los casos. Puede ha
 - [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[no-se-considera-adelantar]]
+- [[linea-longitudinal-continua]]
 - [[distancia-seguridad-en-tuneles]]
 
 ## Fuente
@@ -56,4 +58,5 @@ Ver fuentes oficiales en las notas base enlazadas.
 [adelantar-usuarios-vulnerables-linea-continua]: ../maniobras/adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [no-se-considera-adelantar]: ../maniobras/no-se-considera-adelantar.md "No se considera adelantar"
 [adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
+[linea-longitudinal-continua]: ../senales/linea-longitudinal-continua.md "Línea longitudinal continua"
 [distancia-seguridad-en-tuneles]: ../seguridad-vial/distancia-seguridad-en-tuneles.md "Distancia de seguridad en túneles"

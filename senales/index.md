@@ -12,15 +12,20 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 - [[color-carteles-salida]]
 - [[estacionamiento-prohibido]]
 - [[linea-borde-calzada]]
+- [[linea-longitudinal-continua]]
 - [[luces-amarillas-intermitentes]]
+- [[prendas-visibilidad-agentes-personal-obras]]
 - [[senal-de-stop]]
 - [[senal-velocidad-maxima]]
+- [[senal-velocidad-minima]]
+- [[senal-velocidad-maxima-aconsejada]]
 - [[semaforos-con-indicaciones-distintas]]
 - [[senales-de-agentes]]
 - [[senales-prohibicion-giro-izquierda-cambio-sentido]]
 - [[senales-que-obligan-a-detenerse]]
 - [[vado]]
 - [[velocidad-maxima-pintada-en-carril]]
+- [[vigencia-senales-velocidad-con-peligro]]
 - [[zona-estacionamiento-limitado]]
 
 [agente-brazo-extendido-arriba-abajo]: agente-brazo-extendido-arriba-abajo.md "Agente con brazo extendido de arriba abajo"
@@ -31,13 +36,18 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 [color-carteles-salida]: color-carteles-salida.md "Color de los carteles de salida"
 [estacionamiento-prohibido]: estacionamiento-prohibido.md "Estacionamiento prohibido"
 [linea-borde-calzada]: linea-borde-calzada.md "Línea de borde de calzada"
+[linea-longitudinal-continua]: linea-longitudinal-continua.md "Línea longitudinal continua"
 [luces-amarillas-intermitentes]: ../alumbrado/luces-amarillas-intermitentes.md "Luces amarillas intermitentes"
+[prendas-visibilidad-agentes-personal-obras]: prendas-visibilidad-agentes-personal-obras.md "Prendas de visibilidad de agentes y personal de obras"
 [senal-de-stop]: senal-de-stop.md "Señal de stop"
 [senal-velocidad-maxima]: senal-velocidad-maxima.md "Señal de velocidad máxima"
+[senal-velocidad-minima]: senal-velocidad-minima.md "Señal de velocidad mínima"
+[senal-velocidad-maxima-aconsejada]: senal-velocidad-maxima-aconsejada.md "Señal de velocidad máxima aconsejada"
 [semaforos-con-indicaciones-distintas]: semaforos-con-indicaciones-distintas.md "Semáforos con indicaciones distintas"
 [senales-de-agentes]: senales-de-agentes.md "Señales de agentes"
 [senales-prohibicion-giro-izquierda-cambio-sentido]: senales-prohibicion-giro-izquierda-cambio-sentido.md "Señales de prohibición: giro a la izquierda y cambio de sentido"
 [senales-que-obligan-a-detenerse]: senales-que-obligan-a-detenerse.md "Señales que obligan a detenerse"
 [vado]: vado.md "Vado"
 [velocidad-maxima-pintada-en-carril]: velocidad-maxima-pintada-en-carril.md "Velocidad máxima pintada en carril"
+[vigencia-senales-velocidad-con-peligro]: vigencia-senales-velocidad-con-peligro.md "Vigencia de señales de velocidad con advertencia de peligro"
 [zona-estacionamiento-limitado]: zona-estacionamiento-limitado.md "Zona de estacionamiento limitado"

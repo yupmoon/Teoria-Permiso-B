@@ -26,10 +26,13 @@ Línea de borde de calzada = delimita el borde. <ins>No funciona como una marca 
 
 Pensar que por ser una línea blanca continua nunca puede atravesarse. La clave es identificar que es línea de borde de calzada.
 
+La comparación importante es con [[linea-longitudinal-continua]], que sí prohíbe atravesarla o circular sobre ella como regla general.
+
 ## Relacionado
 
 - [[automoviles-circulacion-arcen]]
 - [[parada-estacionamiento-arcen]]
+- [[linea-longitudinal-continua]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 - [[senales]]
 
@@ -39,5 +42,6 @@ Pensar que por ser una línea blanca continua nunca puede atravesarse. La clave 
 
 [automoviles-circulacion-arcen]: ../circulacion/automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
+[linea-longitudinal-continua]: linea-longitudinal-continua.md "Línea longitudinal continua"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
 [senales]: index.md "Señales"

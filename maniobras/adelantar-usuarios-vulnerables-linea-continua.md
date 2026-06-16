@@ -47,6 +47,8 @@ Línea continua <ins>no impide adelantar</ins> a bicicletas, ciclos, ciclomotore
 
 Pensar que una línea continua nunca se puede pisar. En esta situación concreta sí puede atravesarse, pero solo para adelantar a estos usuarios o rebasar obstáculos/vehículos inmovilizados y con seguridad.
 
+La regla general de la [[linea-longitudinal-continua]] sigue siendo no atravesarla; esta nota recoge una excepción concreta.
+
 Otra trampa: decir que adelantar a bicicletas no es adelantamiento. El artículo 88 distingue: vehículo inmovilizado/obstáculo = rebasamiento; bicicletas, ciclos, ciclomotores, peatones, animales y tracción animal = adelantamiento excepcional permitido.
 
 Y otra: responder siempre "sí" por ser una bicicleta. La respuesta es "sí" solo si la maniobra puede hacerse con seguridad y sin poner en peligro ni entorpecer a ciclistas que circulen en sentido contrario.
@@ -59,6 +61,7 @@ Y otra: responder siempre "sí" por ser una bicicleta. La respuesta es "sí" sol
 - [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 - [[no-se-considera-adelantar]]
+- [[linea-longitudinal-continua]]
 
 ## Fuente
 
@@ -72,3 +75,4 @@ Y otra: responder siempre "sí" por ser una bicicleta. La respuesta es "sí" sol
 [rebasamiento-obstaculo-vehiculo-inmovilizado]: rebasamiento-obstaculo-vehiculo-inmovilizado.md "Rebasamiento de obstáculo o vehículo inmovilizado"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"
+[linea-longitudinal-continua]: ../senales/linea-longitudinal-continua.md "Línea longitudinal continua"

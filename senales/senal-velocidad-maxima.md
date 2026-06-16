@@ -33,6 +33,9 @@ Olvidar que en una vía sin prioridad la señal puede dejar de tener vigencia al
 ## Relacionado
 
 - [[velocidad-maxima-pintada-en-carril]]
+- [[senal-velocidad-minima]]
+- [[senal-velocidad-maxima-aconsejada]]
+- [[vigencia-senales-velocidad-con-peligro]]
 - [[velocidad-moderada-segun-circunstancias]]
 - [[senales]]
 
@@ -41,5 +44,8 @@ Olvidar que en una vía sin prioridad la señal puede dejar de tener vigencia al
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 154](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a154): regula las señales de prohibición o restricción, incluida la velocidad máxima.
 
 [velocidad-maxima-pintada-en-carril]: velocidad-maxima-pintada-en-carril.md "Velocidad máxima pintada en carril"
+[senal-velocidad-minima]: senal-velocidad-minima.md "Señal de velocidad mínima"
+[senal-velocidad-maxima-aconsejada]: senal-velocidad-maxima-aconsejada.md "Señal de velocidad máxima aconsejada"
+[vigencia-senales-velocidad-con-peligro]: vigencia-senales-velocidad-con-peligro.md "Vigencia de señales de velocidad con advertencia de peligro"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [senales]: index.md "Señales"

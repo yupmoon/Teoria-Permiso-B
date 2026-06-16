@@ -12,6 +12,7 @@ Tags: #permiso-b #resumen #distancia #seguridad-vial
 | Poblado, adelantamiento prohibido, varios carriles mismo sentido, circulación saturada o intención de adelantar | No se aplica la distancia fija de 50 m; basta con no colisionar | [[distancia-entre-vehiculos]] |
 | Túnel sin intención o posibilidad de adelantar | <ins>100 m o 4 s</ins> | [[distancia-seguridad-en-tuneles]] |
 | Túnel con vehículo de más de 3.500 kg | <ins>150 m o 6 s</ins> | [[distancia-seguridad-en-tuneles]] |
+| Agentes o personal de obras regulando el paso | Visibles o distinguibles a <ins>150 m</ins> | [[prendas-visibilidad-agentes-personal-obras]] |
 | Atasco | Distancia práctica de <ins>2 o 3 m</ins> | [[distancia-en-atasco]] |
 | Peligro hasta detenerse | Reacción + frenado = detención | [[distancia-de-detencion]] |
 
@@ -22,6 +23,7 @@ No mezclar metros de contextos distintos:
 - <ins>50 m</ins>: distancia entre vehículos grandes/largos para permitir adelantamiento, con excepciones.
 - <ins>100 m / 4 s</ins>: túneles cuando no se pretende adelantar.
 - <ins>150 m / 6 s</ins>: túneles para vehículos de más de 3.500 kg.
+- <ins>150 m</ins>: visibilidad de agentes/personas habilitadas; no es distancia entre vehículos.
 - <ins>2 o 3 m</ins>: atasco, como regla práctica.
 
 ## Trampa habitual
@@ -37,6 +39,7 @@ Aplicar los 50 m en autopistas/autovías o vías con varios carriles por sentido
 - [[distancia-de-detencion]]
 - [[distancia-de-reaccion]]
 - [[distancia-de-frenado]]
+- [[prendas-visibilidad-agentes-personal-obras]]
 
 ## Fuente
 
@@ -49,3 +52,4 @@ Ver fuentes oficiales en las notas base enlazadas.
 [distancia-de-detencion]: ../seguridad-vial/distancia-de-detencion.md "Distancia de detención"
 [distancia-de-reaccion]: ../seguridad-vial/distancia-de-reaccion.md "Distancia de reacción"
 [distancia-de-frenado]: ../seguridad-vial/distancia-de-frenado.md "Distancia de frenado"
+[prendas-visibilidad-agentes-personal-obras]: ../senales/prendas-visibilidad-agentes-personal-obras.md "Prendas de visibilidad de agentes y personal de obras"
