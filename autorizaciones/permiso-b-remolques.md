@@ -31,6 +31,7 @@ Pensar que todo remolque de más de 750 kg queda prohibido con el permiso B. Pue
 - [[permiso-b-vehiculos-autorizados]]
 - [[permiso-b-automoviles]]
 - [[autorizacion-b96]]
+- [[accesorios-obligatorios-turismo-remolque-v16]]
 - [[permiso-b-combustibles-alternativos-mercancias]]
 - [[autorizaciones]]
 
@@ -41,5 +42,6 @@ Pensar que todo remolque de más de 750 kg queda prohibido con el permiso B. Pue
 [permiso-b-automoviles]: permiso-b-automoviles.md "Permiso B: automóviles"
 [permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [autorizacion-b96]: autorizacion-b96.md "Autorización B96"
+[accesorios-obligatorios-turismo-remolque-v16]: ../vehiculo/accesorios-obligatorios-turismo-remolque-v16.md "Accesorios obligatorios: turismo, remolque y V-16"
 [permiso-b-combustibles-alternativos-mercancias]: permiso-b-combustibles-alternativos-mercancias.md "Permiso B: mercancías con combustibles alternativos"
 [autorizaciones]: index.md "Autorizaciones del permiso B"

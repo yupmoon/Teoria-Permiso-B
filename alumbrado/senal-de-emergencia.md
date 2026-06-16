@@ -46,6 +46,7 @@ Pensar que solo se usa cuando el vehículo está parado por avería. También pu
 
 - [[uso-obligatorio-del-alumbrado]]
 - [[inmovilizacion-en-tunel]]
+- [[accesorios-obligatorios-turismo-remolque-v16]]
 - [[e-call-aviso-emergencia]]
 - [[velocidad-moderada-segun-circunstancias]]
 - [[vehiculos-inmovilizados-o-estacionados]]
@@ -57,6 +58,7 @@ Pensar que solo se usa cuando el vehículo está parado por avería. También pu
 
 [uso-obligatorio-del-alumbrado]: uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
 [inmovilizacion-en-tunel]: inmovilizacion-en-tunel.md "Inmovilización en túnel"
+[accesorios-obligatorios-turismo-remolque-v16]: ../vehiculo/accesorios-obligatorios-turismo-remolque-v16.md "Accesorios obligatorios: turismo, remolque y V-16"
 [e-call-aviso-emergencia]: ../vehiculo/e-call-aviso-emergencia.md "e-Call: aviso de emergencia"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
