@@ -29,19 +29,34 @@ Pero no se debe entrar si la situación de la circulación hace previsible que e
 
 La clave es no impedir ni obstruir la circulación transversal.
 
+## Luz roja intermitente
+
+Una luz roja intermitente, o dos luces rojas alternativamente intermitentes, prohíben temporalmente el paso a los vehículos:
+
+- Antes de un paso a nivel.
+- Antes de una entrada a un puente móvil o a un pontón transbordador.
+- En las proximidades de una salida de vehículos de extinción de incendios.
+- Con motivo de la aproximación de una aeronave a escasa altura.
+
+## Flecha verde sobre fondo circular negro
+
+Una flecha verde iluminada sobre fondo circular negro significa que los vehículos pueden tomar la dirección y sentido indicados por la flecha, cualquiera que sea la luz que esté simultáneamente encendida en el mismo semáforo o en otro contiguo.
+
 ## En mis palabras
 
-Amarillo fijo se parece a rojo: paro salvo que frenar ya no sea seguro. Amarillo intermitente no da prioridad: avisa, exige cuidado y puede obligar a ceder. Verde da paso, pero no autoriza a bloquear una intersección o paso.
+Amarillo fijo se parece a rojo: paro salvo que frenar ya no sea seguro. Amarillo intermitente no da prioridad: avisa, exige cuidado y puede obligar a ceder. Verde da paso, pero no autoriza a bloquear una intersección o paso. Rojo intermitente es prohibición temporal de paso en situaciones especiales. Flecha verde sobre fondo negro autoriza sólo la dirección indicada.
 
 ## Idea clave para el examen
 
 - Amarillo fijo: <ins>detenerse como rojo</ins>, salvo imposibilidad segura.
 - Amarillo intermitente: <ins>precaución y ceder si hace falta</ins>; no anula otras señales.
 - Verde: paso con prioridad, pero <ins>no entrar si vas a quedar bloqueando</ins>.
+- Rojo intermitente: <ins>prohibición temporal de paso</ins>.
+- Flecha verde sobre fondo negro: <ins>puedo seguir la flecha aunque haya otra luz encendida</ins>.
 
 ## Trampa habitual
 
-Pensar que verde siempre significa entrar. Si puedes quedar detenido obstruyendo una intersección, paso de peatones o paso para ciclistas, no debes entrar.
+Pensar que verde siempre significa entrar. Si puedes quedar detenido obstruyendo una intersección, paso de peatones o paso para ciclistas, no debes entrar. Otra trampa es olvidar que la flecha verde sólo autoriza la dirección y sentido indicados por ella.
 
 ## Relacionado
 
