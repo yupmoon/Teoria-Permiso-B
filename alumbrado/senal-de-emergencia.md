@@ -6,7 +6,7 @@ Tags: #permiso-b #alumbrado #señalizacion #emergencia #averia
 
 ## Regla
 
-La luz o señal de emergencia se utiliza para señalizar y advertir el peligro que constituye temporalmente un vehículo afectado por una situación relacionada con [[vehiculos-inmovilizados-o-estacionados]] o con una emergencia:
+La luz o señal de emergencia se utiliza para señalizar y advertir el peligro que constituye temporalmente un vehículo afectado por una situación de [[vehiculos-inmovilizados-o-estacionados]] o por una emergencia:
 
 - Avería.
 - Accidente.

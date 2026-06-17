@@ -8,7 +8,7 @@ Los [[permiso-b-automoviles]] que autoriza el permiso B pueden llevar enganchado
 
 También pueden llevar remolques que <ins>superen los 750 kg</ins>, siempre que la MMA del conjunto <ins>no supere los 3.500 kg</ins>.
 
-También se pueden conducir conjuntos compuestos por un vehículo tractor de los que autoriza el permiso B y un remolque o semirremolque cuya MMA exceda de 750 kg, siempre que la MMA del conjunto <ins>no exceda de 4.250 kg</ins>. Si el conjunto <ins>excede de 3.500 kg</ins>, será necesario superar una prueba de control de aptitudes y comportamientos, relacionada con la [[autorizacion-b96]].
+También se pueden conducir conjuntos compuestos por un vehículo tractor de los que autoriza el permiso B y un remolque o semirremolque cuya MMA exceda de 750 kg, siempre que la MMA del conjunto <ins>no exceda de 4.250 kg</ins>. Si el conjunto <ins>excede de 3.500 kg</ins>, será necesario superar una prueba de control de aptitudes y comportamientos. Esa prueba se estudia en [[autorizacion-b96]].
 
 ## En mis palabras
 
