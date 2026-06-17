@@ -24,9 +24,12 @@ Traje de motocicleta: resistente a la abrasión, fabricado en cuero o fibras sin
 
 Pensar solo en el casco. En motocicleta también es importante proteger el cuerpo con ropa resistente, protecciones adecuadas y [[guantes-en-motocicleta]].
 
+No confundir esta recomendación de equipamiento con el [[chaleco-reflectante-en-vias-interurbanas]]: los conductores de motocicletas no aparecen incluidos en esa obligación del chaleco del artículo 118.3.
+
 ## Relacionado
 
 - [[guantes-en-motocicleta]]
+- [[chaleco-reflectante-en-vias-interurbanas]]
 - [[seguridad-vial]]
 
 ## Fuente
@@ -34,4 +37,5 @@ Pensar solo en el casco. En motocicleta también es importante proteger el cuerp
 - [El País, campaña DGT/Guardia Civil sobre motoristas](https://elpais.com/espana/2026-06-04/la-guardia-civil-intensifica-hasta-octubre-la-vigilancia-a-los-motoristas-durante-los-fines-de-semana.html): recoge que la ropa con protectores reduce lesiones y abrasiones en motoristas.
 
 [guantes-en-motocicleta]: guantes-en-motocicleta.md "Guantes en motocicleta"
+[chaleco-reflectante-en-vias-interurbanas]: chaleco-reflectante-en-vias-interurbanas.md "Chaleco reflectante en vías interurbanas"
 [seguridad-vial]: index.md "Seguridad vial"
