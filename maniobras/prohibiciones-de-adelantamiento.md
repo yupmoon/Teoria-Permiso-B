@@ -35,7 +35,7 @@ Las señales acústicas para advertir un adelantamiento se estudian en [[adverte
 
 La prohibición en intersecciones y proximidades no se aplica cuando:
 
-- Se trate de una plaza de circulación giratoria o glorieta.
+- Se trate de una <ins>plaza de circulación giratoria o glorieta</ins>: dentro de ellas está permitido adelantar, siempre que la maniobra pueda hacerse con seguridad.
 - El adelantamiento deba efectuarse por la derecha, según [[adelantamiento-por-la-derecha]].
 - La calzada en que se realice goce de prioridad en la intersección y haya señal expresa que lo indique, por ejemplo un semáforo con luz verde.
 - El adelantamiento se realice a vehículos de dos ruedas.
@@ -46,7 +46,7 @@ El adelantamiento se prohíbe cuando falta visibilidad para hacerlo o para desis
 
 ## Idea clave para el examen
 
-Adelantar prohibido si no hay visibilidad suficiente para hacerlo o <ins>desistir una vez iniciado</ins>. Excepción en curvas/rasantes de visibilidad reducida: <ins>sentidos claramente delimitados</ins> y <ins>sin invadir el sentido contrario</ins>. En intersecciones: permitido si hay <ins>prioridad señalizada</ins>, como semáforo verde, o si es glorieta/plaza giratoria.
+Adelantar prohibido si no hay visibilidad suficiente para hacerlo o <ins>desistir una vez iniciado</ins>. Excepción en curvas/rasantes de visibilidad reducida: <ins>sentidos claramente delimitados</ins> y <ins>sin invadir el sentido contrario</ins>. En intersecciones: permitido si hay <ins>prioridad señalizada</ins>, como semáforo verde, o si es <ins>glorieta/plaza giratoria</ins>.
 
 ## Relacionado
 
