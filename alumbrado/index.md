@@ -13,6 +13,7 @@ Notas sobre luces del vehículo, semáforos, luces intermitentes y señales lumi
 - [[semaforos-con-indicaciones-distintas]]
 - [[senal-de-emergencia]]
 - [[uso-obligatorio-del-alumbrado]]
+- [[via-insuficientemente-iluminada]]
 
 [averia-alumbrado-largo-alcance]: averia-alumbrado-largo-alcance.md "Avería del alumbrado de largo alcance"
 [luz-antiniebla-delantera]: luz-antiniebla-delantera.md "Luz antiniebla delantera"
@@ -23,3 +24,4 @@ Notas sobre luces del vehículo, semáforos, luces intermitentes y señales lumi
 [semaforos-con-indicaciones-distintas]: ../senales/semaforos-con-indicaciones-distintas.md "Semáforos con indicaciones distintas"
 [senal-de-emergencia]: senal-de-emergencia.md "Señal de emergencia"
 [uso-obligatorio-del-alumbrado]: uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
+[via-insuficientemente-iluminada]: via-insuficientemente-iluminada.md "Vía insuficientemente iluminada"

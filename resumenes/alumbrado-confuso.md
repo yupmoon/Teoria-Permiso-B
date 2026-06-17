@@ -2,7 +2,7 @@
 
 Tags: #permiso-b #resumen #alumbrado #placeholder
 
-Placeholder para reunir reglas ya existentes sobre antiniebla delantera, antiniebla trasera, señal de emergencia, túneles, avería del alumbrado de largo alcance y carriles especiales.
+Placeholder para reunir reglas ya existentes sobre antiniebla delantera, antiniebla trasera, señal de emergencia, túneles, avería del alumbrado de largo alcance, vía insuficientemente iluminada y carriles especiales.
 
 ## Relacionado
 
@@ -13,6 +13,7 @@ Placeholder para reunir reglas ya existentes sobre antiniebla delantera, antinie
 - [[senal-de-emergencia]]
 - [[inmovilizacion-en-tunel]]
 - [[averia-alumbrado-largo-alcance]]
+- [[via-insuficientemente-iluminada]]
 - [[carril-adicional-circunstancial]]
 
 [temas-confusos]: temas-confusos.md "Temas confusos"
@@ -22,4 +23,5 @@ Placeholder para reunir reglas ya existentes sobre antiniebla delantera, antinie
 [senal-de-emergencia]: ../alumbrado/senal-de-emergencia.md "Señal de emergencia"
 [inmovilizacion-en-tunel]: ../alumbrado/inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [averia-alumbrado-largo-alcance]: ../alumbrado/averia-alumbrado-largo-alcance.md "Avería del alumbrado de largo alcance"
+[via-insuficientemente-iluminada]: ../alumbrado/via-insuficientemente-iluminada.md "Vía insuficientemente iluminada"
 [carril-adicional-circunstancial]: ../circulacion/carril-adicional-circunstancial.md "Carril adicional circunstancial"
