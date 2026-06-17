@@ -29,6 +29,7 @@ Pensar que los ADAS permiten conducir sin atención. Es falso: son sistemas de a
 - [[camara-marcha-atras-sensores-aparcamiento]].
 - [[ebd-aviso-frenada-emergencia]].
 - [[hill-holder]].
+- [[isa-asistencia-inteligente-velocidad]].
 - [[ldw-aviso-salida-carril]].
 - [[rcta-alerta-trafico-cruzado]].
 - [[start-stop]].
@@ -45,6 +46,7 @@ Pensar que los ADAS permiten conducir sin atención. Es falso: son sistemas de a
 - [[camara-marcha-atras-sensores-aparcamiento]]
 - [[ebd-aviso-frenada-emergencia]]
 - [[hill-holder]]
+- [[isa-asistencia-inteligente-velocidad]]
 - [[ldw-aviso-salida-carril]]
 - [[rcta-alerta-trafico-cruzado]]
 - [[start-stop]]
@@ -62,6 +64,7 @@ Pensar que los ADAS permiten conducir sin atención. Es falso: son sistemas de a
 [camara-marcha-atras-sensores-aparcamiento]: camara-marcha-atras-sensores-aparcamiento.md "Cámara de marcha atrás y sensores de aparcamiento"
 [ebd-aviso-frenada-emergencia]: ebd-aviso-frenada-emergencia.md "EBD: aviso de frenada de emergencia"
 [hill-holder]: hill-holder.md "Hill Holder"
+[isa-asistencia-inteligente-velocidad]: isa-asistencia-inteligente-velocidad.md "ISA: asistencia inteligente de velocidad"
 [ldw-aviso-salida-carril]: ldw-aviso-salida-carril.md "LDW: aviso de salida de carril"
 [rcta-alerta-trafico-cruzado]: rcta-alerta-trafico-cruzado.md "RCTA: alerta de tráfico cruzado"
 [start-stop]: start-stop.md "Start-Stop"

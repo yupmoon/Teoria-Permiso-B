@@ -21,6 +21,7 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 - [[itv-motocicletas-y-cuatriciclos]]
 - [[itv-vehiculos-privados-hasta-nueve-plazas]]
 - [[itv-vehiculos-mercancias-hasta-3500kg]]
+- [[isa-asistencia-inteligente-velocidad]]
 - [[ldw-aviso-salida-carril]]
 - [[rcta-alerta-trafico-cruzado]]
 - [[retrovisores-motocicletas]]
@@ -45,6 +46,7 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 [itv-motocicletas-y-cuatriciclos]: itv-motocicletas-y-cuatriciclos.md "ITV: motocicletas y cuatriciclos"
 [itv-vehiculos-privados-hasta-nueve-plazas]: itv-vehiculos-privados-hasta-nueve-plazas.md "ITV: vehículos privados hasta nueve plazas"
 [itv-vehiculos-mercancias-hasta-3500kg]: itv-vehiculos-mercancias-hasta-3500kg.md "ITV: vehículos de mercancías hasta 3.500 kg"
+[isa-asistencia-inteligente-velocidad]: isa-asistencia-inteligente-velocidad.md "ISA: asistencia inteligente de velocidad"
 [ldw-aviso-salida-carril]: ldw-aviso-salida-carril.md "LDW: aviso de salida de carril"
 [rcta-alerta-trafico-cruzado]: rcta-alerta-trafico-cruzado.md "RCTA: alerta de tráfico cruzado"
 [retrovisores-motocicletas]: retrovisores-motocicletas.md "Retrovisores en motocicletas"
