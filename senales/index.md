@@ -17,6 +17,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 - [[marca-amarilla-zigzag]]
 - [[prendas-visibilidad-agentes-personal-obras]]
 - [[senal-de-stop]]
+- [[senal-cadenas-neumaticos-invierno]]
 - [[senal-velocidad-maxima]]
 - [[senal-velocidad-minima]]
 - [[senal-velocidad-maxima-aconsejada]]
@@ -43,6 +44,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 [marca-amarilla-zigzag]: marca-amarilla-zigzag.md "Marca amarilla en zigzag"
 [prendas-visibilidad-agentes-personal-obras]: prendas-visibilidad-agentes-personal-obras.md "Prendas de visibilidad de agentes y personal de obras"
 [senal-de-stop]: senal-de-stop.md "Señal de stop"
+[senal-cadenas-neumaticos-invierno]: senal-cadenas-neumaticos-invierno.md "Señal R-412: cadenas para nieve"
 [senal-velocidad-maxima]: senal-velocidad-maxima.md "Señal de velocidad máxima"
 [senal-velocidad-minima]: senal-velocidad-minima.md "Señal de velocidad mínima"
 [senal-velocidad-maxima-aconsejada]: senal-velocidad-maxima-aconsejada.md "Señal de velocidad máxima aconsejada"
