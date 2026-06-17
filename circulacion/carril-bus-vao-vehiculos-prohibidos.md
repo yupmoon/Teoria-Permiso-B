@@ -10,7 +10,7 @@ El BOE menciona expresamente:
 
 - <ins>[Turismos con remolque][permiso-b-remolques]</ins>.
 - <ins>Ciclos</ins>.
-- <ins>Ciclomotores</ins>, aunque el permiso B pueda autorizar algunos en [[permiso-b-ciclomotores-y-movilidad-reducida]].
+- <ins>Ciclomotores</ins>.
 
 Esta lista no agota todos los prohibidos: la regla principal es que sólo pueden circular los vehículos incluidos en [[carril-bus-vao-vehiculos-permitidos]] o en alguna excepción aplicable al tramo.
 
@@ -24,7 +24,9 @@ Prohibidos en BUS-VAO: <ins>todos los vehículos y conjuntos no autorizados</ins
 
 ## Trampa habitual
 
-Memorizar sólo tres prohibidos. La regla real es más amplia: todo lo que no esté autorizado queda fuera. Otra trampa: pensar que una motocicleta y un ciclomotor reciben el mismo trato. En esta regla, las motocicletas de dos o tres ruedas pueden estar permitidas, pero los ciclomotores están prohibidos.
+Memorizar sólo tres prohibidos. La regla real es más amplia: todo lo que no esté autorizado queda fuera.
+
+Otra trampa: pensar que una motocicleta y un ciclomotor reciben el mismo trato. En esta regla, las motocicletas de dos o tres ruedas pueden estar permitidas, pero los ciclomotores están prohibidos, aunque el permiso B pueda autorizar algunos ciclomotores en otros contextos. Ver [[permiso-b-ciclomotores-y-movilidad-reducida]].
 
 ## Relacionado
 
