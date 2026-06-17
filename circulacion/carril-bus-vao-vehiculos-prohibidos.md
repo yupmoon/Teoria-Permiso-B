@@ -4,25 +4,27 @@ Tags: #permiso-b #circulacion #carriles #bus-vao
 
 ## Regla
 
-Tienen prohibida la circulación por el carril BUS-VAO el resto de vehículos y conjuntos de vehículos no autorizados.
+Tienen prohibida la circulación por el carril BUS-VAO <ins>el resto de vehículos y conjuntos de vehículos no autorizados</ins>.
 
-Entre ellos están incluidos:
+El BOE menciona expresamente:
 
 - <ins>[Turismos con remolque][permiso-b-remolques]</ins>.
 - <ins>Ciclos</ins>.
 - <ins>Ciclomotores</ins>, aunque el permiso B pueda autorizar algunos en [[permiso-b-ciclomotores-y-movilidad-reducida]].
 
+Esta lista no agota todos los prohibidos: la regla principal es que sólo pueden circular los vehículos incluidos en [[carril-bus-vao-vehiculos-permitidos]] o en alguna excepción aplicable al tramo.
+
 ## En mis palabras
 
-Aunque un turismo pueda estar permitido en algunos casos, un [turismo con remolque][permiso-b-remolques] no entra en la autorización general del [[carril-bus-vao]].
+Aunque un turismo pueda estar permitido en algunos casos, un [turismo con remolque][permiso-b-remolques] cuenta como conjunto de vehículos y no entra en la autorización general del [[carril-bus-vao]].
 
 ## Idea clave para el examen
 
-Prohibidos en BUS-VAO: <ins>turismos con remolque, ciclos y ciclomotores</ins>, salvo que una señalización específica disponga otra cosa.
+Prohibidos en BUS-VAO: <ins>todos los vehículos y conjuntos no autorizados</ins>. Ejemplos expresos: <ins>turismos con remolque, ciclos y ciclomotores</ins>, salvo que una señalización específica disponga otra cosa.
 
 ## Trampa habitual
 
-Pensar que una motocicleta y un ciclomotor reciben el mismo trato. En esta regla, las motocicletas de dos o tres ruedas pueden estar permitidas, pero los ciclomotores están prohibidos.
+Memorizar sólo tres prohibidos. La regla real es más amplia: todo lo que no esté autorizado queda fuera. Otra trampa: pensar que una motocicleta y un ciclomotor reciben el mismo trato. En esta regla, las motocicletas de dos o tres ruedas pueden estar permitidas, pero los ciclomotores están prohibidos.
 
 ## Relacionado
 
