@@ -14,6 +14,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 - [[linea-borde-calzada]]
 - [[linea-longitudinal-continua]]
 - [[luces-amarillas-intermitentes]]
+- [[marca-amarilla-zigzag]]
 - [[prendas-visibilidad-agentes-personal-obras]]
 - [[senal-de-stop]]
 - [[senal-velocidad-maxima]]
@@ -39,6 +40,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 [linea-borde-calzada]: linea-borde-calzada.md "Línea de borde de calzada"
 [linea-longitudinal-continua]: linea-longitudinal-continua.md "Línea longitudinal continua"
 [luces-amarillas-intermitentes]: ../alumbrado/luces-amarillas-intermitentes.md "Luces amarillas intermitentes"
+[marca-amarilla-zigzag]: marca-amarilla-zigzag.md "Marca amarilla en zigzag"
 [prendas-visibilidad-agentes-personal-obras]: prendas-visibilidad-agentes-personal-obras.md "Prendas de visibilidad de agentes y personal de obras"
 [senal-de-stop]: senal-de-stop.md "Señal de stop"
 [senal-velocidad-maxima]: senal-velocidad-maxima.md "Señal de velocidad máxima"

@@ -14,6 +14,7 @@ También está prohibido estacionar:
 
 - En [[zona-estacionamiento-limitado]] sin colocar el distintivo que lo autoriza, como ticket o tarjeta, junto al parabrisas y en lugar visible, o cuando se supere el tiempo máximo permitido.
 - En zonas señalizadas para [[carga-y-descarga]].
+- En zonas marcadas con [[marca-amarilla-zigzag]].
 - En zonas señalizadas para uso exclusivo de personas con movilidad reducida.
 - Sobre aceras, paseos y demás zonas destinadas al paso de peatones: <ins>prohibido</ins>.
 - Delante de [[vado]] señalizado correctamente.
@@ -41,6 +42,7 @@ Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre, o confund
 
 - [[estacionamiento-prohibido]]
 - [[zona-estacionamiento-limitado]]
+- [[marca-amarilla-zigzag]]
 - [[vado]]
 - [[atropellos-peatones-ciudad-carretera]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
@@ -56,6 +58,7 @@ Confundir [[zona-estacionamiento-limitado]] con estacionamiento libre, o confund
 [estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"
 [zona-estacionamiento-limitado]: ../senales/zona-estacionamiento-limitado.md "Zona de estacionamiento limitado"
 [carga-y-descarga]: estacionamiento-perturba-gravemente-circulacion.md "Carga y descarga"
+[marca-amarilla-zigzag]: ../senales/marca-amarilla-zigzag.md "Marca amarilla en zigzag"
 [vado]: ../senales/vado.md "Vado"
 [atropellos-peatones-ciudad-carretera]: ../seguridad-vial/atropellos-peatones-ciudad-carretera.md "Atropellos de peatones en ciudad y carretera"
 [estacionamiento-perturba-gravemente-circulacion]: estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"

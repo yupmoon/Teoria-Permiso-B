@@ -13,6 +13,8 @@ Tanto en vías urbanas como en vías interurbanas, las tareas de carga y descarg
 
 Si excepcionalmente fuera necesario realizar la carga y descarga en la vía, deberán utilizarse los medios necesarios para hacerlo rápidamente, evitando peligros, ruidos y molestias innecesarias a los demás usuarios.
 
+Las zonas destinadas a carga y descarga pueden estar señalizadas con [[marca-amarilla-zigzag]], donde el estacionamiento está prohibido por tratarse de un uso especial de corta permanencia.
+
 ## Parada en doble fila
 
 En vías urbanas, la parada está permitida en doble fila siempre que:
@@ -39,6 +41,7 @@ Carga y descarga: vehículo y motor parados, fuera de la vía y sin ausentarse s
 - [[parada-estacionamiento-peligroso-obstaculiza]]
 - [[prohibiciones-de-estacionamiento]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
+- [[marca-amarilla-zigzag]]
 - [[parada-estacionamiento-arcen]]
 - [[maniobras]]
 
@@ -49,5 +52,6 @@ Carga y descarga: vehículo y motor parados, fuera de la vía y sin ausentarse s
 [parada-estacionamiento-peligroso-obstaculiza]: parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
 [prohibiciones-de-estacionamiento]: prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [estacionamiento-perturba-gravemente-circulacion]: estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
+[marca-amarilla-zigzag]: ../senales/marca-amarilla-zigzag.md "Marca amarilla en zigzag"
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [maniobras]: index.md "Maniobras"
