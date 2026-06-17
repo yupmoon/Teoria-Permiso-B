@@ -10,6 +10,8 @@ Todos los vehículos deberán llevar encendido el alumbrado que corresponda en e
 - <ins>A cualquier hora del día</ins> en túneles, pasos inferiores y tramos de vía afectados por la señal "Túnel".
 - <ins>A cualquier hora del día</ins> cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad.
 
+Además, hay supuestos en los que debe utilizarse la luz de cruce durante el día aunque la visibilidad sea buena, como se resume en [[luz-cruce-durante-dia]].
+
 ## En mis palabras
 
 Hay que encender las luces no solo de noche. También son obligatorias en túneles y cuando la visibilidad baja mucho por condiciones meteorológicas o ambientales. En esos entornos también puede estar prohibido el [[cambio-de-sentido-prohibido]], y si el vehículo queda detenido dentro de un túnel se aplica [[inmovilizacion-en-tunel]].
@@ -29,6 +31,7 @@ Pensar que durante el día no hace falta alumbrado. En túneles o con baja visib
 ## Relacionado
 
 - [[alumbrado]]
+- [[luz-cruce-durante-dia]]
 - [[averia-alumbrado-largo-alcance]]
 - [[luz-antiniebla-delantera]]
 - [[inmovilizacion-en-tunel]]
@@ -40,6 +43,7 @@ Pensar que durante el día no hace falta alumbrado. En túneles o con baja visib
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 99 a 106](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a99): regulan el uso obligatorio del alumbrado, incluidos túneles, pasos inferiores y condiciones de visibilidad reducida.
 
 [alumbrado]: index.md "Alumbrado y señalización luminosa"
+[luz-cruce-durante-dia]: luz-cruce-durante-dia.md "Luz de cruce durante el día"
 [averia-alumbrado-largo-alcance]: averia-alumbrado-largo-alcance.md "Avería del alumbrado de largo alcance"
 [luz-antiniebla-delantera]: luz-antiniebla-delantera.md "Luz antiniebla delantera"
 [inmovilizacion-en-tunel]: inmovilizacion-en-tunel.md "Inmovilización en túnel"

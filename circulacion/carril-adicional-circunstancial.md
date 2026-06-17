@@ -26,6 +26,7 @@ Pensar que si hay buena visibilidad no hacen falta luces. En este carril especia
 ## Relacionado
 
 - [[uso-obligatorio-del-alumbrado]]
+- [[luz-cruce-durante-dia]]
 - [[vehiculos-obligados-circular-arcen]]
 - [[automoviles-circulacion-arcen]]
 - [[circulacion]]
@@ -35,6 +36,7 @@ Pensar que si hay buena visibilidad no hacen falta luces. En este carril especia
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 42](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a42): regula los carriles adicionales circunstanciales, sus límites de velocidad y el uso obligatorio del alumbrado de corto alcance o de cruce.
 
 [uso-obligatorio-del-alumbrado]: ../alumbrado/uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
+[luz-cruce-durante-dia]: ../alumbrado/luz-cruce-durante-dia.md "Luz de cruce durante el día"
 [vehiculos-obligados-circular-arcen]: vehiculos-obligados-circular-arcen.md "Vehículos obligados a circular por el arcén"
 [automoviles-circulacion-arcen]: automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [circulacion]: index.md "Circulación"

@@ -9,6 +9,7 @@ Placeholder para reunir reglas ya existentes sobre antiniebla delantera, antinie
 - [[temas-confusos]]
 - [[luz-antiniebla-delantera]]
 - [[luz-antiniebla-trasera]]
+- [[luz-cruce-durante-dia]]
 - [[senal-de-emergencia]]
 - [[inmovilizacion-en-tunel]]
 - [[averia-alumbrado-largo-alcance]]
@@ -17,6 +18,7 @@ Placeholder para reunir reglas ya existentes sobre antiniebla delantera, antinie
 [temas-confusos]: temas-confusos.md "Temas confusos"
 [luz-antiniebla-delantera]: ../alumbrado/luz-antiniebla-delantera.md "Luz antiniebla delantera"
 [luz-antiniebla-trasera]: ../alumbrado/luz-antiniebla-trasera.md "Luz antiniebla trasera"
+[luz-cruce-durante-dia]: ../alumbrado/luz-cruce-durante-dia.md "Luz de cruce durante el día"
 [senal-de-emergencia]: ../alumbrado/senal-de-emergencia.md "Señal de emergencia"
 [inmovilizacion-en-tunel]: ../alumbrado/inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [averia-alumbrado-largo-alcance]: ../alumbrado/averia-alumbrado-largo-alcance.md "Avería del alumbrado de largo alcance"
