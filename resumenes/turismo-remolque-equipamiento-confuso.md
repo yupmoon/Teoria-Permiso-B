@@ -6,25 +6,25 @@ Tags: #permiso-b #resumen #remolques #vehiculo #equipamiento
 
 | Escenario | Regla | Nota base |
 |---|---|---|
-| Remolque hasta 750 kg MMA | Permitido con permiso B | [[permiso-b-remolques]] |
-| Remolque de más de 750 kg | Permitido si el conjunto no supera 3.500 kg | [[permiso-b-remolques]] |
-| Conjunto de más de 3.500 kg y hasta 4.250 kg | Exige prueba de aptitudes y comportamientos | [[autorizacion-b96]] |
-| Mercancías con combustibles alternativos hasta 4.250 kg | Solo sin remolque y con condiciones | [[permiso-b-combustibles-alternativos-mercancias]] |
+| Remolque hasta 750 kg MMA | Permitido con permiso B | [Remolques][permiso-b-remolques] |
+| Remolque de más de 750 kg | Permitido si el conjunto no supera 3.500 kg | [Remolques][permiso-b-remolques] |
+| Conjunto de más de 3.500 kg y hasta 4.250 kg | Exige prueba de aptitudes y comportamientos | [B96][autorizacion-b96] |
+| Mercancías con combustibles alternativos hasta 4.250 kg | Solo sin remolque y con condiciones | [Combustibles alternativos][permiso-b-combustibles-alternativos-mercancias] |
 
 ## Equipamiento
 
 | Vehículo / conjunto | Qué llevar | Nota base |
 |---|---|---|
-| Turismo | <ins>V-16</ins>, chaleco, rueda de repuesto/uso temporal o alternativa y herramientas | [[accesorios-obligatorios-turismo-remolque-v16]] |
-| Turismo con remolque | Lo anterior + <ins>extintor</ins> | [[accesorios-obligatorios-turismo-remolque-v16]] |
-| Remolque | No exige rueda propia de repuesto en esta regla | [[accesorios-obligatorios-turismo-remolque-v16]] |
+| Turismo | <ins>V-16</ins>, chaleco, rueda de repuesto/uso temporal o alternativa y herramientas | [Equipamiento][accesorios-obligatorios-turismo-remolque-v16] |
+| Turismo con remolque | Lo anterior + <ins>extintor</ins> | [Equipamiento][accesorios-obligatorios-turismo-remolque-v16] |
+| Remolque | No exige rueda propia de repuesto en esta regla | [Equipamiento][accesorios-obligatorios-turismo-remolque-v16] |
 
 ## Circulación con remolque
 
 | Escenario | Regla | Nota base |
 |---|---|---|
-| BUS-VAO | Turismo con remolque prohibido, salvo señalización específica | [[carril-bus-vao-vehiculos-prohibidos]] |
-| Vía interurbana con tres o más carriles mismo sentido | Conjuntos de más de 7 m solo derecho e inmediato | [[carriles-interurbanos-tres-carriles-remolque]] |
+| BUS-VAO | Turismo con remolque prohibido, salvo señalización específica | [BUS-VAO][carril-bus-vao-vehiculos-prohibidos] |
+| Vía interurbana con tres o más carriles mismo sentido | Conjuntos de más de 7 m solo derecho e inmediato | [Tres carriles][carriles-interurbanos-tres-carriles-remolque] |
 
 ## Regla mental
 

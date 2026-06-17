@@ -45,7 +45,7 @@ Línea longitudinal continua = <ins>no atravesar, no circular sobre ella</ins> y
 Confundir tres líneas parecidas:
 
 - Línea longitudinal continua normal: prohibición general.
-- [[linea-borde-calzada]]: delimita el borde y puede atravesarse en ciertos casos.
+- [Línea de borde de calzada][linea-borde-calzada]: delimita el borde y puede atravesarse en ciertos casos.
 - Línea continua más ancha: puede delimitar carril especial.
 
 ## Relacionado

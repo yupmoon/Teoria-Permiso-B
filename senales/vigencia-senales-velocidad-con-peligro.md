@@ -31,9 +31,9 @@ Ejemplo del esquema:
 
 | Señal | Qué expresa | Nota |
 |---|---|---|
-| [[senal-velocidad-maxima]] | Prohibición de superar la velocidad indicada | Señal circular con borde rojo |
-| [[senal-velocidad-minima]] | Obligación de circular, como mínimo, a la velocidad indicada | Señal circular azul |
-| [[senal-velocidad-maxima-aconsejada]] | Velocidad recomendada o aconsejada | Señal cuadrada azul |
+| [Velocidad máxima][senal-velocidad-maxima] | Prohibición de superar la velocidad indicada | Señal circular con borde rojo |
+| [Velocidad mínima][senal-velocidad-minima] | Obligación de circular, como mínimo, a la velocidad indicada | Señal circular azul |
+| [Velocidad máxima aconsejada][senal-velocidad-maxima-aconsejada] | Velocidad recomendada o aconsejada | Señal cuadrada azul |
 
 ## En mis palabras
 

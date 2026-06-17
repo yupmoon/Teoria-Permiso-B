@@ -8,11 +8,11 @@ Este resumen reúne reglas que suelen confundirse porque usan palabras parecidas
 
 | Situación | Clave | Nota base |
 |---|---|---|
-| Parada | Menos de 2 minutos y sin abandonar el vehículo | [[carga-descarga-y-parada-doble-fila]] |
-| Doble fila | Parada posible en vía urbana si no hay hueco próximo y no obstruye gravemente; estacionamiento prohibido siempre | [[carga-descarga-y-parada-doble-fila]] |
-| Carga y descarga | Uso de corta duración, normalmente fuera de la vía | [[carga-descarga-y-parada-doble-fila]] |
-| Marca amarilla en zigzag | Estacionamiento prohibido por uso especial, como parada de autobús o carga/descarga | [[marca-amarilla-zigzag]] |
-| Medio de la calzada | Estacionamiento que obstaculiza gravemente | [[estacionamiento-en-medio-calzada]] |
+| Parada | Menos de 2 minutos y sin abandonar el vehículo | [Parada y doble fila][carga-descarga-y-parada-doble-fila] |
+| Doble fila | Parada posible en vía urbana si no hay hueco próximo y no obstruye gravemente; estacionamiento prohibido siempre | [Parada y doble fila][carga-descarga-y-parada-doble-fila] |
+| Carga y descarga | Uso de corta duración, normalmente fuera de la vía | [Carga y descarga][carga-descarga-y-parada-doble-fila] |
+| Marca amarilla en zigzag | Estacionamiento prohibido por uso especial, como parada de autobús o carga/descarga | [Marca amarilla][marca-amarilla-zigzag] |
+| Medio de la calzada | Estacionamiento que obstaculiza gravemente | [Medio de la calzada][estacionamiento-en-medio-calzada] |
 
 ## Relacionado
 

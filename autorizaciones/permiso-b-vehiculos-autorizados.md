@@ -10,13 +10,13 @@ La edad mínima requerida para obtener el permiso B es de <ins>18 años</ins>.
 
 El permiso B autoriza a conducir:
 
-- [[permiso-b-ciclomotores-y-movilidad-reducida]]: ciclomotores y vehículos para personas de movilidad reducida.
-- [[permiso-b-motocicletas-a1]]: motocicletas del permiso A1, con <ins>antigüedad superior a 3 años</ins> y solo <ins>dentro del territorio nacional</ins>.
-- [[permiso-b-triciclos-y-cuadriciclos]]: vehículos de tres ruedas y cuadriciclos de motor.
-- [[permiso-b-automoviles]]: automóviles de MMA <ins>hasta 3.500 kg</ins> y hasta <ins>9 plazas incluido el conductor</ins>.
-- [[permiso-b-remolques]]: remolques o semirremolques dentro de los límites del permiso B.
-- [[permiso-b-combustibles-alternativos-mercancias]]: automóviles de mercancías con combustibles alternativos, sin remolque, dentro del territorio nacional y con antigüedad superior a 2 años.
-- [[permiso-b-vehiculos-especiales]]: vehículos especiales no agrícolas y vehículos especiales agrícolas autopropulsados o sus conjuntos.
+- [Ciclomotores y vehículos para personas de movilidad reducida][permiso-b-ciclomotores-y-movilidad-reducida].
+- [Motocicletas del permiso A1][permiso-b-motocicletas-a1], con <ins>antigüedad superior a 3 años</ins> y solo <ins>dentro del territorio nacional</ins>.
+- [Vehículos de tres ruedas y cuadriciclos de motor][permiso-b-triciclos-y-cuadriciclos].
+- [Automóviles][permiso-b-automoviles] de MMA <ins>hasta 3.500 kg</ins> y hasta <ins>9 plazas incluido el conductor</ins>.
+- [Remolques o semirremolques][permiso-b-remolques] dentro de los límites del permiso B.
+- [Automóviles de mercancías con combustibles alternativos][permiso-b-combustibles-alternativos-mercancias], sin remolque, dentro del territorio nacional y con antigüedad superior a 2 años.
+- [Vehículos especiales][permiso-b-vehiculos-especiales] no agrícolas y vehículos especiales agrícolas autopropulsados o sus conjuntos.
 
 ## Remolques con permiso B
 
@@ -58,8 +58,8 @@ Permiso B = <ins>18 años</ins>, automóviles hasta <ins>3.500 kg</ins> y <ins>9
 
 Mezclar las dos formas de llegar a 4.250 kg:
 
-- [[autorizacion-b96]]: conjunto con remolque que supera 3.500 kg y no pasa de 4.250 kg.
-- [[permiso-b-combustibles-alternativos-mercancias]]: vehículo de mercancías sin remolque, con combustible alternativo, hasta 4.250 kg por el exceso de masa del sistema de propulsión.
+- [Autorización B96][autorizacion-b96]: conjunto con remolque que supera 3.500 kg y no pasa de 4.250 kg.
+- [Mercancías con combustibles alternativos][permiso-b-combustibles-alternativos-mercancias]: vehículo sin remolque, hasta 4.250 kg por el exceso de masa del sistema de propulsión.
 
 ## Relacionado
 

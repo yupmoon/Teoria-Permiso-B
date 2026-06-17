@@ -6,15 +6,15 @@ Tags: #permiso-b #resumen #distancia #seguridad-vial
 
 | Escenario | Qué recordar | Nota base |
 |---|---|---|
-| Detrás de otro vehículo | Distancia suficiente para <ins>no colisionar</ins> si frena bruscamente | [[distancia-entre-vehiculos]] |
-| No voy a adelantar | Además, dejar espacio para que me adelanten | [[distancia-entre-vehiculos]] |
-| Vehículo de más de 3.500 kg o conjunto de más de 10 m | <ins>50 m</ins>, salvo excepciones | [[distancia-entre-vehiculos]] |
-| Poblado, adelantamiento prohibido, varios carriles mismo sentido, circulación saturada o intención de adelantar | No se aplica la distancia fija de 50 m; basta con no colisionar | [[distancia-entre-vehiculos]] |
-| Túnel sin intención o posibilidad de adelantar | <ins>100 m o 4 s</ins> | [[distancia-seguridad-en-tuneles]] |
-| Túnel con vehículo de más de 3.500 kg | <ins>150 m o 6 s</ins> | [[distancia-seguridad-en-tuneles]] |
-| Agentes o personal de obras regulando el paso | Visibles o distinguibles a <ins>150 m</ins> | [[prendas-visibilidad-agentes-personal-obras]] |
-| Atasco | Distancia práctica de <ins>2 o 3 m</ins> | [[distancia-en-atasco]] |
-| Peligro hasta detenerse | Reacción + frenado = detención | [[distancia-de-detencion]] |
+| Detrás de otro vehículo | Distancia suficiente para <ins>no colisionar</ins> si frena bruscamente | [Distancia entre vehículos][distancia-entre-vehiculos] |
+| No voy a adelantar | Además, dejar espacio para que me adelanten | [Distancia entre vehículos][distancia-entre-vehiculos] |
+| Vehículo de más de 3.500 kg o conjunto de más de 10 m | <ins>50 m</ins>, salvo excepciones | [Distancia entre vehículos][distancia-entre-vehiculos] |
+| Poblado, adelantamiento prohibido, varios carriles mismo sentido, circulación saturada o intención de adelantar | No se aplica la distancia fija de 50 m; basta con no colisionar | [Distancia entre vehículos][distancia-entre-vehiculos] |
+| Túnel sin intención o posibilidad de adelantar | <ins>100 m o 4 s</ins> | [Distancia en túneles][distancia-seguridad-en-tuneles] |
+| Túnel con vehículo de más de 3.500 kg | <ins>150 m o 6 s</ins> | [Distancia en túneles][distancia-seguridad-en-tuneles] |
+| Agentes o personal de obras regulando el paso | Visibles o distinguibles a <ins>150 m</ins> | [Visibilidad de agentes][prendas-visibilidad-agentes-personal-obras] |
+| Atasco | Distancia práctica de <ins>2 o 3 m</ins> | [Distancia en atasco][distancia-en-atasco] |
+| Peligro hasta detenerse | Reacción + frenado = detención | [Distancia de detención][distancia-de-detencion] |
 
 ## Regla mental
 

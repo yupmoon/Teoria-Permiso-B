@@ -6,21 +6,21 @@ Tags: #permiso-b #resumen #adelantamiento #rebasamiento
 
 | Caso | Nombre útil | Nota base |
 |---|---|---|
-| Pasar a un vehículo en movimiento | Adelantamiento | [[prohibiciones-de-adelantamiento]] |
-| Pasar un obstáculo o vehículo inmovilizado por avería, accidente u otra emergencia | Rebasamiento | [[rebasamiento-obstaculo-vehiculo-inmovilizado]] |
-| Pasar usuarios vulnerables con línea continua cuando se permite por seguridad | Adelantamiento excepcional permitido | [[adelantar-usuarios-vulnerables-linea-continua]] |
-| Pasar por carriles destinados a maniobras o vehículos concretos | No se considera adelantar | [[no-se-considera-adelantar]] |
-| Línea continua normal | Regla general: no atravesarla ni circular sobre ella | [[linea-longitudinal-continua]] |
+| Pasar a un vehículo en movimiento | Adelantamiento | [Prohibiciones][prohibiciones-de-adelantamiento] |
+| Pasar un obstáculo o vehículo inmovilizado por avería, accidente u otra emergencia | Rebasamiento | [Rebasamiento][rebasamiento-obstaculo-vehiculo-inmovilizado] |
+| Pasar usuarios vulnerables con línea continua cuando se permite por seguridad | Adelantamiento excepcional permitido | [Línea continua y vulnerables][adelantar-usuarios-vulnerables-linea-continua] |
+| Pasar por carriles destinados a maniobras o vehículos concretos | No se considera adelantar | [No se considera adelantar][no-se-considera-adelantar] |
+| Línea continua normal | Regla general: no atravesarla ni circular sobre ella | [Línea continua][linea-longitudinal-continua] |
 
 ## Prohibiciones que se mezclan
 
 | Lugar / situación | Regla | Nota base |
 |---|---|---|
-| Curva o cambio de rasante sin visibilidad | Prohibido, salvo sentidos claramente delimitados y sin invadir sentido contrario | [[prohibiciones-de-adelantamiento]] |
-| Pasos para peatones señalizados | Prohibido, con excepciones muy concretas | [[adelantamiento-prohibido-pasos-peatones]] |
-| Intersecciones y proximidades | Prohibido, salvo glorieta, derecha permitida, prioridad señalizada o vehículos de dos ruedas | [[prohibiciones-de-adelantamiento]] |
-| Túnel con un solo carril para tu sentido | Prohibido adelantar | [[prohibiciones-de-adelantamiento]] |
-| Vehículos obligados a circular por arcén | Prohibido si marcha en paralelo supera <ins>15 s</ins> o <ins>200 m</ins>, excepto bicicletas | [[adelantamiento-vehiculos-obligados-arcen]] |
+| Curva o cambio de rasante sin visibilidad | Prohibido, salvo sentidos claramente delimitados y sin invadir sentido contrario | [Prohibiciones][prohibiciones-de-adelantamiento] |
+| Pasos para peatones señalizados | Prohibido, con excepciones muy concretas | [Pasos para peatones][adelantamiento-prohibido-pasos-peatones] |
+| Intersecciones y proximidades | Prohibido, salvo glorieta, derecha permitida, prioridad señalizada o vehículos de dos ruedas | [Prohibiciones][prohibiciones-de-adelantamiento] |
+| Túnel con un solo carril para tu sentido | Prohibido adelantar | [Prohibiciones][prohibiciones-de-adelantamiento] |
+| Vehículos obligados a circular por arcén | Prohibido si marcha en paralelo supera <ins>15 s</ins> o <ins>200 m</ins>, excepto bicicletas | [Vehículos en arcén][adelantamiento-vehiculos-obligados-arcen] |
 
 ## Regla mental
 

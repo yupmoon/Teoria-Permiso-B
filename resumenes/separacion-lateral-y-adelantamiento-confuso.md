@@ -6,12 +6,12 @@ Tags: #permiso-b #resumen #adelantamiento #separacion-lateral
 
 | Escenario | Separación / maniobra | Nota base |
 |---|---|---|
-| Fuera de poblado a peatones, animales, vehículos de dos ruedas, tracción animal, inmovilizados o auxilio | <ins>1,50 m</ins> y ocupar parte o todo el carril contiguo | [[separacion-lateral-adelantamiento]] / [[adelantamiento-fuera-poblado-usuarios-vulnerables]] |
-| Fuera de poblado con más de un carril para tu sentido | Cambiar completamente al carril contiguo | [[adelantamiento-fuera-poblado-usuarios-vulnerables]] |
-| Ciclos o ciclomotores en poblado | <ins>1,50 m</ins> | [[adelantamiento-en-poblado-ciclos-ciclomotores]] |
-| Peatón en poblado | Margen proporcional a velocidad, anchura y características de la calzada | [[separacion-lateral-adelantamiento]] |
-| Vehículo de dos ruedas adelantando fuera de poblado | <ins>1,50 m</ins> al adelantar a cualquier vehículo | [[separacion-lateral-adelantamiento]] |
-| Motocicleta circulando por la derecha | Separación lateral suficiente para cruzarse con seguridad | [[motocicletas-posicion-calzada]] |
+| Fuera de poblado a peatones, animales, vehículos de dos ruedas, tracción animal, inmovilizados o auxilio | <ins>1,50 m</ins> y ocupar parte o todo el carril contiguo | [Separación lateral][separacion-lateral-adelantamiento] / [Usuarios vulnerables][adelantamiento-fuera-poblado-usuarios-vulnerables] |
+| Fuera de poblado con más de un carril para tu sentido | Cambiar completamente al carril contiguo | [Usuarios vulnerables][adelantamiento-fuera-poblado-usuarios-vulnerables] |
+| Ciclos o ciclomotores en poblado | <ins>1,50 m</ins> | [Ciclos y ciclomotores][adelantamiento-en-poblado-ciclos-ciclomotores] |
+| Peatón en poblado | Margen proporcional a velocidad, anchura y características de la calzada | [Separación lateral][separacion-lateral-adelantamiento] |
+| Vehículo de dos ruedas adelantando fuera de poblado | <ins>1,50 m</ins> al adelantar a cualquier vehículo | [Separación lateral][separacion-lateral-adelantamiento] |
+| Motocicleta circulando por la derecha | Separación lateral suficiente para cruzarse con seguridad | [Motocicletas][motocicletas-posicion-calzada] |
 
 ## Regla mental
 

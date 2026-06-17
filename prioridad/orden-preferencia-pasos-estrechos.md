@@ -8,16 +8,16 @@ Cuando en un tramo estrecho sin señalización uno de los vehículos tenga que d
 
 ## Orden de preferencia
 
-1. [[permiso-b-vehiculos-especiales]] y transportes especiales que excedan de las masas o dimensiones establecidas.
-2. [[permiso-b-remolques]], excepto los turismos con remolque de hasta 750 kg y autocaravanas.
+1. [Vehículos especiales][permiso-b-vehiculos-especiales] y transportes especiales que excedan de las masas o dimensiones establecidas.
+2. [Conjuntos de vehículos][permiso-b-remolques], excepto los turismos con remolque de hasta 750 kg y autocaravanas.
 3. Vehículos de tracción animal.
-4. Turismos que arrastren [[permiso-b-remolques]] de hasta 750 kg de MMA y autocaravanas.
+4. Turismos que arrastren [remolques][permiso-b-remolques] de hasta 750 kg de MMA y autocaravanas.
 5. Vehículos destinados al transporte colectivo de viajeros, como autobuses.
 6. Camiones, tractocamiones y furgonetas.
-7. [[permiso-b-automoviles]] y derivados de turismo.
-8. [[permiso-b-vehiculos-especiales]] que no excedan de las masas o dimensiones establecidas, [[permiso-b-triciclos-y-cuadriciclos]] y cuatriciclos ligeros.
-9. Vehículos de tres ruedas, motocicletas con sidecar y [[permiso-b-ciclomotores-y-movilidad-reducida]].
-10. [[permiso-b-motocicletas-a1]], ciclomotores de dos ruedas y bicicletas.
+7. [Turismos][permiso-b-automoviles] y derivados de turismo.
+8. [Vehículos especiales][permiso-b-vehiculos-especiales] que no excedan de las masas o dimensiones establecidas, [cuatriciclos][permiso-b-triciclos-y-cuadriciclos] y cuatriciclos ligeros.
+9. Vehículos de tres ruedas, motocicletas con sidecar y [ciclomotores de tres ruedas][permiso-b-ciclomotores-y-movilidad-reducida].
+10. [Motocicletas][permiso-b-motocicletas-a1], ciclomotores de dos ruedas y bicicletas.
 
 ## Si son del mismo tipo
 
