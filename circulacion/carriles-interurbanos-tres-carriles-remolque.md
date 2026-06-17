@@ -14,7 +14,7 @@ Estos vehículos pueden utilizar el carril inmediato para adelantar o cuando las
 
 El resto de carriles están prohibidos para ellos.
 
-En cambio, un turismo con [[permiso-b-remolques]] puede circular por el carril izquierdo cuando la longitud del conjunto <ins>no supere los 7 metros</ins>.
+En cambio, un [turismo con remolque][permiso-b-remolques] puede circular por el carril izquierdo cuando la longitud del conjunto <ins>no supere los 7 metros</ins>.
 
 ## En mis palabras
 

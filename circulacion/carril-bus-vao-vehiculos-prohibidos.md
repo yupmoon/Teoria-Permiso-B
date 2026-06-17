@@ -8,13 +8,13 @@ Tienen prohibida la circulación por el carril BUS-VAO el resto de vehículos y 
 
 Entre ellos están incluidos:
 
-- <ins>Turismos con remolque</ins>, relacionados con [[permiso-b-remolques]].
+- <ins>[Turismos con remolque][permiso-b-remolques]</ins>.
 - <ins>Ciclos</ins>.
 - <ins>Ciclomotores</ins>, aunque el permiso B pueda autorizar algunos en [[permiso-b-ciclomotores-y-movilidad-reducida]].
 
 ## En mis palabras
 
-Aunque un turismo pueda estar permitido en algunos casos, un turismo con [[permiso-b-remolques]] no entra en la autorización general del [[carril-bus-vao]].
+Aunque un turismo pueda estar permitido en algunos casos, un [turismo con remolque][permiso-b-remolques] no entra en la autorización general del [[carril-bus-vao]].
 
 ## Idea clave para el examen
 
