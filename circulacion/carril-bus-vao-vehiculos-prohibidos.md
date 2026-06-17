@@ -26,7 +26,11 @@ Prohibidos en BUS-VAO: <ins>todos los vehículos y conjuntos no autorizados</ins
 
 Memorizar sólo tres prohibidos. La regla real es más amplia: todo lo que no esté autorizado queda fuera.
 
-Otra trampa: pensar que una motocicleta y un ciclomotor reciben el mismo trato. En esta regla, las motocicletas de dos o tres ruedas pueden estar permitidas, pero los ciclomotores están prohibidos, aunque el permiso B pueda autorizar algunos ciclomotores en otros contextos. Ver [[permiso-b-ciclomotores-y-movilidad-reducida]].
+Otra trampa: pensar que una motocicleta y un ciclomotor reciben el mismo trato. En esta regla, las motocicletas de dos o tres ruedas pueden estar permitidas, pero los ciclomotores están prohibidos.
+
+## Nota
+
+El permiso B puede autorizar algunos ciclomotores en otros contextos: [[permiso-b-ciclomotores-y-movilidad-reducida]]. Esa autorización no cambia la regla específica del [[carril-bus-vao]].
 
 ## Relacionado
 
