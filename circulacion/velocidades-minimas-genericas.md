@@ -6,26 +6,33 @@ Tags: #permiso-b #circulacion #velocidad #velocidad-minima
 
 No se debe entorpecer la marcha normal de otros vehículos circulando sin causa justificada a velocidad anormalmente reducida.
 
-Como regla general:
+| Vía | Velocidad mínima genérica |
+|---|---:|
+| Autopistas y autovías | Vehículos a motor: <ins>60 km/h</ins> |
+| Restantes vías | <ins>La mitad de la velocidad genérica</ins> señalada para cada categoría de vehículo y vía |
 
-- En autopistas y autovías, los vehículos a motor no pueden circular a menos de <ins>60 km/h</ins>.
-- En las demás vías, no se puede circular a menos de <ins>la mitad de la velocidad genérica</ins> señalada para la categoría del vehículo y la vía, aunque no circulen otros vehículos.
+La mínima se aplica <ins>aunque no circulen otros vehículos</ins>.
 
 ## Excepciones
 
-Se puede circular por debajo de la mínima cuando:
+| Supuesto | Regla |
+|---|---|
+| Vehículos especiales | Pueden circular por debajo de la mínima. |
+| Vehículos en régimen de transporte especial | Pueden circular por debajo de la mínima. |
+| Circunstancias del tráfico, del vehículo o de la vía | Pueden circular por debajo si mantener una velocidad superior a la mínima supondría riesgo para la circulación. |
+| Protección o acompañamiento a otros vehículos | La velocidad se adecúa a la del vehículo acompañado. |
 
-- Se trate de vehículos especiales o vehículos en régimen de transporte especial.
-- Las circunstancias del tráfico, del vehículo o de la vía impidan mantener una velocidad superior sin riesgo.
-- Se proteja o acompañe a otros vehículos, adaptando la velocidad a la del vehículo acompañado.
+En los supuestos de protección o acompañamiento, los vehículos de acompañamiento deben llevar en la parte superior las señales <ins>V-21</ins> o <ins>V-22</ins>, según proceda.
 
-En los supuestos de acompañamiento, los vehículos de acompañamiento deben llevar en la parte superior las señales V-21 o V-22, según proceda.
+## Si no alcanza la mínima
 
-Si un vehículo no puede alcanzar la velocidad mínima exigida y existe peligro de alcance, debe utilizar durante la circulación la [señal de emergencia][senal-de-emergencia].
+| Situación | Obligación |
+|---|---|
+| El vehículo no puede alcanzar la velocidad mínima exigida y existe peligro de alcance | Usar durante la circulación las luces indicadoras de dirección con [señal de emergencia][senal-de-emergencia]. |
 
 ## En mis palabras
 
-La mínima no es solo una señal azul. Aunque no haya nadie detrás, existe una mínima genérica: 60 en autopistas y autovías para vehículos a motor, y la mitad de la genérica en el resto. Si no puedo llegar a esa velocidad por una causa justificada y hay peligro de alcance, aviso con emergencia.
+La mínima no es solo una señal azul. Aunque no haya nadie detrás, existe una mínima genérica: 60 en autopistas y autovías para vehículos a motor, y la mitad de la genérica en el resto de vías. Si no puedo llegar a esa velocidad por una causa justificada y hay peligro de alcance, aviso con la señal de emergencia.
 
 ## Idea clave para el examen
 
@@ -47,6 +54,7 @@ Pensar que la velocidad mínima solo existe cuando hay señal de [velocidad mín
 ## Fuente
 
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 49](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a49): regula las velocidades mínimas en poblado y fuera de poblado, sus excepciones y el uso de la señal de emergencia cuando no se alcance la mínima y exista peligro de alcance.
+- [Real Decreto 2822/1998, Reglamento General de Vehículos, anexo XI](https://www.boe.es/buscar/act.php?id=BOE-A-1999-1826#anxi): recoge las señales V-21 y V-22 aplicables a vehículos de acompañamiento, según proceda.
 
 [velocidades-maximas-genericas]: velocidades-maximas-genericas.md "Velocidades máximas genéricas"
 [senal-velocidad-minima]: ../senales/senal-velocidad-minima.md "Señal de velocidad mínima"
