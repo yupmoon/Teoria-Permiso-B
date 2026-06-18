@@ -4,7 +4,7 @@ Tags: #permiso-b #maniobras #adelantamiento #seguridad-lateral
 
 ## Regla
 
-Al adelantar a usuarios vulnerables, [[vehiculos-inmovilizados-o-estacionados]] o vehículos de auxilio, se debe dejar una separación lateral suficiente.
+Al adelantar a usuarios vulnerables, [vehículos inmovilizados o estacionados][vehiculos-inmovilizados-o-estacionados] o vehículos de auxilio, se debe dejar una separación lateral suficiente.
 
 Fuera de poblado, al adelantar a peatones, animales, vehículos de dos ruedas, vehículos de tracción animal, vehículos inmovilizados o vehículos de auxilio en operaciones de auxilio y rescate, la separación lateral <ins>no será inferior a 1,50 metros</ins>.
 
@@ -12,7 +12,7 @@ Cuando un vehículo de dos ruedas adelante a cualquier otro vehículo fuera de p
 
 De igual manera, el resto de vehículos deben dejar ese espacio lateral al adelantar a vehículos de dos ruedas.
 
-En poblado, cuando se adelante a un ciclo o ciclomotor, también debe dejarse una separación lateral <ins>no inferior a 1,50 metros</ins>. Ver [[adelantamiento-en-poblado-ciclos-ciclomotores]].
+En poblado, cuando se adelante a un ciclo o ciclomotor, también debe dejarse una separación lateral <ins>no inferior a 1,50 metros</ins>. Ver [adelantamiento en poblado a ciclos y ciclomotores][adelantamiento-en-poblado-ciclos-ciclomotores].
 
 Cuando se adelante a un vehículo distinto de los anteriores, o cuando el adelantamiento tenga lugar en poblado y no sea a un ciclo o ciclomotor, se dejará un margen lateral de seguridad proporcional a la velocidad y a la anchura y características de la calzada.
 

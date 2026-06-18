@@ -13,7 +13,7 @@ Tanto en vías urbanas como en vías interurbanas, las tareas de carga y descarg
 
 Si excepcionalmente fuera necesario realizar la carga y descarga en la vía, deberán utilizarse los medios necesarios para hacerlo rápidamente, evitando peligros, ruidos y molestias innecesarias a los demás usuarios.
 
-Las zonas destinadas a carga y descarga pueden estar señalizadas con [[marca-amarilla-zigzag]], donde el estacionamiento está prohibido por tratarse de un uso especial de corta permanencia.
+Las zonas destinadas a carga y descarga pueden estar señalizadas con [marca amarilla en zigzag][marca-amarilla-zigzag], donde el estacionamiento está prohibido por tratarse de un uso especial de corta permanencia.
 
 ## Parada en doble fila
 
@@ -26,7 +26,7 @@ En vías urbanas, la parada está permitida en doble fila siempre que:
 
 La parada es por un tiempo inferior a <ins>2 minutos</ins> y el conductor <ins>no puede abandonar el vehículo</ins>.
 
-Si no se cumple alguna de estas dos restricciones, ya no es parada: es [[prohibiciones-de-estacionamiento]], y en doble fila está prohibido.
+Si no se cumple alguna de estas dos restricciones, ya no es parada: es [prohibiciones de estacionamiento][prohibiciones-de-estacionamiento], y en doble fila está prohibido.
 
 ## En mis palabras
 

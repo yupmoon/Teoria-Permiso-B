@@ -8,7 +8,7 @@ El permiso B <ins>no autoriza por sí solo</ins> a conducir motocicletas.
 
 Sin embargo, los conductores con permiso B y <ins>antigüedad superior a 3 años</ins> pueden conducir, <ins>dentro del territorio nacional</ins>, las motocicletas que permite el permiso A1.
 
-Dentro de las motocicletas del A1, puede aparecer la regla de [[permiso-a1-motocicletas-sidecar]].
+Dentro de las motocicletas del A1, puede aparecer la regla de [motocicletas con sidecar del permiso A1][permiso-a1-motocicletas-sidecar].
 
 ## En mis palabras
 

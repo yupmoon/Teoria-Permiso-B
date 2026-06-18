@@ -4,7 +4,7 @@ Tags: #permiso-b #señales #agentes #prioridad-de-paso
 
 ## Idea
 
-Las señales realizadas por agentes regulan la circulación y pueden obligar a detenerse o a disminuir la velocidad. Son distintas de las [[senales-con-el-brazo]] que realiza un conductor para indicar maniobras cuando carece de intermitentes.
+Las señales realizadas por agentes regulan la circulación y pueden obligar a detenerse o a disminuir la velocidad. Son distintas de las [señales con el brazo][senales-con-el-brazo] que realiza un conductor para indicar maniobras cuando carece de intermitentes.
 
 ## Notas
 

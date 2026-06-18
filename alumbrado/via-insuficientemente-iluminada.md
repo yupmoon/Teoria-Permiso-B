@@ -19,7 +19,7 @@ Vía insuficientemente iluminada = <ins>matrícula no legible a 10 m</ins> o <in
 
 ## Trampa habitual
 
-Confundir esta definición con la obligación de reducir la velocidad por [[averia-alumbrado-largo-alcance]]. Aquí se define cuándo una vía está insuficientemente iluminada; allí se exige poder detenerse dentro de la zona iluminada.
+Confundir esta definición con la obligación de reducir la velocidad por [avería del alumbrado de largo alcance][averia-alumbrado-largo-alcance]. Aquí se define cuándo una vía está insuficientemente iluminada; allí se exige poder detenerse dentro de la zona iluminada.
 
 ## Relacionado
 

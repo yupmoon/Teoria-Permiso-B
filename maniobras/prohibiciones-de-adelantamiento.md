@@ -14,15 +14,15 @@ También está prohibido adelantar detrás de un vehículo que realiza la misma 
 
 Queda prohibido adelantar:
 
-- En [[adelantamiento-prohibido-pasos-peatones]].
+- En [adelantamiento prohibido en pasos para peatones][adelantamiento-prohibido-pasos-peatones].
 - En las intersecciones con vías para ciclistas.
 - En los pasos a nivel y en sus proximidades.
 - En las intersecciones y en sus proximidades.
 - En túneles, pasos inferiores y tramos de vía afectados por la señal "Túnel" en los que solo se disponga de un carril para el sentido de circulación del vehículo que pretende adelantar.
 
-En túneles y pasos inferiores, si no se pretende adelantar, se aplica la [[distancia-seguridad-en-tuneles]].
+En túneles y pasos inferiores, si no se pretende adelantar, se aplica la [distancia de seguridad en túneles][distancia-seguridad-en-tuneles].
 
-Si el carril está ocupado por un obstáculo o un vehículo inmovilizado por razones ajenas al tráfico, puede aplicarse el [[rebasamiento-obstaculo-vehiculo-inmovilizado]].
+Si el carril está ocupado por un obstáculo o un vehículo inmovilizado por razones ajenas al tráfico, puede aplicarse el [rebasamiento de obstáculo o vehículo inmovilizado][rebasamiento-obstaculo-vehiculo-inmovilizado].
 
 ## Excepciones
 
@@ -31,12 +31,12 @@ La prohibición en pasos para peatones, intersecciones con vías para ciclistas,
 - Cuando se adelante a vehículos de dos ruedas que, por sus reducidas dimensiones, no impidan la visibilidad lateral, en un paso a nivel o sus proximidades, previas las oportunas señales acústicas u ópticas.
 - En un paso para peatones señalizado, cuando el adelantamiento a cualquier vehículo se realice a una velocidad tan reducida que permita detenerse a tiempo si surgiera peligro de atropello.
 
-Las señales acústicas para advertir un adelantamiento se estudian en [[advertencias-acusticas]].
+Las señales acústicas para advertir un adelantamiento se estudian en [advertencias acústicas][advertencias-acusticas].
 
 La prohibición en intersecciones y proximidades no se aplica cuando:
 
 - Se trate de una <ins>plaza de circulación giratoria o glorieta</ins>: dentro de ellas está permitido adelantar, siempre que la maniobra pueda hacerse con seguridad.
-- El adelantamiento deba efectuarse por la derecha, según [[adelantamiento-por-la-derecha]].
+- El adelantamiento deba efectuarse por la derecha, según [adelantamiento por la derecha][adelantamiento-por-la-derecha].
 - La calzada en que se realice goce de prioridad en la intersección y haya señal expresa que lo indique, por ejemplo un semáforo con luz verde.
 - El adelantamiento se realice a vehículos de dos ruedas.
 

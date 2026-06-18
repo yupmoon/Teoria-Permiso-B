@@ -7,16 +7,16 @@ Tags: #permiso-b #circulacion #carriles #bus-vao #excepciones
 También pueden utilizar el carril BUS-VAO, aunque solo los ocupe su conductor:
 
 - Los tipos de vehículos autorizados si ostentan la señal V-15, distintivo de movilidad reducida.
-- Motocicletas de dos o tres ruedas [ver [[permiso-b-motocicletas-a1]]].
+- Motocicletas de dos o tres ruedas [ver [permiso B y motocicletas A1][permiso-b-motocicletas-a1]].
 - Autobuses con MMA superior a 3.500 kg.
 - Autobuses articulados.
-- Taxis con módulo luminoso exterior y licencia de taxi en vigor [ver [[cinturon-en-taxis]]].
+- Taxis con módulo luminoso exterior y licencia de taxi en vigor [ver [cinturón en taxis][cinturon-en-taxis]].
 - Vehículos de policía, extinción de incendios, protección civil, salvamento y asistencia sanitaria en servicio de urgencia.
 - Equipos de mantenimiento de las instalaciones y de la infraestructura de la vía.
 
 ## En mis palabras
 
-Algunos vehículos no necesitan llevar el número mínimo de ocupantes para usar el [[carril-bus-vao]]. La norma los deja pasar incluso cuando solo va el conductor.
+Algunos vehículos no necesitan llevar el número mínimo de ocupantes para usar el [carril BUS-VAO][carril-bus-vao]. La norma los deja pasar incluso cuando solo va el conductor.
 
 ## Idea clave para el examen
 

@@ -25,7 +25,7 @@ Túnel sin adelantamiento: <ins>100 m o 4 s</ins>. Vehículos de más de <ins>3.
 
 Pensar que la distancia puede reducirse porque se quiere adelantar. Si en el túnel no se puede adelantar, la distancia de seguridad <ins>no se podrá reducir</ins>.
 
-No confundir este <ins>150 metros</ins> con el de [[prendas-visibilidad-agentes-personal-obras]]: allí es distancia para distinguir a agentes o personal habilitado; aquí es distancia de seguridad en túneles para vehículos de más de 3.500 kg.
+No confundir este <ins>150 metros</ins> con el de [prendas de visibilidad de agentes y personal de obras][prendas-visibilidad-agentes-personal-obras]: allí es distancia para distinguir a agentes o personal habilitado; aquí es distancia de seguridad en túneles para vehículos de más de 3.500 kg.
 
 ## Relacionado
 

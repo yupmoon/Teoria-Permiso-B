@@ -4,7 +4,7 @@ Tags: #permiso-b #autorizaciones #automoviles
 
 ## Regla
 
-El permiso de la clase B autoriza a conducir automóviles cuya masa máxima autorizada <ins>no exceda de 3.500 kg</ins> y cuyo número de asientos, <ins>incluido el del conductor</ins>, <ins>no exceda de 9</ins>. Estos límites se conectan con [[permiso-b-remolques]] y con la ITV de [[itv-vehiculos-privados-hasta-nueve-plazas]].
+El permiso de la clase B autoriza a conducir automóviles cuya masa máxima autorizada <ins>no exceda de 3.500 kg</ins> y cuyo número de asientos, <ins>incluido el del conductor</ins>, <ins>no exceda de 9</ins>. Estos límites se conectan con [remolques del permiso B][permiso-b-remolques] y con la ITV de [ITV de vehículos privados hasta nueve plazas][itv-vehiculos-privados-hasta-nueve-plazas].
 
 ## Edad mínima
 
@@ -12,7 +12,7 @@ Para obtener el permiso B se exige una edad mínima de <ins>18 años</ins>.
 
 ## En mis palabras
 
-Con el permiso B se pueden conducir automóviles de hasta 3.500 kg de MMA y hasta 9 plazas contando al conductor. Si el vehículo usa combustibles alternativos para mercancías, hay una excepción específica en [[permiso-b-combustibles-alternativos-mercancias]].
+Con el permiso B se pueden conducir automóviles de hasta 3.500 kg de MMA y hasta 9 plazas contando al conductor. Si el vehículo usa combustibles alternativos para mercancías, hay una excepción específica en [mercancías con combustibles alternativos del permiso B][permiso-b-combustibles-alternativos-mercancias].
 
 ## Idea clave para el examen
 

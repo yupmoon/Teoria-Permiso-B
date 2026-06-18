@@ -15,7 +15,7 @@ Una luz amarilla intermitente obliga a:
 - <ins>Extremar la precaución</ins>.
 - En caso necesario, <ins>ceder el paso</ins>.
 
-Además, no exime de cumplir otras señales que obliguen a detenerse. Por ejemplo, si hay [[senal-de-stop]], hay que detenerse.
+Además, no exime de cumplir otras señales que obliguen a detenerse. Por ejemplo, si hay [señal de stop][senal-de-stop], hay que detenerse.
 
 ## Luz verde
 

@@ -7,7 +7,7 @@ Tags: #permiso-b #vehiculo #accesorios #remolques #v16 #emergencia
 Los turismos deben llevar:
 
 - Dispositivo luminoso de preseñalización de peligro <ins>V-16</ins>.
-- Chaleco reflectante de alta visibilidad, cuyo uso se estudia en [[chaleco-reflectante-en-vias-interurbanas]].
+- Chaleco reflectante de alta visibilidad, cuyo uso se estudia en [chaleco reflectante en vías interurbanas][chaleco-reflectante-en-vias-interurbanas].
 - Rueda completa de repuesto o rueda de uso temporal, con herramientas para el cambio, o un sistema alternativo que garantice la movilidad del vehículo.
 
 ## Turismo con remolque

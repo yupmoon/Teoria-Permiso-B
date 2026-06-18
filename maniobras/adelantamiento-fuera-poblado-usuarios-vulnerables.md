@@ -4,25 +4,25 @@ Tags: #permiso-b #maniobras #adelantamiento #fuera-de-poblado #usuarios-vulnerab
 
 ## Regla
 
-Cuando se adelante fuera de poblado a peatones, animales, vehículos de dos ruedas, vehículos de tracción animal, [[vehiculos-inmovilizados-o-estacionados]] en la vía o vehículos de auxilio realizando operaciones de auxilio y rescate, se debe realizar la maniobra <ins>ocupando parte o la totalidad del carril contiguo</ins> de la calzada.
+Cuando se adelante fuera de poblado a peatones, animales, vehículos de dos ruedas, vehículos de tracción animal, [vehículos inmovilizados o estacionados][vehiculos-inmovilizados-o-estacionados] en la vía o vehículos de auxilio realizando operaciones de auxilio y rescate, se debe realizar la maniobra <ins>ocupando parte o la totalidad del carril contiguo</ins> de la calzada.
 
 Si se dispone de más de un carril para el mismo sentido, se debe <ins>cambiar por completo al carril contiguo</ins>.
 
-Al adelantar a ciclos, ciclomotores o conjuntos de ellos, el cambio completo de carril es obligatorio cuando exista más de un carril para nuestro sentido. Esta regla se relaciona con [[adelantamiento-en-poblado-ciclos-ciclomotores]] y [[separacion-lateral-adelantamiento]].
+Al adelantar a ciclos, ciclomotores o conjuntos de ellos, el cambio completo de carril es obligatorio cuando exista más de un carril para nuestro sentido. Esta regla se relaciona con [adelantamiento en poblado a ciclos y ciclomotores][adelantamiento-en-poblado-ciclos-ciclomotores] y [separación lateral en adelantamiento][separacion-lateral-adelantamiento].
 
 En todo caso, la separación lateral no será inferior a [1,50 metros][separacion-lateral-adelantamiento#Idea clave para el examen].
 
-Aunque exista una prohibición de adelantamiento, como una línea continua, algunos usuarios vulnerables pueden adelantarse si se cumple la regla de [[adelantar-usuarios-vulnerables-linea-continua]]. No debe confundirse con el [[rebasamiento-obstaculo-vehiculo-inmovilizado]]: bicicletas, ciclos, ciclomotores, peatones, animales y vehículos de tracción animal son un adelantamiento excepcional permitido; obstáculos y vehículos inmovilizados son rebasamiento.
+Aunque exista una prohibición de adelantamiento, como una línea continua, algunos usuarios vulnerables pueden adelantarse si se cumple la regla de [adelantar usuarios vulnerables con línea continua][adelantar-usuarios-vulnerables-linea-continua]. No debe confundirse con el [rebasamiento de obstáculo o vehículo inmovilizado][rebasamiento-obstaculo-vehiculo-inmovilizado]: bicicletas, ciclos, ciclomotores, peatones, animales y vehículos de tracción animal son un adelantamiento excepcional permitido; obstáculos y vehículos inmovilizados son rebasamiento.
 
 ## En mis palabras
 
-Fuera de poblado hay que abrir mucho espacio al adelantar a usuarios vulnerables o vehículos inmovilizados/de auxilio. Si hay otro carril para tu sentido, debes cambiarte entero. Con ciclos y ciclomotores, esta idea conecta con [[adelantamiento-en-poblado-ciclos-ciclomotores]], porque también exigen 1,50 m en poblado. Si hay una línea continua, se revisa además [[adelantar-usuarios-vulnerables-linea-continua]].
+Fuera de poblado hay que abrir mucho espacio al adelantar a usuarios vulnerables o vehículos inmovilizados/de auxilio. Si hay otro carril para tu sentido, debes cambiarte entero. Con ciclos y ciclomotores, esta idea conecta con [adelantamiento en poblado a ciclos y ciclomotores][adelantamiento-en-poblado-ciclos-ciclomotores], porque también exigen 1,50 m en poblado. Si hay una línea continua, se revisa además [adelantar usuarios vulnerables con línea continua][adelantar-usuarios-vulnerables-linea-continua].
 
-Si conduzco un turismo, no debo circular por el arcén para facilitar que otro vehículo me adelante; ver [[automoviles-circulacion-arcen]].
+Si conduzco un turismo, no debo circular por el arcén para facilitar que otro vehículo me adelante; ver [automóviles y circulación por el arcén][automoviles-circulacion-arcen].
 
 ## Idea clave para el examen
 
-Fuera de poblado: ocupar parte o todo el carril contiguo; si hay más de un carril para tu sentido, cambiar completamente de carril; separación mínima [1,50 metros][separacion-lateral-adelantamiento#Idea clave para el examen]. Línea continua: ver [[adelantar-usuarios-vulnerables-linea-continua]].
+Fuera de poblado: ocupar parte o todo el carril contiguo; si hay más de un carril para tu sentido, cambiar completamente de carril; separación mínima [1,50 metros][separacion-lateral-adelantamiento#Idea clave para el examen]. Línea continua: ver [adelantar usuarios vulnerables con línea continua][adelantar-usuarios-vulnerables-linea-continua].
 
 ## Trampa habitual
 

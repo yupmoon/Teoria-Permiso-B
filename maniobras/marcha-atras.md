@@ -27,13 +27,13 @@ La marcha atrás no es una maniobra normal para circular. Puede ser una maniobra
 
 ## Idea clave para el examen
 
-Marcha atrás: norma general prohibida. Siempre recorrido <ins>mínimo indispensable</ins>. Complementaria de parada, estacionamiento o incorporación: <ins>máximo 15 metros y sin invadir cruces</ins>. Si no se puede avanzar ni cambiar dirección/sentido: sin límite concreto de recorrido e incluso puede invadir un cruce si es necesario. En [[autopistas-y-autovias]], está prohibida.
+Marcha atrás: norma general prohibida. Siempre recorrido <ins>mínimo indispensable</ins>. Complementaria de parada, estacionamiento o incorporación: <ins>máximo 15 metros y sin invadir cruces</ins>. Si no se puede avanzar ni cambiar dirección/sentido: sin límite concreto de recorrido e incluso puede invadir un cruce si es necesario. En [autopistas y autovías][autopistas-y-autovias], está prohibida.
 
 ## Trampa habitual
 
 Confundir las dos excepciones. El límite de <ins>15 metros</ins> no se aplica al caso en que no se pueda marchar hacia delante ni cambiar de dirección o sentido; sí se aplica cuando la marcha atrás es complementaria de parada, estacionamiento o incorporación.
 
-Otra trampa: pensar que puedo usar marcha atrás para completar un [[cambio-sentido-maniobra]]. No: si el cambio de sentido no puede hacerse en un solo giro y sin marcha atrás, queda prohibido.
+Otra trampa: pensar que puedo usar marcha atrás para completar un [realización del cambio de sentido][cambio-sentido-maniobra]. No: si el cambio de sentido no puede hacerse en un solo giro y sin marcha atrás, queda prohibido.
 
 ## Relacionado
 

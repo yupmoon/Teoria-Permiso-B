@@ -12,7 +12,7 @@ Por eso, con un turismo no se debe circular por el arcén para facilitar el adel
 
 El arcén no es un carril auxiliar para apartarse y dejar que otros adelanten. Si conduzco un turismo, debo mantenerme en la calzada. Solo se justifica ir por el arcén por razones de emergencia.
 
-Si existe [[linea-borde-calzada]], esa línea ayuda a identificar el borde, pero no convierte el arcén en un carril normal de circulación.
+Si existe [línea de borde de calzada][linea-borde-calzada], esa línea ayuda a identificar el borde, pero no convierte el arcén en un carril normal de circulación.
 
 ## Idea clave para el examen
 

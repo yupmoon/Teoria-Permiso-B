@@ -4,7 +4,7 @@ Tags: #permiso-b #autorizaciones #combustibles-alternativos #mercancias #mma
 
 ## Regla
 
-Con el [[permiso-b-automoviles]] se pueden conducir <ins>dentro del territorio nacional</ins>, con una <ins>antigüedad superior a 2 años</ins>, automóviles <ins>sin remolque</ins> impulsados por combustibles alternativos destinados al transporte de mercancías con MMA <ins>superior a 3.500 kg pero que no exceda de 4.250 kg</ins>.
+Con el [automóviles del permiso B][permiso-b-automoviles] se pueden conducir <ins>dentro del territorio nacional</ins>, con una <ins>antigüedad superior a 2 años</ins>, automóviles <ins>sin remolque</ins> impulsados por combustibles alternativos destinados al transporte de mercancías con MMA <ins>superior a 3.500 kg pero que no exceda de 4.250 kg</ins>.
 
 ## Condiciones
 
@@ -29,7 +29,7 @@ Ejemplos de combustibles alternativos:
 
 ## En mis palabras
 
-Esta regla permite al permiso B conducir ciertos vehículos de mercancías algo más pesados si el peso extra se debe al sistema de propulsión alternativo, no a llevar más carga. No debe confundirse con [[autorizacion-b96]], que trata de conjuntos con remolque.
+Esta regla permite al permiso B conducir ciertos vehículos de mercancías algo más pesados si el peso extra se debe al sistema de propulsión alternativo, no a llevar más carga. No debe confundirse con [autorización B96][autorizacion-b96], que trata de conjuntos con remolque.
 
 ## Idea clave para el examen
 

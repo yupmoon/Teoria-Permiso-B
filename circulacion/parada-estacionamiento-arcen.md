@@ -4,7 +4,7 @@ Tags: #permiso-b #circulacion #arcen #parada #estacionamiento #vias-interurbanas
 
 ## Vías interurbanas
 
-En vías interurbanas, el arcén es el lugar destinado a la circulación de algunos [[vehiculos-obligados-circular-arcen]], como [[permiso-b-ciclomotores-y-movilidad-reducida]], ciclos o vehículos para personas de movilidad reducida.
+En vías interurbanas, el arcén es el lugar destinado a la circulación de algunos [vehículos obligados a circular por el arcén][vehiculos-obligados-circular-arcen], como [ciclomotores y movilidad reducida del permiso B][permiso-b-ciclomotores-y-movilidad-reducida], ciclos o vehículos para personas de movilidad reducida.
 
 Por eso, si se para o estaciona en el arcén transitable, se entorpece su circulación.
 
@@ -31,9 +31,9 @@ La colocación depende del sentido de circulación:
 
 En carretera interurbana, el arcén transitable no es un aparcamiento: lo usan ciclomotores, ciclos y vehículos de movilidad reducida. En ciudad, en cambio, el arcén suele usarse para estacionar. La clave es distinguir vía interurbana/urbana, arcén transitable/no transitable y el espacio libre mínimo de 3 metros.
 
-Para circular, un turismo debe ir por la calzada y no por el arcén salvo emergencia; ver [[automoviles-circulacion-arcen]].
+Para circular, un turismo debe ir por la calzada y no por el arcén salvo emergencia; ver [automóviles y circulación por el arcén][automoviles-circulacion-arcen].
 
-La [[linea-borde-calzada]] delimita el borde de la calzada, pero no funciona como una marca blanca longitudinal normal.
+La [línea de borde de calzada][linea-borde-calzada] delimita el borde de la calzada, pero no funciona como una marca blanca longitudinal normal.
 
 ## Idea clave para el examen
 

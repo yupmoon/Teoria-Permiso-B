@@ -6,7 +6,7 @@ Tags: #permiso-b #alumbrado #señalizacion #emergencia #averia
 
 ## Regla
 
-La luz o señal de emergencia se utiliza para señalizar y advertir el peligro que constituye temporalmente un vehículo afectado por una situación de [[vehiculos-inmovilizados-o-estacionados]] o por una emergencia:
+La luz o señal de emergencia se utiliza para señalizar y advertir el peligro que constituye temporalmente un vehículo afectado por una situación de [vehículos inmovilizados o estacionados][vehiculos-inmovilizados-o-estacionados] o por una emergencia:
 
 - Avería.
 - Accidente.
@@ -17,7 +17,7 @@ La luz o señal de emergencia se utiliza para señalizar y advertir el peligro q
 
 Debe utilizarse en <ins>vías urbanas e interurbanas</ins>, <ins>tanto de día como de noche</ins>.
 
-Puede utilizarse tanto si el vehículo está <ins>inmovilizado</ins> como si está <ins>en movimiento</ins>. En túneles hay reglas específicas en [[inmovilizacion-en-tunel]].
+Puede utilizarse tanto si el vehículo está <ins>inmovilizado</ins> como si está <ins>en movimiento</ins>. En túneles hay reglas específicas en [inmovilización en túnel][inmovilizacion-en-tunel].
 
 ## Funcionamiento
 
@@ -32,7 +32,7 @@ La instalación de la señal de emergencia es:
 
 ## En mis palabras
 
-La señal de emergencia sirve para avisar a los demás usuarios de que el vehículo supone un peligro temporal. No depende de que sea de día o de noche, ni de que el vehículo esté parado: si hay emergencia, se usa. Se conecta con [[velocidad-moderada-segun-circunstancias]] porque los demás conductores deben adaptar la velocidad ante el peligro. No debe confundirse con [[e-call-aviso-emergencia]], que avisa a los servicios de emergencia.
+La señal de emergencia sirve para avisar a los demás usuarios de que el vehículo supone un peligro temporal. No depende de que sea de día o de noche, ni de que el vehículo esté parado: si hay emergencia, se usa. Se conecta con [velocidad moderada según las circunstancias][velocidad-moderada-segun-circunstancias] porque los demás conductores deben adaptar la velocidad ante el peligro. No debe confundirse con [e-Call: aviso de emergencia][e-call-aviso-emergencia], que avisa a los servicios de emergencia.
 
 ## Idea clave para el examen
 
@@ -40,7 +40,7 @@ Se usa en <ins>vías urbanas e interurbanas</ins>, <ins>de día y de noche</ins>
 
 ## Trampa habitual
 
-Pensar que solo se usa cuando el vehículo está parado por avería. También puede utilizarse en movimiento si existe una emergencia, por ejemplo si no se puede alcanzar la velocidad mínima y hay peligro de alcance; en ese caso otros conductores deben aplicar [[velocidad-moderada-segun-circunstancias]]. En [[inmovilizacion-en-tunel]], la señal cambia según sea aglomeración o emergencia.
+Pensar que solo se usa cuando el vehículo está parado por avería. También puede utilizarse en movimiento si existe una emergencia, por ejemplo si no se puede alcanzar la velocidad mínima y hay peligro de alcance; en ese caso otros conductores deben aplicar [velocidad moderada según las circunstancias][velocidad-moderada-segun-circunstancias]. En [inmovilización en túnel][inmovilizacion-en-tunel], la señal cambia según sea aglomeración o emergencia.
 
 ## Relacionado
 

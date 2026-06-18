@@ -19,7 +19,7 @@ Cuando su permanencia en la calzada, mientras espera para realizar la maniobra, 
 
 ## Carreteras estrechas
 
-En carreteras estrechas, si desde el centro de la calzada no puede dar la media vuelta sin causar peligro u obstaculizar a los demás y sin tener que hacer [[marcha-atras]], se situará junto al <ins>borde derecho de la calzada</ins>.
+En carreteras estrechas, si desde el centro de la calzada no puede dar la media vuelta sin causar peligro u obstaculizar a los demás y sin tener que hacer [marcha atrás][marcha-atras], se situará junto al <ins>borde derecho de la calzada</ins>.
 
 ## Un solo giro
 
@@ -37,7 +37,7 @@ Cambio de sentido: lugar adecuado, señalización previa, sin peligro ni obstác
 
 ## Trampa habitual
 
-Pensar que puedo hacer varias maniobras, usando [[marcha-atras]], para completar el cambio de sentido. No: si no se puede en un solo giro y sin marcha atrás, está prohibido. En carretera estrecha, la solución no es marcha atrás: es colocarse junto al borde derecho si desde el centro no se puede hacer con seguridad.
+Pensar que puedo hacer varias maniobras, usando [marcha atrás][marcha-atras], para completar el cambio de sentido. No: si no se puede en un solo giro y sin marcha atrás, está prohibido. En carretera estrecha, la solución no es marcha atrás: es colocarse junto al borde derecho si desde el centro no se puede hacer con seguridad.
 
 ## Relacionado
 

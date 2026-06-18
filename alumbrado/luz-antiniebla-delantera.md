@@ -44,7 +44,7 @@ Antiniebla delantera: <ins>opcional</ins>, color blanco o amarillo selectivo, us
 
 ## Trampa habitual
 
-Confundir antiniebla delantera con [[luz-antiniebla-trasera]]. La delantera no es obligatoria y su uso es voluntario en los supuestos indicados. Pero si no se dispone de ella, no significa circular sin alumbrado: se usa la luz de corto alcance o de cruce cuando la visibilidad disminuye sensiblemente.
+Confundir antiniebla delantera con [luz antiniebla trasera][luz-antiniebla-trasera]. La delantera no es obligatoria y su uso es voluntario en los supuestos indicados. Pero si no se dispone de ella, no significa circular sin alumbrado: se usa la luz de corto alcance o de cruce cuando la visibilidad disminuye sensiblemente.
 
 ## Relacionado
 

@@ -13,13 +13,13 @@ Los conductores están obligados a circular con sus vehículos a velocidad moder
 
 ## En mis palabras
 
-No basta con respetar el límite máximo de velocidad de [[senal-velocidad-maxima]]. Hay situaciones en las que se debe reducir la velocidad, e incluso detenerse, aunque la señal permita circular más rápido. En una [[incorporacion-carril-aceleracion]], la velocidad debe adaptarse para entrar sin peligro. Si se carece de intermitentes, la reducción o detención puede advertirse con [[senales-con-el-brazo]].
+No basta con respetar el límite máximo de velocidad de [señal de velocidad máxima][senal-velocidad-maxima]. Hay situaciones en las que se debe reducir la velocidad, e incluso detenerse, aunque la señal permita circular más rápido. En una [incorporación por carril de aceleración][incorporacion-carril-aceleracion], la velocidad debe adaptarse para entrar sin peligro. Si se carece de intermitentes, la reducción o detención puede advertirse con [señales con el brazo][senales-con-el-brazo].
 
-También se debe adaptar la velocidad si existe una [[averia-alumbrado-largo-alcance]], para poder detener el vehículo dentro de la zona iluminada.
+También se debe adaptar la velocidad si existe una [avería del alumbrado de largo alcance][averia-alumbrado-largo-alcance], para poder detener el vehículo dentro de la zona iluminada.
 
 ## Idea clave para el examen
 
-La velocidad debe adaptarse a las circunstancias reales. Si hay peligro, hay que moderar la velocidad o detenerse. Esta idea aparece también en [[conduccion-con-hielo]], [[vehiculos-inmovilizados-o-estacionados]], [[atropellos-peatones-ciudad-carretera]] y [[cambio-de-sentido-prohibido]] cuando la visibilidad no permite comprobar la maniobra.
+La velocidad debe adaptarse a las circunstancias reales. Si hay peligro, hay que moderar la velocidad o detenerse. Esta idea aparece también en [conducción con hielo][conduccion-con-hielo], [vehículos inmovilizados o estacionados][vehiculos-inmovilizados-o-estacionados], [atropellos de peatones en ciudad y carretera][atropellos-peatones-ciudad-carretera] y [cambio de sentido prohibido][cambio-de-sentido-prohibido] cuando la visibilidad no permite comprobar la maniobra.
 
 ## Trampa habitual
 

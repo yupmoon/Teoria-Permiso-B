@@ -25,7 +25,7 @@ La regla se aplica <ins>tanto de día como de noche</ins>, porque el objetivo es
 
 Los conductores de motocicletas no aparecen incluidos en la obligación del chaleco reflectante del artículo 118.3.
 
-Esto no significa que la visibilidad y la protección no importen: la ropa de motocicleta se estudia en [[traje-motocicleta]] y [[guantes-en-motocicleta]].
+Esto no significa que la visibilidad y la protección no importen: la ropa de motocicleta se estudia en [traje de motocicleta][traje-motocicleta] y [guantes en motocicleta][guantes-en-motocicleta].
 
 ## En mis palabras
 

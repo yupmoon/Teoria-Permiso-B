@@ -6,7 +6,7 @@ Tags: #permiso-b #senales #velocidad #recomendacion
 
 La señal de velocidad máxima aconsejada se representa como una señal cuadrada azul con la velocidad indicada.
 
-Indica una velocidad recomendada o aconsejada, no una prohibición como [[senal-velocidad-maxima]].
+Indica una velocidad recomendada o aconsejada, no una prohibición como [señal de velocidad máxima][senal-velocidad-maxima].
 
 ## En mis palabras
 
@@ -18,7 +18,7 @@ Velocidad máxima aconsejada = señal <ins>cuadrada azul</ins> = recomendación.
 
 ## Trampa habitual
 
-Confundir "aconsejada" con límite obligatorio. Para límite obligatorio se usa [[senal-velocidad-maxima]].
+Confundir "aconsejada" con límite obligatorio. Para límite obligatorio se usa [señal de velocidad máxima][senal-velocidad-maxima].
 
 ## Relacionado
 

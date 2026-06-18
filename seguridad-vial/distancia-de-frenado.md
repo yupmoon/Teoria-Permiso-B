@@ -12,7 +12,7 @@ Es el espacio que necesita el vehículo para parar una vez que el conductor ya h
 
 ## Idea clave para el examen
 
-La distancia de frenado empieza cuando se acciona el freno. Forma parte de la [[distancia-de-detencion]].
+La distancia de frenado empieza cuando se acciona el freno. Forma parte de la [distancia de detención][distancia-de-detencion].
 
 ## Trampa habitual
 

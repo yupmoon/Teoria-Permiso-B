@@ -14,7 +14,7 @@ Con carácter general, pueden circular por el carril BUS-VAO, con el número de 
 
 ## En mis palabras
 
-La autorización general depende del tipo de vehículo y de los ocupantes exigidos en ese tramo del carril. Para excepciones con un solo ocupante, ver [[carril-bus-vao-excepciones-un-ocupante]].
+La autorización general depende del tipo de vehículo y de los ocupantes exigidos en ese tramo del carril. Para excepciones con un solo ocupante, ver [excepciones del carril BUS-VAO con un solo ocupante][carril-bus-vao-excepciones-un-ocupante].
 
 ## Idea clave para el examen
 
@@ -26,7 +26,7 @@ Olvidar que el número de ocupantes puede variar según el tramo.
 
 ## Nota
 
-Para la relación entre permiso B y motocicletas A1, ver [[permiso-b-motocicletas-a1]]. Esa autorización del permiso no sustituye las condiciones propias del [[carril-bus-vao]].
+Para la relación entre permiso B y motocicletas A1, ver [permiso B y motocicletas A1][permiso-b-motocicletas-a1]. Esa autorización del permiso no sustituye las condiciones propias del [carril BUS-VAO][carril-bus-vao].
 
 ## Relacionado
 

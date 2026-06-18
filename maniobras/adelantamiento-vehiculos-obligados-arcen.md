@@ -4,13 +4,13 @@ Tags: #permiso-b #maniobras #adelantamiento #arcen #bicicletas
 
 ## Regla
 
-Los [[vehiculos-obligados-circular-arcen]] tienen prohibido adelantar cuando la duración de la marcha en paralelo supere <ins>15 segundos</ins> o el recorrido supere <ins>200 metros</ins>. El uso del arcén también se relaciona con [[parada-estacionamiento-arcen]].
+Los [vehículos obligados a circular por el arcén][vehiculos-obligados-circular-arcen] tienen prohibido adelantar cuando la duración de la marcha en paralelo supere <ins>15 segundos</ins> o el recorrido supere <ins>200 metros</ins>. El uso del arcén también se relaciona con [parada y estacionamiento en el arcén][parada-estacionamiento-arcen].
 
 Esta prohibición <ins>no se aplica a las bicicletas</ins>.
 
 ## En mis palabras
 
-Si un vehículo debe circular por el arcén, no puede adelantar manteniéndose demasiado tiempo en paralelo: el límite es 15 segundos o 200 metros. Las bicicletas quedan exceptuadas de esta prohibición. Para parada y estacionamiento en el arcén, ver [[parada-estacionamiento-arcen]].
+Si un vehículo debe circular por el arcén, no puede adelantar manteniéndose demasiado tiempo en paralelo: el límite es 15 segundos o 200 metros. Las bicicletas quedan exceptuadas de esta prohibición. Para parada y estacionamiento en el arcén, ver [parada y estacionamiento en el arcén][parada-estacionamiento-arcen].
 
 ## Idea clave para el examen
 

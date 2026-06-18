@@ -6,11 +6,11 @@ Tags: #permiso-b #vehiculo #seguridad-vial #adas
 
 Los sistemas ADAS, del inglés *Advanced Driver Assistance Systems*, son un conjunto de sistemas instalados en el vehículo que prestan asistencia al conductor para aumentar la seguridad y facilitar la conducción.
 
-Estos sistemas pueden alertar de una situación de peligro e incluso intervenir en la dirección y/o en los frenos del vehículo para evitar una colisión o mitigar sus consecuencias, como ocurre en [[aebs-frenado-emergencia]] o en algunos casos de [[rcta-alerta-trafico-cruzado]].
+Estos sistemas pueden alertar de una situación de peligro e incluso intervenir en la dirección y/o en los frenos del vehículo para evitar una colisión o mitigar sus consecuencias, como ocurre en [AEBS: frenado de emergencia][aebs-frenado-emergencia] o en algunos casos de [RCTA: alerta de tráfico cruzado][rcta-alerta-trafico-cruzado].
 
 ## En mis palabras
 
-Los ADAS ayudan al conductor, pero no lo sustituyen. Sirven para mejorar la seguridad, avisar de riesgos y, en algunos casos, actuar sobre el vehículo si detectan peligro. En el examen conviene distinguirlos de la lista concreta de [[adas-permitidos-examen]].
+Los ADAS ayudan al conductor, pero no lo sustituyen. Sirven para mejorar la seguridad, avisar de riesgos y, en algunos casos, actuar sobre el vehículo si detectan peligro. En el examen conviene distinguirlos de la lista concreta de [ADAS permitidos en el examen][adas-permitidos-examen].
 
 ## Idea clave para el examen
 
@@ -22,17 +22,17 @@ Pensar que los ADAS permiten conducir sin atención. Es falso: son sistemas de a
 
 ## Ejemplos
 
-- [[aebs-frenado-emergencia]].
-- [[adas-permitidos-examen]].
-- [[activacion-automatica-alumbrado-limpiaparabrisas]].
-- [[aviso-de-fatiga]].
-- [[camara-marcha-atras-sensores-aparcamiento]].
-- [[ebd-aviso-frenada-emergencia]].
-- [[hill-holder]].
-- [[isa-asistencia-inteligente-velocidad]].
-- [[ldw-aviso-salida-carril]].
-- [[rcta-alerta-trafico-cruzado]].
-- [[start-stop]].
+- [AEBS: frenado de emergencia][aebs-frenado-emergencia].
+- [ADAS permitidos en el examen][adas-permitidos-examen].
+- [activación automática de alumbrado y limpiaparabrisas][activacion-automatica-alumbrado-limpiaparabrisas].
+- [aviso de fatiga][aviso-de-fatiga].
+- [cámara de marcha atrás y sensores de aparcamiento][camara-marcha-atras-sensores-aparcamiento].
+- [EBD: aviso de frenada de emergencia][ebd-aviso-frenada-emergencia].
+- [hill Holder][hill-holder].
+- [ISA: asistencia inteligente de velocidad][isa-asistencia-inteligente-velocidad].
+- [LDW: aviso de salida de carril][ldw-aviso-salida-carril].
+- [RCTA: alerta de tráfico cruzado][rcta-alerta-trafico-cruzado].
+- [start-Stop][start-stop].
 - Control de crucero adaptativo.
 - Detector de ángulo muerto.
 - Reconocimiento de señales.

@@ -18,7 +18,7 @@ Velocidad mínima = señal <ins>circular azul</ins> = obligación de circular al
 
 ## Trampa habitual
 
-Confundirla con [[senal-velocidad-maxima]] por ver solo el número. El color y la forma cambian el sentido.
+Confundirla con [señal de velocidad máxima][senal-velocidad-maxima] por ver solo el número. El color y la forma cambian el sentido.
 
 ## Relacionado
 

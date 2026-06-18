@@ -4,7 +4,7 @@ Tags: #permiso-b #seguridad-vial #seguridad-pasiva #motocicleta #dos-ruedas
 
 ## Regla
 
-Los guantes son un sistema de seguridad pasiva muy importante en la conducción de vehículos de dos ruedas, igual que el [[traje-motocicleta]] protege frente a la abrasión.
+Los guantes son un sistema de seguridad pasiva muy importante en la conducción de vehículos de dos ruedas, igual que el [traje de motocicleta][traje-motocicleta] protege frente a la abrasión.
 
 Si el conductor de una motocicleta cae al suelo, es mejor que tenga todas las partes del cuerpo protegidas, porque el asfalto es muy abrasivo.
 
@@ -14,7 +14,7 @@ La utilización de guantes <ins>no es obligatoria, pero sí aconsejable</ins>.
 
 ## En mis palabras
 
-En una caída de moto, las manos suelen tocar el suelo y el asfalto puede causar lesiones importantes. Los guantes protegen, aunque no sean obligatorios, y se complementan con el [[traje-motocicleta]].
+En una caída de moto, las manos suelen tocar el suelo y el asfalto puede causar lesiones importantes. Los guantes protegen, aunque no sean obligatorios, y se complementan con el [traje de motocicleta][traje-motocicleta].
 
 ## Idea clave para el examen
 

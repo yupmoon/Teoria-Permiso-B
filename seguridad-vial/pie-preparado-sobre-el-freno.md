@@ -4,14 +4,14 @@ Tags: #permiso-b #seguridad-vial #conduccion-preventiva #frenado #reaccion
 
 ## Regla
 
-En una situación incierta, como una intersección en la que parece que otro vehículo puede incumplir la [[prioridad-de-paso]], colocar el pie frente al pedal de freno sin llegar a presionarlo permite reaccionar antes.
+En una situación incierta, como una intersección en la que parece que otro vehículo puede incumplir la [prioridad de paso][prioridad-de-paso], colocar el pie frente al pedal de freno sin llegar a presionarlo permite reaccionar antes.
 
 ## Efecto
 
 Al estar preparado ante el imprevisto:
 
 - Se tarda menos tiempo en reaccionar.
-- Se reduce la [[distancia-de-reaccion]].
+- Se reduce la [distancia de reacción][distancia-de-reaccion].
 - Se dispone de más distancia para detener el vehículo.
 
 ## En mis palabras

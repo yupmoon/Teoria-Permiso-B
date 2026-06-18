@@ -4,7 +4,7 @@ Tags: #permiso-b #seguridad-vial #distancia #frenado
 
 ## Regla
 
-La distancia de detención es la suma de la [[distancia-de-reaccion]] más la [[distancia-de-frenado]].
+La distancia de detención es la suma de la [distancia de reacción][distancia-de-reaccion] más la [distancia de frenado][distancia-de-frenado].
 
 ## En mis palabras
 
@@ -12,7 +12,7 @@ Desde que veo el peligro hasta que el coche se para pasan dos fases: primero rea
 
 ## Idea clave para el examen
 
-Distancia de detención = [[distancia-de-reaccion]] + [[distancia-de-frenado]].
+Distancia de detención = [distancia de reacción][distancia-de-reaccion] + [distancia de frenado][distancia-de-frenado].
 
 ## Trampa habitual
 

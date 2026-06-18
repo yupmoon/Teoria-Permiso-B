@@ -10,7 +10,7 @@ Para que exista esta exención, debe constar en la <ins>tarjeta de inspección t
 
 ## Obligación en este caso
 
-Si se aplica la exención de casco, los ocupantes están <ins>obligados a usar</ins> el [[cinturon-de-seguridad]].
+Si se aplica la exención de casco, los ocupantes están <ins>obligados a usar</ins> el [cinturón de seguridad][cinturon-de-seguridad].
 
 ## En mis palabras
 

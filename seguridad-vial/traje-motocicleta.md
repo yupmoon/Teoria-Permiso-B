@@ -4,7 +4,7 @@ Tags: #permiso-b #seguridad-vial #seguridad-pasiva #motocicleta #equipamiento
 
 ## Regla
 
-Los trajes del conductor y pasajero de una motocicleta deben ser resistentes a la abrasión, como los [[guantes-en-motocicleta]] en las manos.
+Los trajes del conductor y pasajero de una motocicleta deben ser resistentes a la abrasión, como los [guantes en motocicleta][guantes-en-motocicleta] en las manos.
 
 Deben estar fabricados con cuero o fibras sintéticas especiales, con protección en zonas específicas mediante materiales más resistentes.
 
@@ -22,9 +22,9 @@ Traje de motocicleta: resistente a la abrasión, fabricado en cuero o fibras sin
 
 ## Trampa habitual
 
-Pensar solo en el casco. En motocicleta también es importante proteger el cuerpo con ropa resistente, protecciones adecuadas y [[guantes-en-motocicleta]].
+Pensar solo en el casco. En motocicleta también es importante proteger el cuerpo con ropa resistente, protecciones adecuadas y [guantes en motocicleta][guantes-en-motocicleta].
 
-No confundir esta recomendación de equipamiento con el [[chaleco-reflectante-en-vias-interurbanas]]: los conductores de motocicletas no aparecen incluidos en esa obligación del chaleco del artículo 118.3.
+No confundir esta recomendación de equipamiento con el [chaleco reflectante en vías interurbanas][chaleco-reflectante-en-vias-interurbanas]: los conductores de motocicletas no aparecen incluidos en esa obligación del chaleco del artículo 118.3.
 
 ## Relacionado
 

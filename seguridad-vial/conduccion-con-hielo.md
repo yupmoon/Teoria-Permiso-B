@@ -22,7 +22,7 @@ Con hielo, la adherencia es <ins>prácticamente nula</ins>. Las ruedas no respon
 
 ## Distancia de frenado
 
-Con hielo, la [[distancia-de-frenado]] puede aumentar <ins>hasta 10 veces más</ins>.
+Con hielo, la [distancia de frenado][distancia-de-frenado] puede aumentar <ins>hasta 10 veces más</ins>.
 
 ## En mis palabras
 

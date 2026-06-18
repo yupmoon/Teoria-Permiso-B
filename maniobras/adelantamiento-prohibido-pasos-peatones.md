@@ -6,11 +6,11 @@ Tags: #permiso-b #maniobras #adelantamiento #peatones #prohibicion
 
 En los pasos para peatones señalizados y en sus proximidades está prohibido adelantar.
 
-Esta prohibición forma parte de las [[prohibiciones-de-adelantamiento]].
+Esta prohibición forma parte de las [prohibiciones de adelantamiento][prohibiciones-de-adelantamiento].
 
 No obstante, en un paso para peatones señalizado la prohibición no se aplica cuando el adelantamiento a cualquier vehículo se realice a una velocidad tan suficientemente reducida que permita detenerse a tiempo si surgiera peligro de atropello.
 
-Por eso, en estos lugares también está prohibido el [[cambio-de-sentido-prohibido]], salvo que esté expresamente autorizado mediante la correspondiente señal.
+Por eso, en estos lugares también está prohibido el [cambio de sentido prohibido][cambio-de-sentido-prohibido], salvo que esté expresamente autorizado mediante la correspondiente señal.
 
 ## En mis palabras
 

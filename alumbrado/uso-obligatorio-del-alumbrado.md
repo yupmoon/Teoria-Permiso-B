@@ -10,15 +10,15 @@ Todos los vehículos deberán llevar encendido el alumbrado que corresponda en e
 - <ins>A cualquier hora del día</ins> en túneles, pasos inferiores y tramos de vía afectados por la señal "Túnel".
 - <ins>A cualquier hora del día</ins> cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad.
 
-Además, hay supuestos en los que debe utilizarse la luz de cruce durante el día aunque la visibilidad sea buena, como se resume en [[luz-cruce-durante-dia]].
+Además, hay supuestos en los que debe utilizarse la luz de cruce durante el día aunque la visibilidad sea buena, como se resume en [luz de cruce durante el día][luz-cruce-durante-dia].
 
 ## En mis palabras
 
-Hay que encender las luces no solo de noche. También son obligatorias en túneles y cuando la visibilidad baja mucho por condiciones meteorológicas o ambientales. En esos entornos también puede estar prohibido el [[cambio-de-sentido-prohibido]], y si el vehículo queda detenido dentro de un túnel se aplica [[inmovilizacion-en-tunel]].
+Hay que encender las luces no solo de noche. También son obligatorias en túneles y cuando la visibilidad baja mucho por condiciones meteorológicas o ambientales. En esos entornos también puede estar prohibido el [cambio de sentido prohibido][cambio-de-sentido-prohibido], y si el vehículo queda detenido dentro de un túnel se aplica [inmovilización en túnel][inmovilizacion-en-tunel].
 
-Si hay una [[averia-alumbrado-largo-alcance]] y se circula con alumbrado de intensidad inferior, la velocidad debe permitir detenerse dentro de la zona iluminada.
+Si hay una [avería del alumbrado de largo alcance][averia-alumbrado-largo-alcance] y se circula con alumbrado de intensidad inferior, la velocidad debe permitir detenerse dentro de la zona iluminada.
 
-En condiciones de visibilidad reducida, puede utilizarse la [[luz-antiniebla-delantera]] en los supuestos permitidos.
+En condiciones de visibilidad reducida, puede utilizarse la [luz antiniebla delantera][luz-antiniebla-delantera] en los supuestos permitidos.
 
 ## Idea clave para el examen
 

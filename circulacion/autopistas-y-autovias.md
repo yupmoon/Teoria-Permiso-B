@@ -10,11 +10,11 @@ Las autopistas y autovías son vías de alta capacidad donde algunas maniobras t
 
 Cuando una pregunta menciona autopista o autovía, conviene revisar si la maniobra está prohibida o solo permitida en lugares habilitados. Suelen aparecer como trampa en cambio de sentido, marcha atrás, incorporaciones y salidas.
 
-También hay que revisar qué vehículos tienen prohibida la circulación en estas vías; ver [[autopistas-autovias-vehiculos-prohibidos]].
+También hay que revisar qué vehículos tienen prohibida la circulación en estas vías; ver [vehículos prohibidos en autopistas y autovías][autopistas-autovias-vehiculos-prohibidos].
 
 ## Idea clave para el examen
 
-En autopistas y autovías: [[marcha-atras]] <ins>prohibida</ins>; [[cambio-de-sentido-prohibido]] salvo lugares habilitados; incorporación por [[incorporacion-carril-aceleracion]] con observación desde el principio del carril; atención a [[autopistas-autovias-vehiculos-prohibidos]].
+En autopistas y autovías: [marcha atrás][marcha-atras] <ins>prohibida</ins>; [cambio de sentido prohibido][cambio-de-sentido-prohibido] salvo lugares habilitados; incorporación por [incorporación por carril de aceleración][incorporacion-carril-aceleracion] con observación desde el principio del carril; atención a [vehículos prohibidos en autopistas y autovías][autopistas-autovias-vehiculos-prohibidos].
 
 ## Relacionado
 

@@ -26,11 +26,11 @@ En ese caso, solo podrán sobrepasarla quienes circulen por dicho carril para ab
 
 ## Diferencia con línea de borde
 
-No debe confundirse con la [[linea-borde-calzada]]. La línea de borde delimita la calzada y no tiene el significado general de una marca longitudinal continua.
+No debe confundirse con la [línea de borde de calzada][linea-borde-calzada]. La línea de borde delimita la calzada y no tiene el significado general de una marca longitudinal continua.
 
 ## Excepciones
 
-Aunque la regla general impide atravesar una línea continua, existen casos excepcionales regulados, como [[adelantar-usuarios-vulnerables-linea-continua]], siempre que se cumplan las condiciones de seguridad.
+Aunque la regla general impide atravesar una línea continua, existen casos excepcionales regulados, como [adelantar usuarios vulnerables con línea continua][adelantar-usuarios-vulnerables-linea-continua], siempre que se cumplan las condiciones de seguridad.
 
 ## En mis palabras
 

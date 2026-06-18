@@ -8,7 +8,7 @@ La cámara de marcha atrás, la cámara 360 grados y los sensores de aparcamient
 
 ## En mis palabras
 
-Son ayudas para maniobrar y aparcar, especialmente al circular [[marcha-atras]] o controlar el entorno del vehículo.
+Son ayudas para maniobrar y aparcar, especialmente al circular [marcha atrás][marcha-atras] o controlar el entorno del vehículo.
 
 ## Idea clave para el examen
 

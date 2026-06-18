@@ -27,7 +27,7 @@ La señal puede incluir:
 
 ## En mis palabras
 
-Se puede estacionar, pero no libremente: hay límite de tiempo y puede haber obligación de colocar ticket, tarjeta u otro justificante visible junto al parabrisas. Si no se coloca el distintivo autorizado o se supera el tiempo máximo, entra en las [[prohibiciones-de-estacionamiento]]. Si el estacionamiento bloquea o molesta gravemente al tráfico, conecta con [[estacionamiento-perturba-gravemente-circulacion]].
+Se puede estacionar, pero no libremente: hay límite de tiempo y puede haber obligación de colocar ticket, tarjeta u otro justificante visible junto al parabrisas. Si no se coloca el distintivo autorizado o se supera el tiempo máximo, entra en las [prohibiciones de estacionamiento][prohibiciones-de-estacionamiento]. Si el estacionamiento bloquea o molesta gravemente al tráfico, conecta con [estacionamiento que perturba gravemente la circulación][estacionamiento-perturba-gravemente-circulacion].
 
 ## Idea clave para el examen
 
@@ -35,7 +35,7 @@ Zona de estacionamiento limitado = justificante visible junto al parabrisas, <in
 
 ## Trampa habitual
 
-Confundirla con [[estacionamiento-prohibido]]. En la zona limitada se permite estacionar si se cumplen las condiciones; pasada la hora de finalización, el estacionamiento pasa a considerarse prohibido.
+Confundirla con [estacionamiento prohibido][estacionamiento-prohibido]. En la zona limitada se permite estacionar si se cumplen las condiciones; pasada la hora de finalización, el estacionamiento pasa a considerarse prohibido.
 
 ## Relacionado
 

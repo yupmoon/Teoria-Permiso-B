@@ -13,7 +13,7 @@ Con el permiso B se pueden conducir:
 
 ## En mis palabras
 
-El permiso B no se limita a turismos. También permite conducir ciclomotores, cuatriciclos ligeros y vehículos para personas de movilidad reducida. Algunos de estos usuarios pueden circular por el arcén, por eso se relacionan con [[parada-estacionamiento-arcen]].
+El permiso B no se limita a turismos. También permite conducir ciclomotores, cuatriciclos ligeros y vehículos para personas de movilidad reducida. Algunos de estos usuarios pueden circular por el arcén, por eso se relacionan con [parada y estacionamiento en el arcén][parada-estacionamiento-arcen].
 
 ## Idea clave para el examen
 

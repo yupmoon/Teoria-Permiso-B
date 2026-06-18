@@ -10,11 +10,11 @@ La distancia de reacción es la distancia que recorre el vehículo desde que el 
 
 Es el espacio que el vehículo sigue recorriendo mientras el conductor se da cuenta del peligro y empieza a actuar.
 
-Una forma de reducirla en situaciones inciertas es llevar el [[pie-preparado-sobre-el-freno]] sin llegar a presionarlo.
+Una forma de reducirla en situaciones inciertas es llevar el [pie preparado sobre el freno][pie-preparado-sobre-el-freno] sin llegar a presionarlo.
 
 ## Idea clave para el examen
 
-La distancia de reacción ocurre antes de frenar. Forma parte de la [[distancia-de-detencion]].
+La distancia de reacción ocurre antes de frenar. Forma parte de la [distancia de detención][distancia-de-detencion].
 
 ## Trampa habitual
 

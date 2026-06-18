@@ -17,7 +17,7 @@ Si fuera necesario frenar la marcha del vehículo de modo considerable, deberá 
 
 ## En mis palabras
 
-Si no puedo usar los intermitentes, el brazo izquierdo sustituye la señal luminosa. Horizontal indica izquierda; doblado hacia arriba indica derecha; movimiento corto de arriba abajo indica reducir velocidad o detenerse. Si la frenada es considerable, también se puede advertir con luces de frenado reiteradas. No debe confundirse con las [[senales-de-agentes]], donde el brazo lo usa un agente para ordenar la circulación.
+Si no puedo usar los intermitentes, el brazo izquierdo sustituye la señal luminosa. Horizontal indica izquierda; doblado hacia arriba indica derecha; movimiento corto de arriba abajo indica reducir velocidad o detenerse. Si la frenada es considerable, también se puede advertir con luces de frenado reiteradas. No debe confundirse con las [señales de agentes][senales-de-agentes], donde el brazo lo usa un agente para ordenar la circulación.
 
 ## Idea clave para el examen
 
@@ -25,7 +25,7 @@ Sin intermitentes: izquierda = <ins>brazo izquierdo horizontal y palma hacia aba
 
 ## Trampa habitual
 
-Confundir la señal manual de girar a la derecha con sacar el brazo derecho. La norma usa el brazo izquierdo doblado hacia arriba. Otra trampa es confundir estas señales del conductor con [[agente-brazo-extendido-arriba-abajo]].
+Confundir la señal manual de girar a la derecha con sacar el brazo derecho. La norma usa el brazo izquierdo doblado hacia arriba. Otra trampa es confundir estas señales del conductor con [agente con brazo extendido de arriba abajo][agente-brazo-extendido-arriba-abajo].
 
 ## Relacionado
 

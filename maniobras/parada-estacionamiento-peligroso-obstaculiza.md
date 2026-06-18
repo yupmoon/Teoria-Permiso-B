@@ -11,11 +11,11 @@ La parada y el estacionamiento deben hacerse de forma que el vehículo:
 - Quede bien colocado.
 - No pueda ponerse en movimiento en ausencia del conductor.
 
-Esta regla se conecta con [[parada-estacionamiento-arcen]] porque la posición cambia según sea vía urbana o interurbana.
+Esta regla se conecta con [parada y estacionamiento en el arcén][parada-estacionamiento-arcen] porque la posición cambia según sea vía urbana o interurbana.
 
-Si el vehículo queda en una pendiente sensible y es de más de 3.500 kg de MMA, autobús o conjunto de vehículos, se aplica [[calzos-en-parada-estacionamiento-pendiente]].
+Si el vehículo queda en una pendiente sensible y es de más de 3.500 kg de MMA, autobús o conjunto de vehículos, se aplica [calzos en parada o estacionamiento con pendiente][calzos-en-parada-estacionamiento-pendiente].
 
-Para carga y descarga, definición de parada y parada en doble fila, ver [[carga-descarga-y-parada-doble-fila]].
+Para carga y descarga, definición de parada y parada en doble fila, ver [carga y descarga y parada en doble fila][carga-descarga-y-parada-doble-fila].
 
 ## Parada o estacionamiento peligrosos
 
@@ -28,7 +28,7 @@ Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculiza
 - La distancia entre el vehículo y el borde opuesto de la calzada, o una marca longitudinal que prohíba atravesarla, sea <ins>inferior a 3 metros</ins>.
 - No se permita el paso de otros vehículos.
 - Se impida incorporarse a la circulación a otro vehículo debidamente parado o estacionado.
-- Se obstaculice la salida o acceso a un inmueble de vehículos, personas o animales, en un [[vado]] correctamente señalizado.
+- Se obstaculice la salida o acceso a un inmueble de vehículos, personas o animales, en un [vado][vado] correctamente señalizado.
 - Se obstaculice la utilización normal de pasos rebajados para personas con discapacidad.
 - Se efectúe en medianas, separadores, isletas u otros elementos de canalización del tráfico.
 - Se impida el giro autorizado por la señal correspondiente.
@@ -38,7 +38,7 @@ Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculiza
 
 Se consideran estacionamientos, no paradas, en lugares peligrosos o que obstaculizan gravemente la circulación cuando el estacionamiento se efectúa:
 
-- En una zona reservada a [[carga-y-descarga]] durante sus horas de utilización.
+- En una zona reservada a [carga y descarga][carga-y-descarga] durante sus horas de utilización.
 - En doble fila <ins>sin conductor</ins>.
 - En una parada de transporte público señalizada y delimitada.
 - En espacios expresamente reservados a servicios de urgencia y seguridad.

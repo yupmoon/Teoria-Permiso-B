@@ -16,7 +16,7 @@ Si el conductor pretende girar a la derecha, debe hacer caso al <ins>semáforo d
 
 ## En mis palabras
 
-Cuando hay semáforos diferentes a ambos lados, no se elige cualquiera: se mira el que corresponde a la maniobra. Izquierda o frente: semáforo izquierdo. Derecha: semáforo derecho. Si la maniobra es un giro, también debe respetarse la regla de [[cambio-direccion-izquierda-visibilidad]].
+Cuando hay semáforos diferentes a ambos lados, no se elige cualquiera: se mira el que corresponde a la maniobra. Izquierda o frente: semáforo izquierdo. Derecha: semáforo derecho. Si la maniobra es un giro, también debe respetarse la regla de [cambio de dirección a la izquierda y visibilidad][cambio-direccion-izquierda-visibilidad].
 
 ## Idea clave para el examen
 

@@ -11,8 +11,8 @@ Esta línea <ins>no tiene el significado de una marca blanca longitudinal</ins>.
 Puede ser atravesada por varios motivos, por ejemplo:
 
 - Entrar en una propiedad.
-- Parar por emergencia en el [[automoviles-circulacion-arcen]].
-- Estacionar fuera de la zona transitable del [[parada-estacionamiento-arcen]].
+- Parar por emergencia en el [automóviles y circulación por el arcén][automoviles-circulacion-arcen].
+- Estacionar fuera de la zona transitable del [parada y estacionamiento en el arcén][parada-estacionamiento-arcen].
 
 ## En mis palabras
 
@@ -26,7 +26,7 @@ Línea de borde de calzada = delimita el borde. <ins>No funciona como una marca 
 
 Pensar que por ser una línea blanca continua nunca puede atravesarse. La clave es identificar que es línea de borde de calzada.
 
-La comparación importante es con [[linea-longitudinal-continua]], que sí prohíbe atravesarla o circular sobre ella como regla general.
+La comparación importante es con [línea longitudinal continua][linea-longitudinal-continua], que sí prohíbe atravesarla o circular sobre ella como regla general.
 
 ## Relacionado
 

@@ -10,7 +10,7 @@ En un tramo de vía muy estrecho en el que no exista señalización de prioridad
 
 Si hay duda sobre quién ha entrado primero, tendrá preferencia <ins>el vehículo con mayores dificultades de maniobra</ins>.
 
-Cuando uno de los vehículos tenga que dar marcha atrás, se aplica el [[orden-preferencia-pasos-estrechos]].
+Cuando uno de los vehículos tenga que dar marcha atrás, se aplica el [orden de preferencia en pasos estrechos][orden-preferencia-pasos-estrechos].
 
 ## En mis palabras
 

@@ -12,11 +12,11 @@ El BOE menciona expresamente:
 - <ins>Ciclos</ins>.
 - <ins>Ciclomotores</ins>.
 
-Esta lista no agota todos los prohibidos: la regla principal es que sólo pueden circular los vehículos incluidos en [[carril-bus-vao-vehiculos-permitidos]] o en alguna excepción aplicable al tramo.
+Esta lista no agota todos los prohibidos: la regla principal es que sólo pueden circular los vehículos incluidos en [vehículos permitidos en el carril BUS-VAO][carril-bus-vao-vehiculos-permitidos] o en alguna excepción aplicable al tramo.
 
 ## En mis palabras
 
-Aunque un turismo pueda estar permitido en algunos casos, un [turismo con remolque][permiso-b-remolques] cuenta como conjunto de vehículos y no entra en la autorización general del [[carril-bus-vao]].
+Aunque un turismo pueda estar permitido en algunos casos, un [turismo con remolque][permiso-b-remolques] cuenta como conjunto de vehículos y no entra en la autorización general del [carril BUS-VAO][carril-bus-vao].
 
 ## Idea clave para el examen
 
@@ -30,7 +30,7 @@ Otra trampa: pensar que una motocicleta y un ciclomotor reciben el mismo trato. 
 
 ## Nota
 
-El permiso B puede autorizar algunos ciclomotores en otros contextos: [[permiso-b-ciclomotores-y-movilidad-reducida]]. Esa autorización no cambia la regla específica del [[carril-bus-vao]].
+El permiso B puede autorizar algunos ciclomotores en otros contextos: [ciclomotores y movilidad reducida del permiso B][permiso-b-ciclomotores-y-movilidad-reducida]. Esa autorización no cambia la regla específica del [carril BUS-VAO][carril-bus-vao].
 
 ## Relacionado
 

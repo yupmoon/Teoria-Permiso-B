@@ -10,7 +10,7 @@ Si se prevé que la inmovilización va a ser prolongada, con tiempo <ins>superio
 
 ## Señal de emergencia
 
-También se debe conectar la [[senal-de-emergencia]]:
+También se debe conectar la [señal de emergencia][senal-de-emergencia]:
 
 - <ins>Momentáneamente</ins>, si la detención es por aglomeración.
 - <ins>Mantenerla encendida</ins>, si la detención es por emergencia.
@@ -30,7 +30,7 @@ En caso de incendio dentro de un túnel, el conductor debe:
 
 Dentro de un túnel, si me quedo detenido, lo importante es ser visible y no mantener el motor encendido si la parada será larga. La señal de emergencia no se usa igual en todos los casos: por retención o aglomeración se conecta momentáneamente; por emergencia se mantiene encendida. Si hay incendio, la prioridad cambia a apartar el vehículo, no bloquear emergencias y evacuar en sentido contrario al fuego.
 
-Si el vehículo no está inmovilizado y se circula dentro del túnel, debe respetarse la [[distancia-seguridad-en-tuneles]].
+Si el vehículo no está inmovilizado y se circula dentro del túnel, debe respetarse la [distancia de seguridad en túneles][distancia-seguridad-en-tuneles].
 
 ## Idea clave para el examen
 

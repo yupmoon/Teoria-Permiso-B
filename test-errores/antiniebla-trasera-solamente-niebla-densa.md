@@ -16,9 +16,9 @@ La luz antiniebla delantera y la luz de largo alcance.
 
 ## Por qué
 
-La pregunta pregunta por las <ins>luces antiniebla</ins> obligatorias. En niebla densa, la obligatoria para un turismo es la [[luz-antiniebla-trasera]].
+La pregunta pregunta por las <ins>luces antiniebla</ins> obligatorias. En niebla densa, la obligatoria para un turismo es la [luz antiniebla trasera][luz-antiniebla-trasera].
 
-La [[luz-antiniebla-delantera]] puede utilizarse si está instalada, pero no es obligatoria.
+La [luz antiniebla delantera][luz-antiniebla-delantera] puede utilizarse si está instalada, pero no es obligatoria.
 
 ## Confusión a revisar
 

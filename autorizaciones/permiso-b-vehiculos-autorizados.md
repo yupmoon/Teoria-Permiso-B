@@ -24,7 +24,7 @@ Los automóviles autorizados por el permiso B pueden llevar:
 
 - Remolque o semirremolque que <ins>no supere 750 kg de MMA</ins>.
 - Remolque o semirremolque que <ins>supere 750 kg</ins> si el conjunto <ins>no supera 3.500 kg de MMA</ins>.
-- Remolque o semirremolque de <ins>más de 750 kg</ins> si el conjunto <ins>supera 3.500 kg y no sobrepasa 4.250 kg</ins>, siendo necesario superar una prueba de control de aptitudes y comportamientos; ver [[autorizacion-b96]].
+- Remolque o semirremolque de <ins>más de 750 kg</ins> si el conjunto <ins>supera 3.500 kg y no sobrepasa 4.250 kg</ins>, siendo necesario superar una prueba de control de aptitudes y comportamientos; ver [autorización B96][autorizacion-b96].
 
 ## Mercancías con combustibles alternativos
 

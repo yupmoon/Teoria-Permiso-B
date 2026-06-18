@@ -4,7 +4,7 @@ Tags: #permiso-b #circulacion #velocidad #poblado
 
 ## Regla fuera de poblado
 
-Fuera de poblado, al acercarse a vehículos inmovilizados en la calzada, los conductores deben circular a [[velocidad-moderada-segun-circunstancias]] y, si fuera preciso, detenerse. Si el vehículo inmovilizado supone una emergencia, debe señalizarse con [[senal-de-emergencia]]. En túneles se aplica además [[inmovilizacion-en-tunel]].
+Fuera de poblado, al acercarse a vehículos inmovilizados en la calzada, los conductores deben circular a [velocidad moderada según las circunstancias][velocidad-moderada-segun-circunstancias] y, si fuera preciso, detenerse. Si el vehículo inmovilizado supone una emergencia, debe señalizarse con [señal de emergencia][senal-de-emergencia]. En túneles se aplica además [inmovilización en túnel][inmovilizacion-en-tunel].
 
 Fuera de poblado, todo vehículo que por cualquier circunstancia se encuentre inmovilizado en la calzada o arcén de una vía, entre la puesta y la salida del sol o bajo condiciones atmosféricas que disminuyan la visibilidad, deberá tener encendidas:
 
@@ -19,7 +19,7 @@ Sí se debe reducir la velocidad si se percibe una situación peligrosa, por eje
 
 ## En mis palabras
 
-Fuera de poblado, un vehículo inmovilizado en la calzada es una situación de riesgo clara. Si además es de noche o hay baja visibilidad, debe hacerse visible con luces de posición y, si corresponde, gálibo. Dentro de poblado, los coches estacionados son normales, pero hay que reaccionar si aparece un peligro concreto. Esta regla se relaciona con [[adelantar-usuarios-vulnerables-linea-continua]] cuando se trata de obstáculos o vehículos inmovilizados ajenos a la circulación.
+Fuera de poblado, un vehículo inmovilizado en la calzada es una situación de riesgo clara. Si además es de noche o hay baja visibilidad, debe hacerse visible con luces de posición y, si corresponde, gálibo. Dentro de poblado, los coches estacionados son normales, pero hay que reaccionar si aparece un peligro concreto. Esta regla se relaciona con [adelantar usuarios vulnerables con línea continua][adelantar-usuarios-vulnerables-linea-continua] cuando se trata de obstáculos o vehículos inmovilizados ajenos a la circulación.
 
 ## Idea clave para el examen
 

@@ -6,7 +6,7 @@ Tags: #permiso-b #vehiculo #distintivos-ambientales #emisiones #zbe
 
 Los distintivos ambientales clasifican los vehículos según su impacto ambiental y su nivel de emisiones contaminantes.
 
-Sirven para identificar rápidamente qué vehículos son menos contaminantes y pueden afectar a restricciones o autorizaciones de circulación, como ocurre con el [[carril-bus-vao-distintivos-ambientales]] cuando la señalización lo permite.
+Sirven para identificar rápidamente qué vehículos son menos contaminantes y pueden afectar a restricciones o autorizaciones de circulación, como ocurre con el [distintivos ambientales en el carril BUS-VAO][carril-bus-vao-distintivos-ambientales] cuando la señalización lo permite.
 
 ## Clasificación
 
@@ -36,7 +36,7 @@ Distintivos ambientales: <ins>0 emisiones, ECO, C y B</ins>. Tener distintivo no
 
 ## Trampa habitual
 
-Pensar que ECO significa cero emisiones. No: ECO incluye híbridos y vehículos a gas que pueden emitir contaminantes. También es trampa pensar que una etiqueta ambiental autoriza automáticamente el [[carril-bus-vao]].
+Pensar que ECO significa cero emisiones. No: ECO incluye híbridos y vehículos a gas que pueden emitir contaminantes. También es trampa pensar que una etiqueta ambiental autoriza automáticamente el [carril BUS-VAO][carril-bus-vao].
 
 ## Relacionado
 

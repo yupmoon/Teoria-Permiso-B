@@ -33,7 +33,7 @@ Agentes/personas habilitadas que regulan tráfico o paso de vehículos: prendas 
 
 Pensar que solo afecta a agentes de tráfico. También puede afectar al personal de obras y a otros colectivos habilitados cuando regulen el paso.
 
-Otra trampa es mezclar este <ins>150 metros</ins> con la [[distancia-seguridad-en-tuneles]]: aquí se trata de distancia de visibilidad de personas; en túneles se trata de distancia de seguridad con el vehículo precedente.
+Otra trampa es mezclar este <ins>150 metros</ins> con la [distancia de seguridad en túneles][distancia-seguridad-en-tuneles]: aquí se trata de distancia de visibilidad de personas; en túneles se trata de distancia de seguridad con el vehículo precedente.
 
 ## Relacionado
 

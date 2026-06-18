@@ -28,7 +28,7 @@ No mezclar metros de contextos distintos:
 
 ## Trampa habitual
 
-Aplicar los 50 m en autopistas/autovías o vías con varios carriles por sentido. En esos casos, según [[distancia-entre-vehiculos]], puede bastar con la distancia necesaria para no colisionar.
+Aplicar los 50 m en autopistas/autovías o vías con varios carriles por sentido. En esos casos, según [distancia entre vehículos][distancia-entre-vehiculos], puede bastar con la distancia necesaria para no colisionar.
 
 ## Relacionado
 

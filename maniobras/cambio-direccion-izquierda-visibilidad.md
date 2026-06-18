@@ -20,7 +20,7 @@ En calzadas de <ins>doble sentido de circulación y 3 carriles</ins>, el vehícu
 
 ## En mis palabras
 
-Para girar a la izquierda no basta con que no haya una señal de prohibición. Si no puedo ver bien si viene alguien de frente, no debo hacer la maniobra porque puedo invadir el sentido contrario y crear peligro. Además, si quiero tomar una nueva vía girando a la izquierda, debo dejar pasar a los vehículos que vienen de frente, salvo señalización en contra. La colocación cambia según la calzada: borde izquierdo de la calzada en un solo sentido, sin invadir zonas excluidas o reservadas; junto a la línea de separación o eje de la calzada en doble sentido; carril central si es doble sentido con 3 carriles. Si no funcionan los intermitentes, la intención de girar se puede indicar con [[senales-con-el-brazo]].
+Para girar a la izquierda no basta con que no haya una señal de prohibición. Si no puedo ver bien si viene alguien de frente, no debo hacer la maniobra porque puedo invadir el sentido contrario y crear peligro. Además, si quiero tomar una nueva vía girando a la izquierda, debo dejar pasar a los vehículos que vienen de frente, salvo señalización en contra. La colocación cambia según la calzada: borde izquierdo de la calzada en un solo sentido, sin invadir zonas excluidas o reservadas; junto a la línea de separación o eje de la calzada en doble sentido; carril central si es doble sentido con 3 carriles. Si no funcionan los intermitentes, la intención de girar se puede indicar con [señales con el brazo][senales-con-el-brazo].
 
 ## Idea clave para el examen
 

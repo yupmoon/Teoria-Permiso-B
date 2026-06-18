@@ -10,7 +10,7 @@ La señal de vado indica estacionamiento prohibido en el acceso señalado.
 
 ## En mis palabras
 
-El vado protege una entrada o salida de vehículos. No se debe estacionar delante de un vado correctamente señalizado; forma parte de las [[prohibiciones-de-estacionamiento]] y puede convertirse en un caso de [[estacionamiento-perturba-gravemente-circulacion]].
+El vado protege una entrada o salida de vehículos. No se debe estacionar delante de un vado correctamente señalizado; forma parte de las [prohibiciones de estacionamiento][prohibiciones-de-estacionamiento] y puede convertirse en un caso de [estacionamiento que perturba gravemente la circulación][estacionamiento-perturba-gravemente-circulacion].
 
 ## Idea clave para el examen
 

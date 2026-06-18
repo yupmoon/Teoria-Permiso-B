@@ -4,7 +4,7 @@ Tags: #permiso-b #maniobras #estacionamiento #circulacion #prohibicion
 
 ## Regla
 
-Un estacionamiento perturba gravemente la circulación en varios supuestos. La lista completa de parada y estacionamiento peligrosos está en [[parada-estacionamiento-peligroso-obstaculiza]].
+Un estacionamiento perturba gravemente la circulación en varios supuestos. La lista completa de parada y estacionamiento peligrosos está en [parada y estacionamiento en lugares peligrosos u obstaculizando][parada-estacionamiento-peligroso-obstaculiza].
 
 - En zona de carga y descarga durante sus horas de utilización.
 - En doble fila <ins>sin la presencia del conductor</ins>.
@@ -17,7 +17,7 @@ Un estacionamiento perturba gravemente la circulación en varios supuestos. La l
 
 ## En mis palabras
 
-No se trata solo de si está permitido estacionar por señal. También hay [[prohibiciones-de-estacionamiento]] generales y estacionamientos que son especialmente graves porque bloquean la circulación, ocupan zonas de organización del tráfico o dejan demasiado poco espacio para pasar. En vías interurbanas, estacionar en el arcén transitable puede entorpecer a los usuarios que deben circular por él; ver [[parada-estacionamiento-arcen]].
+No se trata solo de si está permitido estacionar por señal. También hay [prohibiciones de estacionamiento][prohibiciones-de-estacionamiento] generales y estacionamientos que son especialmente graves porque bloquean la circulación, ocupan zonas de organización del tráfico o dejan demasiado poco espacio para pasar. En vías interurbanas, estacionar en el arcén transitable puede entorpecer a los usuarios que deben circular por él; ver [parada y estacionamiento en el arcén][parada-estacionamiento-arcen].
 
 ## Idea clave para el examen
 

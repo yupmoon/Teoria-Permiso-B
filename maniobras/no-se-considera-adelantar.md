@@ -13,20 +13,20 @@ No se considera adelantar sobrepasar a un vehículo en estos casos:
 
 No se considera adelantamiento sobrepasar a un vehículo que circula por:
 
-- [[incorporacion-carril-aceleracion]].
+- [incorporación por carril de aceleración][incorporacion-carril-aceleracion].
 - Carril de deceleración.
 - Carril bus.
 - Carril de giro.
 
 ## En mis palabras
 
-No todo sobrepaso es un adelantamiento. Si el tráfico va muy denso y cada carril avanza a su ritmo, o si los vehículos van por carriles con funciones distintas, como un [[incorporacion-carril-aceleracion]], no se aplica como un adelantamiento normal.
+No todo sobrepaso es un adelantamiento. Si el tráfico va muy denso y cada carril avanza a su ritmo, o si los vehículos van por carriles con funciones distintas, como un [incorporación por carril de aceleración][incorporacion-carril-aceleracion], no se aplica como un adelantamiento normal.
 
 ## Idea clave para el examen
 
-Sobrepasar no siempre equivale a adelantar. Hay situaciones en las que la vía o la densidad del tráfico hacen que el sobrepaso no se considere adelantamiento. Otra regla distinta es la de [[adelantamiento-vehiculos-obligados-arcen]], donde sí se habla de adelantar, pero con límites de marcha en paralelo.
+Sobrepasar no siempre equivale a adelantar. Hay situaciones en las que la vía o la densidad del tráfico hacen que el sobrepaso no se considere adelantamiento. Otra regla distinta es la de [adelantamiento de vehículos obligados a circular por el arcén][adelantamiento-vehiculos-obligados-arcen], donde sí se habla de adelantar, pero con límites de marcha en paralelo.
 
-También debe distinguirse el [[rebasamiento-obstaculo-vehiculo-inmovilizado]]: sobrepasar un obstáculo o un vehículo inmovilizado por razones ajenas al tráfico no se considera adelantamiento.
+También debe distinguirse el [rebasamiento de obstáculo o vehículo inmovilizado][rebasamiento-obstaculo-vehiculo-inmovilizado]: sobrepasar un obstáculo o un vehículo inmovilizado por razones ajenas al tráfico no se considera adelantamiento.
 
 ## Trampa habitual
 

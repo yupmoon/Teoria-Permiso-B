@@ -4,21 +4,21 @@ Tags: #permiso-b #vehiculo #seguridad-vial #adas #rcta
 
 ## Regla
 
-El sistema RCTA, o alerta de tráfico cruzado, es un [[sistemas-adas]] que supervisa el tráfico trasero en sentido transversal al salir marcha atrás de un hueco de aparcamiento en batería.
+El sistema RCTA, o alerta de tráfico cruzado, es un [sistemas ADAS][sistemas-adas] que supervisa el tráfico trasero en sentido transversal al salir marcha atrás de un hueco de aparcamiento en batería.
 
 Si detecta un vehículo aproximándose, emite un aviso sonoro y/o visual.
 
 ## Intervención en los frenos
 
-Algunos fabricantes, si el conductor no reacciona ante el aviso, pueden llegar a intervenir en los frenos con la máxima fuerza en caso de colisión inminente, de forma parecida a la lógica de [[aebs-frenado-emergencia]], siempre que se circule a una velocidad <ins>inferior a 15 km/h</ins>.
+Algunos fabricantes, si el conductor no reacciona ante el aviso, pueden llegar a intervenir en los frenos con la máxima fuerza en caso de colisión inminente, de forma parecida a la lógica de [AEBS: frenado de emergencia][aebs-frenado-emergencia], siempre que se circule a una velocidad <ins>inferior a 15 km/h</ins>.
 
 ## En mis palabras
 
-El RCTA ayuda cuando salgo [[marcha-atras]] de un aparcamiento en batería y no veo bien los vehículos que vienen por detrás en sentido transversal. Primero avisa; en algunos sistemas más avanzados puede llegar a frenar si el conductor no reacciona. Se relaciona con [[camara-marcha-atras-sensores-aparcamiento]] porque ambos ayudan en maniobras marcha atrás.
+El RCTA ayuda cuando salgo [marcha atrás][marcha-atras] de un aparcamiento en batería y no veo bien los vehículos que vienen por detrás en sentido transversal. Primero avisa; en algunos sistemas más avanzados puede llegar a frenar si el conductor no reacciona. Se relaciona con [cámara de marcha atrás y sensores de aparcamiento][camara-marcha-atras-sensores-aparcamiento] porque ambos ayudan en maniobras marcha atrás.
 
 ## Idea clave para el examen
 
-El RCTA es un [[sistemas-adas]] que avisa al conductor de tráfico cruzado al maniobrar marcha atrás. Algunos sistemas pueden intervenir en los frenos a baja velocidad.
+El RCTA es un [sistemas ADAS][sistemas-adas] que avisa al conductor de tráfico cruzado al maniobrar marcha atrás. Algunos sistemas pueden intervenir en los frenos a baja velocidad.
 
 ## Trampa habitual
 

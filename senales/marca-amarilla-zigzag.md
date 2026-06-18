@@ -19,7 +19,7 @@ Generalmente se utiliza en:
 
 La idea importante es que la marca prohíbe el <ins>estacionamiento</ins>, no necesariamente toda parada.
 
-Por eso se relaciona con [[carga-descarga-y-parada-doble-fila]] y [[prohibiciones-de-estacionamiento]]: puede haber un uso reservado de corta duración, pero no estacionamiento libre.
+Por eso se relaciona con [carga y descarga y parada en doble fila][carga-descarga-y-parada-doble-fila] y [prohibiciones de estacionamiento][prohibiciones-de-estacionamiento]: puede haber un uso reservado de corta duración, pero no estacionamiento libre.
 
 ## En mis palabras
 

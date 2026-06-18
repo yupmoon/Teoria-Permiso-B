@@ -6,7 +6,7 @@ Tags: #permiso-b #circulacion #incorporacion #carril-aceleracion #autopistas #au
 
 El conductor que pretenda utilizar un carril de aceleración para incorporarse a una autopista, autovía o cualquier otra vía debe observar el tráfico.
 
-Esta regla aparece con frecuencia junto a [[autopistas-y-autovias]], porque en estas vías la incorporación debe hacerse sin obligar a los vehículos que ya circulan por la calzada a frenar o desviarse.
+Esta regla aparece con frecuencia junto a [autopistas y autovías][autopistas-y-autovias], porque en estas vías la incorporación debe hacerse sin obligar a los vehículos que ya circulan por la calzada a frenar o desviarse.
 
 Debe cerciorarse, <ins>al principio del carril de aceleración</ins>, de que puede incorporarse <ins>sin peligro</ins> para los demás conductores y usuarios que transiten por la calzada.
 

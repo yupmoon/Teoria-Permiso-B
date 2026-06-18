@@ -10,8 +10,8 @@ Algunas señales obligan a detener el vehículo. Una señal luminosa de precauci
 
 - Señal de stop.
 - Semáforo rojo.
-- [[agente-brazo-o-brazos-extendidos]].
-- [[agente-brazo-levantado-verticalmente]].
+- [agente con brazo o brazos extendidos][agente-brazo-o-brazos-extendidos].
+- [agente con brazo levantado verticalmente][agente-brazo-levantado-verticalmente].
 
 ## Relacionado
 

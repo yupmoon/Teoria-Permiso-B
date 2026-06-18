@@ -4,7 +4,7 @@ Tags: #permiso-b #maniobras #cambio-de-sentido #visibilidad #tuneles
 
 ## Regla general
 
-Realizar un cambio de sentido está prohibido en toda situación que impida comprobar que no vamos a <ins>poner en peligro u obstaculizar</ins> a otros usuarios de la vía. La forma correcta de realizarlo se recoge en [[cambio-sentido-maniobra]].
+Realizar un cambio de sentido está prohibido en toda situación que impida comprobar que no vamos a <ins>poner en peligro u obstaculizar</ins> a otros usuarios de la vía. La forma correcta de realizarlo se recoge en [realización del cambio de sentido][cambio-sentido-maniobra].
 
 Ejemplos:
 
@@ -13,18 +13,18 @@ Ejemplos:
 - <ins>Niebla</ins>.
 - <ins>Lluvia intensa</ins>.
 
-Esta regla se relaciona con [[velocidad-moderada-segun-circunstancias]] porque ambas dependen de adaptar la conducción a la visibilidad y al riesgo real.
+Esta regla se relaciona con [velocidad moderada según las circunstancias][velocidad-moderada-segun-circunstancias] porque ambas dependen de adaptar la conducción a la visibilidad y al riesgo real.
 
 ## Prohibiciones concretas
 
 También está prohibido el cambio de sentido en:
 
 - Pasos a nivel, pero <ins>no está prohibido en sus proximidades</ins>.
-- [[uso-obligatorio-del-alumbrado]], pasos inferiores y tramos de vía afectados por la señal "Túnel".
-- [[autopistas-y-autovias]], <ins>salvo en los lugares habilitados</ins>.
+- [uso obligatorio del alumbrado][uso-obligatorio-del-alumbrado], pasos inferiores y tramos de vía afectados por la señal "Túnel".
+- [autopistas y autovías][autopistas-y-autovias], <ins>salvo en los lugares habilitados</ins>.
 - Calzadas y tramos de vía de sentido único.
-- Todos los tramos de la vía en que esté prohibido el adelantamiento, según [[prohibiciones-de-adelantamiento]], <ins>salvo que el cambio de sentido esté expresamente autorizado</ins>.
-- [[adelantamiento-prohibido-pasos-peatones]], porque en los pasos para peatones señalizados y sus proximidades está prohibido adelantar.
+- Todos los tramos de la vía en que esté prohibido el adelantamiento, según [prohibiciones de adelantamiento][prohibiciones-de-adelantamiento], <ins>salvo que el cambio de sentido esté expresamente autorizado</ins>.
+- [adelantamiento prohibido en pasos para peatones][adelantamiento-prohibido-pasos-peatones], porque en los pasos para peatones señalizados y sus proximidades está prohibido adelantar.
 
 En las intersecciones y proximidades está prohibido adelantar salvo que se disponga de prioridad y esté debidamente señalizada. Si la prioridad está señalizada, por ejemplo mediante semáforo con luz verde, se podrá adelantar o cambiar el sentido de la marcha, siempre con precaución y sin poner en peligro a ningún usuario.
 
@@ -32,9 +32,9 @@ En las glorietas y plazas de circulación giratoria, aunque son intersecciones e
 
 ## En mis palabras
 
-El cambio de sentido solo se puede hacer si se ve bien y no se crea peligro ni obstáculo. Además, hay lugares donde está prohibido aunque parezca que hay espacio, como túneles, pasos inferiores, sentido único o tramos donde no se puede adelantar. Si en una intersección hay prioridad señalizada, como semáforo verde, puede permitirse la maniobra; en glorietas y plazas giratorias también está permitido cambiar el sentido. Si el vehículo queda detenido en un túnel, se aplica [[inmovilizacion-en-tunel]].
+El cambio de sentido solo se puede hacer si se ve bien y no se crea peligro ni obstáculo. Además, hay lugares donde está prohibido aunque parezca que hay espacio, como túneles, pasos inferiores, sentido único o tramos donde no se puede adelantar. Si en una intersección hay prioridad señalizada, como semáforo verde, puede permitirse la maniobra; en glorietas y plazas giratorias también está permitido cambiar el sentido. Si el vehículo queda detenido en un túnel, se aplica [inmovilización en túnel][inmovilizacion-en-tunel].
 
-No debe confundirse con el [[cambio-direccion-izquierda-visibilidad]] ni con las [[senales-prohibicion-giro-izquierda-cambio-sentido]].
+No debe confundirse con el [cambio de dirección a la izquierda y visibilidad][cambio-direccion-izquierda-visibilidad] ni con las [señales que prohíben girar a la izquierda o cambiar el sentido][senales-prohibicion-giro-izquierda-cambio-sentido].
 
 ## Idea clave para el examen
 

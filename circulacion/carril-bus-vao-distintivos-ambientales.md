@@ -10,7 +10,7 @@ Los vehículos con distintivos ambientales CERO, ECO, B y C podrán acceder al c
 
 Tener etiqueta ambiental no da permiso automático para usar el BUS-VAO. Solo permite acceder si la señalización de la vía lo indica.
 
-Los tipos de etiqueta se resumen en [[distintivos-ambientales]].
+Los tipos de etiqueta se resumen en [distintivos ambientales][distintivos-ambientales].
 
 ## Idea clave para el examen
 

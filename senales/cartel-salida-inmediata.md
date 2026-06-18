@@ -6,7 +6,7 @@ Tags: #permiso-b #señales #orientacion #autopistas #autovias
 
 El cartel de salida inmediata se utiliza sobre la calzada en autopistas o autovías para indicar los destinos de la próxima salida.
 
-Cuando la salida conduce a una carretera convencional o multicarril, el cartel informa de esos destinos usando el [[color-carteles-salida]] correspondiente.
+Cuando la salida conduce a una carretera convencional o multicarril, el cartel informa de esos destinos usando el [color de los carteles de salida][color-carteles-salida] correspondiente.
 
 Además, muestra el número de salida y, si procede, la letra que la identifica.
 
@@ -18,7 +18,7 @@ El pictograma de autopista o autovía permite al conductor identificar rápidame
 
 A diferencia de las señales de preseñalización, los carteles de salida inmediata <ins>no incluyen la distancia</ins>.
 
-Los carteles de salida inmediata adoptan el [[color-carteles-salida#Idea clave para el examen]].
+Los carteles de salida inmediata adoptan el [idea clave sobre el color de los carteles de salida][color-carteles-salida#Idea clave para el examen].
 
 ## En mis palabras
 
