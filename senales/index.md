@@ -26,6 +26,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 - [[senales-de-agentes]]
 - [[senales-prohibicion-giro-izquierda-cambio-sentido]]
 - [[senales-que-obligan-a-detenerse]]
+- [[vehiculo-no-prioritario-servicio-urgencia]]
 - [[vado]]
 - [[velocidad-maxima-pintada-en-carril]]
 - [[vigencia-senales-velocidad-con-peligro]]
@@ -53,6 +54,7 @@ Notas sobre señales verticales, marcas viales, semáforos, agentes y señales c
 [senales-de-agentes]: senales-de-agentes.md "Señales de agentes"
 [senales-prohibicion-giro-izquierda-cambio-sentido]: senales-prohibicion-giro-izquierda-cambio-sentido.md "Señales de prohibición: giro a la izquierda y cambio de sentido"
 [senales-que-obligan-a-detenerse]: senales-que-obligan-a-detenerse.md "Señales que obligan a detenerse"
+[vehiculo-no-prioritario-servicio-urgencia]: ../circulacion/vehiculo-no-prioritario-servicio-urgencia.md "Vehículo no prioritario en servicio de urgencia"
 [vado]: vado.md "Vado"
 [velocidad-maxima-pintada-en-carril]: velocidad-maxima-pintada-en-carril.md "Velocidad máxima pintada en carril"
 [vigencia-senales-velocidad-con-peligro]: vigencia-senales-velocidad-con-peligro.md "Vigencia de señales de velocidad con advertencia de peligro"
