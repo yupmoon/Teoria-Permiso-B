@@ -15,6 +15,8 @@ Con el permiso B se pueden conducir:
 
 El permiso B no se limita a turismos. También permite conducir ciclomotores, cuatriciclos ligeros y vehículos para personas de movilidad reducida. Algunos de estos usuarios pueden circular por el arcén, por eso se relacionan con [parada y estacionamiento en el arcén][parada-estacionamiento-arcen].
 
+Como regla de velocidad, los ciclos, ciclomotores de 2 o 3 ruedas y cuadriciclos ligeros tienen un máximo genérico de <ins>45 km/h</ins>.
+
 ## Idea clave para el examen
 
 Permiso B autoriza ciclomotores de 2 y 3 ruedas, cuatriciclos ligeros y vehículos para personas de movilidad reducida.
@@ -29,6 +31,7 @@ Confundir ciclomotor con motocicleta. Para motocicletas del A1 hace falta antig�
 - [[permiso-b-motocicletas-a1]]
 - [[permiso-b-triciclos-y-cuadriciclos]]
 - [[parada-estacionamiento-arcen]]
+- [[velocidades-maximas-genericas]]
 - [[autorizaciones]]
 
 ## Fuente
@@ -39,4 +42,5 @@ Confundir ciclomotor con motocicleta. Para motocicletas del A1 hace falta antig�
 [permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [permiso-b-triciclos-y-cuadriciclos]: permiso-b-triciclos-y-cuadriciclos.md "Permiso B: triciclos y cuadriciclos"
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
+[velocidades-maximas-genericas]: ../circulacion/velocidades-maximas-genericas.md "Velocidades máximas genéricas"
 [autorizaciones]: index.md "Autorizaciones del permiso B"

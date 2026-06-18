@@ -20,6 +20,8 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 - [[parada-estacionamiento-arcen]]
 - [[prioridad-paso-ciclistas]]
 - [[velocidad-moderada-segun-circunstancias]]
+- [[velocidades-maximas-genericas]]
+- [[velocidades-minimas-genericas]]
 - [[velocidad-vias-sin-pavimentar]]
 - [[vehiculos-inmovilizados-o-estacionados]]
 - [[vehiculos-obligados-circular-arcen]]
@@ -39,6 +41,8 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 [parada-estacionamiento-arcen]: parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [prioridad-paso-ciclistas]: prioridad-paso-ciclistas.md "Prioridad de paso de ciclistas"
 [velocidad-moderada-segun-circunstancias]: velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
+[velocidades-maximas-genericas]: velocidades-maximas-genericas.md "Velocidades máximas genéricas"
+[velocidades-minimas-genericas]: velocidades-minimas-genericas.md "Velocidades mínimas genéricas"
 [velocidad-vias-sin-pavimentar]: velocidad-vias-sin-pavimentar.md "Velocidad en vías sin pavimentar"
 [vehiculos-inmovilizados-o-estacionados]: vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"
 [vehiculos-obligados-circular-arcen]: vehiculos-obligados-circular-arcen.md "Vehículos obligados a circular por el arcén"

@@ -20,6 +20,8 @@ Para vehículos especiales no agrícolas, el permiso B autoriza cuando:
 
 Los vehículos especiales entran en el permiso B. Los agrícolas autopropulsados están autorizados; los no agrícolas tienen límites importantes de velocidad, MMA y plazas.
 
+En circulación, sus [velocidades máximas genéricas][velocidades-maximas-genericas] dependen de sus características: 25 km/h si carecen de señalización de frenado, llevan remolque o son motocultores; 40 km/h para el resto, salvo los que puedan desarrollar más de 60 km/h en llano y cumplan sus condiciones técnicas, que pueden llegar a 70 km/h.
+
 ## Idea clave para el examen
 
 Vehículo especial agrícola autopropulsado: autorizado. Vehículo especial no agrícola: <ins>máximo 40 km/h</ins>, MMA <ins>hasta 3.500 kg</ins> y <ins>máximo 9 plazas incluido el conductor</ins>.
@@ -32,6 +34,7 @@ Aplicar solo el límite de 3.500 kg y olvidar el límite de velocidad de 40 km/h
 
 - [[permiso-b-vehiculos-autorizados]]
 - [[permiso-b-automoviles]]
+- [[velocidades-maximas-genericas]]
 - [[autorizaciones]]
 
 ## Fuente
@@ -40,4 +43,5 @@ Aplicar solo el límite de 3.500 kg y olvidar el límite de velocidad de 40 km/h
 
 [permiso-b-automoviles]: permiso-b-automoviles.md "Permiso B: automóviles"
 [permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
+[velocidades-maximas-genericas]: ../circulacion/velocidades-maximas-genericas.md "Velocidades máximas genéricas"
 [autorizaciones]: index.md "Autorizaciones del permiso B"

@@ -34,6 +34,7 @@ Confundir autopista y autovía para bicicletas. La excepción mencionada es para
 ## Relacionado
 
 - [[autopistas-y-autovias]]
+- [[velocidades-minimas-genericas]]
 - [[parada-estacionamiento-arcen]]
 - [[adelantamiento-vehiculos-obligados-arcen]]
 - [[permiso-b-ciclomotores-y-movilidad-reducida]]
@@ -45,6 +46,7 @@ Confundir autopista y autovía para bicicletas. La excepción mencionada es para
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 49](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a49): regula las velocidades mínimas, incluida la prohibición de circular en autopistas y autovías a velocidad inferior a 60 km/h para vehículos a motor.
 
 [autopistas-y-autovias]: autopistas-y-autovias.md "Autopistas y autovías"
+[velocidades-minimas-genericas]: velocidades-minimas-genericas.md "Velocidades mínimas genéricas"
 [parada-estacionamiento-arcen]: parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [permiso-b-ciclomotores-y-movilidad-reducida]: ../autorizaciones/permiso-b-ciclomotores-y-movilidad-reducida.md "Permiso B: ciclomotores y movilidad reducida"

@@ -21,6 +21,7 @@ Buscar el límite según si es turismo, motocicleta, ciclomotor u otro vehículo
 ## Relacionado
 
 - [[senal-velocidad-maxima]]
+- [[velocidades-maximas-genericas]]
 - [[velocidad-moderada-segun-circunstancias]]
 - [[circulacion]]
 
@@ -29,5 +30,6 @@ Buscar el límite según si es turismo, motocicleta, ciclomotor u otro vehículo
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 48.1.f](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a48): establece que en las vías sin pavimentar el límite de velocidad máximo será de 30 km/h.
 
 [senal-velocidad-maxima]: ../senales/senal-velocidad-maxima.md "Señal de velocidad máxima"
+[velocidades-maximas-genericas]: velocidades-maximas-genericas.md "Velocidades máximas genéricas"
 [velocidad-moderada-segun-circunstancias]: velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"
 [circulacion]: index.md "Circulación"

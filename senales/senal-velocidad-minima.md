@@ -8,6 +8,8 @@ La señal de velocidad mínima se representa como una señal circular azul con l
 
 Indica una obligación: no circular por debajo de la velocidad señalada cuando resulte exigible.
 
+Además de esta señal, existen [velocidades mínimas genéricas][velocidades-minimas-genericas]: 60 km/h en autopistas y autovías para vehículos a motor, y la mitad de la velocidad genérica en las demás vías.
+
 ## En mis palabras
 
 La diferencia visual importante es que no tiene borde rojo. Es azul y circular, por eso no prohíbe superar una velocidad: obliga a mantener una velocidad mínima.
@@ -24,6 +26,7 @@ Confundirla con [señal de velocidad máxima][senal-velocidad-maxima] por ver so
 
 - [[senal-velocidad-maxima]]
 - [[senal-velocidad-maxima-aconsejada]]
+- [[velocidades-minimas-genericas]]
 - [[vigencia-senales-velocidad-con-peligro]]
 - [[senales]]
 
@@ -34,5 +37,6 @@ Confundirla con [señal de velocidad máxima][senal-velocidad-maxima] por ver so
 
 [senal-velocidad-maxima]: senal-velocidad-maxima.md "Señal de velocidad máxima"
 [senal-velocidad-maxima-aconsejada]: senal-velocidad-maxima-aconsejada.md "Señal de velocidad máxima aconsejada"
+[velocidades-minimas-genericas]: ../circulacion/velocidades-minimas-genericas.md "Velocidades mínimas genéricas"
 [vigencia-senales-velocidad-con-peligro]: vigencia-senales-velocidad-con-peligro.md "Vigencia de señales de velocidad con advertencia de peligro"
 [senales]: index.md "Señales"

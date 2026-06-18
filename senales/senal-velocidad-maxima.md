@@ -6,6 +6,8 @@ Tags: #permiso-b #señales #velocidad #prohibicion
 
 La señal de velocidad máxima prohíbe circular a una velocidad superior, en kilómetros por hora, a la indicada en la señal.
 
+Si no hay señal específica, se aplican las [velocidades máximas genéricas][velocidades-maximas-genericas] según la vía y el tipo de vehículo.
+
 ## Vigencia
 
 La obligación empieza desde el lugar en que está situada la señal y permanece hasta:
@@ -33,6 +35,7 @@ Olvidar que en una vía sin prioridad la señal puede dejar de tener vigencia al
 ## Relacionado
 
 - [[velocidad-maxima-pintada-en-carril]]
+- [[velocidades-maximas-genericas]]
 - [[senal-velocidad-minima]]
 - [[senal-velocidad-maxima-aconsejada]]
 - [[vigencia-senales-velocidad-con-peligro]]
@@ -44,6 +47,7 @@ Olvidar que en una vía sin prioridad la señal puede dejar de tener vigencia al
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 154](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a154): regula las señales de prohibición o restricción, incluida la velocidad máxima.
 
 [velocidad-maxima-pintada-en-carril]: velocidad-maxima-pintada-en-carril.md "Velocidad máxima pintada en carril"
+[velocidades-maximas-genericas]: ../circulacion/velocidades-maximas-genericas.md "Velocidades máximas genéricas"
 [senal-velocidad-minima]: senal-velocidad-minima.md "Señal de velocidad mínima"
 [senal-velocidad-maxima-aconsejada]: senal-velocidad-maxima-aconsejada.md "Señal de velocidad máxima aconsejada"
 [vigencia-senales-velocidad-con-peligro]: vigencia-senales-velocidad-con-peligro.md "Vigencia de señales de velocidad con advertencia de peligro"

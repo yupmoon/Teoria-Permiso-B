@@ -12,6 +12,8 @@ Para conducir triciclos de motor cuya potencia <ins>exceda de 15 kW</ins>, se ex
 
 El permiso B incluye vehículos de tres ruedas y cuatriciclos pesados, pero si el triciclo supera 15 kW hay una condición extra de edad: 21 años.
 
+En velocidad, los vehículos de tres ruedas asimilados a motocicletas siguen los límites de las motocicletas. Para el resto de vehículos de tres ruedas y cuadriciclos, el límite genérico es <ins>70 km/h</ins>.
+
 ## Idea clave para el examen
 
 Permiso B autoriza vehículos de tres ruedas y cuatriciclos pesados. Triciclos de <ins>más de 15 kW</ins>: mínimo <ins>21 años</ins>.
@@ -25,6 +27,7 @@ Olvidar que el límite de 21 años se asocia a triciclos de motor de potencia su
 - [[autorizaciones]]
 - [[permiso-b-vehiculos-autorizados]]
 - [[permiso-b-ciclomotores-y-movilidad-reducida]]
+- [[velocidades-maximas-genericas]]
 
 ## Fuente
 
@@ -33,3 +36,4 @@ Olvidar que el límite de 21 años se asocia a triciclos de motor de potencia su
 [autorizaciones]: index.md "Autorizaciones del permiso B"
 [permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [permiso-b-ciclomotores-y-movilidad-reducida]: permiso-b-ciclomotores-y-movilidad-reducida.md "Permiso B: ciclomotores y movilidad reducida"
+[velocidades-maximas-genericas]: ../circulacion/velocidades-maximas-genericas.md "Velocidades máximas genéricas"
