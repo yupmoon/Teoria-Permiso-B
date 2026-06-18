@@ -2,7 +2,9 @@
 
 Tags: #permiso-b #circulacion #velocidad #autopistas #autovias #convencionales #vias-urbanas
 
-## Fuera de poblado
+## Vías fuera de poblado
+
+Las velocidades máximas de este primer bloque son las del artículo 48: <ins>vías fuera de poblado</ins>.
 
 | Vía / vehículo | Turismos, motocicletas, pick-up y autocaravanas hasta 3.500 kg | Camiones, tractocamiones, furgonetas, autocaravanas de más de 3.500 kg, vehículos articulados, automóviles con remolque y resto | Autobuses, derivados de turismo y mixtos adaptables |
 |---|---:|---:|---:|
@@ -13,7 +15,7 @@ En carreteras convencionales con <ins>separación física de los dos sentidos</i
 
 Los vehículos de tres ruedas asimilados a motocicletas aplican los mismos límites que las motocicletas de dos ruedas. Para el resto de vehículos de tres ruedas y cuadriciclos, el límite es <ins>70 km/h</ins> en cualquier vía donde puedan circular.
 
-## Reducciones y casos especiales
+## Reducciones y casos especiales fuera de poblado
 
 - Transporte escolar y de menores, o mercancías peligrosas: <ins>10 km/h menos</ins> que la máxima correspondiente por tipo de vehículo y vía.
 - Autobús con pasajeros de pie autorizados o sin cinturones: en vías convencionales, máximo <ins>80 km/h</ins>.
@@ -25,6 +27,8 @@ Los vehículos de tres ruedas asimilados a motocicletas aplican los mismos lími
 - Vehículos con permiso especial de ensayo: pueden rebasar la máxima en <ins>30 km/h</ins>, solo dentro del itinerario fijado y nunca en vías urbanas, travesías ni tramos con señal específica de velocidad.
 
 ## Vías urbanas y travesías
+
+Las vías urbanas y travesías se regulan aparte, en el artículo 50.
 
 | Vía urbana / travesía | Límite genérico |
 |---|---:|
@@ -41,7 +45,7 @@ La autoridad municipal puede rebajar los límites con señalización específica
 
 ## En mis palabras
 
-La tabla base del examen es 120/90/100 en autopista y autovía, y 90/80/90 en convencional. Luego llegan las trampas: convencional separada físicamente puede subir a 100 para turismos, motos y autocaravanas ligeras; transporte escolar o mercancías peligrosas resta 10; urbano depende del número de carriles, pero los carriles reservados no cuentan.
+La tabla base fuera de poblado es 120/90/100 en autopista y autovía, y 90/80/90 en convencional. Luego llegan las trampas: convencional separada físicamente puede subir a 100 para turismos, motos y autocaravanas ligeras; transporte escolar o mercancías peligrosas resta 10. Urbano va aparte: depende del número de carriles, pero los carriles reservados no cuentan.
 
 ## Idea clave para el examen
 
