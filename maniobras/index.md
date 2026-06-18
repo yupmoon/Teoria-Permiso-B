@@ -20,6 +20,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 - [[estacionamiento-prohibido]]
 - [[no-se-considera-adelantar]]
 - [[parada-estacionamiento-peligroso-obstaculiza]]
+- [[prohibiciones-de-parada]]
 - [[prohibiciones-de-estacionamiento]]
 - [[prohibiciones-de-adelantamiento]]
 - [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
@@ -45,6 +46,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 [estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"
 [no-se-considera-adelantar]: no-se-considera-adelantar.md "Cuándo no se considera adelantar"
 [parada-estacionamiento-peligroso-obstaculiza]: parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
+[prohibiciones-de-parada]: prohibiciones-de-parada.md "Prohibiciones de parada"
 [prohibiciones-de-estacionamiento]: prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [prohibiciones-de-adelantamiento]: prohibiciones-de-adelantamiento.md "Prohibiciones de adelantamiento"
 [rebasamiento-obstaculo-vehiculo-inmovilizado]: rebasamiento-obstaculo-vehiculo-inmovilizado.md "Rebasamiento de obstáculo o vehículo inmovilizado"

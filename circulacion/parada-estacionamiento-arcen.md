@@ -16,20 +16,22 @@ Como norma general, en vías interurbanas la parada o estacionamiento debe hacer
 
 Se permite parar o estacionar en el arcén si <ins>no es transitable</ins>.
 
+Si por razones de emergencia no es posible situar el vehículo fuera de la calzada y de la parte transitable del arcén, se aplican las normas específicas previstas para esos casos.
+
 ## Vías urbanas
 
-En vías urbanas, normalmente los arcenes se utilizan para estacionar, por lo que se puede parar y estacionar en ellos aunque sean transitables.
-
-En vías urbanas, la parada o estacionamiento puede realizarse dentro de la calzada y del arcén, aunque sea transitable, siempre que se deje un espacio libre de <ins>al menos 3 metros</ins>.
+En vías urbanas, cuando la parada o el estacionamiento tenga que hacerse en la calzada o en el arcén, el vehículo debe situarse lo más cerca posible del borde correspondiente.
 
 La colocación depende del sentido de circulación:
 
-- Vía urbana de sentido único: se puede parar o estacionar a la derecha o a la izquierda.
-- Vía urbana de doble sentido: se debe parar o estacionar en el <ins>lado derecho</ins>.
+- Vía urbana de doble sentido: se debe parar o estacionar lo más cerca posible del <ins>borde derecho</ins>.
+- Vía urbana de sentido único: se puede situar también en el <ins>lado izquierdo</ins>.
+
+Además, deben respetarse las ordenanzas municipales aplicables.
 
 ## En mis palabras
 
-En carretera interurbana, el arcén transitable no es un aparcamiento: lo usan ciclomotores, ciclos y vehículos de movilidad reducida. En ciudad, en cambio, el arcén suele usarse para estacionar. La clave es distinguir vía interurbana/urbana, arcén transitable/no transitable y el espacio libre mínimo de 3 metros.
+En carretera interurbana, la regla es sacar el vehículo de la calzada y dejar libre el arcén transitable. En ciudad, la regla no habla de dejar 3 metros como colocación general, sino de arrimarse al borde: normalmente al derecho, y también al izquierdo si la vía es de sentido único.
 
 Para circular, un turismo debe ir por la calzada y no por el arcén salvo emergencia; ver [automóviles y circulación por el arcén][automoviles-circulacion-arcen].
 
@@ -37,7 +39,7 @@ La [línea de borde de calzada][linea-borde-calzada] delimita el borde de la cal
 
 ## Idea clave para el examen
 
-Vía interurbana: parar o estacionar fuera de la calzada y fuera del arcén transitable; si el arcén no es transitable, se puede usar. Siempre al lado derecho. Vía urbana: puede usarse calzada y arcén, aunque sea transitable, dejando <ins>al menos 3 metros</ins>; sentido único permite derecha o izquierda, doble sentido solo derecha.
+Vía interurbana: parar o estacionar fuera de la calzada, en el lado derecho y dejando libre el arcén transitable. Vía urbana: si se hace en calzada o arcén, arrimarse al borde derecho; en vía de sentido único también puede hacerse en el lado izquierdo.
 
 ## Trampa habitual
 
@@ -50,6 +52,7 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 - [[automoviles-circulacion-arcen]]
 - [[linea-borde-calzada]]
 - [[parada-estacionamiento-peligroso-obstaculiza]]
+- [[prohibiciones-de-parada]]
 - [[calzos-en-parada-estacionamiento-pendiente]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
 - [[estacionamiento-prohibido]]
@@ -59,13 +62,14 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 
 ## Fuente
 
-- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 90 a 92](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a90): regulan los lugares y forma de parada y estacionamiento.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 90](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a90): regula los lugares en los que deben efectuarse la parada y el estacionamiento.
 
 [adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [vehiculos-obligados-circular-arcen]: vehiculos-obligados-circular-arcen.md "Vehículos obligados a circular por el arcén"
 [automoviles-circulacion-arcen]: automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [linea-borde-calzada]: ../senales/linea-borde-calzada.md "Línea de borde de calzada"
 [parada-estacionamiento-peligroso-obstaculiza]: ../maniobras/parada-estacionamiento-peligroso-obstaculiza.md "Parada y estacionamiento en lugares peligrosos u obstaculizando"
+[prohibiciones-de-parada]: ../maniobras/prohibiciones-de-parada.md "Prohibiciones de parada"
 [calzos-en-parada-estacionamiento-pendiente]: ../maniobras/calzos-en-parada-estacionamiento-pendiente.md "Calzos en parada o estacionamiento con pendiente"
 [estacionamiento-perturba-gravemente-circulacion]: ../maniobras/estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
 [estacionamiento-prohibido]: ../senales/estacionamiento-prohibido.md "Estacionamiento prohibido"

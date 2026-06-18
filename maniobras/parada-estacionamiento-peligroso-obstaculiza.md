@@ -17,14 +17,10 @@ Si el vehículo queda en una pendiente sensible y es de más de 3.500 kg de MMA,
 
 Para carga y descarga, definición de parada y parada en doble fila, ver [carga y descarga y parada en doble fila][carga-descarga-y-parada-doble-fila].
 
-## Parada o estacionamiento peligrosos
+## Parada o estacionamiento peligrosos u obstaculizadores
 
 Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación cuando:
 
-- Se realicen en pasos a nivel.
-- Se realicen sobre los raíles del tranvía o en lugares que entorpezcan su circulación.
-- Se realicen en intersecciones y en sus proximidades <ins>si se dificulta el giro a otros vehículos</ins>.
-- Se realicen en intersecciones y en sus proximidades en vías interurbanas <ins>si se genera peligro por falta de visibilidad</ins>.
 - La distancia entre el vehículo y el borde opuesto de la calzada, o una marca longitudinal que prohíba atravesarla, sea <ins>inferior a 3 metros</ins>.
 - No se permita el paso de otros vehículos.
 - Se impida incorporarse a la circulación a otro vehículo debidamente parado o estacionado.
@@ -34,9 +30,9 @@ Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculiza
 - Se impida el giro autorizado por la señal correspondiente.
 - Constituya peligro u obstaculice gravemente el tráfico de peatones, vehículos o animales.
 
-## Solo estacionamiento peligroso u obstaculizador
+## Estacionamiento peligroso u obstaculizador
 
-Se consideran estacionamientos, no paradas, en lugares peligrosos o que obstaculizan gravemente la circulación cuando el estacionamiento se efectúa:
+También se consideran estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación cuando se efectúan:
 
 - En una zona reservada a [carga y descarga][carga-y-descarga] durante sus horas de utilización.
 - En doble fila <ins>sin conductor</ins>.
@@ -45,23 +41,26 @@ Se consideran estacionamientos, no paradas, en lugares peligrosos o que obstacul
 - En espacios prohibidos en vía pública calificada de atención preferente, específicamente señalizados.
 - En medio de la calzada.
 
+Estos supuestos tienen la consideración de infracciones graves.
+
 ## En mis palabras
 
-Hay dos niveles: primero, la regla general de no crear peligro ni obstáculo; segundo, una lista de casos que el examen considera especialmente graves. Algunos afectan tanto a parada como a estacionamiento, pero otros son solo de estacionamiento.
+Hay dos niveles: primero, la regla general de no crear peligro ni obstáculo; segundo, una lista de casos que el reglamento considera peligrosos o gravemente obstaculizadores. Esta nota no enumera todos los lugares donde está prohibido parar o estacionar; para eso están las [prohibiciones de parada][prohibiciones-de-parada] y las [prohibiciones de estacionamiento][prohibiciones-de-estacionamiento].
 
 ## Idea clave para el examen
 
-Número crítico: <ins>menos de 3 metros</ins> entre el vehículo y el borde opuesto o una marca longitudinal que no se puede atravesar. Parada y estacionamiento prohibidos en pasos a nivel, raíles del tranvía o lugares que entorpezcan su circulación. En intersecciones y proximidades, atención al condicional: prohibido <ins>si dificulta el giro</ins> o, en vías interurbanas, <ins>si genera peligro por falta de visibilidad</ins>. Distinción crítica: carga y descarga, doble fila sin conductor, parada de transporte público, servicios de urgencia, vía de atención preferente y medio de la calzada son casos de <ins>estacionamiento</ins>.
+Número crítico: <ins>menos de 3 metros</ins> entre el vehículo y el borde opuesto o una marca longitudinal que no se puede atravesar. Distinción crítica: carga y descarga, doble fila sin conductor, parada de transporte público, servicios de urgencia, vía de atención preferente y medio de la calzada son casos de <ins>estacionamiento</ins> peligroso u obstaculizador.
 
 ## Trampa habitual
 
-Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y estacionamiento: algunos son solo estacionamientos peligrosos u obstaculizadores. En intersecciones, no olvidar los <ins>si</ins>: dificultar el giro o peligro por falta de visibilidad en vía interurbana.
+Meter todo en la misma bolsa. Artículo 91 trata el modo de hacer la parada o el estacionamiento y cuándo se considera peligroso u obstaculizador. Artículo 94 trata los lugares donde queda prohibido parar o estacionar.
 
 ## Relacionado
 
 - [[parada-estacionamiento-arcen]]
 - [[carga-descarga-y-parada-doble-fila]]
 - [[calzos-en-parada-estacionamiento-pendiente]]
+- [[prohibiciones-de-parada]]
 - [[prohibiciones-de-estacionamiento]]
 - [[estacionamiento-perturba-gravemente-circulacion]]
 - [[vado]]
@@ -72,11 +71,12 @@ Meter todo en la misma bolsa. No todos los supuestos afectan igual a parada y es
 
 ## Fuente
 
-- [Real Decreto 1428/2003, Reglamento General de Circulación, artículos 91 y 94](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a91): regulan el modo de ejecución y los supuestos de parada o estacionamiento peligrosos o que obstaculizan gravemente.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 91](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a91): regula el modo de ejecución y los supuestos de parada o estacionamiento peligrosos o que obstaculizan gravemente.
 
 [parada-estacionamiento-arcen]: ../circulacion/parada-estacionamiento-arcen.md "Parada y estacionamiento en el arcén"
 [carga-descarga-y-parada-doble-fila]: carga-descarga-y-parada-doble-fila.md "Carga y descarga y parada en doble fila"
 [calzos-en-parada-estacionamiento-pendiente]: calzos-en-parada-estacionamiento-pendiente.md "Calzos en parada o estacionamiento con pendiente"
+[prohibiciones-de-parada]: prohibiciones-de-parada.md "Prohibiciones de parada"
 [prohibiciones-de-estacionamiento]: prohibiciones-de-estacionamiento.md "Prohibiciones de estacionamiento"
 [estacionamiento-perturba-gravemente-circulacion]: estacionamiento-perturba-gravemente-circulacion.md "Estacionamiento que perturba gravemente la circulación"
 [vado]: ../senales/vado.md "Vado"
