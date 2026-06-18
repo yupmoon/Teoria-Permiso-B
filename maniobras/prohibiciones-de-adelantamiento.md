@@ -18,7 +18,7 @@ Queda prohibido adelantar:
 - En las intersecciones con vías para ciclistas.
 - En los pasos a nivel y en sus proximidades.
 - En las intersecciones y en sus proximidades.
-- En túneles, pasos inferiores y tramos de vía afectados por la señal "Túnel" en los que solo se disponga de un carril para el sentido de circulación del vehículo que pretende adelantar.
+- En túneles, pasos inferiores y tramos de vía afectados por la señal "Túnel" en los que solo se disponga de un carril para el sentido de circulación del vehículo que pretende adelantar. En túneles o pasos inferiores con circulación en ambos sentidos, solo se puede adelantar si hay más de un carril para ese sentido y sin invadir el sentido contrario.
 
 En túneles y pasos inferiores, si no se pretende adelantar, se aplica la [distancia de seguridad en túneles][distancia-seguridad-en-tuneles].
 
@@ -57,6 +57,7 @@ Adelantar prohibido si no hay visibilidad suficiente para hacerlo o <ins>desisti
 - [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
 - [[cambio-de-sentido-prohibido]]
 - [[distancia-seguridad-en-tuneles]]
+- [[pasos-nivel-puentes-moviles-tuneles]]
 - [[uso-obligatorio-del-alumbrado]]
 - [[advertencias-acusticas]]
 - [[maniobras]]
@@ -72,6 +73,7 @@ Adelantar prohibido si no hay visibilidad suficiente para hacerlo o <ins>desisti
 [rebasamiento-obstaculo-vehiculo-inmovilizado]: rebasamiento-obstaculo-vehiculo-inmovilizado.md "Rebasamiento de obstáculo o vehículo inmovilizado"
 [cambio-de-sentido-prohibido]: cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [distancia-seguridad-en-tuneles]: ../seguridad-vial/distancia-seguridad-en-tuneles.md "Distancia de seguridad en túneles"
+[pasos-nivel-puentes-moviles-tuneles]: ../circulacion/pasos-nivel-puentes-moviles-tuneles.md "Pasos a nivel, puentes móviles y túneles"
 [uso-obligatorio-del-alumbrado]: ../alumbrado/uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
 [advertencias-acusticas]: ../senales/advertencias-acusticas.md "Advertencias acústicas"
 [maniobras]: index.md "Maniobras"

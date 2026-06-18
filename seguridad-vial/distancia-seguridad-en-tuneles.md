@@ -9,7 +9,7 @@ En túneles y pasos inferiores, cuando no se pretenda adelantar, debe mantenerse
 - <ins>100 metros</ins>, o un intervalo mínimo de <ins>4 segundos</ins>.
 - Para vehículos de más de <ins>3.500 kg de MMA</ins>: <ins>150 metros</ins>, o un intervalo mínimo de <ins>6 segundos</ins>.
 
-En túneles está prohibido el adelantamiento salvo que exista <ins>más de un carril para el mismo sentido</ins>. Si no se puede adelantar, la distancia de seguridad no debe reducirse.
+En túneles o pasos inferiores con circulación en ambos sentidos, está prohibido el adelantamiento salvo que exista <ins>más de un carril para el mismo sentido</ins> y se pueda adelantar <ins>sin invadir el sentido contrario</ins>. Si no se puede adelantar, la distancia de seguridad no debe reducirse.
 
 La señal de distancia de seguridad recuerda la distancia general que se debe guardar.
 
@@ -19,7 +19,7 @@ En un túnel, si no voy a adelantar, no puedo pegarme al vehículo de delante: l
 
 ## Idea clave para el examen
 
-Túnel sin adelantamiento: <ins>100 m o 4 s</ins>. Vehículos de más de <ins>3.500 kg MMA</ins>: <ins>150 m o 6 s</ins>. Adelantar en túnel solo si hay <ins>más de un carril para el mismo sentido</ins>.
+Túnel sin adelantamiento: <ins>100 m o 4 s</ins>. Vehículos de más de <ins>3.500 kg MMA</ins>: <ins>150 m o 6 s</ins>. En túnel o paso inferior con ambos sentidos, adelantar solo si hay <ins>más de un carril para el mismo sentido</ins> y sin invadir el contrario.
 
 ## Trampa habitual
 
@@ -30,6 +30,7 @@ No confundir este <ins>150 metros</ins> con el de [prendas de visibilidad de age
 ## Relacionado
 
 - [[prohibiciones-de-adelantamiento]]
+- [[pasos-nivel-puentes-moviles-tuneles]]
 - [[inmovilizacion-en-tunel]]
 - [[uso-obligatorio-del-alumbrado]]
 - [[distancia-de-detencion]]
@@ -42,6 +43,7 @@ No confundir este <ins>150 metros</ins> con el de [prendas de visibilidad de age
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 95](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a95): regula la distancia de seguridad y el adelantamiento en túneles y pasos inferiores.
 
 [prohibiciones-de-adelantamiento]: ../maniobras/prohibiciones-de-adelantamiento.md "Prohibiciones de adelantamiento"
+[pasos-nivel-puentes-moviles-tuneles]: ../circulacion/pasos-nivel-puentes-moviles-tuneles.md "Pasos a nivel, puentes móviles y túneles"
 [inmovilizacion-en-tunel]: ../alumbrado/inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [uso-obligatorio-del-alumbrado]: ../alumbrado/uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
 [distancia-de-detencion]: distancia-de-detencion.md "Distancia de detención"
