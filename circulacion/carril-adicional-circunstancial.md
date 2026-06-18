@@ -21,12 +21,13 @@ Carril adicional circunstancial: <ins>80/60</ins> y <ins>corto alcance de día y
 
 ## Trampa habitual
 
-Pensar que si hay buena visibilidad no hacen falta luces. En este carril especial, el alumbrado de cruce se exige aunque se vea bien.
+Pensar que si hay buena visibilidad no hacen falta luces. En este carril especial, el alumbrado de cruce se exige aunque se vea bien. Otra trampa es mezclarlo con el [carril en sentido contrario al habitual][carril-sentido-contrario-habitual], que tiene restricciones propias de vehículos.
 
 ## Relacionado
 
 - [[uso-obligatorio-del-alumbrado]]
 - [[luz-cruce-durante-dia]]
+- [[carril-sentido-contrario-habitual]]
 - [[vehiculos-obligados-circular-arcen]]
 - [[automoviles-circulacion-arcen]]
 - [[circulacion]]
@@ -37,6 +38,7 @@ Pensar que si hay buena visibilidad no hacen falta luces. En este carril especia
 
 [uso-obligatorio-del-alumbrado]: ../alumbrado/uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
 [luz-cruce-durante-dia]: ../alumbrado/luz-cruce-durante-dia.md "Luz de cruce durante el día"
+[carril-sentido-contrario-habitual]: carril-sentido-contrario-habitual.md "Carril en sentido contrario al habitual"
 [vehiculos-obligados-circular-arcen]: vehiculos-obligados-circular-arcen.md "Vehículos obligados a circular por el arcén"
 [automoviles-circulacion-arcen]: automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [circulacion]: index.md "Circulación"

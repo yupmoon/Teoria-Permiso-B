@@ -36,6 +36,7 @@ Pensar que durante el día solo se encienden luces con mala visibilidad. En esto
 
 - [[uso-obligatorio-del-alumbrado]]
 - [[carril-adicional-circunstancial]]
+- [[carril-sentido-contrario-habitual]]
 - [[motocicletas-posicion-calzada]]
 - [[alumbrado]]
 
@@ -46,5 +47,6 @@ Pensar que durante el día solo se encienden luces con mala visibilidad. En esto
 
 [uso-obligatorio-del-alumbrado]: uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
 [carril-adicional-circunstancial]: ../circulacion/carril-adicional-circunstancial.md "Carril adicional circunstancial"
+[carril-sentido-contrario-habitual]: ../circulacion/carril-sentido-contrario-habitual.md "Carril en sentido contrario al habitual"
 [motocicletas-posicion-calzada]: ../circulacion/motocicletas-posicion-calzada.md "Motocicletas: posición en la calzada"
 [alumbrado]: index.md "Alumbrado y señalización luminosa"

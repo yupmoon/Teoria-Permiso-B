@@ -15,6 +15,7 @@ Placeholder para reunir reglas ya existentes sobre antiniebla delantera, antinie
 - [[averia-alumbrado-largo-alcance]]
 - [[via-insuficientemente-iluminada]]
 - [[carril-adicional-circunstancial]]
+- [[carril-sentido-contrario-habitual]]
 
 [temas-confusos]: temas-confusos.md "Temas confusos"
 [luz-antiniebla-delantera]: ../alumbrado/luz-antiniebla-delantera.md "Luz antiniebla delantera"
@@ -25,3 +26,4 @@ Placeholder para reunir reglas ya existentes sobre antiniebla delantera, antinie
 [averia-alumbrado-largo-alcance]: ../alumbrado/averia-alumbrado-largo-alcance.md "Avería del alumbrado de largo alcance"
 [via-insuficientemente-iluminada]: ../alumbrado/via-insuficientemente-iluminada.md "Vía insuficientemente iluminada"
 [carril-adicional-circunstancial]: ../circulacion/carril-adicional-circunstancial.md "Carril adicional circunstancial"
+[carril-sentido-contrario-habitual]: ../circulacion/carril-sentido-contrario-habitual.md "Carril en sentido contrario al habitual"

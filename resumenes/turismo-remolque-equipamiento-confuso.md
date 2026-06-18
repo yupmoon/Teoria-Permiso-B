@@ -24,6 +24,7 @@ Tags: #permiso-b #resumen #remolques #vehiculo #equipamiento
 | Escenario | Regla | Nota base |
 |---|---|---|
 | BUS-VAO | Turismo con remolque prohibido, salvo señalización específica | [BUS-VAO][carril-bus-vao-vehiculos-prohibidos] |
+| Carril en sentido contrario al habitual por fluidez | Turismo con remolque prohibido | [Sentido contrario][carril-sentido-contrario-habitual] |
 | Vía interurbana con tres o más carriles mismo sentido | Conjuntos de más de 7 m solo derecho e inmediato | [Tres carriles][carriles-interurbanos-tres-carriles-remolque] |
 
 ## Regla mental
@@ -44,6 +45,7 @@ Mezclar "rueda del turismo" con "rueda del remolque". La nota de equipamiento ex
 - [[permiso-b-remolques]]
 - [[autorizacion-b96]]
 - [[accesorios-obligatorios-turismo-remolque-v16]]
+- [[carril-sentido-contrario-habitual]]
 - [[carriles-interurbanos-tres-carriles-remolque]]
 - [[turismo-remolque-carril-izquierdo-tres-carriles]]
 
@@ -57,5 +59,6 @@ Ver fuentes oficiales en las notas base enlazadas.
 [permiso-b-combustibles-alternativos-mercancias]: ../autorizaciones/permiso-b-combustibles-alternativos-mercancias.md "Permiso B: mercancías con combustibles alternativos"
 [accesorios-obligatorios-turismo-remolque-v16]: ../vehiculo/accesorios-obligatorios-turismo-remolque-v16.md "Accesorios obligatorios: turismo, remolque y V-16"
 [carril-bus-vao-vehiculos-prohibidos]: ../circulacion/carril-bus-vao-vehiculos-prohibidos.md "Carril BUS-VAO: vehículos prohibidos"
+[carril-sentido-contrario-habitual]: ../circulacion/carril-sentido-contrario-habitual.md "Carril en sentido contrario al habitual"
 [carriles-interurbanos-tres-carriles-remolque]: ../circulacion/carriles-interurbanos-tres-carriles-remolque.md "Carriles interurbanos con tres o más carriles"
 [turismo-remolque-carril-izquierdo-tres-carriles]: ../test-errores/turismo-remolque-carril-izquierdo-tres-carriles.md "Error: turismo con remolque en carril izquierdo con tres carriles"
