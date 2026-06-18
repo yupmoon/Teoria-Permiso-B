@@ -21,6 +21,8 @@ En este caso <ins>no existe limitación de recorrido marcha atrás</ins> e inclu
 
 La maniobra de marcha atrás está <ins>prohibida en autopistas y autovías</ins>.
 
+Debe advertirse con la luz de marcha atrás, si el vehículo dispone de ella. Si no dispone de luz de marcha atrás, se advierte extendiendo el brazo horizontalmente con la palma hacia atrás.
+
 ## En mis palabras
 
 La marcha atrás no es una maniobra normal para circular. Puede ser una maniobra complementaria para parar, estacionar o incorporarse, o un recurso excepcional cuando no hay otra forma de continuar. En ambos casos debe hacerse con el recorrido mínimo indispensable. La regla de los 15 metros solo pertenece a la maniobra complementaria.
@@ -38,6 +40,7 @@ Otra trampa: pensar que puedo usar marcha atrás para completar un [realización
 ## Relacionado
 
 - [[cambio-sentido-maniobra]]
+- [[advertencias-opticas]]
 - [[cambio-de-sentido-prohibido]]
 - [[autopistas-y-autovias]]
 - [[incorporacion-carril-aceleracion]]
@@ -51,6 +54,7 @@ Otra trampa: pensar que puedo usar marcha atrás para completar un [realización
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 80](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a80): regula la prohibición general de circular marcha atrás, sus excepciones, el límite de 15 metros para maniobras complementarias y la prohibición en autopistas y autovías.
 
 [cambio-sentido-maniobra]: cambio-sentido-maniobra.md "Cambio de sentido: realización de la maniobra"
+[advertencias-opticas]: advertencias-opticas.md "Advertencias ópticas"
 [cambio-de-sentido-prohibido]: cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"
 [autopistas-y-autovias]: ../circulacion/autopistas-y-autovias.md "Autopistas y autovías"
 [incorporacion-carril-aceleracion]: ../circulacion/incorporacion-carril-aceleracion.md "Incorporación por carril de aceleración"

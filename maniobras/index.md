@@ -10,6 +10,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 - [[adelantamiento-prohibido-pasos-peatones]]
 - [[adelantamiento-por-la-derecha]]
 - [[adelantamiento-vehiculos-obligados-arcen]]
+- [[advertencias-opticas]]
 - [[calzos-en-parada-estacionamiento-pendiente]]
 - [[carga-descarga-y-parada-doble-fila]]
 - [[cambio-de-sentido-prohibido]]
@@ -34,6 +35,7 @@ Notas sobre adelantamientos, cambios de sentido, marcha atrás, estacionamiento,
 [adelantamiento-prohibido-pasos-peatones]: adelantamiento-prohibido-pasos-peatones.md "Adelantamiento prohibido en pasos para peatones"
 [adelantamiento-por-la-derecha]: adelantamiento-por-la-derecha.md "Adelantamiento por la derecha"
 [adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
+[advertencias-opticas]: advertencias-opticas.md "Advertencias ópticas"
 [calzos-en-parada-estacionamiento-pendiente]: calzos-en-parada-estacionamiento-pendiente.md "Calzos en parada o estacionamiento con pendiente"
 [carga-descarga-y-parada-doble-fila]: carga-descarga-y-parada-doble-fila.md "Carga y descarga y parada en doble fila"
 [cambio-de-sentido-prohibido]: cambio-de-sentido-prohibido.md "Cambio de sentido prohibido"

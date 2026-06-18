@@ -4,11 +4,16 @@ Tags: #permiso-b #maniobras #señalizacion #intermitentes #brazo
 
 ## Regla
 
-Si se carece de intermitentes, se pueden indicar las maniobras con el brazo izquierdo:
+Las [advertencias ópticas][advertencias-opticas] se hacen normalmente con luces. Si no se puede o no se dispone del dispositivo correspondiente, también pueden hacerse con el brazo en los casos previstos.
 
-- Para girar a la izquierda: brazo izquierdo en posición horizontal, con la palma de la mano extendida hacia abajo.
-- Para desplazarse hacia la derecha o girar a la derecha: brazo izquierdo doblado hacia arriba, con la palma de la mano hacia delante.
-- Para disminuir la velocidad o detenerse: mover el brazo de arriba abajo con movimientos cortos.
+| Maniobra o advertencia | Señal con el brazo |
+|---|---|
+| Desplazamiento hacia el lado que indica la mano | Brazo en posición horizontal, palma extendida hacia abajo. |
+| Desplazamiento hacia el lado contrario | Brazo doblado hacia arriba, palma extendida. |
+| Marcha atrás sin luz de marcha atrás | Brazo horizontal con la palma hacia atrás. |
+| Frenar de modo considerable o inmovilizar el vehículo | Brazo movido alternativamente de arriba abajo con movimientos <ins>cortos y rápidos</ins>. |
+
+En las maniobras con desplazamiento lateral, <ins>solo se avisa el desplazamiento lateral</ins>, y la señal debe terminar cuando el vehículo haya adoptado su nueva trayectoria.
 
 Si fuera necesario frenar la marcha del vehículo de modo considerable, deberá advertirse mediante:
 
@@ -17,11 +22,11 @@ Si fuera necesario frenar la marcha del vehículo de modo considerable, deberá 
 
 ## En mis palabras
 
-Si no puedo usar los intermitentes, el brazo izquierdo sustituye la señal luminosa. Horizontal indica izquierda; doblado hacia arriba indica derecha; movimiento corto de arriba abajo indica reducir velocidad o detenerse. Si la frenada es considerable, también se puede advertir con luces de frenado reiteradas. No debe confundirse con las [señales de agentes][senales-de-agentes], donde el brazo lo usa un agente para ordenar la circulación.
+Las señales con el brazo sustituyen o completan las advertencias luminosas cuando procede. Horizontal avisa desplazamiento hacia ese lado; doblado hacia arriba avisa desplazamiento hacia el contrario; palma hacia atrás avisa marcha atrás si no hay luz; movimiento corto y rápido de arriba abajo avisa frenada considerable o intención de inmovilizar. No debe confundirse con las [señales de agentes][senales-de-agentes], donde el brazo lo usa un agente para ordenar la circulación.
 
 ## Idea clave para el examen
 
-Sin intermitentes: izquierda = <ins>brazo izquierdo horizontal y palma hacia abajo</ins>; derecha = <ins>brazo izquierdo doblado hacia arriba y palma hacia delante</ins>; reducir/detenerse = <ins>brazo de arriba abajo con movimientos cortos</ins>. Frenada considerable = <ins>luces de frenado reiteradas</ins> o brazo con movimientos <ins>cortos y rápidos</ins>.
+Brazo horizontal y palma abajo = desplazamiento hacia ese lado. Brazo doblado hacia arriba = desplazamiento hacia el lado contrario. Palma hacia atrás = marcha atrás si no hay luz. Frenada considerable o inmovilización = brazo de arriba abajo con movimientos <ins>cortos y rápidos</ins>.
 
 ## Trampa habitual
 
@@ -29,6 +34,7 @@ Confundir la señal manual de girar a la derecha con sacar el brazo derecho. La 
 
 ## Relacionado
 
+- [[advertencias-opticas]]
 - [[cambio-direccion-izquierda-visibilidad]]
 - [[semaforos-con-indicaciones-distintas]]
 - [[velocidad-moderada-segun-circunstancias]]
@@ -41,8 +47,9 @@ Confundir la señal manual de girar a la derecha con sacar el brazo derecho. La 
 
 ## Fuente
 
-- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 109](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a109): regula las advertencias ópticas mediante indicadores de dirección o brazo.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 109](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a109): regula las advertencias ópticas mediante indicadores de dirección, luces de frenado, luz de marcha atrás, señal de emergencia y brazo.
 
+[advertencias-opticas]: advertencias-opticas.md "Advertencias ópticas"
 [cambio-direccion-izquierda-visibilidad]: cambio-direccion-izquierda-visibilidad.md "Cambio de dirección a la izquierda y visibilidad"
 [semaforos-con-indicaciones-distintas]: ../senales/semaforos-con-indicaciones-distintas.md "Semáforos con indicaciones distintas"
 [velocidad-moderada-segun-circunstancias]: ../circulacion/velocidad-moderada-segun-circunstancias.md "Velocidad moderada según las circunstancias"

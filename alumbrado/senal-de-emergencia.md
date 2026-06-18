@@ -19,6 +19,8 @@ Debe utilizarse en <ins>vías urbanas e interurbanas</ins>, <ins>tanto de día c
 
 Puede utilizarse tanto si el vehículo está <ins>inmovilizado</ins> como si está <ins>en movimiento</ins>. En túneles hay reglas específicas en [inmovilización en túnel][inmovilizacion-en-tunel].
 
+Según las [advertencias ópticas][advertencias-opticas], si la inmovilización tiene lugar en una autopista o autovía, o en lugares o circunstancias que disminuyan sensiblemente la visibilidad, debe señalizarse la presencia del vehículo con la luz de emergencia, si se dispone de ella, y en su caso con las luces de posición.
+
 ## Funcionamiento
 
 La señal de emergencia consiste en el funcionamiento simultáneo de todas las luces indicadoras de dirección.
@@ -45,6 +47,7 @@ Pensar que solo se usa cuando el vehículo está parado por avería. También pu
 ## Relacionado
 
 - [[uso-obligatorio-del-alumbrado]]
+- [[advertencias-opticas]]
 - [[inmovilizacion-en-tunel]]
 - [[accesorios-obligatorios-turismo-remolque-v16]]
 - [[e-call-aviso-emergencia]]
@@ -58,6 +61,7 @@ Pensar que solo se usa cuando el vehículo está parado por avería. También pu
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 109](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a109): regula las advertencias ópticas y la señal de emergencia.
 
 [uso-obligatorio-del-alumbrado]: uso-obligatorio-del-alumbrado.md "Uso obligatorio del alumbrado"
+[advertencias-opticas]: ../maniobras/advertencias-opticas.md "Advertencias ópticas"
 [inmovilizacion-en-tunel]: inmovilizacion-en-tunel.md "Inmovilización en túnel"
 [accesorios-obligatorios-turismo-remolque-v16]: ../vehiculo/accesorios-obligatorios-turismo-remolque-v16.md "Accesorios obligatorios: turismo, remolque y V-16"
 [e-call-aviso-emergencia]: ../vehiculo/e-call-aviso-emergencia.md "e-Call: aviso de emergencia"
