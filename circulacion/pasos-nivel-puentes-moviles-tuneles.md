@@ -22,6 +22,16 @@ El cruce de la vía férrea debe hacerse <ins>sin demora</ins> y solo después d
 - Los pasos a nivel y puentes móviles deben estar debidamente señalizados por el titular de la vía.
 - Los túneles de cualquier longitud y los pasos inferiores de más de <ins>200 metros</ins> deben estar debidamente señalizados.
 
+## Detención o carga caída
+
+Si por fuerza mayor queda un vehículo detenido en un paso a nivel, o cae su carga dentro de él, el conductor debe:
+
+- Adoptar las medidas adecuadas para el rápido desalojo de los ocupantes.
+- Dejar el paso expedito en el menor tiempo posible.
+- Si no lo consigue, advertir inmediatamente del peligro, con suficiente antelación, a los maquinistas de los vehículos que circulen por raíles y a los conductores que se aproximen.
+
+Estas mismas reglas se aplican si la detención del vehículo o la caída de la carga se produce en un puente móvil.
+
 ## Túneles y pasos inferiores
 
 En túneles y pasos inferiores, el conductor debe aplicar rigurosamente las normas de circulación relativas a ellos, especialmente:
@@ -58,6 +68,8 @@ Paso a nivel o puente móvil: <ins>prudencia + reducir velocidad</ins>; si está
 
 Entrar en un paso a nivel porque la barrera aún no ha bajado del todo, aunque la circulación pueda dejarte inmovilizado dentro. La norma exige comprobar antes que no existe ese riesgo.
 
+Otra trampa: si el vehículo o la carga quedan dentro del paso, primero se intenta desalojar y liberar el paso rápidamente; si no se consigue, hay que advertir inmediatamente el peligro a trenes y vehículos que se aproximen.
+
 ## Relacionado
 
 - [[distancia-seguridad-en-tuneles]]
@@ -71,6 +83,7 @@ Entrar en un paso a nivel porque la barrera aún no ha bajado del todo, aunque l
 ## Fuente
 
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 95](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a95): regula las obligaciones de usuarios y titulares de vías en pasos a nivel, puentes móviles, túneles y pasos inferiores.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 97](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a97): regula la detención de vehículos y caída de carga en pasos a nivel, puentes móviles, túneles y pasos inferiores.
 
 [distancia-seguridad-en-tuneles]: ../seguridad-vial/distancia-seguridad-en-tuneles.md "Distancia de seguridad en túneles"
 [inmovilizacion-en-tunel]: ../alumbrado/inmovilizacion-en-tunel.md "Inmovilización en túnel"
