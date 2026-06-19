@@ -7,6 +7,7 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 - [[autopistas-y-autovias]]
 - [[autopistas-autovias-vehiculos-prohibidos]]
 - [[automoviles-circulacion-arcen]]
+- [[circulacion-de-animales]]
 - [[carriles-interurbanos-tres-carriles-remolque]]
 - [[carril-adicional-circunstancial]]
 - [[carril-sentido-contrario-habitual]]
@@ -31,6 +32,7 @@ Notas sobre uso de carriles, circulación por vías, carriles especiales y norma
 [carril-bus-vao]: carril-bus-vao.md "Carril BUS-VAO"
 [autopistas-autovias-vehiculos-prohibidos]: autopistas-autovias-vehiculos-prohibidos.md "Autopistas y autovías: vehículos prohibidos"
 [automoviles-circulacion-arcen]: automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
+[circulacion-de-animales]: circulacion-de-animales.md "Circulación de animales"
 [carriles-interurbanos-tres-carriles-remolque]: carriles-interurbanos-tres-carriles-remolque.md "Carriles interurbanos con tres o más carriles"
 [carril-adicional-circunstancial]: carril-adicional-circunstancial.md "Carril adicional circunstancial"
 [carril-sentido-contrario-habitual]: carril-sentido-contrario-habitual.md "Carril en sentido contrario al habitual"

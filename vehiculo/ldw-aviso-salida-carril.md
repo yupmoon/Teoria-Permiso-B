@@ -1,10 +1,10 @@
-# LDW: aviso de salida de carril
+# LDW (Lane Departure Warning): aviso de salida de carril
 
 Tags: #permiso-b #vehiculo #seguridad-vial #adas #ldw
 
 ## Regla
 
-El sistema LDW, o aviso de salida de carril, es un [sistemas ADAS][sistemas-adas] de seguridad activa que detecta la variación de trayectoria del vehículo sobre el carril e interpreta cuándo esta es involuntaria.
+El sistema LDW, del inglés *Lane Departure Warning*, es el aviso de salida de carril. Es un [sistema ADAS][sistemas-adas] de seguridad activa que detecta la variación de trayectoria del vehículo sobre el carril e interpreta cuándo esta es involuntaria.
 
 Si el coche está saliendo del carril <ins>sin que el conductor haya puesto el intermitente</ins> en esa dirección, el sistema avisa al conductor de forma acústica o luminosa para evitar colisiones con otros vehículos o salidas de vía. La señalización manual se estudia aparte en [señales con el brazo][senales-con-el-brazo].
 
@@ -12,7 +12,7 @@ El conductor es el encargado de corregir la trayectoria, devolver el vehículo d
 
 ## Cómo detecta el carril
 
-El sistema LDW, del inglés *Lane Departure Warning*, también se conoce en español como "Alerta de Cambio Involuntario de Carril" y forma parte de los [sistemas ADAS][sistemas-adas].
+El sistema LDW también se conoce en español como "Alerta de Cambio Involuntario de Carril" y forma parte de los [sistemas ADAS][sistemas-adas].
 
 Su misión es detectar continuamente las marcas viales de la carretera mediante <ins>sensores infrarrojos orientados hacia el suelo</ins>.
 
@@ -27,13 +27,13 @@ El sistema LDW permanece desactivado si:
 
 ## En mis palabras
 
-El LDW lee las marcas viales y avisa si el vehículo se sale del carril de forma involuntaria. Normalmente advierte al conductor, aunque algunos sistemas avanzados pueden corregir la trayectoria.
+El LDW (*Lane Departure Warning*) lee las marcas viales y avisa si el vehículo se sale del carril de forma involuntaria. Normalmente advierte al conductor, aunque algunos sistemas avanzados pueden corregir la trayectoria.
 
 No debe confundirse con la lista cerrada de [ADAS permitidos en el examen][adas-permitidos-examen]: LDW es un ADAS, pero no aparece en esa lista de sistemas permitidos para el examen.
 
 ## Idea clave para el examen
 
-El LDW es un [sistemas ADAS][sistemas-adas] de seguridad activa. Detecta salidas involuntarias de carril y avisa al conductor; si <ins>el intermitente está conectado</ins>, entiende que la maniobra es voluntaria.
+LDW = *Lane Departure Warning*: aviso de salida de carril. Detecta salidas involuntarias de carril y avisa al conductor; si <ins>el intermitente está conectado</ins>, entiende que la maniobra es voluntaria.
 
 ## Trampa habitual
 

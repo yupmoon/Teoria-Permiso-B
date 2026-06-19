@@ -1,18 +1,18 @@
-# EBD: aviso de frenada de emergencia
+# EBD (Emergency Braking Display): aviso de frenada de emergencia
 
 Tags: #permiso-b #vehiculo #adas #examen #frenada
 
 ## Regla
 
-El EBD, aviso de frenada de emergencia, es uno de los sistemas ADAS permitidos en el examen del permiso de conducción.
+El EBD, del inglés *Emergency Braking Display*, es el aviso de frenada de emergencia. Es uno de los sistemas ADAS permitidos en el examen del permiso de conducción.
 
 ## En mis palabras
 
-Es una ayuda relacionada con la frenada de emergencia que puede estar presente durante el examen.
+El EBD (*Emergency Braking Display*) es una ayuda relacionada con la advertencia de una frenada de emergencia que puede estar presente durante el examen.
 
 ## Idea clave para el examen
 
-EBD: aviso de frenada de emergencia permitido en el examen.
+EBD = *Emergency Braking Display*: aviso de frenada de emergencia permitido en el examen.
 
 ## Relacionado
 

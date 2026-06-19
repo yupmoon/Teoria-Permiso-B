@@ -4,7 +4,7 @@ Tags: #permiso-b #maniobras #adelantamiento #fuera-de-poblado #usuarios-vulnerab
 
 ## Regla
 
-Cuando se adelante fuera de poblado a peatones, animales, vehículos de dos ruedas, vehículos de tracción animal, [vehículos inmovilizados o estacionados][vehiculos-inmovilizados-o-estacionados] en la vía o vehículos de auxilio realizando operaciones de auxilio y rescate, se debe realizar la maniobra <ins>ocupando parte o la totalidad del carril contiguo</ins> de la calzada.
+Cuando se adelante fuera de poblado a peatones, [animales][circulacion-de-animales], vehículos de dos ruedas, vehículos de tracción animal, [vehículos inmovilizados o estacionados][vehiculos-inmovilizados-o-estacionados] en la vía o vehículos de auxilio realizando operaciones de auxilio y rescate, se debe realizar la maniobra <ins>ocupando parte o la totalidad del carril contiguo</ins> de la calzada.
 
 Si se dispone de más de un carril para el mismo sentido, se debe <ins>cambiar por completo al carril contiguo</ins>.
 
@@ -35,6 +35,7 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 - [[adelantamiento-vehiculos-obligados-arcen]]
 - [[automoviles-circulacion-arcen]]
 - [[adelantar-usuarios-vulnerables-linea-continua]]
+- [[circulacion-de-animales]]
 - [[prioridad-paso-ciclistas]]
 - [[rebasamiento-obstaculo-vehiculo-inmovilizado]]
 - [[vehiculos-inmovilizados-o-estacionados]]
@@ -50,6 +51,7 @@ Pensar que basta con dejar 1,50 m sin cambiar de carril cuando hay otro carril d
 [adelantamiento-vehiculos-obligados-arcen]: adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [automoviles-circulacion-arcen]: ../circulacion/automoviles-circulacion-arcen.md "Automóviles y circulación por el arcén"
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
+[circulacion-de-animales]: ../circulacion/circulacion-de-animales.md "Circulación de animales"
 [prioridad-paso-ciclistas]: ../circulacion/prioridad-paso-ciclistas.md "Prioridad de paso de ciclistas"
 [rebasamiento-obstaculo-vehiculo-inmovilizado]: rebasamiento-obstaculo-vehiculo-inmovilizado.md "Rebasamiento de obstáculo o vehículo inmovilizado"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

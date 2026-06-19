@@ -55,8 +55,8 @@ La organización principal es por temas de examen, reglas contrastadas y errores
 
 - [Permiso B: vehículos autorizados](./autorizaciones/permiso-b-vehiculos-autorizados.md)
 - [Permiso B: remolques](./autorizaciones/permiso-b-remolques.md)
-- [ADAS permitidos en el examen](./vehiculo/adas-permitidos-examen.md)
-- [LDW: aviso de salida de carril](./vehiculo/ldw-aviso-salida-carril.md)
+- [ADAS (Advanced Driver Assistance Systems) permitidos en el examen](./vehiculo/adas-permitidos-examen.md)
+- [LDW (Lane Departure Warning): aviso de salida de carril](./vehiculo/ldw-aviso-salida-carril.md)
 - [Señal V-2: vehículo-obstáculo](./vehiculo/senal-v2-vehiculo-obstaculo.md)
 
 ### Señales y alumbrado

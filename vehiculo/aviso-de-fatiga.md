@@ -14,7 +14,7 @@ El sistema intenta detectar si el conductor está cansado, distraído o con sue�
 
 ## Idea clave para el examen
 
-El aviso de fatiga es un [sistemas ADAS][sistemas-adas] que ayuda a detectar cansancio o sueño para prevenir accidentes.
+El aviso de fatiga es un [sistema ADAS][sistemas-adas] que ayuda a detectar cansancio o sueño para prevenir accidentes.
 
 ## Trampa habitual
 

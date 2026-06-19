@@ -6,7 +6,7 @@ Tags: #permiso-b #maniobras #adelantamiento #seguridad-lateral
 
 Al adelantar a usuarios vulnerables, [vehículos inmovilizados o estacionados][vehiculos-inmovilizados-o-estacionados] o vehículos de auxilio, se debe dejar una separación lateral suficiente.
 
-Fuera de poblado, al adelantar a peatones, animales, vehículos de dos ruedas, vehículos de tracción animal, vehículos inmovilizados o vehículos de auxilio en operaciones de auxilio y rescate, la separación lateral <ins>no será inferior a 1,50 metros</ins>.
+Fuera de poblado, al adelantar a peatones, [animales][circulacion-de-animales], vehículos de dos ruedas, vehículos de tracción animal, vehículos inmovilizados o vehículos de auxilio en operaciones de auxilio y rescate, la separación lateral <ins>no será inferior a 1,50 metros</ins>.
 
 Cuando un vehículo de dos ruedas adelante a cualquier otro vehículo fuera de poblado, también debe dejar una separación lateral <ins>no inferior a 1,50 metros</ins>. También respetará este margen con peatones, animales y vehículos de tracción animal.
 
@@ -34,6 +34,7 @@ Recordar que se puede invadir el sentido contrario, pero olvidar la distancia la
 
 - [[adelantar-usuarios-vulnerables-linea-continua]]
 - [[adelantamiento-fuera-poblado-usuarios-vulnerables]]
+- [[circulacion-de-animales]]
 - [[adelantamiento-en-poblado-ciclos-ciclomotores]]
 - [[motocicletas-posicion-calzada]]
 - [[vehiculos-inmovilizados-o-estacionados]]
@@ -45,6 +46,7 @@ Recordar que se puede invadir el sentido contrario, pero olvidar la distancia la
 
 [adelantar-usuarios-vulnerables-linea-continua]: adelantar-usuarios-vulnerables-linea-continua.md "Adelantar usuarios vulnerables con línea continua"
 [adelantamiento-fuera-poblado-usuarios-vulnerables]: adelantamiento-fuera-poblado-usuarios-vulnerables.md "Adelantamiento fuera de poblado a usuarios vulnerables"
+[circulacion-de-animales]: ../circulacion/circulacion-de-animales.md "Circulación de animales"
 [adelantamiento-en-poblado-ciclos-ciclomotores]: adelantamiento-en-poblado-ciclos-ciclomotores.md "Adelantamiento en poblado a ciclos y ciclomotores"
 [motocicletas-posicion-calzada]: ../circulacion/motocicletas-posicion-calzada.md "Motocicletas: posición en la calzada"
 [vehiculos-inmovilizados-o-estacionados]: ../circulacion/vehiculos-inmovilizados-o-estacionados.md "Vehículos inmovilizados o estacionados"

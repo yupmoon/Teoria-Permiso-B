@@ -1,10 +1,10 @@
-# ISA: asistencia inteligente de velocidad
+# ISA (Intelligent Speed Assistance): asistencia inteligente de velocidad
 
 Tags: #permiso-b #vehiculo #adas #velocidad
 
 ## Regla
 
-El sistema ISA, o Asistencia Inteligente de Velocidad, es una ayuda a la conducción que contribuye a respetar los límites legales de velocidad.
+El sistema ISA, del inglés *Intelligent Speed Assistance*, es la asistencia inteligente de velocidad. Es una ayuda a la conducción que contribuye a respetar los límites legales de velocidad.
 
 Funciona mediante cámaras que detectan las señales de tráfico, especialmente las de limitación de velocidad. Según el tipo de sistema, puede:
 
@@ -15,11 +15,11 @@ El conductor puede <ins>desactivar o anular su funcionamiento en cualquier momen
 
 ## En mis palabras
 
-ISA ayuda a no superar los límites de velocidad, pero no sustituye al conductor. Puede leer señales, avisar o intervenir en la velocidad, pero el conductor conserva el control.
+ISA (*Intelligent Speed Assistance*) ayuda a no superar los límites de velocidad, pero no sustituye al conductor. Puede leer señales, avisar o intervenir en la velocidad, pero el conductor conserva el control.
 
 ## Idea clave para el examen
 
-ISA = <ins>ayuda para respetar límites legales de velocidad</ins>. Puede avisar o ajustar velocidad, pero el conductor puede <ins>anularlo o desactivarlo</ins>.
+ISA = *Intelligent Speed Assistance*: <ins>ayuda para respetar límites legales de velocidad</ins>. Puede avisar o ajustar velocidad, pero el conductor puede <ins>anularlo o desactivarlo</ins>.
 
 ## Trampa habitual
 
