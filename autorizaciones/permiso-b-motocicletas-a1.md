@@ -8,6 +8,10 @@ El permiso B <ins>no autoriza por sí solo</ins> a conducir motocicletas.
 
 Sin embargo, los conductores con permiso B y <ins>antigüedad superior a 3 años</ins> pueden conducir, <ins>dentro del territorio nacional</ins>, las motocicletas que permite el permiso A1.
 
+> **Importante:** el permiso B no permite conducir motocicletas de <ins>más de 125 cm³</ins>, aunque tenga más de 3 años de antigüedad. Para ellas es necesario el permiso A2 o A, según sus características.
+
+> **¿Cómo podría conducir una de más de 125 cm³?** Tendría que obtener un permiso específico de motocicleta: el <ins>A2</ins> para motos de hasta 35 kW (con los demás límites propios de esta categoría) o el <ins>A</ins> para conducir cualquier motocicleta. La antigüedad del permiso B, por sí sola, nunca autoriza a superar los 125 cm³.
+
 Dentro de las motocicletas del A1, puede aparecer la regla de [motocicletas con sidecar del permiso A1][permiso-a1-motocicletas-sidecar].
 
 ## En mis palabras
@@ -20,7 +24,7 @@ Permiso B + <ins>antigüedad superior a 3 años</ins> + <ins>territorio nacional
 
 ## Trampa habitual
 
-Pensar que el permiso B autoriza siempre a conducir motos. No es así: hace falta antigüedad superior a 3 años y la autorización se limita al territorio nacional.
+Pensar que el permiso B autoriza siempre a conducir motos. No es así: hace falta antigüedad superior a 3 años, la autorización se limita al territorio nacional y la motocicleta no puede superar los <ins>125 cm³</ins>.
 
 ## Relacionado
 
