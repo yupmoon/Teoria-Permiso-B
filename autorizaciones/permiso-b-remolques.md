@@ -10,6 +10,8 @@ También pueden llevar remolques que <ins>superen los 750 kg</ins>, siempre que 
 
 También se pueden conducir conjuntos compuestos por un vehículo tractor de los que autoriza el permiso B y un remolque o semirremolque cuya MMA exceda de 750 kg, siempre que la MMA del conjunto <ins>no exceda de 4.250 kg</ins>. Si el conjunto <ins>excede de 3.500 kg</ins>, será necesario superar una prueba de control de aptitudes y comportamientos. Esa prueba se estudia en [autorización B96][autorizacion-b96].
 
+La autorización del permiso no debe confundirse con la matriculación: los [remolques y semirremolques deben matricularse][vehiculos-que-deben-matricularse] cuando su MMA excede de 750 kg.
+
 ## En mis palabras
 
 Con el permiso B hay tres ideas importantes: remolque ligero hasta 750 kg, remolque de más de 750 kg si el conjunto no pasa de 3.500 kg, y conjunto hasta 4.250 kg si se supera la prueba correspondiente de [autorización B96][autorizacion-b96].
@@ -32,6 +34,7 @@ Pensar que todo remolque de más de 750 kg queda prohibido con el permiso B. Pue
 - [[permiso-b-automoviles]]
 - [[autorizacion-b96]]
 - [[accesorios-obligatorios-turismo-remolque-v16]]
+- [[vehiculos-que-deben-matricularse]]
 - [[permiso-b-combustibles-alternativos-mercancias]]
 - [[autorizaciones]]
 
@@ -43,5 +46,6 @@ Pensar que todo remolque de más de 750 kg queda prohibido con el permiso B. Pue
 [permiso-b-vehiculos-autorizados]: permiso-b-vehiculos-autorizados.md "Permiso B: vehículos autorizados"
 [autorizacion-b96]: autorizacion-b96.md "Autorización B96"
 [accesorios-obligatorios-turismo-remolque-v16]: ../vehiculo/accesorios-obligatorios-turismo-remolque-v16.md "Accesorios obligatorios: turismo, remolque y V-16"
+[vehiculos-que-deben-matricularse]: ../vehiculo/vehiculos-que-deben-matricularse.md "Vehículos que deben matricularse"
 [permiso-b-combustibles-alternativos-mercancias]: permiso-b-combustibles-alternativos-mercancias.md "Permiso B: mercancías con combustibles alternativos"
 [autorizaciones]: index.md "Autorizaciones del permiso B"

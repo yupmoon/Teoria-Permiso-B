@@ -28,6 +28,7 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 - [[senal-v2-vehiculo-obstaculo]]
 - [[sistemas-adas]]
 - [[start-stop]]
+- [[vehiculos-que-deben-matricularse]]
 
 [aebs-frenado-emergencia]: aebs-frenado-emergencia.md "AEBS: frenado de emergencia"
 [accesorios-obligatorios-turismo-remolque-v16]: accesorios-obligatorios-turismo-remolque-v16.md "Accesorios obligatorios: turismo, remolque y V-16"
@@ -53,3 +54,4 @@ Notas sobre documentación, mantenimiento, neumáticos, ITV, carga, averías y e
 [senal-v2-vehiculo-obstaculo]: senal-v2-vehiculo-obstaculo.md "Señal V-2: vehículo-obstáculo"
 [sistemas-adas]: sistemas-adas.md "Sistemas ADAS"
 [start-stop]: start-stop.md "Start-Stop"
+[vehiculos-que-deben-matricularse]: vehiculos-que-deben-matricularse.md "Vehículos que deben matricularse"
