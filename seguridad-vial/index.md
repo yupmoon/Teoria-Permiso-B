@@ -5,6 +5,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 ## Notas
 
 - [[aebs-frenado-emergencia]]
+- [[alergia-polen-sintomas]]
 - [[apoyacabezas]]
 - [[atropellos-peatones-ciudad-carretera]]
 - [[aviso-de-fatiga]]
@@ -34,6 +35,7 @@ Notas sobre velocidad, distancia de seguridad, alcohol, drogas, fatiga, cinturó
 - [[traje-motocicleta]]
 
 [aebs-frenado-emergencia]: ../vehiculo/aebs-frenado-emergencia.md "AEBS: frenado de emergencia"
+[alergia-polen-sintomas]: alergia-polen-sintomas.md "Alergia al polen: síntomas"
 [apoyacabezas]: apoyacabezas.md "Apoyacabezas"
 [atropellos-peatones-ciudad-carretera]: atropellos-peatones-ciudad-carretera.md "Atropellos de peatones en ciudad y carretera"
 [aviso-de-fatiga]: ../vehiculo/aviso-de-fatiga.md "Aviso de fatiga"

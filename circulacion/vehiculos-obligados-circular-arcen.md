@@ -15,13 +15,17 @@ Si <ins>no existe vía o parte de la vía especialmente destinada para ellos</in
 
 Si el arcén de la derecha no es transitable o no es suficiente, utilizarán sólo <ins>la parte imprescindible de la calzada</ins>.
 
+También deben circular por el arcén los vehículos con MMA no superior a <ins>3.500 kg</ins> que, por una emergencia, circulen a una velocidad anormalmente reducida y perturben gravemente la circulación.
+
+> **Contraste importante:** los automóviles y los vehículos especiales con MMA superior a <ins>3.500 kg</ins> circulan por la <ins>calzada</ins>, no por el arcén, salvo por razones de emergencia. El límite de 3.500 kg no convierte a cualquier automóvil ligero en un vehículo obligado al arcén: la obligación se aplica a los vehículos enumerados y al supuesto excepcional de emergencia.
+
 ## En mis palabras
 
-Estos vehículos no eligen libremente entre calzada y arcén. Primero miran si tienen una vía o parte de la vía reservada. Si no la tienen, usan el arcén derecho cuando sirve; solo pasan a la calzada lo imprescindible cuando el arcén no es transitable o suficiente.
+Estos vehículos no eligen libremente entre calzada y arcén. Primero miran si tienen una vía o parte de la vía reservada. Si no la tienen, usan el arcén derecho cuando sirve; solo pasan a la calzada lo imprescindible cuando el arcén no es transitable o suficiente. Aunque suelen ser vehículos lentos o de menor tamaño, la clave para el examen es pertenecer a uno de los grupos indicados, no simplemente su tamaño o velocidad.
 
 ## Idea clave para el examen
 
-Vehículos obligados al arcén: tracción animal, especiales hasta <ins>3.500 kg</ins>, ciclos, ciclomotores, movilidad reducida y seguimiento de ciclistas. Si el arcén no sirve: <ins>parte imprescindible de la calzada</ins>.
+Vehículos obligados al arcén: tracción animal, especiales hasta <ins>3.500 kg</ins>, ciclos, ciclomotores, movilidad reducida y seguimiento de ciclistas; también vehículos de hasta 3.500 kg que circulen anormalmente despacio por una emergencia y perturben gravemente la circulación. Si el arcén no sirve: <ins>parte imprescindible de la calzada</ins>.
 
 ## Trampa habitual
 

@@ -1,6 +1,6 @@
 # Parada y estacionamiento en el arcén
 
-Tags: #permiso-b #circulacion #arcen #parada #estacionamiento #vias-interurbanas #vias-urbanas
+Tags: #permiso-b #circulacion #arcen #parada #estacionamiento #vias-interurbanas #vias-urbanas #travesias
 
 ## Vías interurbanas
 
@@ -18,20 +18,24 @@ Se permite parar o estacionar en el arcén si <ins>no es transitable</ins>.
 
 Si por razones de emergencia no es posible situar el vehículo fuera de la calzada y de la parte transitable del arcén, se aplican las normas específicas previstas para esos casos.
 
-## Vías urbanas
+## Vías urbanas y travesías
 
-En vías urbanas, cuando la parada o el estacionamiento tenga que hacerse en la calzada o en el arcén, el vehículo debe situarse lo más cerca posible del borde correspondiente.
+En vías urbanas y travesías, cuando la parada o el estacionamiento tenga que hacerse en la calzada o en el arcén —aunque este sea transitable—, el vehículo debe situarse lo más cerca posible del borde correspondiente, siempre que no exista otra prohibición.
 
 La colocación depende del sentido de circulación:
 
-- Vía urbana de doble sentido: se debe parar o estacionar lo más cerca posible del <ins>borde derecho</ins>.
-- Vía urbana de sentido único: se puede situar también en el <ins>lado izquierdo</ins>.
+- Vía urbana o travesía de doble sentido: se debe parar o estacionar lo más cerca posible del <ins>borde derecho</ins>.
+- Vía urbana o travesía de sentido único: se puede situar también en el <ins>lado izquierdo</ins>.
 
 Además, deben respetarse las ordenanzas municipales aplicables.
 
+> **Importante:** una travesía no es técnicamente una vía urbana, sino un <ins>tramo de carretera que discurre por poblado</ins>. Sin embargo, el artículo 90 agrupa expresamente vías urbanas y travesías para esta regla de parada y estacionamiento.
+
+La distancia de <ins>3 metros</ins> no es una autorización general para estacionar. Si entre el vehículo y el borde opuesto de la calzada o una marca longitudinal que no pueda atravesarse quedan menos de 3 metros, la parada o el estacionamiento obstaculiza gravemente la circulación; aunque queden 3 metros o más, deben respetarse las demás prohibiciones, la señalización y las ordenanzas.
+
 ## En mis palabras
 
-En carretera interurbana, la regla es sacar el vehículo de la calzada y dejar libre el arcén transitable. En ciudad, la regla no habla de dejar 3 metros como colocación general, sino de arrimarse al borde: normalmente al derecho, y también al izquierdo si la vía es de sentido único.
+En carretera interurbana, la regla es sacar el vehículo de la calzada y dejar libre el arcén transitable, siempre en el lado derecho aunque la vía sea de sentido único. En vía urbana o travesía se puede utilizar la calzada o el arcén, arrimándose normalmente al borde derecho; si es de sentido único, también al izquierdo.
 
 Para circular, un turismo debe ir por la calzada y no por el arcén salvo emergencia; ver [automóviles y circulación por el arcén][automoviles-circulacion-arcen].
 
@@ -39,11 +43,11 @@ La [línea de borde de calzada][linea-borde-calzada] delimita el borde de la cal
 
 ## Idea clave para el examen
 
-Vía interurbana: parar o estacionar fuera de la calzada, en el lado derecho y dejando libre el arcén transitable. Vía urbana: si se hace en calzada o arcén, arrimarse al borde derecho; en vía de sentido único también puede hacerse en el lado izquierdo.
+Vía interurbana: parar o estacionar fuera de la calzada, en el lado derecho y dejando libre el arcén transitable. Vía urbana o travesía: puede hacerse en calzada o arcén, arrimándose al borde derecho; si es de sentido único, también puede hacerse en el lado izquierdo.
 
 ## Trampa habitual
 
-Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el arcén transitable está reservado para la circulación de ciertos usuarios.
+Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el arcén transitable debe quedar libre. En vías urbanas y travesías puede utilizarse, pero eso no elimina las demás prohibiciones. Otra trampa es considerar los 3 metros como permiso automático: indican cuándo existe obstaculización grave, no que todo estacionamiento que deje esa distancia esté permitido.
 
 ## Relacionado
 
@@ -63,6 +67,8 @@ Pensar que todo arcén sirve para parar o estacionar. En vías interurbanas, el 
 ## Fuente
 
 - [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 90](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a90): regula los lugares en los que deben efectuarse la parada y el estacionamiento.
+- [Real Decreto 1428/2003, Reglamento General de Circulación, artículo 91](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514#a91): considera obstaculización grave dejar menos de tres metros hasta el borde opuesto o una marca longitudinal que prohíba atravesarla.
+- [Real Decreto Legislativo 6/2015, Ley sobre Tráfico, anexo I](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722#ani): define la travesía como el tramo de carretera que discurre por poblado y la distingue de la vía urbana.
 
 [adelantamiento-vehiculos-obligados-arcen]: ../maniobras/adelantamiento-vehiculos-obligados-arcen.md "Adelantamiento de vehículos obligados a circular por el arcén"
 [vehiculos-obligados-circular-arcen]: vehiculos-obligados-circular-arcen.md "Vehículos obligados a circular por el arcén"

@@ -19,12 +19,20 @@ Los vehículos de tres ruedas asimilados a motocicletas aplican los mismos lími
 
 - Transporte escolar y de menores, o mercancías peligrosas: <ins>10 km/h menos</ins> que la máxima correspondiente por tipo de vehículo y vía.
 - Autobús con pasajeros de pie autorizados o sin cinturones: en vías convencionales, máximo <ins>80 km/h</ins>.
-- Vehículos especiales o conjuntos especiales sin señalización de frenado, con remolque o motocultores: <ins>25 km/h</ins>.
-- Resto de vehículos especiales: <ins>40 km/h</ins>; si por características pueden superar 60 km/h en llano y cumplen sus condiciones técnicas, <ins>70 km/h</ins>.
 - Vehículos en régimen de transporte especial: la velocidad indicada en el anexo III del Reglamento General de Circulación o en su autorización.
 - Ciclos, ciclomotores de 2 o 3 ruedas y cuadriciclos ligeros: <ins>45 km/h</ins>. Las bicicletas pueden superar ese límite en tramos donde las circunstancias de la vía lo permitan.
 - [Vías sin pavimentar][velocidad-vias-sin-pavimentar]: <ins>30 km/h</ins>.
 - Vehículos con permiso especial de ensayo: pueden rebasar la máxima en <ins>30 km/h</ins>, solo dentro del itinerario fijado y nunca en vías urbanas, travesías ni tramos con señal específica de velocidad.
+
+### Vehículos especiales
+
+| Características | Velocidad máxima |
+|---|---:|
+| Sin señalización de frenado, con remolque o motocultores | <ins>25 km/h</ins> |
+| Resto de vehículos especiales | <ins>40 km/h</ins> |
+| Pueden desarrollar una velocidad <ins>superior a 60 km/h en llano</ins> y cumplen las condiciones técnicas exigidas | <ins>70 km/h</ins> |
+
+La regla para memorizar es <ins>25 / 40 / 70</ins>: los más limitados, el resto y los que superan técnicamente los 60 km/h en llano.
 
 ## Vías urbanas y travesías
 
@@ -54,6 +62,8 @@ Fuera de poblado: turismo/moto <ins>120 autopista-autovía</ins> y <ins>90 conve
 ## Trampa habitual
 
 Contar el carril bus como carril normal en ciudad, olvidar la reducción de 10 km/h para transporte escolar o mercancías peligrosas, o pensar que un turismo con remolque conserva la velocidad de turismo: entra en la columna de automóviles con remolque.
+
+En vehículos especiales, pensar que basta con poder alcanzar exactamente 60 km/h para circular a 70 km/h. La norma exige poder desarrollar una velocidad <ins>superior a 60 km/h en llano</ins> y cumplir las condiciones técnicas correspondientes.
 
 ## Relacionado
 
